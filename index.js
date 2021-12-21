@@ -18,11 +18,19 @@ const Network = define("Network", (network) =>
   ["mainnet-beta", "devnet", "testnet"].includes(network)
 );
 
+const re = RegExp(/https?:/);
+const Website = define("Website", (url) => re.test(new URL(url).protocol));
+
 const Token = object({
   name: string(),
   symbol: string(),
   decimals: number(),
-  extensions: optional(object()),
+  extensions: optional(
+    object({
+      website: optional(Website),
+      coingeckoId: optional(string()),
+    })
+  ),
   tags: optional(array(Tag)),
   networks: optional(array(Network)),
 });
