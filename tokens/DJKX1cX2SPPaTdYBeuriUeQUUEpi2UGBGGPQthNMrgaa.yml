@@ -1,0 +1,11 @@
+name: MONKE TOKEN
+symbol: MONKE
+decimals: 9
+networks:
+  - mainnet-beta
+  - devnet
+tags:
+  - community-token
+  - meme-token
+extensions:
+  website: https://monketoken.xyz

@@ -1,0 +1,7 @@
+symbol: agEUR
+name: agEUR (Wormhole)
+decimals: 8
+tags:
+  - ethereum
+  - wrapped
+  - wormhole

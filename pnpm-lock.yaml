@@ -1,0 +1,20 @@
+lockfileVersion: 5.3
+
+specifiers:
+  superstruct: ^0.15.3
+  yaml: ^2.0.0-9
+
+dependencies:
+  superstruct: 0.15.3
+  yaml: 2.0.0-9
+
+packages:
+
+  /superstruct/0.15.3:
+    resolution: {integrity: sha512-wilec1Rg3FtKuRjRyCt70g5W29YUEuaLnybdVQUI+VQ7m0bw8k7TzrRv5iYmo6IpjLVrwxP5t3RgjAVqhYh4Fg==}
+    dev: false
+
+  /yaml/2.0.0-9:
+    resolution: {integrity: sha512-Bf2KowHjyVkIIiGMt7+fbhmlvKOaE8DWuD07bnL4+FQ9sPmEl/5IzGpBpoxPqOaHuyasBjJhyXDcISpJWfhCGw==}
+    engines: {node: '>= 12'}
+    dev: false
