@@ -12,7 +12,7 @@ const { parse } = require("yaml");
 
 const tags = require("./tags.json");
 
-const Tag = define("Tag", (tag) => tags.includes(tag));
+const Tag = define("Tag", (tag) => Boolean(tags[tag]));
 
 const Network = define("Network", (network) =>
   ["mainnet-beta", "devnet", "testnet"].includes(network)
@@ -44,6 +44,7 @@ async function readFiles(dirname) {
   const filenames = await readdir(dirname);
 
   const tokens = {};
+  const usedTags = {};
 
   await Promise.all(
     filenames
@@ -51,6 +52,10 @@ async function readFiles(dirname) {
       .map(async (filename) => {
         const content = await readFile(dirname + filename, "utf-8");
         const { networks = ["mainnet-beta"], ...data } = format(parse(content));
+        data.tags.forEach((tag) => {
+          usedTags[tag] ||= 0;
+          usedTags[tag] += 1;
+        });
         networks.forEach((network) => {
           tokens[network] ||= {};
           tokens[network][filename.split(".")[0]] = data;
@@ -58,7 +63,29 @@ async function readFiles(dirname) {
       })
   );
 
-  writeFile("tokens.json", JSON.stringify(tokens, null, 2));
+  writeFile(
+    "tokens.json",
+    JSON.stringify(
+      {
+        name: "Solana Token List",
+        tags: Object.entries(usedTags)
+          .sort(([a], [b]) => a.localeCompare(b))
+          .reduce((acc, [tag, count]) => {
+            console.log(tag);
+            acc[tag] = {
+              ...tags[tag],
+              count,
+            };
+            return acc;
+          }, {}),
+        keywords: ["solana", "spl"],
+        timestamp: new Date().toISOString(),
+        tokens,
+      },
+      null,
+      2
+    )
+  );
 }
 
 readFiles("tokens/");
