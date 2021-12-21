@@ -1,0 +1,31 @@
+{
+  "name": "Solana Token List",
+  "network": "devnet",
+  "tags": {
+    "community-token": {
+      "count": 1
+    },
+    "meme-token": {
+      "count": 1
+    }
+  },
+  "keywords": [
+    "solana",
+    "spl"
+  ],
+  "timestamp": "2021-12-21T14:14:44.109Z",
+  "tokens": {
+    "DJKX1cX2SPPaTdYBeuriUeQUUEpi2UGBGGPQthNMrgaa": {
+      "name": "MONKE TOKEN",
+      "symbol": "MONKE",
+      "decimals": 9,
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://monketoken.xyz"
+      }
+    }
+  }
+}

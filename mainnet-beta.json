@@ -1,0 +1,54 @@
+{
+  "name": "Solana Token List",
+  "network": "mainnet-beta",
+  "tags": {
+    "community-token": {
+      "count": 1
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum",
+      "count": 1
+    },
+    "meme-token": {
+      "count": 1
+    },
+    "wormhole": {
+      "count": 1
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge",
+      "count": 1
+    }
+  },
+  "keywords": [
+    "solana",
+    "spl"
+  ],
+  "timestamp": "2021-12-21T14:14:44.109Z",
+  "tokens": {
+    "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1": {
+      "symbol": "agEUR",
+      "name": "agEUR (Wormhole)",
+      "decimals": 8,
+      "tags": [
+        "ethereum",
+        "wrapped",
+        "wormhole"
+      ]
+    },
+    "DJKX1cX2SPPaTdYBeuriUeQUUEpi2UGBGGPQthNMrgaa": {
+      "name": "MONKE TOKEN",
+      "symbol": "MONKE",
+      "decimals": 9,
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://monketoken.xyz"
+      }
+    }
+  }
+}

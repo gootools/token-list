@@ -43,8 +43,7 @@ const format = (ob) => {
 async function readFiles(dirname) {
   const filenames = await readdir(dirname);
 
-  const tokens = {};
-  const usedTags = {};
+  const allNetworks = {};
 
   await Promise.all(
     filenames
@@ -52,38 +51,45 @@ async function readFiles(dirname) {
       .map(async (filename) => {
         const content = await readFile(dirname + filename, "utf-8");
         const { networks = ["mainnet-beta"], ...data } = format(parse(content));
-        data.tags.forEach((tag) => {
-          usedTags[tag] ||= 0;
-          usedTags[tag] += 1;
-        });
         networks.forEach((network) => {
-          tokens[network] ||= {};
-          tokens[network][filename.split(".")[0]] = data;
+          allNetworks[network] ||= {};
+          allNetworks[network].tokens ||= {};
+          allNetworks[network].tokens[filename.split(".")[0]] = data;
+
+          data.tags.forEach((tag) => {
+            allNetworks[network].tags ||= {};
+            allNetworks[network].tags[tag] ||= 0;
+            allNetworks[network].tags[tag] += 1;
+          });
         });
       })
   );
 
-  writeFile(
-    "tokens.json",
-    JSON.stringify(
-      {
-        name: "Solana Token List",
-        tags: Object.entries(usedTags)
-          .sort(([a], [b]) => a.localeCompare(b))
-          .reduce((acc, [tag, count]) => {
-            console.log(tag);
-            acc[tag] = {
-              ...tags[tag],
-              count,
-            };
-            return acc;
-          }, {}),
-        keywords: ["solana", "spl"],
-        timestamp: new Date().toISOString(),
-        tokens,
-      },
-      null,
-      2
+  await Promise.all(
+    Object.entries(allNetworks).map(([network, {tags: usedTags, tokens}]) =>
+      writeFile(
+        `${network}.json`,
+        JSON.stringify(
+          {
+            name: "Solana Token List",
+            network,
+            tags: Object.entries(usedTags)
+              .sort(([a], [b]) => a.localeCompare(b))
+              .reduce((acc, [tag, count]) => {
+                acc[tag] = {
+                  ...tags[tag],
+                  count,
+                };
+                return acc;
+              }, {}),
+            keywords: ["solana", "spl"],
+            timestamp: new Date().toISOString(),
+            tokens,
+          },
+          null,
+          2
+        )
+      )
     )
   );
 }
