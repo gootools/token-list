@@ -1,0 +1,9 @@
+symbol: aSOL
+name: aSOL Aggregate Solana Stake Pool
+decimals: 9
+extensions:
+  coingeckoId: solana
+  description: aSOL is the standard for transacting with staked SOL tokens.
+  github: https://github.com/aSolHQ
+  twitter: https://twitter.com/aSOLprotocol
+  website: https://asol.so

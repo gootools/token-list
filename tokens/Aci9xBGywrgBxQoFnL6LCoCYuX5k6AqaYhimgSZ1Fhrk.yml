@@ -1,0 +1,10 @@
+symbol: waUniETH_v1
+name: Aave Interest bearing UniETH (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x6179078872605396Ee62960917128F9477a5DdbB"
+  assetContract: https://etherscan.io/address/0x6179078872605396Ee62960917128F9477a5DdbB
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678

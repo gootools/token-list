@@ -1,0 +1,7 @@
+symbol: MIX
+name: MIX
+decimals: 6
+tags:
+  - stablecoin
+extensions:
+  website: https://mixture.money/

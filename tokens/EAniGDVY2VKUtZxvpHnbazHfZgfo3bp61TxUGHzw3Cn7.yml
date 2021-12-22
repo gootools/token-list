@@ -1,0 +1,9 @@
+symbol: 007E
+name: 007 Exchange
+decimals: 8
+tags:
+  - Exchange
+extensions:
+  telegram: https://t.me/exchange_007
+  twitter: https://twitter.com/007Exchange
+  website: https://007exchange.tk/

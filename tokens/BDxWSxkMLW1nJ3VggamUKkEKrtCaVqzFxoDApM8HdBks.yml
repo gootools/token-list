@@ -1,0 +1,6 @@
+symbol: BTSG
+name: BitSong
+decimals: 6
+extensions:
+  coingeckoId: bitsong
+  website: https://bitsong.io/

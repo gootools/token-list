@@ -1,0 +1,8 @@
+symbol: IF
+name: Impossible Finance
+decimals: 9
+tags:
+  - ethereum
+extensions:
+  coingeckoId: impossible-finance
+  website: https://impossible.finance

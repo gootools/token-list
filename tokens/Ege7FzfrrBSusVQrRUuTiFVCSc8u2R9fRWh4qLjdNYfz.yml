@@ -1,0 +1,7 @@
+symbol: FXI
+name: iShares China Large-Cap ETF
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?FXI

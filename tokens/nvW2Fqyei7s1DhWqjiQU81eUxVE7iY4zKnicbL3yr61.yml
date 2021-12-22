@@ -1,0 +1,9 @@
+symbol: RISK-SOL
+name: RISK-SOL
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  telegram: https://t.me/crazydiceapp
+  twitter: https://twitter.com/CrazyDiceApp
+  website: https://www.crazydice.app

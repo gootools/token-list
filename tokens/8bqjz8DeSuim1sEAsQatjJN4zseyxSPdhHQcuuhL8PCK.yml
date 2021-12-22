@@ -1,0 +1,7 @@
+symbol: xETH
+name: Synthetic ETH
+decimals: 9
+extensions:
+  coingeckoId: ethereum
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

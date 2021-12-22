@@ -1,0 +1,11 @@
+symbol: DRIFT
+name: DriftCoin
+decimals: 6
+tags:
+  - social-token
+  - utility-token
+extensions:
+  discord: https://discord.gg/stKm5E9SuF
+  telegram: https://t.me/driftcoinorg
+  twitter: https://twitter.com/driftcoinorg
+  website: https://driftcoin.org

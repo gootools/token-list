@@ -1,0 +1,7 @@
+symbol: ahBTC
+name: Wrapped BTC (Allbridge from HECO)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: wrapped-bitcoin

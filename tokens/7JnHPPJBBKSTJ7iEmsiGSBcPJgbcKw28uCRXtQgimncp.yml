@@ -1,0 +1,9 @@
+symbol: Orbs
+name: Orbs
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  coingeckoId: orbs
+  twitter: https://twitter.com/orbs_network
+  website: https://www.orbs.com

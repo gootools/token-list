@@ -1,0 +1,12 @@
+symbol: HIPPO
+name: Hippo Coin
+decimals: 9
+tags:
+  - meme-token
+  - community-token
+extensions:
+  coingeckoId: hippo-coin
+  discord: https://discord.gg/sk3xN3sA8D
+  serumV3Usdc: HnLKrfMN64ccSbYCj4DxjgPYveSkFujYrnMr4cvPfL8
+  twitter: https://twitter.com/HipposCoin
+  website: https://hippofamilynft.com/

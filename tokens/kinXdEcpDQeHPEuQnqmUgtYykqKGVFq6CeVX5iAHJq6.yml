@@ -1,0 +1,8 @@
+symbol: KIN
+name: KIN
+decimals: 5
+extensions:
+  coingeckoId: kin
+  serumV3Usdc: Bn6NPyr6UzrFAwC4WmvPvDr2Vm8XSUnFykM2aQroedgn
+  serumV3Usdt: 4nCFQr8sahhhL4XJ7kngGFBmpkmyf3xLzemuMhn6mWTm
+  waterfallbot: https://bit.ly/KINwaterfall

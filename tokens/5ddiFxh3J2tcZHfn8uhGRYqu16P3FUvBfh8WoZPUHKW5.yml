@@ -1,0 +1,9 @@
+symbol: EOSBEAR
+name: EOSBEAR
+decimals: 6
+tags:
+  - leveraged
+  - bear
+extensions:
+  coingeckoId: 3x-short-eos-token
+  serumV3Usdc: 2BQrJP599QVKRyHhyJ6oRrTPNUmPBgXxiBo2duvYdacy

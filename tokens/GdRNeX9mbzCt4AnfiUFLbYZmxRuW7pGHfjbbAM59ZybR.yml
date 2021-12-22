@@ -1,0 +1,9 @@
+symbol: SLFT
+name: SOLife
+decimals: 9
+tags:
+  - utility-token
+  - social-token
+extensions:
+  twitter: https://twitter.com/SOLifeNFT
+  website: https://solife.town

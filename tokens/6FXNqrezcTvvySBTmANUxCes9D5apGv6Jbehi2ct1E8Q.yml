@@ -1,0 +1,6 @@
+symbol: THANKS
+name: Thanks Token
+decimals: 4
+extensions:
+  description: Give a Thanks (Token)
+  twitter: https://twitter.com/softbt

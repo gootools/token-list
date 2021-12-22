@@ -1,0 +1,6 @@
+symbol: IPC
+name: Imperial Coin
+decimals: 9
+extensions:
+  telegram: https://t.me/imperialcoinOfficial
+  twitter: https://twitter.com/ImperialCoin_

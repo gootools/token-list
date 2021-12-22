@@ -1,0 +1,6 @@
+symbol: stSOL
+name: Lido Staked SOL
+decimals: 9
+extensions:
+  twitter: https://twitter.com/LidoFinance
+  website: https://solana.lido.fi/

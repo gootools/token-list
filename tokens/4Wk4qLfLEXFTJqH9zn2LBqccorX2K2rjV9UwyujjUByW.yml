@@ -1,0 +1,9 @@
+symbol: DHAN
+name: Dhancoin
+decimals: 5
+tags:
+  - Social-token
+  - Indian-token
+  - Desi-coin
+extensions:
+  description: crypto asset for the indian metaverse

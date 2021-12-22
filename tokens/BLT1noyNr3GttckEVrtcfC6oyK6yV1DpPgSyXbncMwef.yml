@@ -1,0 +1,9 @@
+symbol: BLT
+name: Blocto Token
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  telegram: https://t.me/blocto
+  twitter: https://twitter.com/BloctoApp
+  website: https://blocto.portto.com/

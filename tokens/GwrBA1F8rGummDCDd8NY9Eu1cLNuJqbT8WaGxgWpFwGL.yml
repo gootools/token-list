@@ -1,0 +1,7 @@
+symbol: STEP/SOL
+name: Orca Aquafarm Token (STEP/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

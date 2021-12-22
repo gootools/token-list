@@ -1,0 +1,10 @@
+symbol: SWARM
+name: MIM
+decimals: 9
+extensions:
+  coingeckoId: mim
+  discord: https://discord.gg/8mHbKWczpB
+  github: https://github.com/kyonym/MIM
+  telegram: https://t.me/mimswarm
+  twitter: https://twitter.com/mimswarm
+  website: https://mim-swarm.com

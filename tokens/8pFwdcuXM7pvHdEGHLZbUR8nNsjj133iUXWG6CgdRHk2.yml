@@ -1,0 +1,8 @@
+symbol: BTC/ETH
+name: Orca LP Token (BTC/ETH)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://orca.so

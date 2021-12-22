@@ -1,0 +1,8 @@
+symbol: BSVBEAR
+name: BSVBEAR
+decimals: 6
+tags:
+  - leveraged
+  - bear
+extensions:
+  coingeckoId: 3x-short-bitcoin-sv-token

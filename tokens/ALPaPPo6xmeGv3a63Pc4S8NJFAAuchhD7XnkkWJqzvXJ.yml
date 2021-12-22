@@ -1,0 +1,8 @@
+symbol: abUSDT-USDT
+name: Saber abUSDT-USDT LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+extensions:
+  website: https://app.saber.so/#/pools/abusdt

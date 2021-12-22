@@ -1,0 +1,10 @@
+symbol: SPX
+name: Sphinxel
+decimals: 9
+tags:
+  - meme-token
+  - community-token
+  - trading-token
+extensions:
+  twitter: https://twitter.com/SphinxelSPX
+  website: https://sphinxel.com

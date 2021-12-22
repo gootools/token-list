@@ -1,0 +1,7 @@
+symbol: SKEM-USDC
+name: Raydium LP Token (SKEM-USDC)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io

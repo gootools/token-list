@@ -1,0 +1,8 @@
+symbol: YAK
+name: YAKSA token
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+extensions:
+  website: https://www.yaksa.io/

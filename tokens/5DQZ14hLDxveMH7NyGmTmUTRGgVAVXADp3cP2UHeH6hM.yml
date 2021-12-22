@@ -1,0 +1,11 @@
+symbol: wAAVE_v1
+name: Aave Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+  assetContract: https://etherscan.io/address/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave

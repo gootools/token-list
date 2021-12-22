@@ -1,0 +1,8 @@
+symbol: PAI-CASH
+name: Saber PAI-CASH LP
+decimals: 6
+tags:
+  - saber-stableswap-lp
+  - saber-lp-cashio
+extensions:
+  website: https://app.saber.so/#/pools/pai_cash

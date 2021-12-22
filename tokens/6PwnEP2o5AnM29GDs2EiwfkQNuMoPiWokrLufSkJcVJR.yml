@@ -1,0 +1,7 @@
+symbol: Hose
+name: Hose Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  website: http://hose-coin.com

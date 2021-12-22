@@ -1,0 +1,7 @@
+symbol: BAB
+name: Banana Bucks
+decimals: 0
+tags:
+  - utility-token
+extensions:
+  website: http://bananabucks.io/

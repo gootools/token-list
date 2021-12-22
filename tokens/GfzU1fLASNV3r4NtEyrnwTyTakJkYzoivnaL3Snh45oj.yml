@@ -1,0 +1,7 @@
+symbol: ahUSDT
+name: Wrapped USDT (Allbridge from HECO)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: tether

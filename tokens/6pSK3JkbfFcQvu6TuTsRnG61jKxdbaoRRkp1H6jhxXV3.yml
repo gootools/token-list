@@ -1,0 +1,10 @@
+symbol: CRYPT
+name: Cryptor
+decimals: 9
+tags:
+  - streaming
+  - earnings
+extensions:
+  description: Cryptor let people invest in crypto throught Twitch.
+  twitch: https://twitch.tv/bt0r
+  twitter: https://twitter.com/biiitor

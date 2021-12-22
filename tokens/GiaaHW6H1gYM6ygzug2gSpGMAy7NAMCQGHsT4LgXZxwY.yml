@@ -1,0 +1,7 @@
+symbol: FACT
+name: FACT Token
+decimals: 0
+tags:
+  - FACTToken
+extensions:
+  twitter: https://twitter.com/FactToken

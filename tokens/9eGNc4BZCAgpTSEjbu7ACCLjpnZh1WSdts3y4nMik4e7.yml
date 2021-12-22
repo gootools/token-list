@@ -1,0 +1,11 @@
+symbol: tuATLAS
+name: tuATLAS
+decimals: 8
+tags:
+  - tulip-protocol
+  - lending
+  - collateral-tokens
+extensions:
+  twitter: https://twitter.com/TulipProtocol
+  waterfallbot: https://bit.ly/TULIPwaterfall
+  website: https://tulip.garden

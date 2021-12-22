@@ -1,0 +1,7 @@
+symbol: USDC-wUSDC-wUSDT-wDAI
+name: Mercurial LP Token (USDC-wUSDC-wUSDT-wDAI)
+decimals: 8
+tags:
+  - lp-token
+extensions:
+  website: https://www.mercurial.finance/

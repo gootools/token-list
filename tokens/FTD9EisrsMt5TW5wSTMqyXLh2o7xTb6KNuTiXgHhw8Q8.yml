@@ -1,0 +1,8 @@
+symbol: PLAY
+name: POLYPLAY
+decimals: 9
+extensions:
+  coingeckoId: polyplay
+  discord: https://discord.gg/TAgndUz2Fc
+  twitter: https://twitter.com/polyplaycoin
+  website: https://polyplay.net/

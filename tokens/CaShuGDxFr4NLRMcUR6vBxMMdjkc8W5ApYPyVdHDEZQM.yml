@@ -1,0 +1,8 @@
+symbol: CA$H
+name: Money
+decimals: 9
+tags:
+  - payment
+  - capped
+  - deflatory
+  - De-fi

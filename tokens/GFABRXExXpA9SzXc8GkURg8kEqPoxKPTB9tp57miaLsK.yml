@@ -1,0 +1,8 @@
+symbol: NMS
+name: New Myanmar Shekel
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  website: https://bitmmr.com/

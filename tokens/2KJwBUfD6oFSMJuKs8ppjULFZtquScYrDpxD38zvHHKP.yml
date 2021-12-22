@@ -1,0 +1,7 @@
+symbol: PSDN
+name: Poseidon Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/token_poseidon

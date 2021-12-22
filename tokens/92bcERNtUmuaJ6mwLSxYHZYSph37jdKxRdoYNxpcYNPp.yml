@@ -1,0 +1,7 @@
+symbol: BTC-mSOL
+name: Raydium LP Token V4 (BTC-mSOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

@@ -1,0 +1,6 @@
+symbol: JET
+name: Jet Protocol
+decimals: 9
+extensions:
+  coingeckoId: jet
+  website: https://jetprotocol.io/

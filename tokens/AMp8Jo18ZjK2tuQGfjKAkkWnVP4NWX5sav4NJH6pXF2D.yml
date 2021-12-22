@@ -1,0 +1,11 @@
+symbol: ASTRA
+name: AstraPad
+decimals: 9
+tags:
+  - Launchpad
+  - NFT
+extensions:
+  coingeckoId: astrapad
+  telegram: https://t.me/AstraPadANN
+  twitter: https://twitter.com/astrapadio
+  website: https://astrapad.io/

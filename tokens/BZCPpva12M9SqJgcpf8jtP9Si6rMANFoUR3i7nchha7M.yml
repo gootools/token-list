@@ -1,0 +1,11 @@
+symbol: waUSDC_v1
+name: Aave interest bearing USDC (Wormhole v1)
+decimals: 6
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xBcca60bB61934080951369a648Fb03DF4F96263C"
+  assetContract: https://etherscan.io/address/0xBcca60bB61934080951369a648Fb03DF4F96263C
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-usdc

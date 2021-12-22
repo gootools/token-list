@@ -1,0 +1,8 @@
+symbol: TBK
+name: TokenBook
+decimals: 9
+tags:
+  - meme-token
+extensions:
+  serumV3Usdc: DoL5SXaax9LwQM9JfqFBymiUfSxH9A9cwPugPuHvNTDM
+  twitter: https://twitter.com/TokenBook_tbk

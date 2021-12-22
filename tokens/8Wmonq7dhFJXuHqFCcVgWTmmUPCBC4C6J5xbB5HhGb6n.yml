@@ -1,0 +1,8 @@
+symbol: "42"
+name: "42"
+decimals: 9
+tags:
+  - forty-two
+  - the-answer
+extensions:
+  twitter: https://twitter.com/solana_42

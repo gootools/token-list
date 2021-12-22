@@ -1,0 +1,5 @@
+symbol: aeMIM
+name: Wrapped MIM (Allbridge from Ethereum)
+decimals: 9
+extensions:
+  coingeckoId: magic-internet-money

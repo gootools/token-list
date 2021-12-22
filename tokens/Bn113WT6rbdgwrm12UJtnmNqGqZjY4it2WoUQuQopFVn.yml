@@ -1,0 +1,7 @@
+symbol: aeUSDT
+name: Wrapped USDT (Allbridge from Ethereum)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: tether

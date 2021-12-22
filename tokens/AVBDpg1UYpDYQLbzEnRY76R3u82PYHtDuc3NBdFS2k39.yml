@@ -1,0 +1,8 @@
+symbol: aaWBTC-renBTC
+name: Saber aaWBTC-renBTC LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+extensions:
+  website: https://app.saber.so/#/pools/aawbtc

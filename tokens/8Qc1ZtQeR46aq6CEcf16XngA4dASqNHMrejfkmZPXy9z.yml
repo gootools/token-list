@@ -1,0 +1,10 @@
+symbol: WSGS
+name: GameStonk
+decimals: 9
+tags:
+  - GameStonk
+  - WallStreet
+  - WSGS
+extensions:
+  twitter: https://twitter.com/gamestonksol
+  website: https://www.gamestonk.fun

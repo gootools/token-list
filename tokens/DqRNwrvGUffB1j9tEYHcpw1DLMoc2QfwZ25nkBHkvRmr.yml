@@ -1,0 +1,7 @@
+symbol: SUPL
+name: Suplar
+decimals: 9
+extensions:
+  telegram: https://t.me/suplar
+  twitter: https://twitter.com/suplarcom
+  website: https://suplar.com

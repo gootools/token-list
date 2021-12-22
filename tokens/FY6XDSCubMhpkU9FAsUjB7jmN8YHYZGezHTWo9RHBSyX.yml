@@ -1,0 +1,12 @@
+symbol: ASH
+name: Ashera
+decimals: 4
+extensions:
+  coingeckoId: ashera
+  coinmarketcap: https://coinmarketcap.com/currencies/ashera/
+  discord: https://discord.gg/b3qYsNyBkz
+  github: https://github.com/asherasol
+  medium: https://solashera.medium.com/
+  serumV3Usdc: 56ZFVzqMqtDmyry9bK7vi1szUV2nuQ4kT6CzFAB649wE
+  twitter: https://twitter.com/SolAshera
+  website: https://asherasol.com/

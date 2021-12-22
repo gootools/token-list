@@ -1,0 +1,10 @@
+symbol: CSTR
+name: CoreStarter
+decimals: 9
+extensions:
+  github: https://github.com/CoreStarter/
+  linkedin: https://www.linkedin.com/company/core-starter
+  medium: https://corestarter.medium.com
+  telegram: https://t.me/corestarter_chat
+  twitter: https://twitter.com/CoreStarter
+  website: https://corestarter.com/

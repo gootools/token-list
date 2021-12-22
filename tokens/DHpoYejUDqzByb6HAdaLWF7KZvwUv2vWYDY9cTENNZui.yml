@@ -1,0 +1,7 @@
+symbol: acUSDC
+name: Wrapped USDC (Allbridge from Celo)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: usd-coin

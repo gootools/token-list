@@ -1,0 +1,13 @@
+symbol: BST
+name: Balisari
+decimals: 9
+tags:
+  - social-token
+extensions:
+  coingeckoId: balisari
+  coinmarketcap: https://coinmarketcap.com/currencies/balisari/
+  discord: https://discord.gg/6ndxB4vS56
+  serumV3Usdc: Hq2tZzrdNrMtDsdXeCf9CrN3aS3geJTEqtLRPyiYRZc
+  telegram: https://t.me/balisaritrans
+  twitter: https://twitter.com/balisaritrans
+  website: https://www.balisaritrans.site/

@@ -1,0 +1,7 @@
+symbol: renDOGE
+name: renDOGE
+decimals: 8
+extensions:
+  coingeckoId: rendoge
+  serumV3Usdc: 5FpKCWYXgHWZ9CdDMHjwxAfqxJLdw2PRXuAmtECkzADk
+  website: https://renproject.io/

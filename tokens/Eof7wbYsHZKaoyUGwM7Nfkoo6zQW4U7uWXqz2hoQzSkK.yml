@@ -1,0 +1,11 @@
+symbol: wNU_v1
+name: NuCypher (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc"
+  assetContract: https://etherscan.io/address/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: nucypher

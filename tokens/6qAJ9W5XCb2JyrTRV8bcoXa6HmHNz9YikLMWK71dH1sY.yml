@@ -1,0 +1,7 @@
+symbol: SOLEM
+name: SolemPad
+decimals: 6
+extensions:
+  telegram: https://t.me/solempad
+  twitter: https://twitter.com/solempad
+  website: https://www.solempad.net/

@@ -1,0 +1,11 @@
+symbol: UPS
+name: UPS token (UPFI Network)
+decimals: 6
+extensions:
+  discord: https://discord.gg/nHMDdyAggx
+  facebook: https://www.facebook.com/UPFInetwork
+  medium: https://upfinetwork.medium.com
+  serumV3Usdc: DByPstQRx18RU2A8DH6S9mT7bpT6xuLgD2TTFiZJTKZP
+  telegram: https://t.me/upfinetworkchannel
+  twitter: https://twitter.com/upfi_network
+  website: https://upfi.network/

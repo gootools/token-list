@@ -1,0 +1,9 @@
+symbol: xSTEP
+name: Staked Step
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/StepFinance_
+  waterfallbot: https://bit.ly/STEPwaterfall
+  website: https://step.finance/

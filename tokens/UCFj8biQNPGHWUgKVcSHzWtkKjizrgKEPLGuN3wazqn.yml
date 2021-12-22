@@ -1,0 +1,7 @@
+symbol: RNG
+name: RNG.Fail
+decimals: 2
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.gg/Z2JQym9r96

@@ -1,0 +1,11 @@
+symbol: AVDO
+name: AvocadoCoin
+decimals: 8
+tags:
+  - security-token
+extensions:
+  facebook: https://www.facebook.com/avocadocoins/
+  instagram: https://www.instagram.com/avocadocoin
+  twitter: https://twitter.com/avocadocoin
+  website: http://www.avocadocoin.com
+  youtube: https://www.youtube.com/channel/UCnMds055w0M3-_4GDjJsUKw

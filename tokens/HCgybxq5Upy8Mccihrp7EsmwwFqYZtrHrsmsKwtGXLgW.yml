@@ -1,0 +1,8 @@
+symbol: STARS
+name: StarLaunch
+decimals: 6
+extensions:
+  coingeckoId: starlaunch
+  telegram: https://t.me/StarLaunchOfficial
+  twitter: https://twitter.com/StarLaunchSOL
+  website: https://www.starlaunch.com/

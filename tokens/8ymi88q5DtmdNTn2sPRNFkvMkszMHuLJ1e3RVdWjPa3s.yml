@@ -1,0 +1,9 @@
+symbol: SDOGE
+name: SolDoge
+decimals: 0
+extensions:
+  coingeckoId: soldoge
+  discord: https://bit.ly/SDOGEDiscord
+  serumV3Usdc: 9aruV2p8cRWxybx6wMsJwPFqeN7eQVPR74RrxdM3DNdu
+  twitter: https://twitter.com/SolanaDoge
+  website: https://www.soldoge.io

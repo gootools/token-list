@@ -1,0 +1,7 @@
+symbol: MEME
+name: MemeMarketplace
+decimals: 6
+extensions:
+  discord: https://discord.gg/mememarketplace
+  twitter: https://twitter.com/MemeMarketNFT
+  website: https://www.mememarket.place

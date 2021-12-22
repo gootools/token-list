@@ -1,0 +1,7 @@
+symbol: wbBUSD-4Pool
+name: Mercurial LP Token (BUSD-4Pool)
+decimals: 12
+tags:
+  - lp-token
+extensions:
+  website: https://www.mercurial.finance/

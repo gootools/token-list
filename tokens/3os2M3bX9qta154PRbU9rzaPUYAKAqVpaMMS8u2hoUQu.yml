@@ -1,0 +1,5 @@
+symbol: abBTCB
+name: Wrapped BTC (Allbridge from BSC)
+decimals: 9
+extensions:
+  coingeckoId: wrapped-bitcoin

@@ -1,0 +1,7 @@
+symbol: AGC
+name: AGC Token
+decimals: 9
+tags:
+  - AGC-Token
+extensions:
+  website: https://www.agcmeta.com

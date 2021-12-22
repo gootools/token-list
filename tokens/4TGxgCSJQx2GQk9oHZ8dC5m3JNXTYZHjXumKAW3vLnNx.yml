@@ -1,0 +1,12 @@
+symbol: OXS
+name: Oxbull Sol
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  coingeckoId: oxbull-solana
+  github: https://github.com/OxBull
+  medium: https://medium.com/@oxbull
+  telegramAnnouncements: https://t.me/Oxbull_tech
+  twitter: https://twitter.com/OxBull5
+  website: https://www.oxbull.tech

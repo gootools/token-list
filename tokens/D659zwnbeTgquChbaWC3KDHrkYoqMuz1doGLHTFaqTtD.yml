@@ -1,0 +1,7 @@
+symbol: SRM/SOL
+name: Orca Aquafarm Token (SRM/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

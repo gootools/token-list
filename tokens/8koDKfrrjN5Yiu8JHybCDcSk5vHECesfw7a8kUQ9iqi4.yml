@@ -1,0 +1,7 @@
+symbol: QUEST-USDT
+name: Raydium LP Token V4 (QUEST-USDT)
+decimals: 4
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io

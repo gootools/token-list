@@ -1,0 +1,11 @@
+symbol: waUSDT_v1
+name: Aave Interest bearing USDT (Wormhole v1)
+decimals: 6
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8"
+  assetContract: https://etherscan.io/address/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-usdt-v1

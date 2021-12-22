@@ -1,0 +1,13 @@
+symbol: PORT
+name: Port Finance Token
+decimals: 6
+extensions:
+  coingeckoId: port-finance
+  discord: https://discord.gg/nAMXAYhTb2
+  github: https://github.com/port-finance/
+  medium: https://medium.com/port-finance
+  serumV3Usdc: 8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko
+  telegram: https://t.me/port_finance
+  twitter: https://twitter.com/port_finance
+  waterfallbot: https://bit.ly/PORTwaterfall
+  website: https://port.finance/

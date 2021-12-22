@@ -1,0 +1,10 @@
+symbol: SNJ
+name: Sola Ninja
+decimals: 9
+tags:
+  - community-token
+extensions:
+  serumV3Usdc: FyVdsZs15c38b6vBjiYYfq9fPrcrZJjvMgjHtEB2T9Sa
+  telegram: https://t.me/solatokennet
+  twitter: https://twitter.com/EcoSolana
+  website: https://solatoken.net/

@@ -1,0 +1,8 @@
+symbol: abETH-weWETH
+name: Saber abETH-weWETH LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+extensions:
+  website: https://app.saber.so/#/pools/abeth

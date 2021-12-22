@@ -1,0 +1,9 @@
+symbol: pUSDT
+name: Port Finance USDT
+decimals: 6
+tags:
+  - port
+  - lending
+  - collateral-tokens
+extensions:
+  website: https://port.finance

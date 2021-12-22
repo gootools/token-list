@@ -1,0 +1,5 @@
+symbol: ROLL
+name: Let'sroll DAO
+decimals: 9
+extensions:
+  website: ipfs://letsroll.dao

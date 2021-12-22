@@ -1,0 +1,13 @@
+symbol: DLANA
+name: Dogelana Token
+decimals: 9
+tags:
+  - social-token
+  - community-token
+extensions:
+  coingeckoId: dogelana
+  discord: https://discord.gg/dogelana
+  github: https://github.com/dogelanaio
+  telegram: https://t.me/dogelana
+  twitter: https://twitter.com/dogelana
+  website: https://dogelana.io

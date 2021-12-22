@@ -1,0 +1,9 @@
+symbol: IDEN
+name: IDEN
+decimals: 6
+tags:
+  - security-token
+  - utility-token
+extensions:
+  twitter: https://twitter.com/identicert
+  website: https://identicert.com/

@@ -1,0 +1,5 @@
+symbol: apDAI
+name: Wrapped DAI (Allbridge from Polygon)
+decimals: 9
+tags:
+  - stablecoin

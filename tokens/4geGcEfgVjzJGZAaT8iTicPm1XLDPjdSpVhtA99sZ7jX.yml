@@ -1,0 +1,7 @@
+symbol: FIDA/SOL
+name: Orca Aquafarm Token (FIDA/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

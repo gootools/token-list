@@ -1,0 +1,8 @@
+symbol: mSOL/whETH
+name: Orca Aquafarm Token (mSOL/whETH[aquafarm])
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

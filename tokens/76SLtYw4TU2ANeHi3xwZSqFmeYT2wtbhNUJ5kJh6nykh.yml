@@ -1,0 +1,10 @@
+symbol: groww
+name: GrowwCoin
+decimals: 4
+tags:
+  - utility-token
+  - social-token
+  - community-token
+extensions:
+  twitter: https://twitter.com/growwcoin
+  website: https://growwcoin.com

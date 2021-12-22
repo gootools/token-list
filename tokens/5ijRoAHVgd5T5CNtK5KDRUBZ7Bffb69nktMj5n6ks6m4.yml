@@ -1,0 +1,7 @@
+symbol: SOL-mSOL
+name: Raydium LP Token V4 (SOL-mSOL)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

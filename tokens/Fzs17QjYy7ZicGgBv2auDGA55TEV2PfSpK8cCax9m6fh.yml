@@ -1,0 +1,10 @@
+symbol: NBX
+name: Nathan Bolin Coin
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+  - community-token
+extensions:
+  twitter: https://twitter.com/nathanbolin
+  website: http://nathanbolin.com/

@@ -1,0 +1,8 @@
+symbol: MONIKA
+name: MonikaCoin
+decimals: 0
+tags:
+  - social-token
+extensions:
+  description: Only Monika
+  twitter: https://twitter.com/bakonpancakz

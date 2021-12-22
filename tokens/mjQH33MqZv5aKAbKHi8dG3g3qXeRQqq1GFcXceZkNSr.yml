@@ -1,0 +1,7 @@
+symbol: RAY-ETH
+name: Raydium LP Token V4 (RAY-ETH)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

@@ -1,0 +1,12 @@
+symbol: soTOMO
+name: Wrapped TOMO (Sollet)
+decimals: 6
+tags:
+  - wrapped-sollet
+  - ethereum
+extensions:
+  bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
+  coingeckoId: tomochain
+  serumV3Usdc: 8BdpjpSD5n3nk8DQLqPUyTZvVqFu6kcff5bzUX5dqDpy
+  serumV3Usdt: GnKPri4thaGipzTbp8hhSGSrHgG4F8MFiZVrbRn16iG2
+  waterfallbot: https://t.me/TOMOwaterfall

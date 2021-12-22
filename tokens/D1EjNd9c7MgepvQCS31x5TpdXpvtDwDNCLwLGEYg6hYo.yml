@@ -1,0 +1,10 @@
+symbol: AUTOS
+name: Autostorm
+decimals: 9
+tags:
+  - cars
+  - auto
+  - marketplace
+extensions:
+  discord: https://discord.gg/yWjkHgnPD3
+  website: https://www.autostorm.io/

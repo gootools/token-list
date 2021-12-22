@@ -1,0 +1,12 @@
+symbol: CEX
+name: Catena X
+decimals: 9
+tags:
+  - community
+  - DEFI
+  - Bridage
+extensions:
+  coingeckoId: catena-x
+  telegram: https://t.me/CatenaX
+  twitter: https://twitter.com/catena_x
+  website: https://catenax.org

@@ -1,0 +1,14 @@
+symbol: ARDN
+name: Ariadne Solana
+decimals: 9
+tags:
+  - utility-token
+  - DeFi
+  - marketplace
+  - ariadne
+extensions:
+  coingeckoId: ariadne
+  medium: https://medium.com/ariadne-project
+  telegram: https://t.me/ariadne_finance
+  twitter: https://twitter.com/Ariadne_finance
+  website: https://ariadne.finance/

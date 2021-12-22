@@ -1,0 +1,8 @@
+symbol: XSOL
+name: XSOL Token
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/0xSol_Network
+  website: https://0xsol.network

@@ -1,0 +1,10 @@
+symbol: ALM
+name: Almond
+decimals: 6
+extensions:
+  coingeckoId: almond
+  coinmarketcap: https://coinmarketcap.com/currencies/almond/
+  discord: https://discord.gg/MBWsChEdFw
+  serumV3Usdc: DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W
+  twitter: https://twitter.com/almond_so
+  website: https://almond.so/

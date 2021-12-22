@@ -1,0 +1,11 @@
+symbol: sUSDT-8
+name: Saber Wrapped USDT (8 decimals)
+decimals: 8
+tags:
+  - stablecoin
+  - saber-mkt-usd
+  - saber-dec-wrapped
+extensions:
+  coingeckoId: tether
+  serumV3Usdc: 77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS
+  website: https://app.saber.so

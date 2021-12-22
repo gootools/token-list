@@ -1,0 +1,6 @@
+symbol: XTAG
+name: xHashtag Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/xhashtagio
+  website: https://www.xhashtag.io/

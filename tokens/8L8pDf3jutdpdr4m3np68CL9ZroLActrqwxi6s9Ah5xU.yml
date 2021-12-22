@@ -1,0 +1,11 @@
+symbol: wFRAX_v1
+name: Frax (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+  assetContract: https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: frax

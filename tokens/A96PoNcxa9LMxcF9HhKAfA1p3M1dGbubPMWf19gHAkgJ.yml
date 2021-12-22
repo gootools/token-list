@@ -1,0 +1,5 @@
+symbol: atUST
+name: Wrapped UST (Allbridge from Terra)
+decimals: 9
+tags:
+  - stablecoin

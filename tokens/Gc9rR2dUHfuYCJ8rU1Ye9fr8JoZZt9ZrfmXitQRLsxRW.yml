@@ -1,0 +1,11 @@
+symbol: wMIR_v1
+name: Wrapped MIR Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x09a3EcAFa817268f77BE1283176B946C4ff2E608"
+  assetContract: https://etherscan.io/address/0x09a3EcAFa817268f77BE1283176B946C4ff2E608
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: mirror-protocol

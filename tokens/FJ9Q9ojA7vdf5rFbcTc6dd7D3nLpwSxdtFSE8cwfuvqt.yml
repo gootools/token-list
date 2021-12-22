@@ -1,0 +1,8 @@
+symbol: FIDA/SOL
+name: Orca LP Token (FIDA/SOL)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://orca.so

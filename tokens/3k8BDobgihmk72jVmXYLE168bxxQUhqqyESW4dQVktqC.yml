@@ -1,0 +1,7 @@
+symbol: STEP-USDC
+name: Raydium LP Token V4 (STEP-USDC)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

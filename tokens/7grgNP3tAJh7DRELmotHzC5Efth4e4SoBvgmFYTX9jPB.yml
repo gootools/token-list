@@ -1,0 +1,7 @@
+symbol: AMD
+name: Advanced Micro Devices
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?AMD

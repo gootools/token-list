@@ -1,0 +1,11 @@
+symbol: scnSOL
+name: Socean staked SOL
+decimals: 9
+tags:
+  - stake-pool
+extensions:
+  coingeckoId: socean-staked-sol
+  discord: https://discord.gg/k8ZcW27bq9
+  medium: https://medium.com/@soceanfinance
+  twitter: https://twitter.com/soceanfinance
+  website: https://socean.fi/

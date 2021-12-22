@@ -1,0 +1,7 @@
+symbol: GROOT
+name: Groot
+decimals: 9
+tags:
+  - meme-token
+extensions:
+  website: https://groot.sol/

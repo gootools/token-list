@@ -1,0 +1,12 @@
+symbol: SUNNY
+name: Sunny Governance Token
+decimals: 6
+extensions:
+  coingeckoId: sunny-aggregator
+  discord: https://chat.sunny.ag
+  github: https://github.com/SunnyAggregator
+  medium: https://medium.com/sunny-aggregator
+  serumV3Usdc: Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc
+  twitter: https://twitter.com/SunnyAggregator
+  waterfallbot: https://bit.ly/SUNNYwaterfall
+  website: https://sunny.ag/

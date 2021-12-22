@@ -1,0 +1,7 @@
+symbol: RAY/SOL
+name: Orca Aquafarm Token (RAY/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

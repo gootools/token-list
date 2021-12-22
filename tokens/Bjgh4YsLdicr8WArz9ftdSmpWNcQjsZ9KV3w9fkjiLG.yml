@@ -1,0 +1,7 @@
+symbol: SOLRC
+name: SolRaca
+decimals: 8
+tags:
+  - meme-token
+extensions:
+  telegram: https://t.me/solracaofficial

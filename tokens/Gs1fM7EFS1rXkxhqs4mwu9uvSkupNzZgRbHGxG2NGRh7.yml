@@ -1,0 +1,8 @@
+symbol: STEP/SOL
+name: Orca Double Dip Token (STEP/SOL[aquafarm])
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

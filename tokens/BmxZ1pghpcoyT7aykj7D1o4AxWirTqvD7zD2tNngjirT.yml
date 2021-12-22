@@ -1,0 +1,11 @@
+symbol: wGRT_v1
+name: Graph Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xc944E90C64B2c07662A292be6244BDf05Cda44a7"
+  assetContract: https://etherscan.io/address/0xc944E90C64B2c07662A292be6244BDf05Cda44a7
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: the-graph

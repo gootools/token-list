@@ -1,0 +1,7 @@
+symbol: SPY
+name: SPDR S&P 500 ETF
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?SPY

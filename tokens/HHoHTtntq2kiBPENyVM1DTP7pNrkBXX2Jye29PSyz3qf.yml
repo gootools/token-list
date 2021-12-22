@@ -1,0 +1,11 @@
+symbol: wCOTI_v1
+name: COTI Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xDDB3422497E61e13543BeA06989C0789117555c5"
+  assetContract: https://etherscan.io/address/0xDDB3422497E61e13543BeA06989C0789117555c5
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: coti

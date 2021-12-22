@@ -1,0 +1,7 @@
+symbol: RDP
+name: Road Protocol
+decimals: 9
+extensions:
+  telegram: https://t.me/roadprotocol
+  twitter: https://twitter.com/roadprotocol
+  website: https://roadprotocol.com

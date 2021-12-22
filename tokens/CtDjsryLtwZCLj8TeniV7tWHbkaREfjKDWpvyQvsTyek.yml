@@ -1,0 +1,11 @@
+symbol: wWHALE_v1
+name: WHALE (Wormhole v1)
+decimals: 4
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x9355372396e3F6daF13359B7b607a3374cc638e0"
+  assetContract: https://etherscan.io/address/0x9355372396e3F6daF13359B7b607a3374cc638e0
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: whale

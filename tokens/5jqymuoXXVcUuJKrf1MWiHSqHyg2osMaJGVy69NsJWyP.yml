@@ -1,0 +1,8 @@
+symbol: BEARSHIT
+name: BEARSHIT
+decimals: 6
+tags:
+  - leveraged
+  - bear
+extensions:
+  coingeckoId: 3x-short-shitcoin-index-token

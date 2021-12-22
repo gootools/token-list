@@ -1,0 +1,8 @@
+symbol: TWR
+name: Fraktionalized Tower Community NFT
+decimals: 3
+tags:
+  - fractionalized-nft
+extensions:
+  vault: https://fraktion.art/vault/3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR
+  vaultPubkey: 3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR

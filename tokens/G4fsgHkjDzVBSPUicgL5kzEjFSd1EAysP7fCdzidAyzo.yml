@@ -1,0 +1,11 @@
+symbol: Book
+name: BookWorm Token
+decimals: 1
+tags:
+  - Book
+  - BookWorm
+  - NFT
+  - Publisher
+  - Auction
+extensions:
+  website: http://nftbookworm.com/

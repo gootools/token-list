@@ -1,0 +1,8 @@
+symbol: SOLBERRY
+name: SOLBERRY
+decimals: 6
+extensions:
+  coingeckoId: solberry
+  serumV3Usdc: HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak
+  twitter: https://twitter.com/berrysol
+  website: https://www.solberry.tech

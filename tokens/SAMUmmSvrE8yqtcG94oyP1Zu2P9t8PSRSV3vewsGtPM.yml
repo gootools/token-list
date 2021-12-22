@@ -1,0 +1,15 @@
+symbol: SAMU
+name: Samusky Token
+decimals: 9
+tags:
+  - social-token
+  - community-token
+extensions:
+  coingeckoId: samusky-token
+  coinmarketcap: https://coinmarketcap.com/currencies/samusky/
+  discord: https://discord.gg/samuskyio
+  github: https://github.com/samuskyio
+  serumV3Usdc: 7PX2k66ecaUJHJweNbdCocR4kvPotvDn2FPu69svCsnu
+  telegram: https://t.me/samuskyio
+  twitter: https://twitter.com/samuskyio
+  website: https://samusky.io

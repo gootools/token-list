@@ -1,0 +1,11 @@
+symbol: waDAI_v1
+name: Aave Interest bearing DAI (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d"
+  assetContract: https://etherscan.io/address/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-dai-v1

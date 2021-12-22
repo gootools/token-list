@@ -1,0 +1,11 @@
+symbol: SMOL
+name: SMOL Token
+decimals: 9
+tags:
+  - nft
+  - utility-token
+  - community-token
+extensions:
+  discord: https://discord.gg/fqRa2jt9Q4
+  twitter: https://twitter.com/BabySolanaMBS
+  website: https://babysolanamonkey.business/

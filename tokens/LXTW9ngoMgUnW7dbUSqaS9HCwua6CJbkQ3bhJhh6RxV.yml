@@ -1,0 +1,6 @@
+symbol: LXT
+name: Lamport Express Token
+decimals: 4
+extensions:
+  serumV3Usdc: CvSvtVVFywPm6mMA4ZkDT5iMZPSRZTca9LwFLcqqs2FU
+  website: https://lamportexpress.com

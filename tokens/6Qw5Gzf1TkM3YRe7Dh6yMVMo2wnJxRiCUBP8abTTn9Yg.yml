@@ -1,0 +1,7 @@
+symbol: SNY/USDC
+name: Orca Aquafarm Token (SNY/USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

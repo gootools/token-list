@@ -1,0 +1,10 @@
+symbol: SHIBA
+name: Shibalana
+decimals: 9
+extensions:
+  coingeckoId: shibalana
+  discord: https://discord.gg/UaK3ZMkkmH
+  serumV3Usdc: 3M8uZhLZMxFUedsEgPzywZr9qbGTv3kKNMCEfAmg8iyK
+  telegram: https://t.me/shibalana
+  twitter: https://twitter.com/shibalana
+  website: https://shibalana.com/

@@ -1,0 +1,11 @@
+symbol: wPICKLE_v1
+name: PickleToken (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
+  assetContract: https://etherscan.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: pickle-finance

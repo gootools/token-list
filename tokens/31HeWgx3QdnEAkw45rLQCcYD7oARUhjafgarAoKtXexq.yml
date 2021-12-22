@@ -1,0 +1,10 @@
+symbol: USDL
+name: USD Lagrange
+decimals: 6
+tags:
+  - stablecoin
+extensions:
+  discord: https://discord.gg/lagrange-fi
+  github: https://github.com/Lagrange-fi
+  twitter: https://twitter.com/Lagrange_fi
+  website: https://lagrange.fi/

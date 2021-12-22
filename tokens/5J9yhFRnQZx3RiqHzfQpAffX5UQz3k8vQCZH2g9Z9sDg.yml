@@ -1,0 +1,11 @@
+symbol: wWAXE_v1
+name: WAX Economic Token (Wormhole v1)
+decimals: 8
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD"
+  assetContract: https://etherscan.io/address/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: waxe

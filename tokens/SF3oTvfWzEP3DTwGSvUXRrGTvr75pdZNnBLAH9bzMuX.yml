@@ -1,0 +1,11 @@
+symbol: soSXP
+name: Wrapped SXP (Sollet)
+decimals: 6
+tags:
+  - wrapped-sollet
+  - ethereum
+extensions:
+  bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
+  coingeckoId: swipe
+  serumV3Usdc: 4LUro5jaPaTurXK737QAxgJywdhABnFAMQkXX4ZyqqaZ
+  serumV3Usdt: 8afKwzHR3wJE7W7Y5hvQkngXh6iTepSZuutRMMy96MjR

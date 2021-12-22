@@ -1,0 +1,7 @@
+symbol: LIQ-USDC
+name: Raydium LP Token (LIQ-USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

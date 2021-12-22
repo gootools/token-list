@@ -1,0 +1,11 @@
+symbol: wSRK_v1
+name: SparkPoint (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6"
+  assetContract: https://etherscan.io/address/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: sparkpoint

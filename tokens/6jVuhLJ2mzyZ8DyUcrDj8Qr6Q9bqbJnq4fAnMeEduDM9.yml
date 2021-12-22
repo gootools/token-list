@@ -1,0 +1,11 @@
+symbol: wSOCKS_v1
+name: Unisocks Edition 0 (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5"
+  assetContract: https://etherscan.io/address/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: unisocks

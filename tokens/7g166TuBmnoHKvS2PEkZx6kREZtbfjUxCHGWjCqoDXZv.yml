@@ -1,0 +1,5 @@
+symbol: acEUR
+name: Wrapped CEUR (Allbridge from Celo)
+decimals: 9
+tags:
+  - stablecoin

@@ -1,0 +1,8 @@
+symbol: MAPS
+name: MAPS
+decimals: 6
+extensions:
+  coingeckoId: maps
+  serumV3Usdc: 3A8XQRWXC7BjLpgLDDBhQJLT5yPCzS16cGYRKHkKxvYo
+  serumV3Usdt: 7cknqHAuGpfVXPtFoJpFvUjJ8wkmyEfbFusmwMfNy3FE
+  website: https://maps.me/

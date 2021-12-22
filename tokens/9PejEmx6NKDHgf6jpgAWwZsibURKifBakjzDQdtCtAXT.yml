@@ -1,0 +1,10 @@
+symbol: waUniMKRETH_v1
+name: Aave Interest bearing UniMKRETH (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x8c69f7A4C9B38F1b48005D216c398Efb2F1Ce3e4"
+  assetContract: https://etherscan.io/address/0x8c69f7A4C9B38F1b48005D216c398Efb2F1Ce3e4
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678

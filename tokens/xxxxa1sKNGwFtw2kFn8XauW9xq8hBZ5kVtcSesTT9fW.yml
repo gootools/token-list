@@ -1,0 +1,8 @@
+symbol: SLIM
+name: Solanium
+decimals: 6
+extensions:
+  coingeckoId: solanium
+  telegram: https://t.me/solanium_io
+  twitter: https://twitter.com/solanium_io
+  website: https://www.solanium.io/

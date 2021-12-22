@@ -1,0 +1,9 @@
+symbol: NEFT
+name: Neftea Labs Coin
+decimals: 9
+tags:
+  - Neftea
+  - NFT
+  - utility-token
+extensions:
+  website: https://www.neftealabs.com/

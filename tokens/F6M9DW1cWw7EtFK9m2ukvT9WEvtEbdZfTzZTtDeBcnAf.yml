@@ -1,0 +1,11 @@
+symbol: wSAND_v1
+name: SAND (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+  assetContract: https://etherscan.io/address/0x3845badAde8e6dFF049820680d1F14bD3903a5d0
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: the-sandbox

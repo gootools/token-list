@@ -1,0 +1,5 @@
+symbol: aeFTT
+name: Wrapped FTT (Allbridge from Ethereum)
+decimals: 9
+extensions:
+  coingeckoId: ftx-token

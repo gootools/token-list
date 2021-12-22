@@ -1,0 +1,11 @@
+symbol: mSOL
+name: Marinade staked SOL (mSOL)
+decimals: 9
+extensions:
+  coingeckoId: msol
+  discord: https://discord.gg/mGqZA5pjRN
+  github: https://github.com/marinade-finance
+  medium: https://medium.com/marinade-finance
+  serumV3Usdc: 6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy
+  twitter: https://twitter.com/MarinadeFinance
+  website: https://marinade.finance

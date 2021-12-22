@@ -1,0 +1,11 @@
+symbol: NXMC
+name: NextMindCoin
+decimals: 7
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.gg/YXDNHMadC4
+  github: https://github.com/CEO-NextMindCoin
+  telegram: https://t.me/NextMindCoin_NXMC
+  twitter: https://twitter.com/nextmindcoin
+  website: https://www.nextmindcoin.com

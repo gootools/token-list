@@ -1,0 +1,11 @@
+symbol: ENR
+name: Energy
+decimals: 9
+tags:
+  - power-token
+  - wind
+  - solar
+  - nuclear
+  - coal
+  - electricity
+  - whatever-else

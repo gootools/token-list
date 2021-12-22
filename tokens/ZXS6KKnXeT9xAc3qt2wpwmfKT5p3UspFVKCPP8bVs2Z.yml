@@ -1,0 +1,11 @@
+symbol: TMI
+name: TUMI
+decimals: 4
+tags:
+  - utility-token
+  - governance-token
+  - gaming
+  - NFTs
+extensions:
+  telegram: https://t.me/cointumi
+  website: https://cointumi.com

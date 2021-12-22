@@ -1,0 +1,7 @@
+symbol: ROYALE
+name: Royale token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  website: https://miniroyale.io

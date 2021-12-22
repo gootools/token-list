@@ -1,0 +1,11 @@
+symbol: waTUSD_v1
+name: Aave Interest bearing TUSD (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x4DA9b813057D04BAef4e5800E36083717b4a0341"
+  assetContract: https://etherscan.io/address/0x4DA9b813057D04BAef4e5800E36083717b4a0341
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-tusd-v1

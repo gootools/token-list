@@ -1,0 +1,7 @@
+symbol: MAPS/SOL
+name: Orca Aquafarm Token (MAPS/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

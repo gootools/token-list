@@ -1,0 +1,9 @@
+symbol: DTOK
+name: Developer Utility Token
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  description: Developer utility token is a community reward token for developers
+    of cryptourios.io.
+  website: https://cryptourios.io/tokens/dtok

@@ -1,0 +1,6 @@
+symbol: PPAY
+name: PocketPay Finance
+decimals: 6
+extensions:
+  twitter: https://twitter.com/PocketPayFin
+  website: https://pocketpay.finance

@@ -1,0 +1,10 @@
+symbol: wUniLINKETH_v1
+name: Uniswap LINK LP (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xF173214C720f58E03e194085B1DB28B50aCDeeaD"
+  assetContract: https://etherscan.io/address/0xF173214C720f58E03e194085B1DB28B50aCDeeaD
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678

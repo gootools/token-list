@@ -1,0 +1,8 @@
+symbol: SOL/STEP
+name: Orca LP Token (SOL/STEP)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://orca.so

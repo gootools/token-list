@@ -1,0 +1,7 @@
+symbol: NINJA/SOL
+name: Orca Double Dip Token (NINJA/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

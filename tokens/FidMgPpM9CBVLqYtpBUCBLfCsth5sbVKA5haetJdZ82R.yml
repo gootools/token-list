@@ -1,0 +1,8 @@
+symbol: FLOPPA
+name: Floppa Coin
+decimals: 9
+tags:
+  - meme-token
+extensions:
+  telegram: https://t.me/floppacoincommunity
+  website: https://www.floppamemecoin.com

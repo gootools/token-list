@@ -1,0 +1,9 @@
+symbol: cMER
+name: Solend MER
+decimals: 6
+tags:
+  - solend
+  - lending
+  - collateral-tokens
+extensions:
+  website: https://solend.fi

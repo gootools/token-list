@@ -1,0 +1,7 @@
+symbol: REV
+name: REVIVE Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  description: REVIVE token associated with OneChurch in Sanford, MI.

@@ -1,0 +1,8 @@
+symbol: aeUSDT-USDT
+name: Saber aeUSDT-USDT LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+extensions:
+  website: https://app.saber.so/#/pools/aeusdt

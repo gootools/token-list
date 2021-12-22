@@ -1,0 +1,11 @@
+symbol: wRPL_v1
+name: Rocket Pool (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
+  assetContract: https://etherscan.io/address/0xB4EFd85c19999D84251304bDA99E90B92300Bd93
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: rocket-pool

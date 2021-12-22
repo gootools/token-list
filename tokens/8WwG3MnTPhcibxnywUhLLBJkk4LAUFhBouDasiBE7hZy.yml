@@ -1,0 +1,9 @@
+symbol: PFDT
+name: Platinum Fund Dev Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  medium: https://medium.com/platinum-fund
+  telegram: https://t.me/platinumfund
+  website: https://platinum.fund

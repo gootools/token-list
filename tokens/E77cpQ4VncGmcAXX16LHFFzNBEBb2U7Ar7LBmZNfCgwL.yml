@@ -1,0 +1,7 @@
+symbol: abUSDT
+name: Wrapped USDT (Allbridge from BSC)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: tether

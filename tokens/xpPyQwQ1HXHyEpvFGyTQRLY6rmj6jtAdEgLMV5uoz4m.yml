@@ -1,0 +1,7 @@
+symbol: ROPE/SOL
+name: Orca Aquafarm Token (ROPE/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

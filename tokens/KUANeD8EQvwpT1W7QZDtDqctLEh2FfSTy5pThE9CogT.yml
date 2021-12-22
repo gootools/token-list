@@ -1,0 +1,8 @@
+symbol: srenLUNA-9
+name: Saber Wrapped renLUNA (9 decimals)
+decimals: 9
+tags:
+  - saber-market-luna
+  - saber-dec-wrapped
+extensions:
+  website: https://app.saber.so

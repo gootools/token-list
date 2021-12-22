@@ -1,0 +1,7 @@
+symbol: renZEC
+name: renZEC
+decimals: 8
+extensions:
+  coingeckoId: renzec
+  serumV3Usdc: 2ahbUT5UryyRVxPnELtTmDLLneN26UjBQFgfMVvbWDTb
+  website: https://renproject.io/

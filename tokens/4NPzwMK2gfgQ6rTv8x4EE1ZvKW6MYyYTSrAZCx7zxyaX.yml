@@ -1,0 +1,8 @@
+symbol: KLB
+name: Black Label
+decimals: 0
+extensions:
+  coingeckoId: black-label
+  serumV3Usdc: AVC5hkVjWqRzD9RXXwjcNiVAAR2rUvDGwhqoCd2TQNY8
+  twitter: https://twitter.com/klbtoken
+  website: https://klbtoken.com

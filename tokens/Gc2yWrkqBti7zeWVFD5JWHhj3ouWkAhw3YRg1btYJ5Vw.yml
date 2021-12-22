@@ -1,0 +1,8 @@
+symbol: MMM
+name: Fraktionalized Moment-492
+decimals: 3
+tags:
+  - fractionalized-nft
+extensions:
+  vault: https://fraktion.art/vault/7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY
+  vaultPubkey: 7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY

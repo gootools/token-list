@@ -1,0 +1,8 @@
+symbol: poUSDC
+name: Pole Aggregator USDC
+decimals: 6
+tags:
+  - pole
+  - aggregator
+extensions:
+  website: https://pole.finance/

@@ -1,0 +1,8 @@
+symbol: ALTBULL
+name: ALTBULL
+decimals: 6
+tags:
+  - leveraged
+  - bull
+extensions:
+  coingeckoId: 3x-long-altcoin-index-token

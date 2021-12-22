@@ -1,0 +1,7 @@
+symbol: RAY-WUSDT
+name: Raydium Legacy LP Token V3 (RAY-WUSDT)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

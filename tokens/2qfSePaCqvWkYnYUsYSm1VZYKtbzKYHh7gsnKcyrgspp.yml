@@ -1,0 +1,10 @@
+symbol: ETD
+name: EntropyDex
+decimals: 6
+tags:
+  - utility-token
+extensions:
+  description: Entropy:The First Decentralized Perpetual Contracts and Derivatives
+    On Solana.
+  twitter: https://twitter.com/entropydex
+  website: https://www.entropy.loan/

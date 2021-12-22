@@ -1,0 +1,5 @@
+symbol: BMBO
+name: Bamboo
+decimals: 7
+extensions:
+  coingeckoId: bamboo-coin

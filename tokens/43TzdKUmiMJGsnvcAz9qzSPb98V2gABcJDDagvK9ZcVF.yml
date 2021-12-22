@@ -1,0 +1,10 @@
+symbol: CANNABIS
+name: Cannabis Coin
+decimals: 9
+tags:
+  - utility-token
+  - community-token
+  - social-token
+extensions:
+  twitter: https://twitter.com/cannabiscoins_
+  website: https://www.cannabiscoin.space/

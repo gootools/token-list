@@ -1,0 +1,8 @@
+symbol: MNGO/USDC
+name: Orca Aquafarm Token (MNGO/USDC[aquafarm])
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

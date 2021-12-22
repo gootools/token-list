@@ -1,0 +1,5 @@
+symbol: aeFEI
+name: Wrapped FEI (Allbridge from Ethereum)
+decimals: 9
+extensions:
+  coingeckoId: fei-usd

@@ -1,0 +1,7 @@
+symbol: xUSD
+name: Synthetic USD
+decimals: 6
+extensions:
+  coingeckoId: usd-coin
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

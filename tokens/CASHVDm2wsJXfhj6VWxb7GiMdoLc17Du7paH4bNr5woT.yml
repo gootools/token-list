@@ -1,0 +1,10 @@
+symbol: CASH
+name: Cashio Dollar
+decimals: 6
+tags:
+  - stablecoin
+extensions:
+  discord: https://discord.com/invite/GmkRRKJkuh
+  medium: https://medium.com/@cashioapp
+  twitter: https://twitter.com/CashioApp
+  website: https://cashio.app

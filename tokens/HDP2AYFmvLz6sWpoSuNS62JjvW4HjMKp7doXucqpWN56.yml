@@ -1,0 +1,7 @@
+symbol: ETH/USDC
+name: Orca Aquafarm Token (ETH/USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

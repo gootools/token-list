@@ -1,0 +1,7 @@
+symbol: xFTT
+name: Synthetic FTT
+decimals: 8
+extensions:
+  coingeckoId: ftx-token
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

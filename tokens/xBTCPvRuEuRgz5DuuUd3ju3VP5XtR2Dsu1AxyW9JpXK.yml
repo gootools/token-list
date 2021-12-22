@@ -1,0 +1,8 @@
+symbol: xBTC-renBTC
+name: Saber xBTC-renBTC LP
+decimals: 10
+tags:
+  - saber-stableswap-lp
+  - saber-lp-synthetify
+extensions:
+  website: https://app.saber.so/#/pools/xbtc

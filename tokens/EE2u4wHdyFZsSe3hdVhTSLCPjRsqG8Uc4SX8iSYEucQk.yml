@@ -1,0 +1,9 @@
+symbol: JCC
+name: JerseyCityCoin
+decimals: 9
+tags:
+  - social-token
+  - community-token
+extensions:
+  twitter: https://twitter.com/JerseyCity
+  website: https://jerseycitynj.gov

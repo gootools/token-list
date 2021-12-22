@@ -1,0 +1,9 @@
+symbol: KTN
+name: Katana
+decimals: 6
+tags:
+  - utility-token
+extensions:
+  description: The Yield Generation Protocol for Solana
+  twitter: https://twitter.com/Katana_HQ
+  website: https://katana.so/

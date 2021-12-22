@@ -1,0 +1,11 @@
+symbol: HP
+name: Honey Pot
+decimals: 0
+tags:
+  - BugBear
+  - NFT
+extensions:
+  description: Bugbear favorite honey pot! Shiny gold honey, taste like money.
+  imageUrl: https://storage.googleapis.com/honeypotnft/honeypot.png
+  serumV3Usdc: EhABxYSBodQF7vz6D633cxCG7BSK1S6NrNNPVMSpKLct
+  website: https://www.thebugbear.com

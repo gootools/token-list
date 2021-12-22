@@ -1,0 +1,10 @@
+symbol: GREAT
+name: Great Legendary
+decimals: 6
+tags:
+  - community-token
+  - game-token
+extensions:
+  telegram: https://t.me/greatlegendary
+  twitter: https://twitter.com/GreatLegendarys
+  website: https://greatlegendary.com/

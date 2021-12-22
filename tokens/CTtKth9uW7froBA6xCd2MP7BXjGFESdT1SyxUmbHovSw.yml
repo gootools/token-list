@@ -1,0 +1,11 @@
+symbol: wBAT_v1
+name: Basic Attention Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole-v1
+extensions:
+  address: "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+  assetContract: https://etherscan.io/address/0x0D8775F648430679A709E98d2b0Cb6250d2887EF
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: basic-attention-token

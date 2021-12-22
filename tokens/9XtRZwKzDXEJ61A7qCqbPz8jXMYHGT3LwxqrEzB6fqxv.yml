@@ -1,0 +1,8 @@
+symbol: SOLUM
+name: Solum
+decimals: 9
+extensions:
+  coingeckoId: solum
+  telegram: https://t.me/solumfinance
+  twitter: https://twitter.com/solumDefi
+  website: https://solum.finance/

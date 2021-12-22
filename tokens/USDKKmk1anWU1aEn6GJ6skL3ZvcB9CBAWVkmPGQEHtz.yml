@@ -1,0 +1,8 @@
+symbol: wUSDK-USDC
+name: Saber wUSDK-USDC LP
+decimals: 8
+tags:
+  - saber-stableswap-lp
+  - saber-lp-wormhole-v2
+extensions:
+  website: https://app.saber.so/#/pools/wusdk

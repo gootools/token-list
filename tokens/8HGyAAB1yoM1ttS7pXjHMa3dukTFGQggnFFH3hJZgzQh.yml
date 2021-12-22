@@ -1,0 +1,11 @@
+symbol: COPE
+name: COPE
+decimals: 6
+tags:
+  - trading
+  - index
+  - Algos
+extensions:
+  coingeckoId: cope
+  serumV3Usdc: 6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk
+  website: https://www.unlimitedcope.com/

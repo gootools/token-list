@@ -1,0 +1,12 @@
+symbol: DRUGS
+name: Cartel DRUGS
+decimals: 4
+tags:
+  - meme-token
+  - utility-token
+  - stake-pool-token
+extensions:
+  discord: https://discord.gg/cartelofsolana
+  serumV3Usdc: 6FSr3WhrLCdetbfr75JizgHsc3EDxmUxdKq6gTQwbefn
+  twitter: https://twitter.com/solcartel
+  website: https://www.solcartel.com/

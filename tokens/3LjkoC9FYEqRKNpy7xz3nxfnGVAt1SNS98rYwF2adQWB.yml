@@ -1,0 +1,7 @@
+symbol: VXX
+name: iPath B S&P 500 VIX S/T Futs ETN
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?VXX

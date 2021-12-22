@@ -1,0 +1,11 @@
+symbol: soUBXT
+name: Wrapped Upbots (Sollet)
+decimals: 6
+tags:
+  - wrapped-sollet
+  - ethereum
+extensions:
+  coingeckoId: upbots
+  serumV3Usdc: 2wr3Ab29KNwGhtzr5HaPCyfU1qGJzTUAN4amCLZWaD1H
+  serumV3Usdt: F1T7b6pnR8Pge3qmfNUfW6ZipRDiGpMww6TKTrRU4NiL
+  website: https://upbots.com/

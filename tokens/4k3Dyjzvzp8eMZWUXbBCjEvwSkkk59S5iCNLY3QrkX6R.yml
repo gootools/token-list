@@ -1,0 +1,9 @@
+symbol: RAY
+name: Raydium
+decimals: 6
+extensions:
+  coingeckoId: raydium
+  serumV3Usdc: 2xiv8A5xrJ7RnGdxXB42uFEkYHJjszEhaJyKKt4WaLep
+  serumV3Usdt: teE55QrL4a4QSfydR9dnHF97jgCfptpuigbb53Lo95g
+  waterfallbot: https://bit.ly/RAYwaterfall
+  website: https://raydium.io/

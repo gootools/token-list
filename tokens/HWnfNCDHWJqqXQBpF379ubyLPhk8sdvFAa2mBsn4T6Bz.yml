@@ -1,0 +1,12 @@
+symbol: SCODE
+name: Scode Token
+decimals: 9
+tags:
+  - utility-token
+  - nft
+extensions:
+  discord: https://discord.gg/6NMRH4KNG5
+  github: https://github.com/scenechain
+  medium: https://medium.com/scenechain
+  twitter: https://twitter.com/scenechain
+  website: https://scenechain.org/

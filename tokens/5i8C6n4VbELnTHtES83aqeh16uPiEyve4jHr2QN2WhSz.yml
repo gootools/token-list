@@ -1,0 +1,8 @@
+symbol: ZDRT
+name: ZDRT Club Token
+decimals: 3
+tags:
+  - social-token
+extensions:
+  discord: https://discord.gg/VHpA4tQYXZ
+  website: https://zdrt.club

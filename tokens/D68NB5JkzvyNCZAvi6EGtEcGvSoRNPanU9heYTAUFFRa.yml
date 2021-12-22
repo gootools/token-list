@@ -1,0 +1,5 @@
+symbol: PERP
+name: PERP
+decimals: 6
+extensions:
+  coingeckoId: perpetual-protocol

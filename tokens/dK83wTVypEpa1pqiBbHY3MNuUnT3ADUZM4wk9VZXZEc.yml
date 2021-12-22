@@ -1,0 +1,6 @@
+symbol: AAVE
+name: Wrapped Aave
+decimals: 6
+extensions:
+  coingeckoId: aave
+  serumV3Usdt: 6bxuB5N3bt3qW8UnPNLgMMzDq5sEH8pFmYJYGgzvE11V

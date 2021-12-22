@@ -1,0 +1,11 @@
+symbol: wAMPL_v1
+name: Ampleforth (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
+  assetContract: https://etherscan.io/address/0xD46bA6D942050d489DBd938a2C909A5d5039A161
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: ampleforth

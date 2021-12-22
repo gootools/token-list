@@ -1,0 +1,7 @@
+symbol: PORT/USDC
+name: Orca Aquafarm Token (PORT/USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

@@ -1,0 +1,9 @@
+symbol: RUG
+name: RugCoin
+decimals: 8
+tags:
+  - community-token
+  - meme-token
+  - rug
+extensions:
+  website: https://rugcoin.rip

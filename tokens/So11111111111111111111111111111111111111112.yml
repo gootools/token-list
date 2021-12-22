@@ -1,0 +1,8 @@
+symbol: SOL
+name: Wrapped SOL
+decimals: 9
+extensions:
+  coingeckoId: solana
+  serumV3Usdc: 9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT
+  serumV3Usdt: HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1
+  website: https://solana.com/

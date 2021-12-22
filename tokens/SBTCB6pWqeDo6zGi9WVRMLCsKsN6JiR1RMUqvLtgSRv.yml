@@ -1,0 +1,11 @@
+symbol: sBTC-8
+name: Saber Wrapped Bitcoin (Sollet) (8 decimals)
+decimals: 8
+tags:
+  - wrapped-sollet
+  - ethereum
+  - saber-market-btc
+  - saber-dec-wrapped
+extensions:
+  coingeckoId: bitcoin
+  website: https://app.saber.so

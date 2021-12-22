@@ -1,0 +1,8 @@
+symbol: KW
+name: Kilowatt
+decimals: 9
+tags:
+  - meme-token
+extensions:
+  twitter: https://twitter.com/kilowattproject
+  website: https://kilo.solar

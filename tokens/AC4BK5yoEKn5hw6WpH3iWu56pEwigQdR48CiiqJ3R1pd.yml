@@ -1,0 +1,11 @@
+symbol: wDHC_v1
+name: DeltaHub Community (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef"
+  assetContract: https://etherscan.io/address/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: deltahub-community

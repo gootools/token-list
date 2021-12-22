@@ -1,0 +1,7 @@
+symbol: SHBL-USDC
+name: Raydium Permissionless LP Token (SHBL-USDC)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

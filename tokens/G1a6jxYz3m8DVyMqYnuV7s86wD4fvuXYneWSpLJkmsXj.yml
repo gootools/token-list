@@ -1,0 +1,7 @@
+symbol: renBCH
+name: renBCH
+decimals: 8
+extensions:
+  coingeckoId: renbch
+  serumV3Usdc: FS8EtiNZCH72pAK83YxqXaGAgk3KKFYphiTcYA2yRPis
+  website: https://renproject.io/

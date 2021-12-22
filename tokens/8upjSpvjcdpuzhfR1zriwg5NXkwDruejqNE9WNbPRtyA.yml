@@ -1,0 +1,6 @@
+symbol: GRAPE
+name: Grape
+decimals: 6
+extensions:
+  coingeckoId: grape-2
+  website: https://grapes.network

@@ -1,0 +1,7 @@
+symbol: Nordic Energy Token
+name: NET
+decimals: 9
+extensions:
+  telegram: https://t.me/nordicenergy
+  twitter: https://twitter.com/nordicenergy1
+  website: https://nordicenergy.io/

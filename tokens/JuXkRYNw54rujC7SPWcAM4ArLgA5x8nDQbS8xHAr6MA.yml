@@ -1,0 +1,11 @@
+symbol: wRLC_v1
+name: iExec RLC (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x607F4C5BB672230e8672085532f7e901544a7375"
+  assetContract: https://etherscan.io/address/0x607F4C5BB672230e8672085532f7e901544a7375
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: iexec-rlc

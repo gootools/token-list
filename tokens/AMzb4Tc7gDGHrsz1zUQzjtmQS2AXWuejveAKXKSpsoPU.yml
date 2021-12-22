@@ -1,0 +1,13 @@
+symbol: GAMESHIB
+name: GAME SHIB COIN
+decimals: 9
+tags:
+  - game
+  - gamefi
+  - social-token
+  - meme
+  - shib
+extensions:
+  serumV3Usdc: 63PTn92SL43vSdNSbKRvPxhvNr2vzsoXT2aakz1JNpCb
+  twitter: https://twitter.com/Gameshibcoin
+  website: https://gameshib.com

@@ -1,0 +1,9 @@
+symbol: yPRT
+name: yPRT (Parrot Yield Token)
+decimals: 6
+extensions:
+  discord: https://discord.gg/gopartyparrot
+  medium: https://gopartyparrot.medium.com/
+  telegram: https://t.me/gopartyparrot
+  twitter: https://twitter.com/gopartyparrot
+  website: https://parrot.fi

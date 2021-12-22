@@ -1,0 +1,7 @@
+symbol: VPE
+name: VPOWER
+decimals: 9
+extensions:
+  telegram: https://t.me/vpowerswap_channel
+  twitter: https://twitter.com/vpowerswap
+  website: https://vpowerswap.com/

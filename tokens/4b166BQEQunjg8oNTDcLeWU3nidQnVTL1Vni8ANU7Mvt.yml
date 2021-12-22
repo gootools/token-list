@@ -1,0 +1,11 @@
+symbol: wSKL_v1
+name: SKALE (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7"
+  assetContract: https://etherscan.io/address/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: skale

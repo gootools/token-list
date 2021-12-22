@@ -1,0 +1,8 @@
+symbol: SLN
+name: "Fraktionalized Solanne: Up Only 1/1"
+decimals: 3
+tags:
+  - fractionalized-nft
+extensions:
+  vault: https://fraktion.art/vault/2uwtAQNGkjhEaBjN5FavvrT3tbp6JZPuCwXr7qBBekb5
+  vaultPubkey: 2uwtAQNGkjhEaBjN5FavvrT3tbp6JZPuCwXr7qBBekb5

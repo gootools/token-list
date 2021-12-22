@@ -1,0 +1,6 @@
+symbol: weICE
+name: IceToken (Wormhole)
+decimals: 8
+tags:
+  - wrapped
+  - wormhole

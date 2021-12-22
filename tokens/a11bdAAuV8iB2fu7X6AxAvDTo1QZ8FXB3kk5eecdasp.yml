@@ -1,0 +1,9 @@
+symbol: ABR
+name: Allbridge
+decimals: 9
+extensions:
+  coingeckoId: allbridge
+  medium: https://allbridge.medium.com/
+  telegram: https://t.me/allbridge_announcements
+  twitter: https://twitter.com/Allbridge_io
+  website: https://allbridge.io/

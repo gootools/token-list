@@ -1,0 +1,9 @@
+symbol: SRM
+name: Serum
+decimals: 6
+extensions:
+  coingeckoId: serum
+  serumV3Usdc: ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA
+  serumV3Usdt: AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb
+  waterfallbot: https://bit.ly/SRMwaterfall
+  website: https://projectserum.com/

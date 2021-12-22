@@ -1,0 +1,11 @@
+symbol: wAXS_v1
+name: Axie Infinity (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA"
+  assetContract: https://etherscan.io/address/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: axie-infinity

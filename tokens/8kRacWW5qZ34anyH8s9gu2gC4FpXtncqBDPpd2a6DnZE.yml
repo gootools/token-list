@@ -1,0 +1,12 @@
+symbol: MECA
+name: Coinmeca
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.gg/coinmeca
+  medium: https://coinmeca.medium.com/
+  reddit: https://reddit.com/r/coinmeca
+  telegram: https://t.me/coinmeca
+  twitter: https://twitter.com/coinmeca
+  website: https://coinmeca.net/

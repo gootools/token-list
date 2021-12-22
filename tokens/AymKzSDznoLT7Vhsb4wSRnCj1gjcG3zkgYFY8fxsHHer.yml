@@ -1,0 +1,14 @@
+symbol: TICKET
+name: The Ticket Finance
+decimals: 8
+tags:
+  - launchpad
+  - dex
+  - defi
+  - exchange
+  - utility-token
+extensions:
+  serumV3Usdc: HBfdGEMeQQpGogC3Li4uhRqZxGZAVLM9zimt31vdtSdA
+  telegram: https://t.me/theticketfinance
+  twitter: https://twitter.com/TheTicketSol
+  website: https://theticket.finance

@@ -1,0 +1,11 @@
+symbol: wRLY_v1
+name: Rally (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+  assetContract: https://etherscan.io/address/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: rally-2

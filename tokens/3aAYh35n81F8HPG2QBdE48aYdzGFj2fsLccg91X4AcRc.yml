@@ -1,0 +1,9 @@
+symbol: MAYA
+name: Maya
+decimals: 9
+tags:
+  - solana-token
+  - utility-token
+  - community-token
+extensions:
+  website: https://genezys.io

@@ -1,0 +1,9 @@
+symbol: srenBTC-9
+name: Saber Wrapped renBTC (9 decimals)
+decimals: 9
+tags:
+  - saber-market-btc
+  - saber-dec-wrapped
+extensions:
+  coingeckoId: renbtc
+  website: https://app.saber.so

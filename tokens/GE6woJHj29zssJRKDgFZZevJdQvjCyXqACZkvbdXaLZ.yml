@@ -1,0 +1,15 @@
+symbol: fKZEN
+name: Kaizen.Finance Locked
+decimals: 9
+tags:
+  - kaizen
+  - kaizen-finance
+  - locked-token
+  - utility-token
+  - vesting-token
+extensions:
+  description: Locked KZEN token. First ever Token Lifecycle Management Platform.
+  medium: https://kaizenfinance.medium.com
+  telegram: https://t.me/KaizenFinance
+  twitter: https://twitter.com/kaizen_finance
+  website: https://kaizen.finance

@@ -1,0 +1,11 @@
+symbol: wPOOLZ_v1
+name: Poolz Finance (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23"
+  assetContract: https://etherscan.io/address/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: poolz-finance

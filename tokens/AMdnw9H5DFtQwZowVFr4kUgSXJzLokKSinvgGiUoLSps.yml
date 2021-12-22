@@ -1,0 +1,8 @@
+symbol: MOLA
+name: MOONLANA
+decimals: 9
+extensions:
+  coingeckoId: moonlana
+  medium: https://moonlana.medium.com/
+  twitter: https://twitter.com/xMoonLana
+  website: https://moonlana.com/

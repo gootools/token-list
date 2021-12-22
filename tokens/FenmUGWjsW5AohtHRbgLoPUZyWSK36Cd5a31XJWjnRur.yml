@@ -1,0 +1,7 @@
+symbol: AMC
+name: AMC Entertainment Holdings
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?AMC

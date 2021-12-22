@@ -1,0 +1,7 @@
+symbol: ORCA/USDC
+name: Orca Aquafarm Token (ORCA/USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

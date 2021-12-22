@@ -1,0 +1,10 @@
+symbol: KEKW-USDC
+name: Raydium LP Token (KEKW-USDC)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  discord: https://discord.gg/kekw
+  medium: https://kekwcoin.medium.com/
+  twitter: https://twitter.com/kekwcoin
+  website: https://kekw.io/

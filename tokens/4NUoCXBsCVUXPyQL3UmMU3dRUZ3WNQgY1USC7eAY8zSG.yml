@@ -1,0 +1,7 @@
+symbol: $CREDITS
+name: Neon Game Credits
+decimals: 5
+tags:
+  - utility-token
+extensions:
+  website: https://neon.game

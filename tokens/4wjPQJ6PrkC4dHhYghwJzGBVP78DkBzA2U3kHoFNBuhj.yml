@@ -1,0 +1,9 @@
+symbol: LIQ
+name: LIQ Protocol
+decimals: 6
+extensions:
+  coingeckoId: liq-protocol
+  discord: https://discord.gg/MkfjambeU7
+  serumV3Usdc: D7p7PebNjpkH6VNHJhmiDFNmpz9XE7UaTv9RouxJMrwb
+  twitter: https://twitter.com/liqsolana
+  website: https://liqsolana.com/

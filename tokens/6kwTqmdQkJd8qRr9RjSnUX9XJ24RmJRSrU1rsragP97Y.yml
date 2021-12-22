@@ -1,0 +1,10 @@
+symbol: SAIL
+name: SAIL
+decimals: 6
+tags:
+  - utility-token
+extensions:
+  coingeckoId: sail
+  serumV3Usdc: 6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr
+  twitter: https://twitter.com/SolanaSail
+  website: https://www.solanasail.com

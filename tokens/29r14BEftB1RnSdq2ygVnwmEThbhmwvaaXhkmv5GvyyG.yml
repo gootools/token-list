@@ -1,0 +1,5 @@
+symbol: abDAI
+name: Wrapped DAI (Allbridge from BSC)
+decimals: 9
+tags:
+  - stablecoin

@@ -1,0 +1,8 @@
+symbol: ORC
+name: OSINT-Research coin
+decimals: 0
+tags:
+  - social-token
+  - community-token
+extensions:
+  twitter: https://twitter.com/osint_research

@@ -1,0 +1,11 @@
+symbol: SOLAR
+name: Solarna Token
+decimals: 6
+tags:
+  - social-token
+  - utility-token
+  - dex
+  - cross-swap
+  - wallet-token
+extensions:
+  website: https://solarna.io

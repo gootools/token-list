@@ -1,0 +1,7 @@
+symbol: RAY-USDC
+name: Raydium LP Token V4 (RAY-USDC)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

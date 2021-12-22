@@ -1,0 +1,7 @@
+symbol: renBTC
+name: renBTC
+decimals: 8
+extensions:
+  coingeckoId: renbtc
+  serumV3Usdc: 74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv
+  website: https://renproject.io/

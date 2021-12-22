@@ -1,0 +1,9 @@
+symbol: FLWR
+name: Flower Token
+decimals: 2
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.com/invite/solflowersnft
+  twitter: https://twitter.com/solflowers_io
+  website: https://solflowers.io

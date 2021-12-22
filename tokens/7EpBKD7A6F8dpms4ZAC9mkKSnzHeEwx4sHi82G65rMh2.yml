@@ -1,0 +1,9 @@
+symbol: SFT
+name: SolFortune Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.com/invite/DMK6q2Gp5y
+  twitter: https://twitter.com/SolFortuneNFT
+  website: https://solfortune.com

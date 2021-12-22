@@ -1,0 +1,8 @@
+symbol: MER
+name: Mercurial
+decimals: 6
+extensions:
+  coingeckoId: mercurial
+  serumV3Usdc: G4LcexdCzzJUKZfqyVDQFzpkjhB1JoCNL8Kooxi9nJz5
+  waterfallbot: https://bit.ly/MERwaterfall
+  website: https://www.mercurial.finance/

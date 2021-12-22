@@ -1,0 +1,8 @@
+symbol: BNAN
+name: BNAN Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/apefoodnft
+  website: https://apefood.club

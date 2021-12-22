@@ -1,0 +1,13 @@
+symbol: MYTH
+name: ChainMyth
+decimals: 9
+tags:
+  - NFT
+  - community-token
+  - utility-token
+extensions:
+  description: 5v5 FPS game with MOBA mechanics, featuring character NFTs!
+    Tokenised 5K 3D characters!
+  discord: https://discord.gg/chainmyth
+  twitter: https://twitter.com/ChainMyth
+  website: http://chainmyth.io

@@ -1,0 +1,7 @@
+symbol: NFTDOG
+name: SOLKITTY NFT DOG
+decimals: 6
+tags:
+  - nft
+extensions:
+  website: https://solkitty.io/nft/dog

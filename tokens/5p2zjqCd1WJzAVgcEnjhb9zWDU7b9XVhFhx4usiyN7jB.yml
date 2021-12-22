@@ -1,0 +1,11 @@
+symbol: CATO
+name: CATO
+decimals: 9
+tags:
+  - Meme-Token
+extensions:
+  coingeckoId: cato
+  serumV3Usdc: 9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB
+  telegram: https://t.me/SolanaCATO
+  twitter: https://twitter.com/SolanaCATO
+  website: https://official.catodex.com

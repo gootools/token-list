@@ -1,0 +1,7 @@
+symbol: SUMMYBIKE
+name: Sumarokov my bike token
+decimals: 0
+tags:
+  - nft
+extensions:
+  telegram: https://t.me/sumarokov_cyclist

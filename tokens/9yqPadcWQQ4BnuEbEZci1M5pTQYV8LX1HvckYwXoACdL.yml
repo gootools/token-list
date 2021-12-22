@@ -1,0 +1,11 @@
+symbol: MYCTY
+name: My Crypto City
+decimals: 6
+tags:
+  - utility-token
+  - game
+  - play2earn
+extensions:
+  telegram: https://t.me/mycryptocity
+  twitter: https://twitter.com/MyCrypto_City
+  website: https://mycryptocity.net/

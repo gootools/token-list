@@ -1,0 +1,9 @@
+symbol: yUSDC
+name: yUSDC (Parrot USDC Stability Pool Token)
+decimals: 6
+extensions:
+  discord: https://discord.gg/gopartyparrot
+  medium: https://gopartyparrot.medium.com/
+  telegram: https://t.me/gopartyparrot
+  twitter: https://twitter.com/gopartyparrot
+  website: https://parrot.fi

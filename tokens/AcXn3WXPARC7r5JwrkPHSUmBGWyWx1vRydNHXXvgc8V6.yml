@@ -1,0 +1,7 @@
+symbol: EWJ
+name: iShares MSCI Japan ETF
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?EWJ

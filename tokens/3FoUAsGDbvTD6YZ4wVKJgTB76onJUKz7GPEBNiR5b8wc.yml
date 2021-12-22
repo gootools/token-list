@@ -1,0 +1,8 @@
+symbol: CHEEMS
+name: Cheems
+decimals: 4
+extensions:
+  coingeckoId: cheems
+  serumV3Usdc: 5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut
+  twitter: https://twitter.com/theCheemsToken
+  website: https://cheems.co/

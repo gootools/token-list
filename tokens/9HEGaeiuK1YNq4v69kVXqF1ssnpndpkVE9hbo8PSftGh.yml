@@ -1,0 +1,12 @@
+symbol: RUGP
+name: Rug Pull Coin
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+  - meme-token
+extensions:
+  description: This is a coin on a mission to inform you of the dangers investing
+    and prevent you from being scammed.
+  twitter: https://twitter.com/rug_puller
+  website: https://rug-pull-coin.com

@@ -1,0 +1,5 @@
+symbol: BVOL
+name: BVOL
+decimals: 6
+extensions:
+  coingeckoId: 1x-long-btc-implied-volatility-token

@@ -1,0 +1,11 @@
+symbol: wFTT_v1
+name: FTT (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+  assetContract: https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: ftx-token

@@ -1,0 +1,8 @@
+symbol: SSF
+name: Fraktionalized Silver Starfish
+decimals: 3
+tags:
+  - fractionalized-nft
+extensions:
+  vault: https://fraktion.art/vault/6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH
+  vaultPubkey: 6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH

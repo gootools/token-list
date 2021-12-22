@@ -1,0 +1,12 @@
+symbol: PRT
+name: PRT (Parrot Protocol)
+decimals: 6
+tags:
+  - utility-token
+extensions:
+  coingeckoId: parrot-protocol
+  discord: https://discord.gg/gopartyparrot
+  medium: https://gopartyparrot.medium.com/
+  telegram: https://t.me/gopartyparrot
+  twitter: https://twitter.com/gopartyparrot
+  website: https://parrot.fi

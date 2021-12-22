@@ -1,0 +1,5 @@
+symbol: aeWBTC
+name: Wrapped BTC (Allbridge from Ethereum)
+decimals: 9
+extensions:
+  coingeckoId: wrapped-bitcoin

@@ -1,0 +1,8 @@
+symbol: SOL/USDT
+name: Orca LP Token (SOL/USDT)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://orca.so

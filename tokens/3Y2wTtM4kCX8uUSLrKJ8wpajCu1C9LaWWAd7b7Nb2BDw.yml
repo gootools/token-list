@@ -1,0 +1,11 @@
+symbol: wEXNT_v1
+name: ExNetwork Community Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xD6c67B93a7b248dF608a653d82a100556144c5DA"
+  assetContract: https://etherscan.io/address/0xD6c67B93a7b248dF608a653d82a100556144c5DA
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: exnetwork-token

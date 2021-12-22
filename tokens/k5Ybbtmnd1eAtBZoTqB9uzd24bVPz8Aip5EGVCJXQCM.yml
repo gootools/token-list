@@ -1,0 +1,5 @@
+symbol: sBTC
+name: Solana Bitcoin
+decimals: 8
+tags:
+  - general

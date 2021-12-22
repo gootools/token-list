@@ -1,0 +1,6 @@
+symbol: wLDO
+name: Wormhole-wrapped Lido DAO Token
+decimals: 8
+extensions:
+  twitter: https://twitter.com/LidoFinance
+  website: https://lido.fi/

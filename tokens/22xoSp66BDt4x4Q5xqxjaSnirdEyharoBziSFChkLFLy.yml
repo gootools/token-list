@@ -1,0 +1,8 @@
+symbol: BCHBULL
+name: BCHBULL
+decimals: 6
+tags:
+  - leveraged
+  - bull
+extensions:
+  coingeckoId: 3x-long-bitcoin-cash-token

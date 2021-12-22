@@ -1,0 +1,11 @@
+symbol: wSTAKE_v1
+name: xDai (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x0Ae055097C6d159879521C384F1D2123D1f195e6"
+  assetContract: https://etherscan.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: xdai-stake

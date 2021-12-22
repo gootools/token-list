@@ -1,0 +1,6 @@
+symbol: renFIL
+name: renFIL
+decimals: 9
+extensions:
+  coingeckoId: renfil
+  website: https://renproject.io/

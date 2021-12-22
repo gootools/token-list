@@ -1,0 +1,11 @@
+symbol: wsUSD_v1
+name: Synth sUSD (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+  assetContract: https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: nusd

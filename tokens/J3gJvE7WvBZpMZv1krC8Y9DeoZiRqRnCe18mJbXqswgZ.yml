@@ -1,0 +1,6 @@
+symbol: MIM
+name: My ONE token
+decimals: 9
+tags:
+  - solana-token
+  - token

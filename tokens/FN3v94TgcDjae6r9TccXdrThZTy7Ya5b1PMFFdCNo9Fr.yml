@@ -1,0 +1,9 @@
+symbol: FAC
+name: Financial Aid Coin
+decimals: 9
+tags:
+  - utility-token
+  - meme-token
+  - social-token
+extensions:
+  website: http://financialaidcoin.com

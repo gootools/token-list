@@ -1,0 +1,7 @@
+symbol: NOK
+name: Nokia
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?NOK

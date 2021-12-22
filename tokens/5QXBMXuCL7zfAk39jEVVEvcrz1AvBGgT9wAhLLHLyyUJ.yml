@@ -1,0 +1,7 @@
+symbol: RAY-SRM
+name: Raydium Legacy LP Token V2 (RAY-SRM)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/

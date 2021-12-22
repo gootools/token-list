@@ -1,0 +1,11 @@
+symbol: wRBC_v1
+name: Rubic (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3"
+  assetContract: https://etherscan.io/address/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: rubic

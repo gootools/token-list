@@ -1,0 +1,7 @@
+symbol: EEM
+name: iShares MSCI Emerging Markets ETF
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?EEM

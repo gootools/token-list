@@ -1,0 +1,8 @@
+symbol: wHAPI/USDC
+name: Orca Aquafarm Token (wHAPI/USDC[aquafarm])
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

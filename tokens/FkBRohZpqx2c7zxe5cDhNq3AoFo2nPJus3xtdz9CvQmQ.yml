@@ -1,0 +1,8 @@
+symbol: $MINERAL
+name: Mineral Token
+decimals: 0
+tags:
+  - Energy
+  - social-token
+extensions:
+  website: https://afloat.eco

@@ -1,0 +1,8 @@
+symbol: BCHBEAR
+name: BCHBEAR
+decimals: 6
+tags:
+  - leveraged
+  - bear
+extensions:
+  coingeckoId: 3x-short-bitcoin-cash-token

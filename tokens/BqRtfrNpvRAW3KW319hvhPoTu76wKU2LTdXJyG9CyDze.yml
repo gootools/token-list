@@ -1,0 +1,11 @@
+symbol: ECHO
+name: EchoDao
+decimals: 9
+tags:
+  - utility-token
+  - DAO-fork
+extensions:
+  discord: https://discord.com/invite/NtvVPs4WnY
+  serumV3Usdc: 8bjQ8XvzrDxKxHhTccpLkqGLbBrCAAPuv6KHrgN95nDW
+  twitter: https://twitter.com/echodao_sol
+  website: https://echodao.xyz

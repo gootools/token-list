@@ -1,0 +1,11 @@
+symbol: wMANA_v1
+name: Decentraland MANA (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+  assetContract: https://etherscan.io/address/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: decentraland

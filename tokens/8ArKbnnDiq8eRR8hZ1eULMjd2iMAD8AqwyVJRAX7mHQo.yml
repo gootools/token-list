@@ -1,0 +1,11 @@
+symbol: wFCL_v1
+name: Fractal Protocol Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3"
+  assetContract: https://etherscan.io/address/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: fractal

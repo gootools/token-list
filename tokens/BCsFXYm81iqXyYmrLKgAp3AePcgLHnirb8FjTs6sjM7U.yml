@@ -1,0 +1,6 @@
+symbol: weSPELL
+name: Spell Token (Wormhole)
+decimals: 8
+tags:
+  - wrapped
+  - wormhole

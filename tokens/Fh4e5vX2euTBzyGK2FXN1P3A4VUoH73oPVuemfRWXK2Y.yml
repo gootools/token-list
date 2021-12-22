@@ -1,0 +1,14 @@
+symbol: wFOX_v1
+name: ShapeShift FOX Token (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xc770eefad204b5180df6a14ee197d99d808ee52d"
+  assetContract: https://etherscan.io/address/0xc770eefad204b5180df6a14ee197d99d808ee52d
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: shapeshift-fox-token
+  github: https://github.com/shapeshift
+  twitter: https://twitter.com/ShapeShift_io
+  website: https://shapeshift.com/

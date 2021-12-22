@@ -1,0 +1,11 @@
+symbol: wDAI_v1
+name: Dai Stablecoin (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  assetContract: https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: dai

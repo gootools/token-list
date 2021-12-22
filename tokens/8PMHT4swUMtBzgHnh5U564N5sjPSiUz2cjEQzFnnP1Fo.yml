@@ -1,0 +1,8 @@
+symbol: ROPE
+name: Rope Token
+decimals: 9
+extensions:
+  coingeckoId: rope-token
+  serumV3Usdc: 4Sg1g8U2ZuGnGYxAhc6MmX9MX7yZbrrraPkCQ9MdCPtF
+  waterfallbot: https://bit.ly/ROPEwaterfall
+  website: https://ropesolana.com/

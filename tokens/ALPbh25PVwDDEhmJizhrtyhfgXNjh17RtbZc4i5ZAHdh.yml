@@ -1,0 +1,8 @@
+symbol: aeMIM-CASH
+name: Saber aeMIM-CASH LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+extensions:
+  website: https://app.saber.so/#/pools/mim_cash

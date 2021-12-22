@@ -1,0 +1,7 @@
+symbol: SLNDN
+name: Solanadon
+decimals: 9
+extensions:
+  telegramAnnouncements: https://t.me/solanadonann
+  twitter: https://twitter.com/SolanadonCoin
+  website: https://solanadon.com/

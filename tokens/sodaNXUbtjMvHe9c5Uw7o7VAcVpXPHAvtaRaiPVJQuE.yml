@@ -1,0 +1,8 @@
+symbol: SODA
+name: cheesesoda token
+decimals: 0
+extensions:
+  coingeckoId: cheesesoda-token
+  serumV3Usdc: 6KFs2wUzME8Z3AeWL4HfKkXbtik5zVvebdg5qCxqt4hB
+  twitter: https://twitter.com/cheesesodadex
+  website: https://token.cheesesoda.com

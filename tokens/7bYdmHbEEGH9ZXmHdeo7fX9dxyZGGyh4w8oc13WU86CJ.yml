@@ -1,0 +1,7 @@
+symbol: PCRD
+name: PubCred token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  website: https://pubcred.com

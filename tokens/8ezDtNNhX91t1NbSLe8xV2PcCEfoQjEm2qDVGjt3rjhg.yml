@@ -1,0 +1,9 @@
+symbol: pSOL
+name: Port Finance SOL
+decimals: 9
+tags:
+  - port
+  - lending
+  - collateral-tokens
+extensions:
+  website: https://port.finance

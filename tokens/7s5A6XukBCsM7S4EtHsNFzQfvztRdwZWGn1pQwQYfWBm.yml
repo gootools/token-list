@@ -1,0 +1,9 @@
+symbol: CERT
+name: CERT
+decimals: 4
+tags:
+  - security-token
+  - utility-token
+extensions:
+  twitter: https://twitter.com/identicert
+  website: https://identicert.com/

@@ -1,0 +1,8 @@
+symbol: MSRM
+name: MegaSerum
+decimals: 0
+extensions:
+  coingeckoId: megaserum
+  serumV3Usdc: 4VKLSYdvrQ5ngQrt1d2VS8o4ewvb2MMUZLiejbnGPV33
+  serumV3Usdt: 5nLJ22h1DUfeCfwbFxPYK8zbfbri7nA9bXoDcR8AcJjs
+  website: https://projectserum.com/

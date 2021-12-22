@@ -1,0 +1,9 @@
+symbol: SOLA
+name: SolaPAD Token (deprecated)
+decimals: 8
+tags:
+  - SOLA
+  - LaunchPAD
+extensions:
+  twitter: https://twitter.com/SolaPAD
+  website: https://www.solapad.org/

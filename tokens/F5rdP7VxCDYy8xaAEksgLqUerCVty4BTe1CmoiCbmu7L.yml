@@ -1,0 +1,8 @@
+symbol: TPW
+name: Fraktionalized Frakt-2795
+decimals: 3
+tags:
+  - fractionalized-nft
+extensions:
+  vault: https://fraktion.art/vault/5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT
+  vaultPubkey: 5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT

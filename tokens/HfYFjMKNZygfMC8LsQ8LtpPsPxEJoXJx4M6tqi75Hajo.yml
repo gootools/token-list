@@ -1,0 +1,10 @@
+symbol: CWAR
+name: Cryowar Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.com/invite/cryowar
+  telegram: https://t.me/cryowar
+  twitter: https://twitter.com/CryowarDevs
+  website: https://cryowar.com

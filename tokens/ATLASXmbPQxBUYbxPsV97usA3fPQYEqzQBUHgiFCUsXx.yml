@@ -1,0 +1,11 @@
+symbol: ATLAS
+name: Star Atlas
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  coingeckoId: star-atlas
+  description: Star Atlas Token
+  serumV3Usdc: Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K
+  waterfallbot: https://bit.ly/ATLASwaterfall
+  website: https://staratlas.com

@@ -1,0 +1,8 @@
+symbol: TRIP
+name: Trip Token
+decimals: 6
+tags:
+  - DApp
+  - community-token
+extensions:
+  website: https://www.tripprotocol.org/

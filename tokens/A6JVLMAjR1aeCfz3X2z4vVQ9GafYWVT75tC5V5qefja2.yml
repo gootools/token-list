@@ -1,0 +1,12 @@
+symbol: BULB
+name: BULB Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.gg/9NMDkGdetE
+  instagram: https://www.instagram.com/bulbappio/
+  medium: https://bulbappio.medium.com/
+  reddit: https://www.reddit.com/r/bulbappio/
+  twitter: https://twitter.com/bulbappio
+  website: https://www.bulbapp.io/

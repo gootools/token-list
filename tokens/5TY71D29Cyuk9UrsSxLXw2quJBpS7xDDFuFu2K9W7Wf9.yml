@@ -1,0 +1,5 @@
+symbol: IBVOL
+name: IBlive
+decimals: 6
+extensions:
+  coingeckoId: 1x-short-btc-implied-volatility

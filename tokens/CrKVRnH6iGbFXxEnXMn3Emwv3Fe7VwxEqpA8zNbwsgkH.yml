@@ -1,0 +1,7 @@
+symbol: MER/SOL
+name: Orca Aquafarm Token (MER/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

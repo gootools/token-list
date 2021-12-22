@@ -1,0 +1,9 @@
+symbol: FLOOF
+name: FLOOF
+decimals: 9
+extensions:
+  coingeckoId: floof
+  discord: https://discord.gg/Gr5Z8DZ67X
+  serumV3Usdc: BxcuT1p8FK9cFak4Uuf5nmoAZ7nQGu7FerCMESGqxF7b
+  twitter: https://twitter.com/FLOOF_SOLANA
+  website: https://www.floofsolana.com

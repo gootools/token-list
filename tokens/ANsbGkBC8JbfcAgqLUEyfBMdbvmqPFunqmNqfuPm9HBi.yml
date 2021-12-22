@@ -1,0 +1,10 @@
+symbol: ZGGY
+name: ZiggyCoin
+decimals: 0
+tags:
+  - social-token
+extensions:
+  facebook: https://www.facebook.com/ziggymoens
+  instagram: https://www.instagram.com/ziggymoens
+  linkedin: https://www.linkedin.com/in/ziggymoens
+  website: https://ziggymoens.github.io

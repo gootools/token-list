@@ -1,0 +1,5 @@
+symbol: SECO
+name: SECO
+decimals: 6
+extensions:
+  coingeckoId: serum-ecosystem-token

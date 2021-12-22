@@ -1,0 +1,11 @@
+symbol: VST
+name: Vesta
+decimals: 9
+tags:
+  - utility-token
+  - dex
+extensions:
+  discord: https://discord.io/vestadex
+  telegram: https://t.me/vesta_official
+  twitter: https://twitter.com/vesta_sol
+  website: https://vesta-dex.net

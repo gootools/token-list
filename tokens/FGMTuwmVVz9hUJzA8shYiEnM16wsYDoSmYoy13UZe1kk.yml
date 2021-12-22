@@ -1,0 +1,7 @@
+symbol: SHIVER
+name: Shibaverse
+decimals: 9
+extensions:
+  coingeckoId: shibaverse-token
+  twitter: https://twitter.com/theshibaverse
+  website: https://www.shibaverse.co

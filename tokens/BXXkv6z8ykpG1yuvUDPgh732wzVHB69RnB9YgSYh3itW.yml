@@ -1,0 +1,9 @@
+symbol: soUSDC
+name: Wrapped USDC (Sollet)
+decimals: 6
+tags:
+  - stablecoin
+  - wrapped-sollet
+  - ethereum
+extensions:
+  coingeckoId: usd-coin

@@ -1,0 +1,11 @@
+symbol: wXRT_v1
+name: Robonomics (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7"
+  assetContract: https://etherscan.io/address/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: robonomics-network

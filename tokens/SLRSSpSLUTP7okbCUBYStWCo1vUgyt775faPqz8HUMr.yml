@@ -1,0 +1,11 @@
+symbol: SLRS
+name: Solrise Finance
+decimals: 6
+extensions:
+  coingeckoId: solrise-finance
+  discord: https://discord.gg/xNbGgMUJfU
+  medium: https://blog.solrise.finance
+  serumV3Usdc: 2Gx3UfV831BAh8uQv1FKSPKS9yajfeeD8GJ4ZNb2o2YP
+  telegram: https://t.me/solrisefinance
+  twitter: https://twitter.com/SolriseFinance
+  website: https://solrise.finance

@@ -1,0 +1,7 @@
+symbol: SOLB
+name: Solbacker
+decimals: 6
+extensions:
+  telegram: https://t.me/solbacker
+  twitter: https://twitter.com/solbacker_io
+  website: https://www.solbacker.io/

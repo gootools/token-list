@@ -1,0 +1,11 @@
+symbol: waMANA_v1
+name: Aave interest bearing MANA (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xa685a61171bb30d4072B338c80Cb7b2c865c873E"
+  assetContract: https://etherscan.io/address/0xa685a61171bb30d4072B338c80Cb7b2c865c873E
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-mana

@@ -1,0 +1,7 @@
+symbol: SUN
+name: Sunoco LP
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?SUN

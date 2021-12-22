@@ -1,0 +1,11 @@
+symbol: waREN_v1
+name: Aave interest bearing REN (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a"
+  assetContract: https://etherscan.io/address/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-ren

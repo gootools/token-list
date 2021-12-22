@@ -1,0 +1,9 @@
+symbol: MICRO
+name: MICRODOT
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+extensions:
+  twitter: https://twitter.com/RaversCrypto
+  website: https://www.crypto-ravers.com

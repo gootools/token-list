@@ -1,0 +1,10 @@
+symbol: GAMEFI
+name: GameFi Coin
+decimals: 9
+tags:
+  - gamefi
+  - meme
+  - game-token
+extensions:
+  twitter: https://twitter.com/gameficoin
+  website: https://gameficoin.com

@@ -1,0 +1,11 @@
+symbol: wRARI_v1
+name: Rarible (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF"
+  assetContract: https://etherscan.io/address/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: rarible

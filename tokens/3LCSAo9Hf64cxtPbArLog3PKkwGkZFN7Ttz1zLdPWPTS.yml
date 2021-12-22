@@ -1,0 +1,12 @@
+symbol: MORN
+name: GoodMorning Token
+decimals: 9
+tags:
+  - meme-token
+  - community-token
+  - discord
+  - gm
+extensions:
+  discord: https://discord.gg/J8XnfSS8AV
+  twitter: https://twitter.com/token_gm
+  website: https://gmtoken.cc/

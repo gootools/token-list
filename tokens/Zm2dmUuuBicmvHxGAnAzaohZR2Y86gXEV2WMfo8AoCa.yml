@@ -1,0 +1,8 @@
+symbol: PORT/USDC
+name: Orca Double Dip Token (PORT/USDC[aquafarm])
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

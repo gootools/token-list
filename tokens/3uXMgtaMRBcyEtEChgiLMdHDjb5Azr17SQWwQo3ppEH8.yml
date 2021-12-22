@@ -1,0 +1,7 @@
+symbol: WBRZ
+name: Wrapped BRZ
+decimals: 6
+tags:
+  - exchange-token
+extensions:
+  website: https://www.brztoken.io/

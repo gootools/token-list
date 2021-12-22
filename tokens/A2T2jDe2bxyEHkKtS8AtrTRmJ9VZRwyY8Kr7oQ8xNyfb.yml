@@ -1,0 +1,10 @@
+symbol: HAMS
+name: Space Hamster
+decimals: 9
+extensions:
+  coingeckoId: space-hamster
+  coinmarketcap: https://coinmarketcap.com/currencies/space-hamster/
+  dexWebsite: https://dex-solhamster.space/
+  telegram: https://t.me/SolHamster
+  twitter: https://twitter.com/sol_hamster
+  website: https://www.solhamster.space/

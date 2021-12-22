@@ -1,0 +1,9 @@
+symbol: USDT
+name: USDT
+decimals: 6
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: tether
+  serumV3Usdc: 77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS
+  website: https://tether.to/

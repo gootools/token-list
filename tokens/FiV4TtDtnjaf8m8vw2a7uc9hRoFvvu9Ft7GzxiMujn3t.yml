@@ -1,0 +1,7 @@
+symbol: GBTC
+name: Grayscale Bitcoin Trust
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?GBTC

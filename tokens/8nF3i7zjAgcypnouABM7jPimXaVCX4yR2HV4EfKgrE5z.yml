@@ -1,0 +1,15 @@
+symbol: WPT
+name: WEPOP TOKEN
+decimals: 8
+tags:
+  - social-token
+  - utility-token
+  - community-token
+  - fun-token
+extensions:
+  description: The official Wepop.store token
+  facebook: https://www.facebook.com/Wepopdotstore
+  instagram: https://instagram.com/wepop.store
+  twitter: https://twitter.com/Wepop_store
+  website: https://wepop.store
+  youtube: https://www.youtube.com/channel/UCofafCOwPRLDuShEfnRswnA

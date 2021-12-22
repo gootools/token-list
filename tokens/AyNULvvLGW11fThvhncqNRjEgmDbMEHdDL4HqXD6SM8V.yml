@@ -1,0 +1,11 @@
+symbol: wSPI_v1
+name: Shopping.io (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7"
+  assetContract: https://etherscan.io/address/0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: shopping-io

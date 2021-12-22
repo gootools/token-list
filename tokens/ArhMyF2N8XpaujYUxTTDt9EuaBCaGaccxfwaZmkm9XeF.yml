@@ -1,0 +1,10 @@
+symbol: DOGETH
+name: Doge Thug
+decimals: 9
+tags:
+  - Meme
+  - Social
+  - Metaverse
+extensions:
+  serumV3Usdc: F1jBaKCMrxZpEgn79uduxpF2qHeqwiTQ3BwKdT6yqckd
+  website: https://dogethug.samoymeme.com

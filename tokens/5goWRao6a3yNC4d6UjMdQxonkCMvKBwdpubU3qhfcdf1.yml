@@ -1,0 +1,10 @@
+symbol: USDTpo
+name: Tether USD (Wormhole from Polygon)
+decimals: 6
+tags:
+  - wrapped
+extensions:
+  address: "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+  assetContract: https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+  bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
+  coingeckoId: tether

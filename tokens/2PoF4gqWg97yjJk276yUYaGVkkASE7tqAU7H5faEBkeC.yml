@@ -1,0 +1,12 @@
+symbol: MM
+name: Million
+decimals: 8
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  coingeckoId: million
+  discord: http://app.milliontoken.org/discord
+  reddit: https://www.reddit.com/r/milliontoken/
+  twitter: https://twitter.com/Million__Token
+  website: https://www.milliontoken.org/

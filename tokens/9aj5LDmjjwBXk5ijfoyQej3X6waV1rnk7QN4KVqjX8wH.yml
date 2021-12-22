@@ -1,0 +1,11 @@
+symbol: ARS
+name: Artists Coin
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+  - nft
+extensions:
+  instagram: https://www.instagram.com/artistscoin
+  twitter: https://twitter.com/artistscoin
+  website: https://artistscoin.xyz

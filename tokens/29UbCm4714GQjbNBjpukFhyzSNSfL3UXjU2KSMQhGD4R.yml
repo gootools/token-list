@@ -1,0 +1,9 @@
+symbol: Wen
+name: Wen Token
+decimals: 9
+tags:
+  - community-token
+  - meme-token
+  - social-token
+extensions:
+  twitter: https://twitter.com/notifbutwen

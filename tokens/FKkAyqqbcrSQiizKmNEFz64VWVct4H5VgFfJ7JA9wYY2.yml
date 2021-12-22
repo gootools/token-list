@@ -1,0 +1,7 @@
+symbol: HVT
+name: HARVEST
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  website: http://farmlands.biz/

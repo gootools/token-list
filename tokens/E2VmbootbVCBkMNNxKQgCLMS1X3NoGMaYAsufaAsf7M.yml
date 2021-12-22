@@ -1,0 +1,10 @@
+symbol: USDCpo
+name: USD Coin (Wormhole from Polygon)
+decimals: 6
+tags:
+  - wrapped
+extensions:
+  address: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+  assetContract: https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+  bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
+  coingeckoId: usd-coin

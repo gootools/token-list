@@ -1,0 +1,7 @@
+symbol: SOLV
+name: SOLVIEW
+decimals: 9
+extensions:
+  telegram: https://t.me/solviewofficial
+  twitter: https://twitter.com/Solviewapp
+  website: https://solview.app/

@@ -1,0 +1,8 @@
+symbol: PUT
+name: Pedals Up Token
+decimals: 10
+tags:
+  - personal
+  - development
+extensions:
+  website: https://pedalsup.com/

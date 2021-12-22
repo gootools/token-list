@@ -1,0 +1,8 @@
+symbol: LIZARD
+name: Lizard Token
+decimals: 4
+extensions:
+  coingeckoId: lizard-token
+  discord: https://discord.gg/zMvCkck2k2
+  twitter: https://twitter.com/Lizard_Token
+  website: http://www.lizardToken.xyz

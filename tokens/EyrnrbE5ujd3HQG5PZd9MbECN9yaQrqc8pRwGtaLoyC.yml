@@ -1,0 +1,5 @@
+symbol: abETH
+name: Wrapped ETH (Allbridge from BSC)
+decimals: 9
+extensions:
+  coingeckoId: weth

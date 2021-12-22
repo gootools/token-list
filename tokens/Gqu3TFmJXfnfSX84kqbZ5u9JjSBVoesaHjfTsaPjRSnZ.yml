@@ -1,0 +1,9 @@
+symbol: cBTC
+name: Solend BTC
+decimals: 6
+tags:
+  - solend
+  - lending
+  - collateral-tokens
+extensions:
+  website: https://solend.fi

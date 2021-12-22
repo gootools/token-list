@@ -1,0 +1,7 @@
+symbol: SOLMT
+name: Solana Meta
+decimals: 0
+tags:
+  - community-token
+extensions:
+  telegram: https://t.me/solanameta

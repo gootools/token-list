@@ -1,0 +1,8 @@
+symbol: CHAD
+name: ChadTrader Token
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/chadtraderio
+  website: https://chadtrader.io/

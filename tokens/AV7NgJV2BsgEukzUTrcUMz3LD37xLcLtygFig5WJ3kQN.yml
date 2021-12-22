@@ -1,0 +1,11 @@
+symbol: wBAND_v1
+name: BandToken (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55"
+  assetContract: https://etherscan.io/address/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: band-protocol

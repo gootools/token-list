@@ -1,0 +1,5 @@
+symbol: afBTC
+name: Wrapped BTC (Allbridge from Fantom)
+decimals: 9
+extensions:
+  coingeckoId: wrapped-bitcoin

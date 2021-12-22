@@ -1,0 +1,9 @@
+symbol: FIDA
+name: Bonfida
+decimals: 6
+extensions:
+  coingeckoId: bonfida
+  serumV3Usdc: E14BKBhDWD4EuTkWj1ooZezesGxMW8LPCps4W5PuzZJo
+  serumV3Usdt: EbV7pPpEvheLizuYX3gUCvWM8iySbSRAhu2mQ5Vz2Mxf
+  waterfallbot: https://bit.ly/FIDAwaterfall
+  website: https://bonfida.com/

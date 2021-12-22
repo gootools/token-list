@@ -1,0 +1,11 @@
+symbol: wSWFL_v1
+name: Swapfolio (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A"
+  assetContract: https://etherscan.io/address/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: swapfolio

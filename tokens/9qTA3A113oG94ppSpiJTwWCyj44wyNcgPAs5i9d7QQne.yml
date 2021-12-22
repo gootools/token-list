@@ -1,0 +1,8 @@
+symbol: $CULT
+name: Culture Coin
+decimals: 2
+tags:
+  - nft-token
+extensions:
+  twitter: https://twitter.com/vulturesnft
+  website: https://culturevultures.io

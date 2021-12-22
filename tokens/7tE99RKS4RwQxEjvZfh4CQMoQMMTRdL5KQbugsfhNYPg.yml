@@ -1,0 +1,8 @@
+symbol: FLW
+name: Flow Coin
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  serumV3Usdc: Cc2K7Ao4FtgoquT2ua7zvRuYnQMBSz2s83A5zTyR8h2z
+  website: https://moveflow.tech

@@ -1,0 +1,7 @@
+symbol: SNY
+name: Synthetify
+decimals: 6
+extensions:
+  coingeckoId: synthetify-token
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

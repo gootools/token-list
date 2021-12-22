@@ -1,0 +1,9 @@
+symbol: SLNACK
+name: SolNack
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+extensions:
+  twitter: https://twitter.com/Solnack_NFT
+  website: https://www.solnack.io/

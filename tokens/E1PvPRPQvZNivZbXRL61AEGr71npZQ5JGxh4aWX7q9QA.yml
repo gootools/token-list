@@ -1,0 +1,7 @@
+symbol: INO
+name: NoGoalToken
+decimals: 9
+extensions:
+  discord: https://discord.gg/mHS3qbBaZk
+  serumV3Usdc: HyERWE8TEQmDX157oLEpwaTc59ECzmvjUgZhZ2RNtNdn
+  website: http://token.nogoal.click/

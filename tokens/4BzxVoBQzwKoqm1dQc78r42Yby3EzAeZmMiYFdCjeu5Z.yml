@@ -1,0 +1,9 @@
+symbol: SWOLE
+name: Swole Doge
+decimals: 9
+extensions:
+  coingeckoId: swole-doge
+  discord: https://discord.gg/HfdHnhQkpB
+  serumV3Usdc: 3SGeuz8EXsyFo4HHWXQsoo8r4r5RdZkt7TuuTZiVbKc8
+  twitter: https://twitter.com/swoledoge
+  website: https://swoledogecoin.org

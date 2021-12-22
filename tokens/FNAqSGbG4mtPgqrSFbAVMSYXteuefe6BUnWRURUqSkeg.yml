@@ -1,0 +1,10 @@
+symbol: BAIS
+name: BAIS Game
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  github: https://github.com/BAISGame
+  telegram: https://t.me/BAISGame
+  twitter: https://twitter.com/BaisGame
+  website: https://baisgame.com/

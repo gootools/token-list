@@ -1,0 +1,8 @@
+symbol: SHBL LP token
+name: SHBL-USDC Cropper LP
+decimals: 8
+tags:
+  - utility-token
+  - lp-token
+extensions:
+  website: https://cropper.finance/farms/

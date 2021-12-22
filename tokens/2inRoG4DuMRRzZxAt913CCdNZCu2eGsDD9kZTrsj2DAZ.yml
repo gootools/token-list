@@ -1,0 +1,7 @@
+symbol: TSLA
+name: Tesla Inc.
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?TSLA

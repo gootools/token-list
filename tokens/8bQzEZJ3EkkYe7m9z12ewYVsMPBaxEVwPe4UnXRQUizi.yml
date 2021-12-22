@@ -1,0 +1,10 @@
+symbol: FWB
+name: FriendsWithBenefits
+decimals: 9
+tags:
+  - FWB
+  - Dating
+  - MobileApp
+extensions:
+  twitter: https://twitter.com/fwbtoken
+  website: https://www.fwb.mobi

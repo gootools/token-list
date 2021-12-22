@@ -1,0 +1,7 @@
+symbol: aeDAI
+name: Wrapped DAI (Allbridge from Ethereum)
+decimals: 9
+tags:
+  - stablecoin
+extensions:
+  coingeckoId: multi-collateral-dai

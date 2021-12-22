@@ -1,0 +1,7 @@
+symbol: FAB
+name: FABRIC
+decimals: 9
+extensions:
+  coingeckoId: fabric
+  twitter: https://twitter.com/official_fabric
+  website: https://fsynth.io/

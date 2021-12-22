@@ -1,0 +1,7 @@
+symbol: SMBT
+name: Monke Token
+decimals: 4
+extensions:
+  serumV3Usdc: ENetSmU7WTBTcTXC7Q4WcYYw3WjgwmSFTaTECBtY1Wz9
+  twitter: https://twitter.com/TokenMonke
+  website: https://tokenmonke.github.io/SMBT/

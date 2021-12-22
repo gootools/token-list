@@ -1,0 +1,7 @@
+symbol: NINJA/USDC
+name: ATRIX LP Token
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://www.atrix.finance/

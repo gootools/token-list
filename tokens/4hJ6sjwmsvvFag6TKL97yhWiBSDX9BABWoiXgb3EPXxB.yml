@@ -1,0 +1,9 @@
+symbol: GTON
+name: Graviton
+decimals: 8
+extensions:
+  blog: https://medium.com/graviton-one
+  coingeckoId: graviton
+  telegram: https://t.me/graviton_community
+  twitter: https://twitter.com/OneGraviton
+  website: https://graviton.one

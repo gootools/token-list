@@ -1,0 +1,7 @@
+symbol: WNAV
+name: Wrapped Navcoin
+decimals: 6
+tags:
+  - ethereum
+extensions:
+  website: https://navcoin.org

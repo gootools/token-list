@@ -1,0 +1,8 @@
+symbol: HIMA
+name: Himalayan Cat Coin
+decimals: 9
+extensions:
+  coingeckoId: himalayan-cat-coin
+  serumV3Usdc: HCE4wQXApNyFBTK7gYa98QCYbshCz7EkH8axNz3ahvKc
+  twitter: https://twitter.com/himacoin
+  website: https://www.himalayancatcoin.com/

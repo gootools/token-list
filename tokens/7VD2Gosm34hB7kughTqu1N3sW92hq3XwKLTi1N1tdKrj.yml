@@ -1,0 +1,11 @@
+symbol: waKNC_v1
+name: Aave interest bearing KNC (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA"
+  assetContract: https://etherscan.io/address/0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-knc

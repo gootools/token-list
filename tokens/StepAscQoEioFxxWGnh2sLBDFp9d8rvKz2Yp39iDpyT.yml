@@ -1,0 +1,11 @@
+symbol: STEP
+name: Step
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  coingeckoId: step-finance
+  serumV3Usdc: 97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S
+  twitter: https://twitter.com/StepFinance_
+  waterfallbot: https://bit.ly/STEPwaterfall
+  website: https://step.finance/

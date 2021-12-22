@@ -1,0 +1,7 @@
+symbol: BRKA
+name: Berkshire Hathaway Inc
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?BRKA

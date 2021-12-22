@@ -1,0 +1,9 @@
+symbol: WILL
+name: Will
+decimals: 9
+tags:
+  - game-token
+  - game-currency
+extensions:
+  discord: https://discord.com/channels/885149106341830666
+  twitter: https://twitter.com/Cyber_Gothica

@@ -1,0 +1,7 @@
+symbol: BB
+name: BlackBerry
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?BB

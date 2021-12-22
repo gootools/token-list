@@ -1,0 +1,12 @@
+symbol: soHGET
+name: Wrapped Hedget (Sollet)
+decimals: 6
+tags:
+  - wrapped-sollet
+  - ethereum
+extensions:
+  bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
+  coingeckoId: hedget
+  serumV3Usdc: 88vztw7RTN6yJQchVvxrs6oXUDryvpv9iJaFa1EEmg87
+  serumV3Usdt: ErQXxiNfJgd4fqQ58PuEw5xY35TZG84tHT6FXf5s4UxY
+  website: https://www.hedget.com/

@@ -1,0 +1,12 @@
+symbol: SEEDED
+name: Seeded Network
+decimals: 9
+tags:
+  - lending
+  - defi
+extensions:
+  discord: https://seeded.network/discord
+  medium: https://blog.seeded.network/
+  reddit: https://reddit.com/r/SeededNetwork
+  twitter: https://twitter.com/SeededNetwork
+  website: https://seeded.network

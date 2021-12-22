@@ -1,0 +1,7 @@
+symbol: $PNDC
+name: Pandar Coin
+decimals: 6
+tags:
+  - utility-token
+extensions:
+  website: https://www.thepandas.io/

@@ -1,0 +1,11 @@
+symbol: wHEGIC_v1
+name: Hegic (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x584bC13c7D411c00c01A62e8019472dE68768430"
+  assetContract: https://etherscan.io/address/0x584bC13c7D411c00c01A62e8019472dE68768430
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: hegic

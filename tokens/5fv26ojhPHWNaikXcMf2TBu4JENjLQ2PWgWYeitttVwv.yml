@@ -1,0 +1,11 @@
+symbol: wPAID_v1
+name: PAID Network (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df"
+  assetContract: https://etherscan.io/address/0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: paid-network

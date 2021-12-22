@@ -1,0 +1,7 @@
+symbol: mSOL-SOL
+name: Mercurial LP Token (mSOL-2Pool)
+decimals: 12
+tags:
+  - lp-token
+extensions:
+  website: https://www.mercurial.finance/

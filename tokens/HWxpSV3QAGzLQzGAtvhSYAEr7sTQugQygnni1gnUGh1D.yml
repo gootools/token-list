@@ -1,0 +1,7 @@
+symbol: xBTC
+name: Synthetic BTC
+decimals: 10
+extensions:
+  coingeckoId: bitcoin
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

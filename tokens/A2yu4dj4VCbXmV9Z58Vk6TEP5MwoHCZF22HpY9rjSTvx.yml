@@ -1,0 +1,8 @@
+symbol: winter
+name: winter token
+decimals: 9
+tags:
+  - community-token
+extensions:
+  twitter: https://twitter.com/SolsWinter
+  website: https://solswinter.io/

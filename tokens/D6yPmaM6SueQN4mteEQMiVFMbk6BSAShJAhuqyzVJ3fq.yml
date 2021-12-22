@@ -1,0 +1,9 @@
+symbol: YARN
+name: Yarn Coin
+decimals: 9
+tags:
+  - utility-token
+  - payment-token
+extensions:
+  twitter: https://twitter.com/yarncoin
+  website: https://yarncoin.io

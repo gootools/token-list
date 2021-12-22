@@ -1,0 +1,9 @@
+symbol: OXY
+name: Oxygen Protocol
+decimals: 6
+extensions:
+  coingeckoId: oxygen
+  serumV3Usdc: GZ3WBFsqntmERPwumFEYgrX2B7J7G11MzNZAy7Hje27X
+  serumV3Usdt: GKLev6UHeX1KSDCyo2bzyG6wqhByEzDBkmYTxEdmYJgB
+  waterfallbot: https://bit.ly/OXYwaterfall
+  website: https://www.oxygen.org/

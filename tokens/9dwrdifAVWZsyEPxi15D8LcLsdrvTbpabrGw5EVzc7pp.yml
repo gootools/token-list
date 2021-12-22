@@ -1,0 +1,12 @@
+symbol: NinjaDoge
+name: NinjaDoge
+decimals: 9
+tags:
+  - Meme
+  - community
+  - utility-token
+  - shib
+  - nft
+extensions:
+  serumV3Usdc: Bm6GpVJsSfhmLEwJqQxGRLBvq4Gf5ERCsY8Xp1TZzPAk
+  twitter: https://twitter.com/sol_ninja_doge

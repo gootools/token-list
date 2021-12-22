@@ -1,0 +1,8 @@
+symbol: GIG
+name: DecentGig Governance Token
+decimals: 0
+tags:
+  - utility-token
+extensions:
+  discord: https://discord.gg/wKZhV5NtGA
+  website: https://github.com/solauto/decent-gig

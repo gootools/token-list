@@ -1,0 +1,7 @@
+symbol: AUSS-USDC
+name: Raydium LP Token (AUSS-USDC)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io

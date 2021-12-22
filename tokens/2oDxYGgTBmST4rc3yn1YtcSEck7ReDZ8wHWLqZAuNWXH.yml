@@ -1,0 +1,12 @@
+symbol: wxMARK_v1
+name: Standard (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb"
+  assetContract: https://etherscan.io/address/0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: xmark
+  website: https://benchmarkprotocol.finance/

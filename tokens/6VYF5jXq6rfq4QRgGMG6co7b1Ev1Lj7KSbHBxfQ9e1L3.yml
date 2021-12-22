@@ -1,0 +1,13 @@
+symbol: wDingocoin
+name: Wrapped Dingocoin
+decimals: 8
+tags:
+  - social-token
+extensions:
+  discord: https://discord.gg/y3J946HFQM
+  facebook: https://www.facebook.com/Dingocoin.org
+  instagram: https://www.instagram.com/dingocoin
+  reddit: https://www.reddit.com/r/dingocoin
+  telegram: https://t.me/DingoCoinTalk
+  twitter: https://twitter.com/dingocoincrypto
+  website: https://dingocoin.org

@@ -1,0 +1,10 @@
+symbol: POLE
+name: Pole Aggregator Governance Token
+decimals: 6
+extensions:
+  discord: https://discord.gg/RASngHfHhS
+  github: https://github.com/pole-finance
+  medium: https://medium.com/pole-aggregator
+  serumV3Usdc: Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6
+  twitter: https://twitter.com/Pole_Finance
+  website: https://pole.finance

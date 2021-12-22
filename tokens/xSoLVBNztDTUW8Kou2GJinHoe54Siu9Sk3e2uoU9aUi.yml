@@ -1,0 +1,8 @@
+symbol: xSOL-SOL
+name: Saber xSOL-SOL LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-synthetify
+extensions:
+  website: https://app.saber.so/#/pools/xsol

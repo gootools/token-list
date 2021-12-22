@@ -1,0 +1,5 @@
+symbol: aaWBTC
+name: Wrapped BTC (Allbridge from Avalanche)
+decimals: 9
+extensions:
+  coingeckoId: wrapped-bitcoin

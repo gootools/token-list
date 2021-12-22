@@ -1,0 +1,7 @@
+symbol: SOL/USDT
+name: Orca Aquafarm Token (SOL/USDT)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

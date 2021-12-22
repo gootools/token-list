@@ -1,0 +1,7 @@
+symbol: COIN
+name: Coinbase Global Inc.
+decimals: 8
+tags:
+  - tokenized-stock
+extensions:
+  website: https://www.digitalassets.ag/UnderlyingDetails?COIN

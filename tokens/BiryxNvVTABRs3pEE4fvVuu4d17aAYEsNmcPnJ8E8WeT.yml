@@ -1,0 +1,5 @@
+symbol: afETH
+name: Wrapped ETH (Allbridge from Fantom)
+decimals: 9
+extensions:
+  coingeckoId: weth

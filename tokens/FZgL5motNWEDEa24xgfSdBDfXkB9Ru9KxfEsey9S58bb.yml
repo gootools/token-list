@@ -1,0 +1,10 @@
+symbol: VCC
+name: VentureCapital
+decimals: 6
+tags:
+  - liquidator
+  - IDO
+  - incubator
+extensions:
+  twitter: https://twitter.com/vcc_finance
+  website: https://www.vcc.finance/

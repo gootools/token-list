@@ -1,0 +1,6 @@
+symbol: BLD
+name: BladesToken
+decimals: 4
+extensions:
+  twitter: https://twitter.com/bladesfinance
+  website: https://blades.finance/

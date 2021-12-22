@@ -1,0 +1,7 @@
+symbol: MOUNT
+name: MOUNT
+decimals: 9
+extensions:
+  coingeckoId: metamounts
+  twitter: https://twitter.com/MetaMounts
+  website: https://metamounts.io/

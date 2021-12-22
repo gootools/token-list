@@ -1,0 +1,7 @@
+symbol: KEVIN
+name: Kevin Token
+decimals: 3
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/kevarifin

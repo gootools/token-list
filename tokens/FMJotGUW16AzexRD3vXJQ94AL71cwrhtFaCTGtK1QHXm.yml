@@ -1,0 +1,7 @@
+symbol: LRA
+name: Lumos Rewards
+decimals: 9
+tags:
+  - social-token
+extensions:
+  website: https://lumos.exchange

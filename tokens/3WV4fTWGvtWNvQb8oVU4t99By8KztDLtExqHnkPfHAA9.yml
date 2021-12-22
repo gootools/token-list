@@ -1,0 +1,7 @@
+symbol: PAW
+name: CopyCats token
+decimals: 9
+extensions:
+  discord: http://discord.copycats.digital/
+  twitter: https://twitter.com/copycatssol
+  website: https://www.copycats.digital/

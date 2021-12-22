@@ -1,0 +1,11 @@
+symbol: PUPPY
+name: Puppy
+decimals: 9
+tags:
+  - meme
+  - Community-token
+  - utility-token
+extensions:
+  discord: https://discord.gg/Vzp5BYr4FC
+  serumV3Usdc: GQQKuYXvdDV8qYMAaZDMuXYdhk1cokWhtSqULWnHZ6Gy
+  website: https://puppycoin.eu/

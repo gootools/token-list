@@ -1,0 +1,7 @@
+symbol: KLB-USDC
+name: Raydium LP Token (KLB-USDC)
+decimals: 0
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io

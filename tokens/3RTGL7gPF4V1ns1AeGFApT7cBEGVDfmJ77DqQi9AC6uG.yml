@@ -1,0 +1,8 @@
+symbol: mSOL/SOL
+name: Orca Aquafarm Token (mSOL/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  twitter: https://twitter.com/orca_so
+  website: https://www.orca.so

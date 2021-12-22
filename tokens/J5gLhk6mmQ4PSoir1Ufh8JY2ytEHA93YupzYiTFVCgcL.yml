@@ -1,0 +1,5 @@
+symbol: FAROUT
+name: Far-Out Token
+decimals: 9
+extensions:
+  website: https://gitlab.com/far-out/far-out-token

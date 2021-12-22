@@ -1,0 +1,9 @@
+symbol: ASL
+name: ASL Moto Token
+decimals: 3
+tags:
+  - utility-token
+  - Defi-Token
+extensions:
+  telegram: https://t.me/Artur_buell
+  website: https://instalinks.ru/ArturBuell

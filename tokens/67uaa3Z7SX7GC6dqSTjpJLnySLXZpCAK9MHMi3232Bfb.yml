@@ -1,0 +1,10 @@
+symbol: waYFI_v1
+name: Aave interest bearing YFI (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x5165d24277cD063F5ac44Efd447B27025e888f37"
+  assetContract: https://etherscan.io/address/0x5165d24277cD063F5ac44Efd447B27025e888f37
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678

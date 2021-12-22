@@ -1,0 +1,8 @@
+symbol: xAURY
+name: Aurory
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  description: Aurory Token
+  website: https://aurory.io/staking

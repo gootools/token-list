@@ -1,0 +1,11 @@
+symbol: wTRU_v1
+name: TrustToken (Wormhole v1)
+decimals: 8
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784"
+  assetContract: https://etherscan.io/address/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: truefi

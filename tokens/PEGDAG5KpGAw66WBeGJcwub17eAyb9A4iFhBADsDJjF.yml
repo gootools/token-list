@@ -1,0 +1,10 @@
+symbol: SOLM
+name: Solanim
+decimals: 8
+tags:
+  - utility-token
+  - nft
+extensions:
+  telegram: https://t.me/teamsolanim
+  twitter: https://twitter.com/teamsolanim
+  website: https://solanim.com/

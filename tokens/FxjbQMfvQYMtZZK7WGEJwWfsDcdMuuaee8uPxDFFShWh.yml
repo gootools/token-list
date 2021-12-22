@@ -1,0 +1,13 @@
+symbol: UPFI
+name: UPFI stablecoin (UPFI Network)
+decimals: 6
+tags:
+  - stablecoin
+extensions:
+  discord: https://discord.gg/nHMDdyAggx
+  facebook: https://www.facebook.com/UPFInetwork
+  medium: https://upfinetwork.medium.com
+  serumV3Usdc: SyQ4KyF5Y1MPPkkf9LGNA6JpkVmis53HrpPvJ1ZUFwK
+  telegram: https://t.me/upfinetworkchannel
+  twitter: https://twitter.com/upfi_network
+  website: https://upfi.network/

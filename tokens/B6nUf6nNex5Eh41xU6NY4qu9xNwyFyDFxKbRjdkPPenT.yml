@@ -1,0 +1,10 @@
+symbol: DIGART
+name: Digital Artists Coin
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+  - nft
+extensions:
+  twitter: https://twitter.com/digartcoin
+  website: https://digartcoin.xyz

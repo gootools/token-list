@@ -1,0 +1,13 @@
+symbol: APT
+name: Apricot
+decimals: 6
+tags:
+  - apricot
+  - lending
+  - x-farm
+extensions:
+  coingeckoId: apricot
+  discord: https://discord.gg/Aw6MEUue
+  medium: https://apricotfinance.medium.com/
+  twitter: https://twitter.com/ApricotFinance
+  website: https://apricot.one

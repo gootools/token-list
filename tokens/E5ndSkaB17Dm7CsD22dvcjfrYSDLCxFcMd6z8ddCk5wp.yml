@@ -1,0 +1,8 @@
+symbol: RIN
+name: Aldrin
+decimals: 9
+extensions:
+  coingeckoId: aldrin
+  serumV3Usdc: 7gZNLDbWE73ueAoHuAeFoSu7JqmorwCLpNTBXHtYSFTa
+  twitter: https://twitter.com/Aldrin_Exchange
+  website: https://rin.aldrin.com/

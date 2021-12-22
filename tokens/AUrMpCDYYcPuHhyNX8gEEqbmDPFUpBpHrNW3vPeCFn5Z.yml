@@ -1,0 +1,5 @@
+symbol: AVAX
+name: AVAX (Allbridge from Avalanche)
+decimals: 9
+extensions:
+  coingeckoId: avalanche

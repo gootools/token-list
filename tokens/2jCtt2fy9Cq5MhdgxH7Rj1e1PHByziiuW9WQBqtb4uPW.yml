@@ -1,0 +1,10 @@
+symbol: HOTROD
+name: Hotrod Token
+decimals: 0
+tags:
+  - social-token
+  - utility-token
+extensions:
+  discord: https://discord.gg/bYY7CsgN7y
+  twitter: https://twitter.com/HottestRods
+  website: https://hottestrods.com/

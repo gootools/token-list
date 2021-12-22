@@ -1,0 +1,8 @@
+symbol: CNORD
+name: Crypto Nord
+decimals: 0
+tags:
+  - social-token
+extensions:
+  twitter: https://twitter.com/RealCryptoNord
+  website: https://crypto-nord.de/

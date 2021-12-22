@@ -1,0 +1,6 @@
+symbol: TIX
+name: Tix Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/TixToken
+  website: https://tixtoken.io/

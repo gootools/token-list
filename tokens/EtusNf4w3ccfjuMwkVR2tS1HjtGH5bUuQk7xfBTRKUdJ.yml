@@ -1,0 +1,12 @@
+symbol: NFTCO
+name: NFTs Coin
+decimals: 0
+tags:
+  - nfts
+  - nfts
+  - nft-token
+  - social-token
+extensions:
+  telegram: https://t.me/nfts_coin
+  twitter: https://twitter.com/nfts_coin
+  website: https://nftsco.in

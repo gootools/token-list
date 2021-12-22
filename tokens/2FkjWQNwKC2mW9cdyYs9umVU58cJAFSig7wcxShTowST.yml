@@ -1,0 +1,5 @@
+symbol: AUTH
+name: Auth Token
+decimals: 2
+tags:
+  - utility-token

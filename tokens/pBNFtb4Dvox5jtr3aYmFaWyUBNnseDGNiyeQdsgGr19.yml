@@ -1,0 +1,13 @@
+symbol: KEY
+name: Mysteria Game Key
+decimals: 0
+tags:
+  - game
+  - ticket
+  - fungible
+  - key
+  - puzzle
+extensions:
+  discord: https://discord.com/invite/VRWxVCYrBb
+  twitter: https://twitter.com/play_mysteria
+  website: https://playmysteria.com

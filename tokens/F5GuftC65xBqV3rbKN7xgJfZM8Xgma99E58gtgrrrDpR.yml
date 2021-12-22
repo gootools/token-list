@@ -1,0 +1,5 @@
+symbol: USD
+name: TETHER USD
+decimals: 6
+tags:
+  - social-token

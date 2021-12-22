@@ -1,0 +1,7 @@
+symbol: NFTSUPER
+name: SOLKITTY NFT Super Chicken
+decimals: 6
+tags:
+  - nft
+extensions:
+  website: https://solkitty.io/nft/super-chicken

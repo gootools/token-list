@@ -1,0 +1,5 @@
+symbol: HOLY
+name: HOLY
+decimals: 6
+extensions:
+  coingeckoId: holy-trinity

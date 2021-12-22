@@ -1,0 +1,9 @@
+symbol: FUM
+name: FUMoney
+decimals: 9
+tags:
+  - social-token
+  - utility-token
+extensions:
+  twitter: https://twitter.com/FUMindset
+  website: https://FUMoney.io/

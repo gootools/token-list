@@ -1,0 +1,9 @@
+symbol: $BOJACK
+name: Bojack Coin
+decimals: 6
+tags:
+  - social-token
+  - utility-token
+  - meta-verse
+extensions:
+  website: https://bojackhorsecoin.com

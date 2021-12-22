@@ -1,0 +1,11 @@
+symbol: waBUSD_v1
+name: Aave interest bearing BUSD (Wormhole v1)
+decimals: 9
+tags:
+  - wrapped
+  - wormhole
+extensions:
+  address: "0xA361718326c15715591c299427c62086F69923D9"
+  assetContract: https://etherscan.io/address/0xA361718326c15715591c299427c62086F69923D9
+  bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: aave-busd

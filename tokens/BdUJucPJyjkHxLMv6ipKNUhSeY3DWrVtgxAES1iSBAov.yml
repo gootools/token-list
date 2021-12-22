@@ -1,0 +1,7 @@
+symbol: xSOL
+name: Synthetic SOL
+decimals: 9
+extensions:
+  coingeckoId: solana
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

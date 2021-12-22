@@ -1,0 +1,8 @@
+symbol: DXL
+name: Dexlab
+decimals: 6
+extensions:
+  coingeckoId: dexlab
+  serumV3Usdc: DYfigimKWc5VhavR4moPBibx9sMcWYVSjVdWvPztBPTa
+  twitter: https://twitter.com/dexlab_official
+  website: https://www.dexlab.space/

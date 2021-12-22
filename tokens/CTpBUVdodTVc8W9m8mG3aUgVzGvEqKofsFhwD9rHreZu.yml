@@ -1,0 +1,7 @@
+symbol: RDC
+name: RDC Token
+decimals: 0
+tags:
+  - social-token
+extensions:
+  website: https://radu.ursache.ro

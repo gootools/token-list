@@ -1,0 +1,10 @@
+symbol: OOGI
+name: OOGI
+decimals: 9
+extensions:
+  coingeckoId: oogi
+  discord: https://discord.gg/oogi
+  serumV3Usdc: ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub
+  telegram: https://t.me/oogicoin
+  twitter: https://twitter.com/oogicoin
+  website: https://oogi.com/

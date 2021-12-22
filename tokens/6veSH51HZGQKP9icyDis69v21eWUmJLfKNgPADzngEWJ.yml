@@ -1,0 +1,5 @@
+symbol: ZKL
+name: zkrollup cross chain link
+decimals: 9
+extensions:
+  website: https://zk.link

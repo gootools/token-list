@@ -1,0 +1,10 @@
+symbol: KissMe
+name: "Kiss Me "
+decimals: 9
+tags:
+  - meme
+  - community
+  - utility-token
+extensions:
+  serumV3Usdc: 91WiupLKLjP8ENihdgiZ53j49aosNm1EYXdLbRD6GAY4
+  website: https://kissme.samoymeme.com

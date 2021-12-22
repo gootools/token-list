@@ -1,0 +1,7 @@
+symbol: META
+name: Metaplex
+decimals: 6
+extensions:
+  github: https://github.com/metaplex-foundation/metaplex
+  twitter: https://twitter.com/metaplex
+  website: https://metaplex.com

@@ -1,0 +1,10 @@
+symbol: FU
+name: Fu Coin
+decimals: 9
+tags:
+  - social-token
+  - community-token
+  - utility-token
+  - meme-token
+extensions:
+  website: https://fucoin.me

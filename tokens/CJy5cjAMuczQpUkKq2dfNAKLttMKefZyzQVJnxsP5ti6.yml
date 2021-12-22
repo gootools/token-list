@@ -1,0 +1,7 @@
+symbol: GRAVITY
+name: GRAVITY
+decimals: 4
+tags:
+  - community-token
+extensions:
+  discord: https://discord.com/invite/gravityToken

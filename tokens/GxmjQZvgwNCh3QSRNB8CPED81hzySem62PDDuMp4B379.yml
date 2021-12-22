@@ -1,0 +1,7 @@
+symbol: BTC/SOL
+name: Orca Aquafarm Token (BTC/SOL)
+decimals: 6
+tags:
+  - lp-token
+extensions:
+  website: https://orca.so

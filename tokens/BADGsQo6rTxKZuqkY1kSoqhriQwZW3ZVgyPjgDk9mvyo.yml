@@ -1,0 +1,8 @@
+symbol: wibBTCV1-BTC
+name: Saber wibBTC_V1-BTC LP
+decimals: 9
+tags:
+  - saber-stableswap-lp
+  - saber-lp-wormhole-v1
+extensions:
+  website: https://app.saber.so/#/pools/ibbtc

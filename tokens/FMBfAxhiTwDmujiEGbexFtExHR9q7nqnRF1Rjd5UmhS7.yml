@@ -1,0 +1,8 @@
+symbol: BACON
+name: BACON tokens
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/SolanaBacon
+  website: https://swinegang.com/
