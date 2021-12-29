@@ -9,8 +9,9 @@ const {
   string,
 } = require("superstruct");
 const { parse } = require("yaml");
+const { join } = require("path");
 
-const tags = require("./tags.json");
+const tags = require(join(__dirname, "../tags.json"));
 
 const Tag = define("Tag", (tag) => Boolean(tags[tag]));
 
@@ -100,7 +101,7 @@ async function readFiles(dirname) {
   );
 
   await Promise.all(
-    Object.entries(allNetworks).map(([network, {tags: usedTags, tokens}]) =>
+    Object.entries(allNetworks).map(([network, { tags: usedTags, tokens }]) =>
       writeFile(
         `${network}.json`,
         JSON.stringify(
@@ -128,4 +129,5 @@ async function readFiles(dirname) {
   );
 }
 
-readFiles("tokens/");
+// readFiles("tokens/");
+readFiles(join(__dirname, "../tokens/"));

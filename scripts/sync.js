@@ -1,8 +1,8 @@
-const { tokens } = require("./solana.tokenlist.json");
+const { tokens } = require("../solana.tokenlist.json");
 const { stringify } = require("yaml");
 const { writeFile, mkdir } = require("fs/promises");
 
-const tags = {};
+// const tags = {};
 
 const parse = async () => {
   await mkdir(`tokens`, { recursive: true });
@@ -14,7 +14,10 @@ const parse = async () => {
         const ob = stringify(rest);
         // rest.tags?.forEach(tag => {tags[tag] = {}})
         await mkdir(`tokens/${address[0].toLowerCase()}`, { recursive: true });
-        await writeFile(`tokens/${address[0].toLowerCase()}/${address}.yml`, ob);
+        await writeFile(
+          `tokens/${address[0].toLowerCase()}/${address}.yml`,
+          ob
+        );
       })
   );
 

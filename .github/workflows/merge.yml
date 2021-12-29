@@ -1,0 +1,25 @@
+name: Merge Check
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - main
+
+jobs:
+  merge_check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.24.4
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: lts/*
+          # cache: pnpm
+          # cache-dependency-path: "**/pnpm-lock.yaml"
+
+      - run: pnpm install
