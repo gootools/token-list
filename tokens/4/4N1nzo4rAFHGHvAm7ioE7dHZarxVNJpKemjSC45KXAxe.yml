@@ -1,9 +1,9 @@
 symbol: BELL
 name: Michelle Coin
 decimals: 0
-tags:
-  - social-token
-  - meme-token
-  - community-token
 extensions:
   description: Michelle, ma belle, These are words that go together well, My Michelle
+tags:
+  - community-token
+  - meme-token
+  - social-token

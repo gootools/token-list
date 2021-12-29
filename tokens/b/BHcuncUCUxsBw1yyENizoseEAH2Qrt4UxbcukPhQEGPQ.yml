@@ -1,10 +1,10 @@
 symbol: FCKU
 name: FCKU
 decimals: 9
-tags:
-  - utility-token
-  - NFTS
-  - Community-Token
 extensions:
   description: Moonverse Launchpad Utility Token
   website: https://rascalsnft.com
+tags:
+  - Community-Token
+  - NFTS
+  - utility-token

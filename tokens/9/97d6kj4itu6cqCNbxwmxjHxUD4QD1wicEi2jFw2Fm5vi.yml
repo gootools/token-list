@@ -1,10 +1,10 @@
 symbol: DEEZ
 name: Deez Nuts
 decimals: 9
-tags:
-  - meme-token
-  - community-token
 extensions:
   serumV3Usdc: DcKJGNX3rAiEgEFKQiaYx9qydhy2z5vHdHTFjLa4KvGq
   twitter: https://twitter.com/DeezSolana
   website: https://deezsolana.com
+tags:
+  - community-token
+  - meme-token

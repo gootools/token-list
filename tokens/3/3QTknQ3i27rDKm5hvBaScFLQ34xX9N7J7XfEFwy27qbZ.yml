@@ -1,11 +1,11 @@
 symbol: waWBTC_v1
 name: Aave interest bearing WBTC (Wormhole v1)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656"
   assetContract: https://etherscan.io/address/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-wbtc
+tags:
+  - wrapped
+  - wormhole

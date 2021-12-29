@@ -1,7 +1,7 @@
 symbol: KNSR
 name: KNSR Token
 decimals: 0
-tags:
-  - social-token
 extensions:
   website: https://www.knsr.io/
+tags:
+  - social-token

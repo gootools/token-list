@@ -2,6 +2,6 @@ symbol: FEES
 name: FEES Coin
 decimals: 0
 tags:
-  - social-token
   - fan-token
+  - social-token
   - utility-token

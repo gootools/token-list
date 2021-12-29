@@ -1,9 +1,9 @@
 symbol: BLLB
 name: Bilal Bayrak Test Coin
 decimals: 8
-tags:
-  - test-token
 extensions:
   website: https://bilalbayrak.com
+tags:
+  - test-token
 clusters:
-  - testnet
+  - devnet

@@ -1,12 +1,12 @@
 symbol: Ticket
 name: Valknut Gold
 decimals: 0
-tags:
-  - utility-token
-  - gift
-  - game-coin
-  - gaming
 extensions:
   discord: https://discord.com/invite/JXKEDfYGGa
   twitter: https://twitter.com/solvikingsnft
   website: https://solvikings.com/
+tags:
+  - gift
+  - game-coin
+  - gaming
+  - utility-token

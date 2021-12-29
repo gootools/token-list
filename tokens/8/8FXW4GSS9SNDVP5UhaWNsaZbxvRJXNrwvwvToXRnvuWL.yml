@@ -1,7 +1,7 @@
 symbol: KNB
 name: KNB
 decimals: 9
-tags:
-  - knb-token
 extensions:
   website: https://solatoken.net/
+tags:
+  - knb-token

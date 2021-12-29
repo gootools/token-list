@@ -1,7 +1,7 @@
 symbol: NFTOTFT
 name: SOLKITTY NFT BOSS APE 6
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/boss-ape-6
+tags:
+  - nft

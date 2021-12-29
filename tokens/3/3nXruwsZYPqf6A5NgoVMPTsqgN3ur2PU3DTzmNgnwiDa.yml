@@ -1,12 +1,6 @@
 symbol: ESA
 name: Esculap
 decimals: 9
-tags:
-  - health
-  - eBank
-  - DLTAI
-  - predictions
-  - database
 extensions:
   facebook: https://www.facebook.com/Esculap-110660738044410
   instagram: https://www.instagram.com/esculapesa/
@@ -15,3 +9,9 @@ extensions:
   twitter: https://twitter.com/EsculapESA
   website: https://esculap.uk
   youtube: https://youtube.com/channel/UCBlLNzv4H6EgL_th2sNmtWQ
+tags:
+  - database
+  - DLTAI
+  - eBank
+  - health
+  - predictions

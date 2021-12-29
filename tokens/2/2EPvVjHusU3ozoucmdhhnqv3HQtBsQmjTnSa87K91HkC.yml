@@ -1,8 +1,8 @@
 symbol: MIDBEAR
 name: MIDBEAR
 decimals: 6
-tags:
-  - leveraged
-  - bear
 extensions:
   coingeckoId: 3x-short-midcap-index-token
+tags:
+  - bear
+  - leveraged

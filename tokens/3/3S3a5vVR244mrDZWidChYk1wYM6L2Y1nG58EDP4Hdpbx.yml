@@ -1,9 +1,9 @@
 symbol: $PETE
 name: PETE Token
 decimals: 9
-tags:
-  - nft-token
 extensions:
   discord: https://discord.gg/wt3PwDSETz
   twitter: https://twitter.com/Pricklyplatoons
   website: https://www.pricklypetesplatoon.army/
+tags:
+  - nft-token

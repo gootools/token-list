@@ -1,11 +1,11 @@
 symbol: wSWAP_v1
 name: TrustSwap Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe"
   assetContract: https://etherscan.io/address/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: trustswap
+tags:
+  - wrapped
+  - wormhole

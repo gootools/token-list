@@ -1,8 +1,8 @@
 symbol: UWT
 name: Solana Underworld Token
 decimals: 0
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/SolSnatchersNFT
   website: https://solsnatchers.com/
+tags:
+  - utility-token

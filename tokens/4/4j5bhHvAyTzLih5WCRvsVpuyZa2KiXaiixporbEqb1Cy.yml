@@ -4,5 +4,5 @@ decimals: 0
 tags:
   - social-token
 clusters:
+  - devnet
   - mainnet-beta
-  - testnet

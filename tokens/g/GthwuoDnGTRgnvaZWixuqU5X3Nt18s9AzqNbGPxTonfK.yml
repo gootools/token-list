@@ -1,8 +1,8 @@
 symbol: JMKA
 name: Jacob Makarsky Social Token
 decimals: 9
-tags:
-  - social-token
-  - jamaka
 extensions:
   website: https://www.makarsky.dev/
+tags:
+  - jamaka
+  - social-token

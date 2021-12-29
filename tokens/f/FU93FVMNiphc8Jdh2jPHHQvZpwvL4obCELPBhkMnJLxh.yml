@@ -1,7 +1,7 @@
 symbol: RZZ
 name: Razzmena compnay Token
 decimals: 9
-tags:
-  - lp-token
 extensions:
   website: https://razzmena.com
+tags:
+  - lp-token

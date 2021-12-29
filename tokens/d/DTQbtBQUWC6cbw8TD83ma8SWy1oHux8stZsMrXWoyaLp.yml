@@ -1,7 +1,7 @@
 symbol: KPLR
 name: KEPLER PAY
 decimals: 9
-tags:
-  - coin
 extensions:
   website: https://wtmakers.com
+tags:
+  - coin

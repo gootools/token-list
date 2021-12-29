@@ -1,11 +1,11 @@
 symbol: soKEEP
 name: Wrapped KEEP (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: keep-network
   serumV3Usdc: 3rgacody9SvM88QR83GHaNdEEx4Fe2V2ed5GJp2oeKDr
   serumV3Usdt: HEGnaVL5i48ubPBqWAhodnZo8VsSLzEM3Gfc451DnFj9
+tags:
+  - ethereum
+  - wrapped-sollet

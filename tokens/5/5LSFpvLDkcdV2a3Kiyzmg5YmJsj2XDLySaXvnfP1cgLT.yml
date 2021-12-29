@@ -1,9 +1,9 @@
 symbol: DOGO
 name: Dogemon
 decimals: 6
-tags:
-  - GameFi
-  - NFT
-  - DogemonGo
 extensions:
   website: https://dogemongo.com/
+tags:
+  - DogemonGo
+  - GameFi
+  - NFT

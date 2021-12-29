@@ -1,8 +1,8 @@
 symbol: IGNFTIPK
 name: Instagram NFT IPK
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/4iPKfHxmYX29fr5nnXdNifA52GJKokWeRmQ67hApGySJ
+tags:
+  - instagram
+  - nft

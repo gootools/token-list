@@ -1,10 +1,10 @@
 symbol: BABYTIGER
 name: Baby Tiger
 decimals: 9
-tags:
-  - meme-token
-  - community-token
-  - babytiger
 extensions:
   twitter: https://twitter.com/babytigergold
   website: https://www.babytiger.gold
+tags:
+  - babytiger
+  - community-token
+  - meme-token

@@ -1,8 +1,8 @@
 symbol: BLOCKING
 name: Blocking
 decimals: 8
-tags:
-  - NFT
-  - Blocking
 extensions:
   website: http://blocking.adchunha.com/
+tags:
+  - Blocking
+  - NFT

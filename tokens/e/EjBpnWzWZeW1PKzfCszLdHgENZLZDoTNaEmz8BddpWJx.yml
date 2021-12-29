@@ -1,11 +1,11 @@
 symbol: wANT_v1
 name: Aragon Network Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
   assetContract: https://etherscan.io/address/0xa117000000f279D81A1D3cc75430fAA017FA5A2e
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aragon
+tags:
+  - wrapped
+  - wormhole

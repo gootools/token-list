@@ -1,11 +1,11 @@
 symbol: INU
 name: Solana INU
 decimals: 9
-tags:
-  - Meme-token
 extensions:
   coingeckoId: solana-inu
   discord: https://discord.gg/solanainu
   serumV3Usdc: G3Bss3a2tif6eHNzWCh14g5k2H4rwBAmE42tbckUWG5T
   twitter: https://twitter.com/solanainu
   website: http://solanainu.org
+tags:
+  - Meme-token

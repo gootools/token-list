@@ -1,8 +1,8 @@
 symbol: ZERX
 name: Zerxes
 decimals: 9
+extensions:
+  twitter: https://twitter.com/ZerxesCrypto
 tags:
   - zerx
   - zerxes
-extensions:
-  twitter: https://twitter.com/ZerxesCrypto

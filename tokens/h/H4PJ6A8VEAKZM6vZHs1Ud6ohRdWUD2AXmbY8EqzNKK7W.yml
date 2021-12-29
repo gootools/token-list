@@ -1,12 +1,6 @@
 symbol: OXYG
 name: Oxy Gem
 decimals: 9
-tags:
-  - utility-token
-  - game-token
-  - game-currency
-  - GameFi
-  - Gaming
 extensions:
   description: OxySpace is the next-gen esports metaverse empowering players to
     create, play, compete, and earn.
@@ -14,3 +8,9 @@ extensions:
   instagram: https://www.instagram.com/oxyspace.app
   twitter: https://twitter.com/oxyspace_app
   website: https://www.oxyspace.app
+tags:
+  - game-token
+  - game-currency
+  - GameFi
+  - Gaming
+  - utility-token

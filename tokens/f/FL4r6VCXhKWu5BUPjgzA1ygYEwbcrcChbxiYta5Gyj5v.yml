@@ -1,9 +1,9 @@
 symbol: BATTLE
 name: Battle Drones
 decimals: 6
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/jRz63Dsa3p
   twitter: https://twitter.com/BattleDronesNFT
   website: https://battledronesnft.com/
+tags:
+  - utility-token

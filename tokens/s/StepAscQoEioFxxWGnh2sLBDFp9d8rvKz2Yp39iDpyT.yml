@@ -1,13 +1,13 @@
 symbol: STEP
 name: Step
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: step-finance
   twitter: https://twitter.com/StepFinance_
   waterfallbot: https://bit.ly/STEPwaterfall
   website: https://step.finance/
+tags:
+  - utility-token
 clusters:
+  - devnet
   - mainnet-beta
-  - testnet

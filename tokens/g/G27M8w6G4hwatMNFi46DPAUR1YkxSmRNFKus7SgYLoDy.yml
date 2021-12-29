@@ -1,11 +1,11 @@
 symbol: wCVP_v1
 name: Concentrated Voting Power (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1"
   assetContract: https://etherscan.io/address/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: concentrated-voting-power
+tags:
+  - wrapped
+  - wormhole

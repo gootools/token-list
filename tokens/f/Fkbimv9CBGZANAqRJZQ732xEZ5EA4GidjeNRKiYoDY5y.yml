@@ -1,12 +1,12 @@
 symbol: FLOKI
 name: Floki Inu SOL
 decimals: 9
-tags:
-  - meme-token
-  - DOGE
-  - NFT
-  - community
-  - FLOKI
 extensions:
   twitter: https://twitter.com/floki_sol
   website: https://solscan.io/token/Fkbimv9CBGZANAqRJZQ732xEZ5EA4GidjeNRKiYoDY5y
+tags:
+  - community
+  - DOGE
+  - FLOKI
+  - meme-token
+  - NFT

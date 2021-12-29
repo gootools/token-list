@@ -1,8 +1,8 @@
 symbol: MEDSAF
 name: MEDSAF TOKEN
 decimals: 8
+extensions:
+  website: https://medsaf.com
 tags:
   - medsaf-token
   - medical-token
-extensions:
-  website: https://medsaf.com

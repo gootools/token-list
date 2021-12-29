@@ -1,7 +1,7 @@
 symbol: NFTPANTH
 name: SOLKITTY NFT PANTHER CYBER PUNK
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/panther-cyber-punk
+tags:
+  - nft

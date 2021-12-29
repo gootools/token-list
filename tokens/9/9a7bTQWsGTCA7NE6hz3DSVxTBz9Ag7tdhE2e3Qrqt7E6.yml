@@ -1,8 +1,8 @@
 symbol: AC
 name: Alpaca Coin
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   description: Alpaca Bi's Cryptocurrency
+tags:
+  - community-token
+  - social-token

@@ -1,7 +1,7 @@
 symbol: NFTCDEA
 name: SOLKITTY NFT SPACE APE
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/space-ape
+tags:
+  - nft

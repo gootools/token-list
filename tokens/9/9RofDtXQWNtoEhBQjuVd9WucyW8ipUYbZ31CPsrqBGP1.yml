@@ -1,7 +1,7 @@
 symbol: PBZ
 name: Pebblez
 decimals: 8
-tags:
-  - community-token
 extensions:
   facebook: https://www.facebook.com/pebbleztoken
+tags:
+  - community-token

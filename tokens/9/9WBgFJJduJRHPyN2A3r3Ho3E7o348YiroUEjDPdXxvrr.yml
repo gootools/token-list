@@ -1,7 +1,7 @@
 symbol: NFTPEACH
 name: SOLKITTY NFT PEACH JUICE
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/peach-juice
+tags:
+  - nft

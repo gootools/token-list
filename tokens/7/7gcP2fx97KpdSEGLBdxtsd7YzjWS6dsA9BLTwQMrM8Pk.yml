@@ -2,12 +2,12 @@ symbol: GoldWormDev
 name: Gold Worm Dev
 decimals: 0
 tags:
+  - Auction
   - Book
   - BookWorm
+  - Cupon
   - NFT
   - Publisher
-  - Auction
-  - Cupon
   - Perks
 clusters:
-  - testnet
+  - devnet

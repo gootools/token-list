@@ -1,8 +1,8 @@
 symbol: pUSDT-pUSDC
 name: Saber pUSDT-pUSDC LP
 decimals: 6
+extensions:
+  website: https://app.saber.so/#/pools/port_2pool
 tags:
   - saber-stableswap-lp
   - saber-lp-port
-extensions:
-  website: https://app.saber.so/#/pools/port_2pool

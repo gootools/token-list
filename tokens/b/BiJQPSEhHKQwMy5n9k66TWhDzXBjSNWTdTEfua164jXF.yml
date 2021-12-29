@@ -1,10 +1,10 @@
 symbol: JTSN
 name: Jetson
 decimals: 9
-tags:
-  - coin
-  - AI
-  - IoT
-  - Automation
 extensions:
   website: https://www.jetson.ai/
+tags:
+  - AI
+  - Automation
+  - coin
+  - IoT

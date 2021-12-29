@@ -1,8 +1,8 @@
 symbol: MBB
 name: Fraktionalized MBB 2793
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/4q9s7Y3sAgbNi7AVwRSHJEnEWxugn8Fntk928rRsi6d9
   vaultPubkey: 4q9s7Y3sAgbNi7AVwRSHJEnEWxugn8Fntk928rRsi6d9
+tags:
+  - fractionalized-nft

@@ -1,8 +1,8 @@
 symbol: mSOL/SOL[stable]
 name: Orca Double Dip Token (mSOL/SOL[stable][aquafarm])
 decimals: 6
-tags:
-  - lp-token
 extensions:
   twitter: https://twitter.com/orca_so
   website: https://www.orca.so
+tags:
+  - lp-token

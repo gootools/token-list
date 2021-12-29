@@ -1,13 +1,13 @@
 symbol: RACEFI
 name: RaceFi Token
 decimals: 6
-tags:
-  - RaceFi
-  - Metaverse
-  - GameFi
-  - solana
-  - NFT
-  - NFT-Gaming
 extensions:
   description: The fist AI/ML Play-to-Earn Racing Game on Solana
   website: https://racefi.io/
+tags:
+  - GameFi
+  - Metaverse
+  - NFT
+  - NFT-Gaming
+  - RaceFi
+  - solana

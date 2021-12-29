@@ -1,8 +1,8 @@
 symbol: POOP
 name: Nincompoops Investments Coin
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   website: http://nincompoopsinvestments.com
+tags:
+  - community-token
+  - social-token

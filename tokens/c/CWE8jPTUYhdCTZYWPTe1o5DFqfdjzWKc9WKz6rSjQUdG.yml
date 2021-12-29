@@ -1,11 +1,11 @@
 symbol: soLINK
 name: Wrapped Chainlink (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: chainlink
   serumV3Usdc: 3hwH1txjJVS8qv588tWrjHfRxdqNjBykM1kMcit484up
   serumV3Usdt: 3yEZ9ZpXSQapmKjLAGKZEzUNA1rcupJtsDp5mPBWmGZR
+tags:
+  - ethereum
+  - wrapped-sollet

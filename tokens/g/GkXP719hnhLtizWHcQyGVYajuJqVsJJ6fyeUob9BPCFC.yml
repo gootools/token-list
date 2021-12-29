@@ -1,9 +1,9 @@
 symbol: KROWZ
 name: Mike Krow's Official Best Friend Super Kawaii Kasu Token
 decimals: 9
-tags:
-  - social-token
-  - krowz
 extensions:
   twitter: https://twitter.com/space_asylum
   website: https://mikekrow.com/
+tags:
+  - krowz
+  - social-token

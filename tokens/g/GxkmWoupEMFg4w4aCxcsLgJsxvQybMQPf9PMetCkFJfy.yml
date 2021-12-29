@@ -1,8 +1,8 @@
 symbol: ATL
 name: Astral
 decimals: 9
+extensions:
+  github: https://github.com/AslakOffi
 tags:
   - community-token
   - meme-token
-extensions:
-  github: https://github.com/AslakOffi

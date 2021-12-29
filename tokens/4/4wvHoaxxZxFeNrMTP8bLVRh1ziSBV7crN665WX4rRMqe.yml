@@ -1,11 +1,11 @@
 symbol: wDYT_v1
 name: DoYourTip (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14"
   assetContract: https://etherscan.io/address/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: dynamite
+tags:
+  - wrapped
+  - wormhole

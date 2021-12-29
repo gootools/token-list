@@ -1,11 +1,11 @@
 symbol: Cate
 name: CateCoin SOL
 decimals: 0
-tags:
-  - meme-token
-  - CATE
-  - NFT
-  - community
 extensions:
   twitter: https://twitter.com/CatecoinSol
   website: https://solscan.io/token/CPL7TvVnQXQ8aN2DytF53uskyYAVxgNx5z2waJrc3Cev
+tags:
+  - community
+  - CATE
+  - meme-token
+  - NFT

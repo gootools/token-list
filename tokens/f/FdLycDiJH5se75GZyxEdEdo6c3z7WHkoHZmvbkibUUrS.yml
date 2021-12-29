@@ -1,10 +1,10 @@
 symbol: SPRING
 name: OFFSPRING
 decimals: 9
-tags:
-  - social-token
-  - community-token
 extensions:
   discord: https://discord.gg/4gRMm6mgHZ
   twitter: https://twitter.com/bitcoinisking_
   website: http://rational.af
+tags:
+  - community-token
+  - social-token

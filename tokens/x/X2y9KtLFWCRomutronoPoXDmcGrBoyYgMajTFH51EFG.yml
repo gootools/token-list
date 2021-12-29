@@ -1,8 +1,8 @@
 symbol: RII
 name: RII TOKEN
 decimals: 6
+extensions:
+  website: https://www.terrestrialtrexclub.com/
 tags:
   - community-token
   - meme-token
-extensions:
-  website: https://www.terrestrialtrexclub.com/

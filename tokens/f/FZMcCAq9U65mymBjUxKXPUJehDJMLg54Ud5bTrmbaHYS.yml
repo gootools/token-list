@@ -1,7 +1,7 @@
 symbol: DCN
 name: DoodleCoin
 decimals: 9
-tags:
-  - meme-token
 extensions:
   website: https://doodlecoin.me/
+tags:
+  - meme-token

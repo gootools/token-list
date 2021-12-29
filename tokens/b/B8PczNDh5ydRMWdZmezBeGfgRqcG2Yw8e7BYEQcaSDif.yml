@@ -1,8 +1,8 @@
 symbol: LNRZ
 name: Lunariz
 decimals: 8
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/LunarizLNRZ
   website: https://lunariz.com
+tags:
+  - utility-token

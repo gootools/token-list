@@ -1,7 +1,7 @@
 symbol: NFTPARRO
 name: SOLKITTY NFT Solana Parrot
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/solana-parrot
+tags:
+  - nft

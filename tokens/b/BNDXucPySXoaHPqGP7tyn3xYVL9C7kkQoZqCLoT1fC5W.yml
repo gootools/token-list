@@ -1,11 +1,11 @@
 symbol: BNDX
 name: Bondex
 decimals: 9
-tags:
-  - utility-token
-  - social-token
 extensions:
   facebook: https://m.facebook.com/Bondexcap/
   medium: https://medium.com/@BondexCapital
   reddit: https://www.reddit.com/u/Bondexcap/
   website: https://www.bondex.app/
+tags:
+  - social-token
+  - utility-token

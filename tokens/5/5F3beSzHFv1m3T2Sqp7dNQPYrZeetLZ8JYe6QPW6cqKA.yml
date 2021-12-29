@@ -1,8 +1,8 @@
 symbol: ZEUS
 name: ZEUS
 decimals: 8
+extensions:
+  website: http://test.com/
 tags:
   - NFT
   - ZEUS
-extensions:
-  website: http://test.com/

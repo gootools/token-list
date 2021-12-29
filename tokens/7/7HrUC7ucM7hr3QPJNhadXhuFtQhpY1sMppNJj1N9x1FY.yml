@@ -1,8 +1,8 @@
 symbol: KOALA
 name: Koala Coin
 decimals: 6
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/snft2022
   website: https://solana-nft.io/
+tags:
+  - utility-token

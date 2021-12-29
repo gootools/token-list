@@ -1,8 +1,8 @@
 symbol: BSVBULL
 name: BSVBULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-bitcoin-sv-token
+tags:
+  - bull
+  - leveraged

@@ -1,7 +1,7 @@
 symbol: GKC
 name: Ghost Coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://www.ghostkitchenbrands.com/
+tags:
+  - utility-token

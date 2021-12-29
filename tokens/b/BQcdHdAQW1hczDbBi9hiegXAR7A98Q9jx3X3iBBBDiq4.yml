@@ -1,10 +1,10 @@
 symbol: soUSDT
 name: Wrapped USDT (Sollet)
 decimals: 6
-tags:
-  - stablecoin
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: tether
+tags:
+  - ethereum
+  - stablecoin
+  - wrapped-sollet

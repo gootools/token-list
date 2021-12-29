@@ -1,7 +1,7 @@
 symbol: APHD
 name: Applehead
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://applehead.finance/
+tags:
+  - utility-token

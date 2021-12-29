@@ -1,7 +1,7 @@
 symbol: Luna
 name: Lunaria
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   discord: https://discord.gg/3tsYkuw5G9
+tags:
+  - stablecoin

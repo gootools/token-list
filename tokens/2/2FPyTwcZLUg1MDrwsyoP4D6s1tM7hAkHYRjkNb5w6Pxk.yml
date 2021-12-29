@@ -1,11 +1,11 @@
 symbol: soETH
 name: Wrapped Ethereum (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: ethereum
   serumV3Usdc: 4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX
   serumV3Usdt: 7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF
+tags:
+  - ethereum
+  - wrapped-sollet

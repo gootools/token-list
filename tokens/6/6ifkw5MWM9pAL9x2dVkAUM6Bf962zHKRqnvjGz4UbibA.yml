@@ -1,11 +1,6 @@
 symbol: ROBO
 name: ROBO
 decimals: 6
-tags:
-  - dao
-  - gaming
-  - gamefi
-  - utility-token
 extensions:
   discord: https://discord.gg/zpYNxg7NUy
   facebook: https://www.facebook.com/roboworld.official
@@ -15,3 +10,8 @@ extensions:
   twitter: https://twitter.com/uranusx_rbw
   website: https://roboworld.io
   youtube: https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg
+tags:
+  - dao
+  - gaming
+  - gamefi
+  - utility-token

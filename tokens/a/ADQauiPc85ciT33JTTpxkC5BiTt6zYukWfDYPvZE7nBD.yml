@@ -1,11 +1,11 @@
 symbol: DOGERACA
 name: DogeRaCa
 decimals: 9
-tags:
-  - GAME
-  - MEME
-  - DEFI
-  - nft-token
 extensions:
   twitter: https://twitter.com/doge_raca
   website: https://www.dogeraca.org
+tags:
+  - DEFI
+  - GAME
+  - MEME
+  - nft-token

@@ -1,8 +1,8 @@
 symbol: USDC/USDT-SRM
 name: Orca LP Token (USDC/USDT-SRM)
 decimals: 9
-tags:
-  - lp-token
 extensions:
   twitter: https://twitter.com/orca_so
   website: https://orca.so
+tags:
+  - lp-token

@@ -1,8 +1,6 @@
 symbol: HOSA
 name: The Heart of Star Atlas
 decimals: 0
-tags:
-  - nft
 extensions:
   description: At the core of Star Atlas lies a treasure trove of priceless data.
     After an unsuspecting deep space explorer discovers 'The Cataclysm', he
@@ -13,3 +11,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-2/the-heart-of-star-atlas.jpg
   serumV3Usdc: 5Erzgrw9pTjNWLeqHp2sChJq7smB7WXRQYw9wvkvA59t
   website: https://www.staratlas.com
+tags:
+  - nft

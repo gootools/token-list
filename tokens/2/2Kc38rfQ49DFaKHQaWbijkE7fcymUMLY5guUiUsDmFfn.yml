@@ -1,11 +1,11 @@
 symbol: KURO
 name: Kurobi
 decimals: 6
-tags:
-  - utility-token
 extensions:
   github: https://github.com/KurobiHq/
   medium: https://kurobi.medium.com/
   telegram: https://t.me/kurobi_io
   twitter: https://twitter.com/kurobi_io
   website: https://kurobi.io/
+tags:
+  - utility-token

@@ -1,11 +1,11 @@
 symbol: wREQ_v1
 name: Request Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
   assetContract: https://etherscan.io/address/0x8f8221aFbB33998d8584A2B05749bA73c37a938a
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: request-network
+tags:
+  - wrapped
+  - wormhole

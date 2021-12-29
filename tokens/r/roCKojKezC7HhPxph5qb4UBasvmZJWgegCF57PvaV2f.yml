@@ -1,8 +1,8 @@
 symbol: ROCK
 name: RockDeFi
 decimals: 6
-tags:
-  - stablecoin
-  - asset
 extensions:
   website: https://rockdefi.app/
+tags:
+  - asset
+  - stablecoin

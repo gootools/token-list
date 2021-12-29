@@ -1,11 +1,11 @@
 symbol: SOLPAY
 name: SOLPAY
 decimals: 9
-tags:
-  - DeFi
-  - technology
-  - utility-token
 extensions:
   telegram: https://t.me/solpayfinance
   twitter: https://twitter.com/SolPayDeFi
   website: https://solpay.finance
+tags:
+  - DeFi
+  - technology
+  - utility-token

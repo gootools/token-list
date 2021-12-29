@@ -1,8 +1,8 @@
 symbol: SCTK
 name: Solana City Token
 decimals: 0
-tags:
-  - utlity-token
 extensions:
   discord: https://discord.gg/c2Af3Ywq7a
   twitter: https://twitter.com/SolcitizensNfts
+tags:
+  - utlity-token

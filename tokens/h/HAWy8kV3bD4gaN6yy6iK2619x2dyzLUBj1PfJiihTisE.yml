@@ -1,8 +1,6 @@
 symbol: DOI
 name: Discovery of Iris
 decimals: 0
-tags:
-  - nft
 extensions:
   description: The rogue planet, Iris, dense with invaluable materials, draws in
     and collides with seven child planets in a remote region of space, creating
@@ -12,3 +10,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-1/discovery-of-iris.jpg
   serumV3Usdc: AYXTVttPfhYmn3jryX5XbRjwPK2m9445mbN2iLyRD6nq
   website: https://www.staratlas.com
+tags:
+  - nft

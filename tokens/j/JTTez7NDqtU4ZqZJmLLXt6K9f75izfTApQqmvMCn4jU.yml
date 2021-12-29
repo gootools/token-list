@@ -1,7 +1,7 @@
 symbol: JTT
 name: Japan Travel Token
 decimals: 0
-tags:
-  - utility-token
 extensions:
   website: https://www.japantravel.me
+tags:
+  - utility-token

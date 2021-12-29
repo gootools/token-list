@@ -1,8 +1,8 @@
 symbol: LIGMA
 name: whats ligma
 decimals: 12
-tags:
-  - utility-token
-  - meme-token
 extensions:
   website: https://ligmadao.io
+tags:
+  - meme-token
+  - utility-token

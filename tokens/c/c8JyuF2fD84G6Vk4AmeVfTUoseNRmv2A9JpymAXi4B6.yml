@@ -1,8 +1,8 @@
 symbol: WENSIR
 name: Wensircoin
 decimals: 7
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/wensircoin
   website: https://www.wensirsolana.com/
+tags:
+  - utility-token

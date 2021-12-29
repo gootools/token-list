@@ -1,7 +1,7 @@
 symbol: MMMT
 name: mememetoken
 decimals: 4
-tags:
-  - meme-token
 extensions:
   twitter: https://twitter.com/mememenft
+tags:
+  - meme-token

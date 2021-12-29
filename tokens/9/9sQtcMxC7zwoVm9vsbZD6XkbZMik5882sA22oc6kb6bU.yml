@@ -1,11 +1,11 @@
 symbol: GAP
 name: Solana Gap
 decimals: 9
-tags:
-  - community-token
-  - utility-token
-  - stake-pool-token
 extensions:
   telegram: https://t.me/SolanaGAP
   twitter: https://twitter.com/SolanaGAP
   website: https://solanagap.com
+tags:
+  - community-token
+  - stake-pool-token
+  - utility-token

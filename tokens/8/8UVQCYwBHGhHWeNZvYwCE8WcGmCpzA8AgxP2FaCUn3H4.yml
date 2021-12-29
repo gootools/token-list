@@ -1,8 +1,8 @@
 symbol: IGNFTUVQ
 name: Instagram NFT UVQ
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/8UVQCYwBHGhHWeNZvYwCE8WcGmCpzA8AgxP2FaCUn3H4
+tags:
+  - instagram
+  - nft

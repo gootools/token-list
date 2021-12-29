@@ -1,7 +1,7 @@
 symbol: SODA-USDC
 name: Raydium LP Token (SODA-USDC)
 decimals: 0
-tags:
-  - lp-token
 extensions:
   website: https://raydium.io
+tags:
+  - lp-token

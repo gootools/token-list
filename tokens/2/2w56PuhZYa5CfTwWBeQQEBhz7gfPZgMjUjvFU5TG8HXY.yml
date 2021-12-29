@@ -1,7 +1,7 @@
 symbol: NFTBONES
 name: SOLKITTY NFT BONES
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/bones
+tags:
+  - nft

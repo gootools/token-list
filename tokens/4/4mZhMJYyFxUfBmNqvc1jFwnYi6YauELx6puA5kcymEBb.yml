@@ -1,12 +1,12 @@
 symbol: GXO
 name: Geometry Operational token
 decimals: 9
+extensions:
+  discord: https://www.discord.gg/geobots
+  medium: https://medium.com/geometryfi
+  website: https://geometry.fi
 tags:
   - geometry
   - geometryfi
   - geobots
   - governance
-extensions:
-  discord: https://www.discord.gg/geobots
-  medium: https://medium.com/geometryfi
-  website: https://geometry.fi

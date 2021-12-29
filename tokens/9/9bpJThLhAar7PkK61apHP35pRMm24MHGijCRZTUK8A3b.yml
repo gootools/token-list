@@ -1,12 +1,12 @@
 symbol: ABTC
 name: ArabicBitCoin
 decimals: 8
-tags:
-  - utility-token
-  - lp-token
-  - arabic-token
-  - utility-token
-  - lp-token
 extensions:
   twitter: https://twitter.com/ArabicaBitcoin
   website: http://arabicabitcoin.com/
+tags:
+  - arabic-token
+  - lp-token
+  - lp-token
+  - utility-token
+  - utility-token

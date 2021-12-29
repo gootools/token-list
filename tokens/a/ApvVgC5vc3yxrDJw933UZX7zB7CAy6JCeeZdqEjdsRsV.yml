@@ -1,8 +1,8 @@
 symbol: 8PI
 name: 8teapi
 decimals: 9
-tags:
-  - personal
 extensions:
   twitter: https://twitter.com/8teAPi
   website: https://www.8teapi.com
+tags:
+  - personal

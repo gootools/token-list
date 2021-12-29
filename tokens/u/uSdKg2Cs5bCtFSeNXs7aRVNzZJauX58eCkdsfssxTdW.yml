@@ -1,8 +1,8 @@
 symbol: wUSDKV1-USDC
 name: Saber wUSDK_V1-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/usdk
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1
-extensions:
-  website: https://app.saber.so/#/pools/usdk

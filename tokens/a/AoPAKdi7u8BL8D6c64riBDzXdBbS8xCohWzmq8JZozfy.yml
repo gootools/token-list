@@ -1,8 +1,8 @@
 symbol: NLT
 name: Neural Token
 decimals: 6
+extensions:
+  website: https://higherlevelfx.com
 tags:
   - community-token
   - social-token
-extensions:
-  website: https://higherlevelfx.com

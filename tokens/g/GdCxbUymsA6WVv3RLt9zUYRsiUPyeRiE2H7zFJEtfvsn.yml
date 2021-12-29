@@ -1,8 +1,8 @@
 symbol: RDPART
 name: Resp Dev Participate
 decimals: 4
-tags:
-  - rd-initiative
-  - participate
 extensions:
   discord: https://discord.gg/5Zx3Qdng4M
+tags:
+  - participate
+  - rd-initiative

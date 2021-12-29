@@ -1,11 +1,11 @@
 symbol: FIS
 name: StaFi Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.com/invite/jB77etn
   medium: https://stafi-protocol.medium.com
   telegram: https://t.me/stafi_protocol
   twitter: https://twitter.com/StaFi_Protocol
   website: https://stafi.io
+tags:
+  - utility-token

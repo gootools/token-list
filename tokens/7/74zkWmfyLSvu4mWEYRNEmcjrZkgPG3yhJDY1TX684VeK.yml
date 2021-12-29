@@ -1,7 +1,7 @@
 symbol: WAR
 name: War Coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/WarCoin_
+tags:
+  - utility-token

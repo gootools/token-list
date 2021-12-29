@@ -1,8 +1,8 @@
 symbol: MEKA
 name: MekaMounts
 decimals: 9
-tags:
-  - MekaMounts
 extensions:
   twitter: https://twitter.com/MEKAMOUNTS
   website: https://www.mekamounts.io/
+tags:
+  - MekaMounts

@@ -1,11 +1,11 @@
 symbol: SHIB
 name: SHIBA INU
 decimals: 0
-tags:
-  - community-token
-  - meme-token
-  - social-token
 extensions:
   telegram: https://t.me/shibainusolana
   twitter: https://twitter.com/inu_solana
   website: https://shibainusolana.com
+tags:
+  - community-token
+  - meme-token
+  - social-token

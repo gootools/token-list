@@ -1,13 +1,13 @@
 symbol: $PDSGT
 name: -PDS- Golden Token
 decimals: 0
-tags:
-  - Pirates
-  - Metaverse
-  - NFT
-  - Community-Token
 extensions:
   discord: https://discord.com/invite/qVxYyZwCKS
   instagram: https://www.instagram.com/piratesdelsol
   twitter: https://twitter.com/PiratesDelSol
   website: https://piratesdelsol.com
+tags:
+  - Community-Token
+  - Metaverse
+  - NFT
+  - Pirates

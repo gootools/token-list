@@ -1,7 +1,7 @@
 symbol: NFTPIRAT
 name: SOLKITTY NFT PIRATE LION
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/pirate-lion
+tags:
+  - nft

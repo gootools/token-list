@@ -1,8 +1,8 @@
 symbol: JRDN
 name: Fraktionalized Triumphant
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo
   vaultPubkey: 7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo
+tags:
+  - fractionalized-nft

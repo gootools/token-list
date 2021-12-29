@@ -1,9 +1,9 @@
 symbol: UO
 name: UOWN Coin
 decimals: 10
-tags:
-  - stablecoin
 extensions:
   website: https://www.uown.co
+tags:
+  - stablecoin
 clusters:
-  - testnet
+  - devnet

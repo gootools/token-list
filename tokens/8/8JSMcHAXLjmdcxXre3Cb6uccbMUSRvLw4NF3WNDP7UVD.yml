@@ -1,8 +1,8 @@
 symbol: SBALL
 name: SOLANA KING BALL
 decimals: 9
-tags:
-  - meme-token
 extensions:
   discord: https://discord.com/invite/WNzG2QKdgj
   twitter: https://twitter.com/solanakingball
+tags:
+  - meme-token

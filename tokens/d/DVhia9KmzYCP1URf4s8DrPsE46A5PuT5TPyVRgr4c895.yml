@@ -1,10 +1,10 @@
 symbol: HEXAGON
 name: Hexagon Protocol
 decimals: 9
+extensions:
+  serumV3Usdc: BQBGTapjYAYa9bY46GCByW2tjQtbHHvEMwGCDYpN3kTR
 tags:
   - DeFi
   - DApp
   - GameFi
   - NFT
-extensions:
-  serumV3Usdc: BQBGTapjYAYa9bY46GCByW2tjQtbHHvEMwGCDYpN3kTR

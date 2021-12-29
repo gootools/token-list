@@ -1,8 +1,8 @@
 symbol: ITSC
 name: ITS Cash
 decimals: 9
-tags:
-  - utility-token
-  - Peruvian-token
 extensions:
   website: https://www.itscash.me
+tags:
+  - Peruvian-token
+  - utility-token

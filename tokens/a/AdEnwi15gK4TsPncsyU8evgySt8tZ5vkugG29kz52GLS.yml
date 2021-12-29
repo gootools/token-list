@@ -1,7 +1,7 @@
 symbol: SOLNUT
 name: SOLANA NUT
 decimals: 9
-tags:
-  - meme-token
 extensions:
   twitter: https://twitter.com/Solana_Nut
+tags:
+  - meme-token

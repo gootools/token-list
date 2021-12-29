@@ -1,11 +1,6 @@
 symbol: MTMS
 name: MTMS Token
 decimals: 6
-tags:
-  - utility-token
-  - mtms-token
-  - meta-meeting
-  - meet-to-earn
 extensions:
   description: MTMS is a utility token, Dex, and metaverse meet-to-earn Dapps on Solana.
   facebook: https://www.facebook.com/mtmslive
@@ -14,3 +9,8 @@ extensions:
   telegram: https://t.me/mtmsofficial
   twitter: https://twitter.com/official_mtms
   website: https://metameetingapp.com
+tags:
+  - mtms-token
+  - meta-meeting
+  - meet-to-earn
+  - utility-token

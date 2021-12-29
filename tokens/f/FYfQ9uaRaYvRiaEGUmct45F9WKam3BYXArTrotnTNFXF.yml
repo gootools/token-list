@@ -1,11 +1,11 @@
 symbol: SOLA
 name: Sola Token
 decimals: 9
-tags:
-  - community-token
 extensions:
   coingeckoId: sola-token
   serumV3Usdc: 4RZ27tjRnSwrtRqsJxDEgsERnDKFs7yx6Ra3HsJvkboy
   telegram: https://t.me/solatokennet
   twitter: https://twitter.com/EcoSolana
   website: https://solatoken.net/
+tags:
+  - community-token

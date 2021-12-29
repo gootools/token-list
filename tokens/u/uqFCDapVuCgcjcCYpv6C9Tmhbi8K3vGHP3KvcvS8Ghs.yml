@@ -1,7 +1,7 @@
 symbol: NFTUQFC
 name: SOLKITTY NFT UNICORN 1
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/unicorn
+tags:
+  - nft

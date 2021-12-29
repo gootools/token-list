@@ -2,6 +2,6 @@ symbol: SOAT
 name: "Simple Online Accountability Token "
 decimals: 0
 tags:
-  - social-token
   - accountability
   - better-internet
+  - social-token

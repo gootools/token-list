@@ -1,12 +1,12 @@
 symbol: WEEB
 name: Weeb Finance Token
 decimals: 9
-tags:
-  - utility-token
-  - anime
 extensions:
   discord: https://discord.gg/fzZbyXAzaG
   medium: https://medium.com/@WeebFinance
   telegram: https://t.me/weeb_finance
   twitter: https://twitter.com/WeebFinance
   website: https://weeb.finance/
+tags:
+  - anime
+  - utility-token

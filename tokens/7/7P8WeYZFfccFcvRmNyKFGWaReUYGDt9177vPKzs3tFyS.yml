@@ -1,9 +1,9 @@
 symbol: xESP
 name: eSoup Token
 decimals: 2
-tags:
-  - social-token
-  - community-token
 extensions:
   twitter: https://twitter.com/mcyork
   website: https://crypto.esoup.net
+tags:
+  - community-token
+  - social-token

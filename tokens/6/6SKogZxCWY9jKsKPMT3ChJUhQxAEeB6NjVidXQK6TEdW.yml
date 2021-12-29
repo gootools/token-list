@@ -1,11 +1,11 @@
 symbol: GDoge
 name: Golden Doge Solana
 decimals: 1
-tags:
-  - community-token
-  - meme-token
-  - doge
-  - dogecoin
 extensions:
   twitter: https://twitter.com/GoldSolDoge
   website: https://http://www.goldsoldoge.com/
+tags:
+  - community-token
+  - doge
+  - dogecoin
+  - meme-token

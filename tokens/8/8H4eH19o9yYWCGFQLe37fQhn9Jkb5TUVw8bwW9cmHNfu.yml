@@ -1,7 +1,7 @@
 symbol: OWSOM
 name: Owsom Token
 decimals: 2
-tags:
-  - meme-token
 extensions:
   twitter: https://twitter.com/owsomtoken
+tags:
+  - meme-token

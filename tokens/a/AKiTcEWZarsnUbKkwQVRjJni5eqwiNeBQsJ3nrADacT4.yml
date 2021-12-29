@@ -1,11 +1,11 @@
 symbol: wLGCY_v1
 name: LGCY Network (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d"
   assetContract: https://etherscan.io/address/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: lgcy-network
+tags:
+  - wrapped
+  - wormhole

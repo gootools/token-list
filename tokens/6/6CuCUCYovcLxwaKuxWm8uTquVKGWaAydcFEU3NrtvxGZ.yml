@@ -1,7 +1,7 @@
 symbol: INTC
 name: Intel Corp
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?INTC
+tags:
+  - tokenized-stock

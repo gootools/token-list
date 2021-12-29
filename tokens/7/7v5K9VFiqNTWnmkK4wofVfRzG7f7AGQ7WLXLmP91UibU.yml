@@ -1,11 +1,11 @@
 symbol: DOGExTESLA
 name: DogeTesla
 decimals: 9
-tags:
-  - doge-token
-  - Tesla
-  - Doge
-  - Musk
 extensions:
   twitter: https://twitter.com/dogetesla_
   website: https://www.dogetesla.space
+tags:
+  - doge-token
+  - Doge
+  - Musk
+  - Tesla

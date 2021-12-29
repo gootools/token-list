@@ -1,9 +1,6 @@
 symbol: THECA
 name: Theca
 decimals: 6
-tags:
-  - utility-token
-  - Application
 extensions:
   address: D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q
   description: "Theca has the mission to protect, spread and promote knowledge
@@ -14,3 +11,6 @@ extensions:
   medium: https://theca.medium.com/
   twitter: https://twitter.com/Theca_org
   website: https://theca.org
+tags:
+  - Application
+  - utility-token

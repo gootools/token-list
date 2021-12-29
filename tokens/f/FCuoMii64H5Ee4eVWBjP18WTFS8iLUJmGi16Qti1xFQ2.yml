@@ -1,10 +1,10 @@
 symbol: EDB
 name: Emerald Block
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/kzPBdWtbrK
   instagram: https://instagram.com/solblockpunks
   twitter: https://twitter.com/solblockpunks
   website: https://solblockpunks.com
+tags:
+  - utility-token

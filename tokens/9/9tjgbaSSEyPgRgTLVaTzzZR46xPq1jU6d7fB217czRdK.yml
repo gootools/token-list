@@ -2,7 +2,7 @@ symbol: QAI
 name: Quartic AI Token
 decimals: 9
 tags:
-  - utility-token
   - meme-token
+  - utility-token
 clusters:
-  - testnet
+  - devnet

@@ -1,11 +1,11 @@
 symbol: wNPXS_v1
 name: Pundi X Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3"
   assetContract: https://etherscan.io/address/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: pundi-x
+tags:
+  - wrapped
+  - wormhole

@@ -1,10 +1,10 @@
 symbol: BOOM
 name: Boom
 decimals: 0
-tags:
-  - social-token
-  - lebanon-token
-  - community-token
 extensions:
   description: Boom is utility token that is created to help the lebanese
     community that was affected by Beirut explosion in August 4, 2020
+tags:
+  - community-token
+  - lebanon-token
+  - social-token

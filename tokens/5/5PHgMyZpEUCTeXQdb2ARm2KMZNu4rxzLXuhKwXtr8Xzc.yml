@@ -1,7 +1,7 @@
 symbol: STVA-USDC
 name: Raydium LP Token (STVA-USDC)
 decimals: 3
-tags:
-  - lp-token
 extensions:
   website: https://raydium.io
+tags:
+  - lp-token

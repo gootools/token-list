@@ -1,7 +1,7 @@
 symbol: PHPC
 name: Philippine Coin
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   website: https://www.sagesoftcloud.com/
+tags:
+  - stablecoin

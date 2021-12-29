@@ -1,11 +1,11 @@
 symbol: wUNN_v1
 name: UNION Protocol Governance Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x226f7b842E0F0120b7E194D05432b3fd14773a9D"
   assetContract: https://etherscan.io/address/0x226f7b842E0F0120b7E194D05432b3fd14773a9D
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: union-protocol-governance-token
+tags:
+  - wrapped
+  - wormhole

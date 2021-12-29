@@ -1,7 +1,7 @@
 symbol: NFTPOMER
 name: SOLKITTY NFT POMERANIAN FRONT
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/pomeranian-front
+tags:
+  - nft

@@ -1,11 +1,11 @@
 symbol: wKEEP_v1
 name: KEEP Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
   assetContract: https://etherscan.io/address/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: keep-network
+tags:
+  - wrapped
+  - wormhole

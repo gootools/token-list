@@ -1,11 +1,11 @@
 symbol: SFOX
 name: SOL FOX
 decimals: 8
-tags:
-  - meme
-  - community
-  - gaming
 extensions:
   telegram: https://t.me/Solfox_Official
   twitter: https://twitter.com/SolFox_official
   website: https://synergyland.world/
+tags:
+  - community
+  - gaming
+  - meme

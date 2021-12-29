@@ -1,7 +1,7 @@
 symbol: VOO
 name: VooVoo
 decimals: 9
-tags:
-  - VOO-token
 extensions:
   website: https://www.voovoo.io
+tags:
+  - VOO-token

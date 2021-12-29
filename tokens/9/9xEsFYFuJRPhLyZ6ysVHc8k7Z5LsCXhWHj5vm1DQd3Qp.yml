@@ -1,11 +1,11 @@
 symbol: GUNS
 name: Cartel GUNS
 decimals: 0
-tags:
-  - meme-token
-  - utility-token
-  - stake-pool-token
 extensions:
   discord: https://discord.gg/cartelofsolana
   twitter: https://twitter.com/solcartel
   website: https://www.solcartel.com/
+tags:
+  - meme-token
+  - stake-pool-token
+  - utility-token

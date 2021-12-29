@@ -1,8 +1,6 @@
 symbol: CRY
 name: Crystal
 decimals: 9
-tags:
-  - crystal-token
 extensions:
   discord: https://discord.gg/ghnnPvQNgS
   github: https://github.com/sol-crystal
@@ -12,3 +10,5 @@ extensions:
   telegram: https://t.me/sol_cry
   twitter: https://twitter.com/Crystal80955369
   website: http://solcry.io/
+tags:
+  - crystal-token

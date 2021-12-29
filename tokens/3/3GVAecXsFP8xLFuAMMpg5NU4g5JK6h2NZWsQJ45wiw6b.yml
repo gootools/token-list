@@ -1,11 +1,11 @@
 symbol: wDPI_v1
 name: DefiPulse Index (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
   assetContract: https://etherscan.io/address/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: defipulse-index
+tags:
+  - wrapped
+  - wormhole

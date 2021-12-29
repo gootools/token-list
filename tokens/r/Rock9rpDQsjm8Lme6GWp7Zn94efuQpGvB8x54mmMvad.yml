@@ -2,8 +2,8 @@ symbol: ROCK
 name: Rockstar
 decimals: 9
 tags:
-  - utility-token
-  - fan-token
   - concert-token
+  - fan-token
   - musician-token
   - merchandise-token
+  - utility-token

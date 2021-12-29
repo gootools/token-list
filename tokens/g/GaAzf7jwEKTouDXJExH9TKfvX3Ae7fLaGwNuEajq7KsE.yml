@@ -1,8 +1,8 @@
 symbol: BARK
 name: Bark o Finance
 decimals: 1
+extensions:
+  twitter: https://twitter.com/Bark_Solana
 tags:
   - meme-token
   - utility-token
-extensions:
-  twitter: https://twitter.com/Bark_Solana

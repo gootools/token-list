@@ -1,12 +1,12 @@
 symbol: wstETH
 name: Lido Wrapped Staked ETH
 decimals: 8
-tags:
-  - stake
-  - wrapped
 extensions:
   discord: https://discord.gg/WhhnWwsFXz
   github: https://github.com/lidofinance
   telegram: https://t.me/lidofinance
   twitter: https://twitter.com/LidoFinance
   website: https://lido.fi/
+tags:
+  - stake
+  - wrapped

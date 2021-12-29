@@ -1,11 +1,11 @@
 symbol: MLD
 name: Metaland
 decimals: 8
-tags:
-  - nft
-  - nft-token
-  - nft-marketplace
-  - game-token
 extensions:
   discord: https://discord.gg/MRvfvpGvXq
   website: https://www.metaland.place
+tags:
+  - game-token
+  - nft
+  - nft-token
+  - nft-marketplace

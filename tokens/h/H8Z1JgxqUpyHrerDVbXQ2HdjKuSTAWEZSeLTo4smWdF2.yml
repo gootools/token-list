@@ -1,8 +1,8 @@
 symbol: CPT
 name: CryptoPotes Token
 decimals: 9
-tags:
-  - social-token
-  - community-token
 extensions:
   telegram: https://t.me/+EWjQtq9l3GBjYzc0
+tags:
+  - community-token
+  - social-token

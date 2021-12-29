@@ -1,11 +1,11 @@
 symbol: Book
 name: BookWorm Token
 decimals: 1
+extensions:
+  website: http://nftbookworm.com/
 tags:
+  - Auction
   - Book
   - BookWorm
   - NFT
   - Publisher
-  - Auction
-extensions:
-  website: http://nftbookworm.com/

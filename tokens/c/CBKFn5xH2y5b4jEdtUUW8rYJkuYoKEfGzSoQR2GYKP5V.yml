@@ -1,11 +1,11 @@
 symbol: SHAKEL
 name: SHAKEL
 decimals: 9
-tags:
-  - social-token
-  - utility-token
-  - community-token
-  - meme-token
 extensions:
   twitter: https://twitter.com/shanginn
   website: https://shanginn.ru/shakel
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

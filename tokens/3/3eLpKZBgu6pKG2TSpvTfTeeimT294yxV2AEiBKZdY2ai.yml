@@ -1,11 +1,11 @@
 symbol: SGG
 name: Solx Gaming Guild
 decimals: 6
+extensions:
+  description: Solx Gaming Guild DAO
+  twitter: https://twitter.com/SolxGamingGuild
 tags:
   - dao
   - gaming
   - gamefi
   - utility-token
-extensions:
-  description: Solx Gaming Guild DAO
-  twitter: https://twitter.com/SolxGamingGuild

@@ -1,9 +1,9 @@
 symbol: SEI
 name: Solanium Ecosystem Index
 decimals: 6
-tags:
-  - utility-token
 extensions:
   telegram: https://t.me/MatrixETF
   twitter: https://twitter.com/MatrixETF
   website: https://www.matrixetf.finance/
+tags:
+  - utility-token

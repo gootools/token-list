@@ -1,11 +1,11 @@
 symbol: QLN
 name: MYTHIC QILIN COIN
 decimals: 9
-tags:
-  - social-token
-  - community-token
-  - meme-token
 extensions:
   discord: https://discord.gg/BSerFpJSEc
   twitter: https://twitter.com/MythicQilin
   website: http://www.mythicqilin.com/
+tags:
+  - community-token
+  - meme-token
+  - social-token

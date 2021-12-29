@@ -1,11 +1,11 @@
 symbol: wSkey_v1
 name: SmartKey (Wormhole v1)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442"
   assetContract: https://etherscan.io/address/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: smartkey
+tags:
+  - wrapped
+  - wormhole

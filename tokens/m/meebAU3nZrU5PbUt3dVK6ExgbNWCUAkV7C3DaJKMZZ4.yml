@@ -1,10 +1,10 @@
 symbol: MEEB
 name: Meeb Coin
 decimals: 9
-tags:
-  - community-token
-  - utility-token
 extensions:
   discord: https://discord.gg/amoebits
   twitter: https://twitter.com/Amoebits
   website: https://amoebits.io
+tags:
+  - community-token
+  - utility-token

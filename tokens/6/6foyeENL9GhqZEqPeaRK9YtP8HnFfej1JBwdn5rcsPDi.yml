@@ -1,7 +1,7 @@
 symbol: iM
 name: iMentusCoin
 decimals: 0
-tags:
-  - dev-token
 extensions:
   website: https://www.imentus.com
+tags:
+  - dev-token

@@ -1,11 +1,11 @@
 symbol: CAWL
 name: Cyber Ape WL
 decimals: 0
+extensions:
+  twitter: https://twitter.com/CyberApeAge
 tags:
-  - utility-token
   - Ape
   - NFT-Gaming
   - play-to-earn
   - p2e
-extensions:
-  twitter: https://twitter.com/CyberApeAge
+  - utility-token

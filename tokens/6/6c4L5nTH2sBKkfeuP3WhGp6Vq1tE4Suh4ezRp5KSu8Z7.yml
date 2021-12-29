@@ -1,12 +1,12 @@
 symbol: FANI
 name: FANITRADE
 decimals: 9
+extensions:
+  instagram: https://www.instagram.com/fanitrade/
+  website: https://fanitrade.com/
 tags:
   - fanitrade
   - faniswap
   - fanipool
   - fanidex
   - faniverse
-extensions:
-  instagram: https://www.instagram.com/fanitrade/
-  website: https://fanitrade.com/

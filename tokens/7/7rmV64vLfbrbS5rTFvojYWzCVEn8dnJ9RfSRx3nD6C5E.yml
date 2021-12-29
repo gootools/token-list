@@ -1,9 +1,9 @@
 symbol: MARIO
 name: Super Mario
 decimals: 4
+extensions:
+  serumV3Usdc: GN2TTgnWm7WyMEFZjbtzZL2d7NxhBk4QMZtDdLZUkcqv
 tags:
   - Community-token
   - Meme
   - NFT
-extensions:
-  serumV3Usdc: GN2TTgnWm7WyMEFZjbtzZL2d7NxhBk4QMZtDdLZUkcqv

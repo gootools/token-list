@@ -1,9 +1,9 @@
 symbol: SUITE
 name: The Suites Token
 decimals: 2
-tags:
-  - NFT
-  - GAME
 extensions:
   twitter: https://twitter.com/TheSuitesNFT
   website: https://thesuites.app
+tags:
+  - GAME
+  - NFT

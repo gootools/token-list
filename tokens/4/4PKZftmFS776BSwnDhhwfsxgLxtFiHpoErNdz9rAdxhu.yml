@@ -1,12 +1,12 @@
 symbol: KUSH
 name: Kush Coin
 decimals: 6
-tags:
-  - social-token
-  - community-token
-  - NFT
-  - game
 extensions:
   description: Buds for bits, coins for Kush
   discord: https://discord.gg/EQMkNZUgxt
   twitter: https://twitter.com/WeeklySesh
+tags:
+  - community-token
+  - game
+  - NFT
+  - social-token

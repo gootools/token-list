@@ -1,7 +1,7 @@
 symbol: MOGUL
 name: Mogul coin
 decimals: 9
-tags:
-  - meme-token
 extensions:
   twitter: https://twitter.com/MogulWars
+tags:
+  - meme-token

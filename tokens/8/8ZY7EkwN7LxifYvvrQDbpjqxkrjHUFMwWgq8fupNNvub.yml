@@ -4,4 +4,4 @@ decimals: 6
 extensions:
   website: https://daios.io/
 clusters:
-  - devnet
+  - testnet

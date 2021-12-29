@@ -1,11 +1,11 @@
 symbol: DAOJONES
 name: Fractionalized SMB-2367
 decimals: 2
-tags:
-  - bridgesplit-fraction
-  - smb
-  - fnft
 extensions:
   discord: https://discord.gg/fjrFpbweAP
   twitter: https://twitter.com/bridgesplit
   vault: https://app.bridgesplit.com/markets/r8nuuzXCchjtqsmQZVZDPXXq928tuk7KVH479GsKVpy
+tags:
+  - bridgesplit-fraction
+  - fnft
+  - smb

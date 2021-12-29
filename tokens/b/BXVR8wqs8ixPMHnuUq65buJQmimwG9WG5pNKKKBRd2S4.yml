@@ -1,10 +1,10 @@
 symbol: GUMA
 name: GUM ARABIC
 decimals: 9
-tags:
-  - Trading-token
 extensions:
   facebook: https://facebook.com/gumarabictoken
   telegram: https://t.me/gumarabictoken
   twitter: https://twitter.com/gum_token
   website: http://gumarabic.io
+tags:
+  - Trading-token

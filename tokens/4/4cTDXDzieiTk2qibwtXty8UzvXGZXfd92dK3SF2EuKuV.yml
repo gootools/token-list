@@ -1,8 +1,8 @@
 symbol: DogeSOL
 name: DogeSOL
 decimals: 9
-tags:
-  - Doge
 extensions:
   twitter: https://twitter.com/Doge_Solana
   website: https://dogesol.com/
+tags:
+  - Doge

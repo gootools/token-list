@@ -2,9 +2,9 @@ symbol: ELEC
 name: Election token
 decimals: 9
 tags:
-  - utility-token
-  - national-elections
+  - blockchain-elections
   - local-elections
+  - national-elections
   - safe-elections
   - secure-elections
-  - blockchain-elections
+  - utility-token

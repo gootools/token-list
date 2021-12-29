@@ -1,9 +1,9 @@
 symbol: GLTR
 name: Glitter
 decimals: 9
-tags:
-  - coin
 extensions:
   discord: https://milliononmars.com/discord
   twitter: https://twitter.com/MilliononMars
   website: https://milliononmars.com
+tags:
+  - coin

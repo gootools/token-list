@@ -1,8 +1,8 @@
 symbol: IGNFTEEW
 name: Instagram NFT EEW
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/3eEwnZksgg8mADgSyLzcMQQyVzt2ZCGyQxNet7wcyhBZ
+tags:
+  - instagram
+  - nft

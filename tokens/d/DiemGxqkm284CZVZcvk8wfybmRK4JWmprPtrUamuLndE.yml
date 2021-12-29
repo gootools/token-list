@@ -1,9 +1,9 @@
 symbol: DIEM
 name: GOFAR
 decimals: 9
-tags:
-  - utility-token
-  - travel-token
 extensions:
   twitter: https://twitter.com/thisiscarpedm
   website: https://thisiscarpedm.com
+tags:
+  - travel-token
+  - utility-token

@@ -1,13 +1,13 @@
 symbol: Hacklab
 name: HACKLAB
 decimals: 9
-tags:
-  - DAO
-  - community-token
-  - governance
 extensions:
   facebook: https://www.facebook.com/hacklabaz
   github: https://github.com/HacklabAzerbaijan
   instagram: https://www.instagram.com/hacklabaz/
   linkedin: https://www.linkedin.com/company/hacklabaz/about/
   website: https://hacklab.az/
+tags:
+  - community-token
+  - DAO
+  - governance

@@ -1,7 +1,7 @@
 symbol: NMT
 name: NetworkingMaurijn Token
 decimals: 0
-tags:
-  - social-token
 extensions:
   website: https://networkingmaurijn.com
+tags:
+  - social-token

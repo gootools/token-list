@@ -1,10 +1,6 @@
 symbol: ITAL
 name: TALENTMICRO
 decimals: 4
-tags:
-  - utility-token
-  - ITAL
-  - social-token
 extensions:
   discord: https://discord.gg/jRz63Dsa3p
   facebook: https://www.facebook.com/ital.talentmicro
@@ -15,3 +11,7 @@ extensions:
   telegram: https://t.me/TalentMicro_ITAL_bot
   twitter: https://twitter.com/talentmicroital
   website: https://www.ital.social
+tags:
+  - ITAL
+  - social-token
+  - utility-token

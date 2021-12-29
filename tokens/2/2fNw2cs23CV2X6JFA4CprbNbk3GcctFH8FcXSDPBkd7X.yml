@@ -1,13 +1,13 @@
 symbol: FISH
 name: CATPUNK TOKEN
 decimals: 0
-tags:
-  - NFT
-  - dao
-  - utility-token
-  - meta-verse
-  - governance
 extensions:
   discord: https://discord.gg/catpunk
   twitter: https://twitter.com/ZodiLabOfficial
   website: https://catpunk.net
+tags:
+  - dao
+  - governance
+  - meta-verse
+  - NFT
+  - utility-token

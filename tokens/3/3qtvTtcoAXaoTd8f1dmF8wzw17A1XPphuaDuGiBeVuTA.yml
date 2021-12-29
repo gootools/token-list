@@ -1,9 +1,9 @@
 symbol: ANGELZ
 name: ANGELZ Token
 decimals: 6
-tags:
-  - socialtoken
-  - angelz
 extensions:
   github: https://github.com/AngelzTokenTeam
   website: http://angelztoken.com/
+tags:
+  - angelz
+  - socialtoken

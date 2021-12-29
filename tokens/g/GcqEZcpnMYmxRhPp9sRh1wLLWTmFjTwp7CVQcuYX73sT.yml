@@ -1,12 +1,12 @@
 symbol: WHALE
 name: Whale Token
 decimals: 8
-tags:
-  - community-token
-  - meme-token
-  - whale
-  - whale-token
-  - crypto-whale
 extensions:
   twitter: https://twitter.com/CryptoWhale
   website: https://cryptowhale.org/
+tags:
+  - community-token
+  - crypto-whale
+  - meme-token
+  - whale
+  - whale-token

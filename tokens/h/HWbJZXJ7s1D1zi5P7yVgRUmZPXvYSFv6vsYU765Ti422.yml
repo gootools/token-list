@@ -1,11 +1,11 @@
 symbol: waSNX_v1
 name: Aave interest bearing SNX (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2"
   assetContract: https://etherscan.io/address/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-snx
+tags:
+  - wrapped
+  - wormhole

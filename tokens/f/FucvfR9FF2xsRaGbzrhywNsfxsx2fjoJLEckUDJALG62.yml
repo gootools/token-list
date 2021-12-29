@@ -1,10 +1,10 @@
 symbol: BADURUS
 name: BaduroCoin
 decimals: 9
-tags:
-  - gambling-token
-  - meme-token
 extensions:
   github: https://github.com/BaduroCoin
   twitter: https://twitter.com/badurocoin
   website: https://badurocoin.pl
+tags:
+  - gambling-token
+  - meme-token

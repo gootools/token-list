@@ -1,11 +1,11 @@
 symbol: JOV
 name: Jove
 decimals: 4
-tags:
-  - community-token
-  - game
-  - NFT
 extensions:
   discord: https://discord.com/invite/pecpAJNUJP
   twitter: https://twitter.com/JoveCryptoGames
   website: https://jove.games/
+tags:
+  - community-token
+  - game
+  - NFT

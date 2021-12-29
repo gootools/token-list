@@ -1,8 +1,6 @@
 symbol: Seagrass
 name: Scallop Seagrass Decorations
 decimals: 0
-tags:
-  - nft
 extensions:
   discord: https://discord.gg/Scallop
   facebook: https://www.facebook.com/Scallop.io
@@ -11,3 +9,5 @@ extensions:
   telegram: https://t.me/scallop_io
   twitter: https://twitter.com/Scallop_io
   website: https://www.scallop.io/
+tags:
+  - nft

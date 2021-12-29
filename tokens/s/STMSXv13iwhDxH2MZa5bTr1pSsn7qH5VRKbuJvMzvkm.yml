@@ -1,8 +1,8 @@
 symbol: STM
 name: Soltama
 decimals: 9
+extensions:
+  website: http://www.soltama.com/
 tags:
   - meme
   - Nft
-extensions:
-  website: http://www.soltama.com/

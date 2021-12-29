@@ -1,9 +1,9 @@
 symbol: CRYY
 name: CRY Coin
 decimals: 9
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/kkY6dT4ARX
   twitter: https://twitter.com/crycoinofficial
   website: https://crycoin.io
+tags:
+  - meme-token

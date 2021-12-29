@@ -1,10 +1,10 @@
 symbol: BLACK
 name: Black Freelancer
 decimals: 9
-tags:
-  - utility-token
 extensions:
   blog: https://blog.blackfreelancer.com
   instagram: https://www.instagram.com/blackfreelancer
   twitter: https://twitter.com/blackfreelancr
   website: https://www.blackfreelancer.com
+tags:
+  - utility-token

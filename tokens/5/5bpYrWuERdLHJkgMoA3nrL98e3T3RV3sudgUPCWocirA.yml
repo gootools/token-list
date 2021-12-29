@@ -1,7 +1,7 @@
 symbol: BASIS-USDC
 name: Raydium Permissionless LP Token (BASIS-USDC)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://raydium.io/
+tags:
+  - lp-token

@@ -1,15 +1,15 @@
 symbol: $ALPHA
 name: Alpha NFT Token
 decimals: 0
+extensions:
+  website: https://alphagen.gallery/
 tags:
   - art
   - art-token
-  - generative-art
   - community
   - community-token
-  - utility-token
-  - meta-verse
   - dao
+  - generative-art
   - governance
-extensions:
-  website: https://alphagen.gallery/
+  - meta-verse
+  - utility-token

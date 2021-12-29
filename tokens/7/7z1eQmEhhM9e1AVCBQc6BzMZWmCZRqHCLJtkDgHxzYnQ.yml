@@ -1,9 +1,9 @@
 symbol: LFGO
 name: MEKKA FROGGO TOKEN
 decimals: 9
-tags:
-  - community-token
-  - nft-token
-  - Meme-coin
 extensions:
   website: https://mekkafroggo.com
+tags:
+  - community-token
+  - Meme-coin
+  - nft-token

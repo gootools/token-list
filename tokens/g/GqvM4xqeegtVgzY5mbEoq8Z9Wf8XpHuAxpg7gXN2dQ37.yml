@@ -1,10 +1,10 @@
 symbol: FLOW
 name: Flower Solana
 decimals: 9
+extensions:
+  twitter: https://twitter.com/FlowerSolana
+  website: https://www.flowersolana.com/
 tags:
   - community-token
   - meme-token
   - MetaVerse
-extensions:
-  twitter: https://twitter.com/FlowerSolana
-  website: https://www.flowersolana.com/

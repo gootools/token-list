@@ -1,11 +1,11 @@
 symbol: sFTT-9
 name: Saber Wrapped Wrapped FTT (Sollet) (9 decimals)
 decimals: 9
-tags:
-  - wrapped-sollet
-  - ethereum
-  - saber-market-ftt
-  - saber-dec-wrapped
 extensions:
   coingeckoId: ftx-token
   website: https://app.saber.so
+tags:
+  - ethereum
+  - saber-market-ftt
+  - saber-dec-wrapped
+  - wrapped-sollet

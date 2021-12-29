@@ -1,11 +1,11 @@
 symbol: wROOT_v1
 name: RootKit (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E"
   assetContract: https://etherscan.io/address/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: rootkit
+tags:
+  - wrapped
+  - wormhole

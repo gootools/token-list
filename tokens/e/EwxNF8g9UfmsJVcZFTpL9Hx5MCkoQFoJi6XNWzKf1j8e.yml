@@ -1,7 +1,7 @@
 symbol: acUSD
 name: Wrapped CUSD (Allbridge from Celo)
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   coingeckoId: celo-dollar
+tags:
+  - stablecoin

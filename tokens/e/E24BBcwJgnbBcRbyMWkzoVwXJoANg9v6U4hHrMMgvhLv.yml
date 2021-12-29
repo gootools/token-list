@@ -1,7 +1,7 @@
 symbol: NFTEBBC
 name: SOLKITTY NFT KING KONG 1
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/king-kong
+tags:
+  - nft

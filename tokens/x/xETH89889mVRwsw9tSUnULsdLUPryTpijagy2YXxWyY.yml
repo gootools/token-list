@@ -1,8 +1,8 @@
 symbol: xETH-whETH
 name: Saber xETH-whETH LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/xeth
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify
-extensions:
-  website: https://app.saber.so/#/pools/xeth

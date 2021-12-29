@@ -1,8 +1,8 @@
 symbol: PLS
 name: Fraktionalized Synapses-1058
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/EzXyaBouLkRWqednXACYeNm6pDhLnKw3BaBEB2hJbLPB
   vaultPubkey: EzXyaBouLkRWqednXACYeNm6pDhLnKw3BaBEB2hJbLPB
+tags:
+  - fractionalized-nft

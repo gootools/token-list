@@ -1,8 +1,8 @@
 symbol: AYO
 name: Ayoken
 decimals: 6
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/ayokenlabs
   website: https://www.ayoken.com
+tags:
+  - utility-token

@@ -1,9 +1,9 @@
 symbol: Trick
 name: SolTricks token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.soltricks.io
   twitter: https://twitter.com/soltricks
   website: https://soltricks.io
+tags:
+  - utility-token

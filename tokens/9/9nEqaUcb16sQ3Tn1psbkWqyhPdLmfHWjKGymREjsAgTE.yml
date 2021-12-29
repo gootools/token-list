@@ -1,10 +1,10 @@
 symbol: WOOF
 name: WOOF
 decimals: 6
-tags:
-  - community-token
-  - meme-token
 extensions:
   coingeckoId: woof-token
   serumV3Usdc: CwK9brJ43MR4BJz2dwnDM7EXCNyHhGqCJDrAdsEts8n5
   website: https://woofsolana.com
+tags:
+  - community-token
+  - meme-token

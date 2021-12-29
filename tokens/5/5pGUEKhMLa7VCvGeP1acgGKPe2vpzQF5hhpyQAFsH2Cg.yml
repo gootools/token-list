@@ -1,10 +1,10 @@
 symbol: COSP
 name: Cosplay Coin
 decimals: 9
-tags:
-  - social-token
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/CosplayCoin
   website: https://cosplaycoin.xyz
+tags:
+  - nft
+  - social-token
+  - utility-token

@@ -1,11 +1,11 @@
 symbol: wLEND_v1
 name: Lend (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03"
   assetContract: https://etherscan.io/address/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: ethlend
+tags:
+  - wrapped
+  - wormhole

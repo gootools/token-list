@@ -1,14 +1,6 @@
 symbol: SLRC
 name: Sollarion Crystal
 decimals: 4
-tags:
-  - utility-token
-  - gaming
-  - metaverse
-  - nfts
-  - play-to-earn
-  - solana-ecosystem
-  - staking
 extensions:
   description: SLRC tokens are built on the Solana blockchain. Users can use SLRC
     to participate in the game, buy cards on marketplace, bet with other
@@ -18,3 +10,11 @@ extensions:
   instagram: https://www.instagram.com/solanagalaxynft/
   twitter: https://twitter.com/SolanaGalaxyNFT
   website: https://sollarion.com/
+tags:
+  - gaming
+  - metaverse
+  - nfts
+  - play-to-earn
+  - solana-ecosystem
+  - staking
+  - utility-token

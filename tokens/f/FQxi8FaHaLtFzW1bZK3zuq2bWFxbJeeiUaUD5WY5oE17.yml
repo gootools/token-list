@@ -1,9 +1,9 @@
 symbol: LORDA
 name: Lord Arena
 decimals: 9
-tags:
-  - NFT
 extensions:
   website: https://lordarena.com
+tags:
+  - NFT
 clusters:
-  - testnet
+  - devnet

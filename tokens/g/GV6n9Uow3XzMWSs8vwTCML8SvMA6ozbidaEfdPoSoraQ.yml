@@ -1,11 +1,11 @@
 symbol: SVIZ
 name: Space Vizsla
 decimals: 9
-tags:
-  - meme-token
-  - community-token
-  - space-vizsla
-  - vizsla
 extensions:
   telegram: https://t.me/VizslaToken
   website: https://vizslatoken.org
+tags:
+  - community-token
+  - meme-token
+  - space-vizsla
+  - vizsla

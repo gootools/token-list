@@ -1,9 +1,9 @@
 symbol: TIKI
 name: SolMaori
 decimals: 9
-tags:
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/solmaori
   website: https://www.solmaori.com
+tags:
+  - nft
+  - utility-token

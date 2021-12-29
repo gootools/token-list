@@ -1,9 +1,6 @@
 symbol: CRB
 name: Carbon Farm
 decimals: 9
-tags:
-  - Farming
-  - NFT
 extensions:
   github: https://github.com/CarbonFarm
   medium: https://carbonfarm.medium.com/
@@ -11,3 +8,6 @@ extensions:
   telegram: https://t.me/carbonfarm
   twitter: https://twitter.com/farmcarbonmore
   website: https://www.farmcarbonmore.com/
+tags:
+  - Farming
+  - NFT

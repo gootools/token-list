@@ -1,7 +1,7 @@
 symbol: NFTXTAC
 name: SOLKITTY NFT SOLANA CUSTOM COLOR  COIN 9
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/solana-custom-color-collection-coin-9
+tags:
+  - nft

@@ -1,8 +1,8 @@
 symbol: CROC
 name: CROC
 decimals: 9
-tags:
-  - social-token
-  - community-token
 extensions:
   twitter: https://twitter.com/SolanaCBS
+tags:
+  - community-token
+  - social-token

@@ -1,10 +1,10 @@
 symbol: $ASS
 name: Ass Coin
 decimals: 9
-tags:
-  - MEMES-TOKEN
-  - NFTS
-  - DEX
 extensions:
   twitter: https://twitter.com/solanadonkeBs
   website: https://solanadonkey.business
+tags:
+  - DEX
+  - MEMES-TOKEN
+  - NFTS

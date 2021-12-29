@@ -1,8 +1,6 @@
 symbol: MECA
 name: Coinmeca
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/coinmeca
   medium: https://coinmeca.medium.com/
@@ -10,3 +8,5 @@ extensions:
   telegram: https://t.me/coinmeca
   twitter: https://twitter.com/coinmeca
   website: https://coinmeca.net/
+tags:
+  - utility-token

@@ -1,7 +1,7 @@
 symbol: XLE
 name: Excelli Coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://excellicoin.com
+tags:
+  - utility-token

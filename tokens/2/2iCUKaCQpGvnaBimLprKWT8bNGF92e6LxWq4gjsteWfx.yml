@@ -1,7 +1,7 @@
 symbol: TSM
 name: Taiwan Semiconductor Mfg
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?TSM
+tags:
+  - tokenized-stock

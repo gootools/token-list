@@ -1,9 +1,6 @@
 symbol: stETH
 name: Lido Staked ETH
 decimals: 8
-tags:
-  - stake
-  - wrapped
 extensions:
   coingeckoId: lido-staked-ether
   discord: https://discord.gg/WhhnWwsFXz
@@ -11,3 +8,6 @@ extensions:
   telegram: https://t.me/lidofinance
   twitter: https://twitter.com/LidoFinance
   website: https://lido.fi/
+tags:
+  - stake
+  - wrapped

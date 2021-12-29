@@ -1,11 +1,11 @@
 symbol: wHEZ_v1
 name: Hermez Network Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE"
   assetContract: https://etherscan.io/address/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: hermez-network-token
+tags:
+  - wrapped
+  - wormhole

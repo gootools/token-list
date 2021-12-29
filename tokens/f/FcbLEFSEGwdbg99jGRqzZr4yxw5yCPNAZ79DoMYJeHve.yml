@@ -1,12 +1,12 @@
 symbol: SSM
 name: Safe Shiba Moon
 decimals: 9
-tags:
-  - Meme-token
-  - Gaming
-  - Gambling
 extensions:
   discord: https://discord.gg/vvY56JgKuB
   telegram: https://t.me/joinchat/2dcSL62oXSpmZjIx
   twitter: https://twitter.com/SafeShibaMoon
   website: https://www.safeshibamoon.com/
+tags:
+  - Gaming
+  - Gambling
+  - Meme-token

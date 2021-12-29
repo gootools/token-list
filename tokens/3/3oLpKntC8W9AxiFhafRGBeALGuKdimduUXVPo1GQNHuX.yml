@@ -1,9 +1,9 @@
 symbol: Otter
 name: Ottercoin
 decimals: 9
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/gXymhAfceY
   twitter: https://twitter.com/ottercoinn
   website: https://ottercoin.info/
+tags:
+  - meme-token

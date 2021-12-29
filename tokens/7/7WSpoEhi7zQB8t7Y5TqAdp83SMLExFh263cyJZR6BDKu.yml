@@ -1,8 +1,8 @@
 symbol: COE
 name: VMW Hands on Team - Coin of Excellence
 decimals: 1
-tags:
-  - utility-token
-  - meme-token
 extensions:
   website: https://flashdumper.github.io
+tags:
+  - meme-token
+  - utility-token

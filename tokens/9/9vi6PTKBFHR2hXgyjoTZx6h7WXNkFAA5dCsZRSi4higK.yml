@@ -1,8 +1,6 @@
 symbol: ASF
 name: Armstrong Forever
 decimals: 0
-tags:
-  - nft
 extensions:
   description: When humans were racing to expand into outer space under Ahr's
     influence, the devastation they inflicted upon the planet was so great that
@@ -22,3 +20,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-15/armstrong-forever.jpg
   serumV3Usdc: 8yQzsbraXJFoPG5PdX73B8EVYFuPR9aC2axAqWearGKu
   website: https://www.staratlas.com
+tags:
+  - nft

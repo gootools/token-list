@@ -1,8 +1,8 @@
 symbol: HZI
 name: Heinzi
 decimals: 0
-tags:
-  - social-token
 extensions:
   linkedin: https://www.linkedin.com/in/jonas-heinze-347879195/
   website: https://heinzi.jonas-heinze.de
+tags:
+  - social-token

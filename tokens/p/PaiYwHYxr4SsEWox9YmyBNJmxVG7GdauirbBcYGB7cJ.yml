@@ -1,7 +1,7 @@
 symbol: PAI-USDC
 name: Saber PAI-USDC LP
 decimals: 6
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/usdc_pai
+tags:
+  - saber-stableswap-lp

@@ -1,10 +1,10 @@
 symbol: SCHRY
 name: SolChrysalis
 decimals: 6
-tags:
-  - Games
-  - NFT
 extensions:
   telegram: https://t.me/Sol_Chrysalis
   twitter: https://twitter.com/solchrysalis
   website: https://www.solchrysalis.com/
+tags:
+  - Games
+  - NFT

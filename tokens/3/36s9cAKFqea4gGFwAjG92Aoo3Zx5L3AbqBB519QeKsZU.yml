@@ -1,10 +1,10 @@
 symbol: ALF
 name: AlfProtocol
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.com/invite/alfprotocol
   telegram: https://t.me/alfprotocol
   twitter: https://twitter.com/AlfProtocol
   website: https://alfprotocol.com/
+tags:
+  - utility-token

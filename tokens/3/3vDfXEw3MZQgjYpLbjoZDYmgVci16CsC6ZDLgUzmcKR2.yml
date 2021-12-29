@@ -1,9 +1,9 @@
 symbol: FLVR
 name: Flokiverse
 decimals: 9
-tags:
-  - meme-token
-  - game-token
 extensions:
   twitter: https://twitter.com/TheFlokiverse
   website: https://theflokiverse.com
+tags:
+  - game-token
+  - meme-token

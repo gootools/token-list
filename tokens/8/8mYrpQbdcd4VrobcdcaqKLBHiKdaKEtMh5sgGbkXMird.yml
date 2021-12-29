@@ -1,10 +1,10 @@
 symbol: LANDS
 name: Lost Lands
 decimals: 4
-tags:
-  - nft
-  - utility-token
 extensions:
   discord: https://discord.com/invite/c7Jk9a6GJK
   twitter: https://twitter.com/LandsSol
   website: https://lostlands.club
+tags:
+  - nft
+  - utility-token

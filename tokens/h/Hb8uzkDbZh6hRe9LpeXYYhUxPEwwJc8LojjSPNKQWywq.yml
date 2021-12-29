@@ -1,12 +1,12 @@
 symbol: NRD
 name: Nirad
 decimals: 0
-tags:
-  - currency
-  - social-token
-  - community-token
-  - trading-token
-  - reward-token
-  - utility-token
 extensions:
   website: https://datchat.com/app1/
+tags:
+  - currency
+  - community-token
+  - reward-token
+  - social-token
+  - trading-token
+  - utility-token

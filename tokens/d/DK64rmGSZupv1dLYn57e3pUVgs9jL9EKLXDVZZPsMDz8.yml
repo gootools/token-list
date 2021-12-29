@@ -1,8 +1,8 @@
 symbol: ABOMB
 name: ArtBomb
 decimals: 5
-tags:
-  - utility-token
-  - artbomb
 extensions:
   website: https://artbomb.xyz
+tags:
+  - artbomb
+  - utility-token

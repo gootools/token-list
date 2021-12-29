@@ -1,8 +1,8 @@
 symbol: BULLSHIT
 name: BULLSHIT
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-shitcoin-index-token
+tags:
+  - bull
+  - leveraged

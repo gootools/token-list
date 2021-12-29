@@ -1,13 +1,6 @@
 symbol: cvs
 name: coinvs
 decimals: 9
-tags:
-  - coinversus
-  - cvs
-  - entertainment
-  - gaming
-  - NFT
-  - utility-token
 extensions:
   discord: https://discord.gg/F84VmCtByV
   facebook: https://www.facebook.com/coinversusofficial
@@ -17,3 +10,10 @@ extensions:
   telegram: https://t.me/coinvs
   twitter: https://twitter.com/CoinVersus
   website: https://coinversus.com/
+tags:
+  - coinversus
+  - cvs
+  - entertainment
+  - gaming
+  - NFT
+  - utility-token

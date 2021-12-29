@@ -1,7 +1,7 @@
 symbol: abBUSD
 name: Wrapped BUSD (Allbridge from BSC)
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   coingeckoId: binance-usd
+tags:
+  - stablecoin

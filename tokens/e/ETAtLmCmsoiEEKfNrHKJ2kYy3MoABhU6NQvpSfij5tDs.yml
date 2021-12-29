@@ -1,10 +1,10 @@
 symbol: MEDIA
 name: Media Network
 decimals: 6
-tags:
-  - utility-token
 extensions:
   coingeckoId: media-network
   serumV3Usdc: FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb
   waterfallbot: https://bit.ly/MEDIAwaterfall
   website: https://media.network/
+tags:
+  - utility-token

@@ -1,8 +1,6 @@
 symbol: TTT
 name: TabTrader Token
 decimals: 6
-tags:
-  - utility-token
 extensions:
   description: TabTrader allows users to trade anywhere and anytime from their
     mobile device with all the main crypto exchanges accessible through a
@@ -13,3 +11,5 @@ extensions:
   twitter: https://twitter.com/tabtraderpro
   website: https://tab-trader.com/
   youtube: https://www.youtube.com/c/TabTrader
+tags:
+  - utility-token

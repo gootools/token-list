@@ -1,10 +1,10 @@
 symbol: gSAIL
 name: SolanaSail Governance Token V2
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: solanasail-governance-token
   serumV3Usdc: 2zkPyHgQkKG6qJED6MTbjfCfUbZeT9VFwLm1Ld9nKxRp
   twitter: https://twitter.com/SolanaSail
   website: https://www.solanasail.com
+tags:
+  - utility-token

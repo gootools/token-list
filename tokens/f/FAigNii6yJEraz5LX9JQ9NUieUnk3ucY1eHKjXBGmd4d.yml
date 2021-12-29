@@ -1,8 +1,8 @@
 symbol: CHKRA
 name: CHKRA
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/SoulKombat
   website: https://soulkombat.com
+tags:
+  - utility-token

@@ -1,10 +1,10 @@
 symbol: BITCH
 name: Bitch Of Solana
 decimals: 9
-tags:
-  - Meme
-  - community
-  - utility-token
 extensions:
   serumV3Usdc: 2N78M8HZj2R9rSHxVXx6QWSvFvvnmhoEbsNPfrBdtdGo
   website: https://bitch.samoymeme.com
+tags:
+  - community
+  - Meme
+  - utility-token

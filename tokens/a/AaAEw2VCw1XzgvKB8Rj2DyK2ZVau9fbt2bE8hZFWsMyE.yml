@@ -1,7 +1,7 @@
 symbol: aeWETH
 name: Wrapped ETH (Allbridge from Ethereum)
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   coingeckoId: weth
+tags:
+  - stablecoin

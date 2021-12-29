@@ -1,7 +1,7 @@
 symbol: NFTXNGR
 name: SOLKITTY NFT ALINE SNOWBOARDING
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/aline-snowboarding
+tags:
+  - nft

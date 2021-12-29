@@ -1,10 +1,10 @@
 symbol: COW
 name: Cash Cow
 decimals: 6
-tags:
-  - governance-token
 extensions:
   discord: https://discord.com/invite/GmkRRKJkuh
   medium: https://medium.com/@cashioapp
   twitter: https://twitter.com/CashioApp
   website: https://cashio.app
+tags:
+  - governance-token

@@ -1,8 +1,8 @@
 symbol: PBLM
 name: Pinke Blumen
 decimals: 4
+extensions:
+  twitter: https://twitter.com/itsfeellings
 tags:
   - meme-coin
   - social-token
-extensions:
-  twitter: https://twitter.com/itsfeellings

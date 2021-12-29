@@ -1,7 +1,7 @@
 symbol: SLRS/USDC
 name: Orca Aquafarm Token (SLRS/USDC)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://orca.so
+tags:
+  - lp-token

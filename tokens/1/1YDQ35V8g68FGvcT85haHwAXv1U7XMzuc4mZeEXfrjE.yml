@@ -1,13 +1,13 @@
 symbol: WGMI
 name: WGMI NFT Collector's Club
 decimals: 0
-tags:
-  - community
-  - NFT
-  - club
-  - wgmi
-  - wagmi
 extensions:
   discord: https://discord.gg/yr4PpZNQXK
   twitter: https://twitter.com/WGMIcc
   website: https://wgmi.cc
+tags:
+  - community
+  - club
+  - NFT
+  - wgmi
+  - wagmi

@@ -1,8 +1,8 @@
 symbol: BullDog
 name: BullDog
 decimals: 9
+extensions:
+  twitter: https://twitter.com/BullDogSolana
 tags:
   - Meme-Token
   - nft
-extensions:
-  twitter: https://twitter.com/BullDogSolana

@@ -1,11 +1,11 @@
 symbol: wMATIC_v1
 name: Matic Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
   assetContract: https://etherscan.io/address/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: matic-network
+tags:
+  - wrapped
+  - wormhole

@@ -1,9 +1,9 @@
 symbol: COFFEE
 name: CoffeeMaker
 decimals: 9
-tags:
-  - nft
-  - swap
-  - nft-marketplace
 extensions:
   website: https://coffeemaker.finance
+tags:
+  - nft
+  - nft-marketplace
+  - swap

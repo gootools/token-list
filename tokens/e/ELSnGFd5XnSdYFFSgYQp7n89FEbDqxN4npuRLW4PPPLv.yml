@@ -1,11 +1,11 @@
 symbol: wHEX_v1
 name: HEX (Wormhole v1)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39"
   assetContract: https://etherscan.io/address/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: hex
+tags:
+  - wrapped
+  - wormhole

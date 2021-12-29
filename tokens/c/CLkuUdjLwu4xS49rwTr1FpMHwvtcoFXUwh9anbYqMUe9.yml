@@ -1,9 +1,9 @@
 symbol: HUSAR
 name: Sekler Husar Inu
 decimals: 0
-tags:
-  - social-token
-  - community-token
-  - meme-token
 extensions:
   telegram: https://t.me/pr04ak
+tags:
+  - community-token
+  - meme-token
+  - social-token

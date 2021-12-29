@@ -1,9 +1,9 @@
 symbol: MPAD
 name: MercuryPAD Token
 decimals: 9
-tags:
-  - MPAD
-  - LaunchPAD
 extensions:
   twitter: https://twitter.com/MercuryPad
   website: https://mercurypad.com/
+tags:
+  - LaunchPAD
+  - MPAD

@@ -4,5 +4,5 @@ decimals: 6
 extensions:
   website: http://n1pool.com/
 clusters:
+  - devnet
   - mainnet-beta
-  - testnet

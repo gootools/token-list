@@ -1,11 +1,11 @@
 symbol: wSLP_v1
 name: Small Love Potion (Wormhole v1)
 decimals: 0
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1"
   assetContract: https://etherscan.io/address/0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: smooth-love-potion
+tags:
+  - wrapped
+  - wormhole

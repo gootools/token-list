@@ -1,9 +1,9 @@
 symbol: soKARMA
 name: Wrapped KARMA (Sollet)
 decimals: 4
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: karma-dao
+tags:
+  - ethereum
+  - wrapped-sollet

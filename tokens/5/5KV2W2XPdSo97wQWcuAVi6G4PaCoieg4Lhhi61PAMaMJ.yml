@@ -1,9 +1,9 @@
 symbol: GÜ
 name: GÜ
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: gu
   twitter: https://twitter.com/Kugle_
   website: https://kugle.org
+tags:
+  - utility-token

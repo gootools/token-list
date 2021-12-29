@@ -1,11 +1,11 @@
 symbol: CNDR
 name: CondorCoin
 decimals: 12
-tags:
-  - utility-token
 extensions:
   facebook: https://www.facebook.com/Condor-Coin-108233578306800
   instagram: https://www.instagram.com/condorcoin/
   reddit: https://www.reddit.com/user/condorcoin
   twitter: https://twitter.com/condor_coin
   website: https://www.condorcoin.co/
+tags:
+  - utility-token

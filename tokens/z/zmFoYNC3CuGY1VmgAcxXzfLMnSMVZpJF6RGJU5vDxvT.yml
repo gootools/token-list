@@ -1,8 +1,8 @@
 symbol: JUUJUU
 name: JUUJUU
 decimals: 9
-tags:
-  - social-token
-  - community-token
 extensions:
   website: https://www.coolbabykaiju.com
+tags:
+  - community-token
+  - social-token

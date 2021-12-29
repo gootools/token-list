@@ -1,7 +1,7 @@
 symbol: NFTEVNM
 name: SOLKITTY NFT TIGER STRIPES KITTY
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/tiger-stripes-kitty
+tags:
+  - nft

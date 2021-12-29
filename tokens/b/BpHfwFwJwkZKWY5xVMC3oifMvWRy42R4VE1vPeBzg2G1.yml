@@ -1,8 +1,8 @@
 symbol: SYP/USDC
 name: Orca Double Dip Token (SYP/USDC[aquafarm])
 decimals: 6
-tags:
-  - lp-token
 extensions:
   twitter: https://twitter.com/orca_so
   website: https://www.orca.so
+tags:
+  - lp-token

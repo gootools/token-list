@@ -1,8 +1,8 @@
 symbol: ALTBEAR
 name: ALTBEAR
 decimals: 6
-tags:
-  - leveraged
-  - bear
 extensions:
   coingeckoId: 3x-short-altcoin-index-token
+tags:
+  - bear
+  - leveraged

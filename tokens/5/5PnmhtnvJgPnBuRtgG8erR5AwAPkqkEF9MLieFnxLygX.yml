@@ -1,9 +1,9 @@
 symbol: PARTY
 name: Party Giraffes
 decimals: 9
-tags:
-  - community-token
 extensions:
   discord: https://discord.com/invite/partygiraffes
   twitter: https://twitter.com/PartyGiraffes
   website: https://partygiraffes.net
+tags:
+  - community-token

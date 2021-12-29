@@ -1,11 +1,11 @@
 symbol: CRY
 name: Crypunks
 decimals: 0
-tags:
-  - utility-token
-  - Metaverse
-  - Gamefi
 extensions:
   discord: https://discord.gg/NDacA7b6AQ
   twitter: https://twitter.com/crypunks
   website: https://crypunks.com/
+tags:
+  - Gamefi
+  - Metaverse
+  - utility-token

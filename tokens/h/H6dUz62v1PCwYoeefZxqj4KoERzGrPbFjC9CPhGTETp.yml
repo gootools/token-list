@@ -1,7 +1,7 @@
 symbol: NFTELEPH
 name: SOLKITTY NFT ELEPHANT
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/elephant
+tags:
+  - nft

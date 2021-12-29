@@ -1,10 +1,10 @@
 symbol: swFTT-9
 name: Saber Wrapped FTT (Wormhole) (9 decimals)
 decimals: 9
-tags:
-  - saber-market-ftt
-  - wormhole-v2
-  - saber-dec-wrapped
 extensions:
   coingeckoId: ftx-token
   website: https://app.saber.so
+tags:
+  - saber-market-ftt
+  - saber-dec-wrapped
+  - wormhole-v2

@@ -1,13 +1,13 @@
 symbol: DATE
 name: SolDate(DATE) Token
 decimals: 9
-tags:
-  - social-token
-  - dating-token
-  - metaverse
 extensions:
   discord: https://discord.gg/soldate
   medium: https://soldate.medium.com
   telegram: https://t.me/soldate_org
   twitter: https://twitter.com/SolDate_org
   website: https://soldate.org/
+tags:
+  - dating-token
+  - metaverse
+  - social-token

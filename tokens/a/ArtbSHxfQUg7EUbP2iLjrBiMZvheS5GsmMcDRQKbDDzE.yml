@@ -1,9 +1,9 @@
 symbol: KRMA
 name: KARMA
 decimals: 0
-tags:
-  - social-token
 extensions:
   discord: https://discord.gg/6KUXFshH
   twitter: https://twitter.com/harikrismenon
   website: https://getkarma.xyz
+tags:
+  - social-token

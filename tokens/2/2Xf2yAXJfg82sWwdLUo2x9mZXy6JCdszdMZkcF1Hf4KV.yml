@@ -1,11 +1,11 @@
 symbol: wLUNA_v1
 name: Wrapped LUNA Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9"
   assetContract: https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: wrapped-terra
+tags:
+  - wrapped
+  - wormhole

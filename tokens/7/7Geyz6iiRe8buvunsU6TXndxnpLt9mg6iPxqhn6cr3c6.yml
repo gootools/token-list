@@ -1,7 +1,7 @@
 symbol: ANFT
 name: AffinityLabs
 decimals: 9
-tags:
-  - nft
 extensions:
   website: https://affinitylabs.tech/
+tags:
+  - nft

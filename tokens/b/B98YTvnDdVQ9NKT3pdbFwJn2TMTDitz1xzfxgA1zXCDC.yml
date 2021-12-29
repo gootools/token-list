@@ -1,11 +1,6 @@
 symbol: wCOS_v1
 name: COS Contentos (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
-  - utility-token
-  - ethereum
 extensions:
   address: "0x589891a198195061cb8ad1a75357a3b7dbadd7bc"
   assetContract: https://etherscan.io/address/0x589891a198195061cb8ad1a75357a3b7dbadd7bc
@@ -14,3 +9,8 @@ extensions:
   medium: https://medium.com/contentos-io
   twitter: https://twitter.com/contentosio
   website: https://www.contentos.io/
+tags:
+  - ethereum
+  - utility-token
+  - wrapped
+  - wormhole

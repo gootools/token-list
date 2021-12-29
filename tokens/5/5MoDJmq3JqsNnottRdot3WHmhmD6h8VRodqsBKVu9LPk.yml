@@ -1,9 +1,9 @@
 symbol: APEC
 name: APEC
 decimals: 6
-tags:
-  - DeFi
-  - meme-token
 extensions:
   twitter: https://twitter.com/apeccoin
   website: https://apecoin.money
+tags:
+  - DeFi
+  - meme-token

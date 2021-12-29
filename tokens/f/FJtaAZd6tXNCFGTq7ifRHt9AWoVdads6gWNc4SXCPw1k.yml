@@ -1,11 +1,11 @@
 symbol: ALEPH
 name: tuALEPH
 decimals: 6
-tags:
-  - tulip-protocol
-  - lending
-  - collateral-tokens
 extensions:
   twitter: https://twitter.com/TulipProtocol
   waterfallbot: https://bit.ly/TULIPwaterfall
   website: https://tulip.garden
+tags:
+  - collateral-tokens
+  - lending
+  - tulip-protocol

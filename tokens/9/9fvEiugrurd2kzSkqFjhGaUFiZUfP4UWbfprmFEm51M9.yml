@@ -4,4 +4,4 @@ decimals: 9
 tags:
   - SPL-token
 clusters:
-  - testnet
+  - devnet

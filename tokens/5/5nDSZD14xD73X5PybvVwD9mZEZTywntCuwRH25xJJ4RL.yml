@@ -1,8 +1,8 @@
 symbol: IATK
 name: IA Token
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   instagram: https://www.instagram.com/urbsclimber/
+tags:
+  - community-token
+  - social-token

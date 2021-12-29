@@ -1,7 +1,7 @@
 symbol: ISBT
 name: Interstellar Banking Token
 decimals: 6
-tags:
-  - game-coin
 extensions:
   discord: https://discord.gg/WhefX8qf
+tags:
+  - game-coin

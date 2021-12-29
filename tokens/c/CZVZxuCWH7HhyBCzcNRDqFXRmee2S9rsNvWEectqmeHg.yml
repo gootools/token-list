@@ -1,7 +1,7 @@
 symbol: GRAPH
 name: Grapheene Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://grapheene.com
+tags:
+  - utility-token

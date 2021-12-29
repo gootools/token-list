@@ -1,11 +1,11 @@
 symbol: LEX
 name: Lexas
 decimals: 0
-tags:
-  - social-token
-  - meme-token
-  - community-token
-  - game-token
 extensions:
   instagram: https://www.instagram.com/victor.dscp/
   twitter: https://twitter.com/Lexas31789977
+tags:
+  - community-token
+  - game-token
+  - meme-token
+  - social-token

@@ -1,7 +1,7 @@
 symbol: NFTALIEN
 name: SOLKITTY NFT ALIEN BASKETBALLER
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/alien-basketballer
+tags:
+  - nft

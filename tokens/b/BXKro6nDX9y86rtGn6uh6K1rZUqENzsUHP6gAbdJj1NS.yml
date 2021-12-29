@@ -1,9 +1,9 @@
 symbol: AKAYA
 name: AKAYA_Bistro_NFT_Test
 decimals: 6
-tags:
-  - NFT
 extensions:
   website: https://www.instagram.com/akaya.bh/
+tags:
+  - NFT
 clusters:
-  - testnet
+  - devnet

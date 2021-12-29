@@ -1,7 +1,7 @@
 symbol: NFTHIPPO
 name: SOLKITTY NFT HIPPO
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/hippo
+tags:
+  - nft

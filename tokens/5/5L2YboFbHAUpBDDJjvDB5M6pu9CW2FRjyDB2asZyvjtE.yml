@@ -1,13 +1,13 @@
 symbol: PIXL
 name: Pixels.so Token
 decimals: 8
-tags:
-  - utility-token
-  - NFT
-  - DeFi
 extensions:
   description: Borrow Against Your NFTs - Deposit NFTs to Earn Yield.
   discord: https://discord.gg/rMdRdhTQ
   telegram: https://t.me/pixels_official
   twitter: https://twitter.com/pixels_so
   website: https://www.pixels.so
+tags:
+  - DeFi
+  - NFT
+  - utility-token

@@ -1,7 +1,7 @@
 symbol: NFTMONKE
 name: SOLKITTY NFT MONKEYS
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/monkeys
+tags:
+  - nft

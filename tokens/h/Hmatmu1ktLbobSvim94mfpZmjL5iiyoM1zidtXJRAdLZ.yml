@@ -1,8 +1,8 @@
 symbol: PSOL
 name: Parasol
 decimals: 7
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/WTwm2V45UZ
   website: https://parasol-labs.org
+tags:
+  - utility-token

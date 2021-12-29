@@ -1,12 +1,12 @@
 symbol: CMET
 name: CME TOKEN
 decimals: 9
-tags:
-  - learning-token
-  - training-token
-  - meet-to-earn
-  - study-to-earn
 extensions:
   description: An incentive economic system.
   telegram: https://t.me/cmetacoin
   twitter: https://twitter.com/cmetacoin
+tags:
+  - learning-token
+  - meet-to-earn
+  - study-to-earn
+  - training-token

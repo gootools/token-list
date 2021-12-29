@@ -1,8 +1,8 @@
 symbol: CATL
 name: Cat Lover
 decimals: 9
-tags:
-  - Community
 extensions:
   telegram: https://t.me/catlovertoken
   website: https://catlovertoken.tk/
+tags:
+  - Community

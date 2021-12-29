@@ -1,7 +1,7 @@
 symbol: NFTCJQS
 name: SOLKITTY NFT PARROT EYE
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/parrot-eye
+tags:
+  - nft

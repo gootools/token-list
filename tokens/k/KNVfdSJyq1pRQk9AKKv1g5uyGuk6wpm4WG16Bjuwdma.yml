@@ -1,10 +1,10 @@
 symbol: swhETH-9
 name: Saber Wrapped Ether (Wormhole) (9 decimals)
 decimals: 9
-tags:
-  - saber-market-eth
-  - wormhole-v2
-  - saber-dec-wrapped
 extensions:
   coingeckoId: ethereum
   website: https://app.saber.so
+tags:
+  - saber-market-eth
+  - saber-dec-wrapped
+  - wormhole-v2

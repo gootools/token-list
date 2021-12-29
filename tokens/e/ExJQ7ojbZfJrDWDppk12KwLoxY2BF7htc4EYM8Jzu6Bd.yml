@@ -1,7 +1,7 @@
 symbol: NFTCALIA
 name: SOLKITTY NFT CALI APE
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/cali-ape
+tags:
+  - nft

@@ -1,10 +1,10 @@
 symbol: SHIBA-USDC
 name: Shibalana LP Token (SHIBA-USDC)
 decimals: 9
-tags:
-  - lp-token
 extensions:
   discord: https://discord.gg/Wn6UYeQQGv
   telegram: https://t.me/shibalana
   twitter: https://twitter.com/shibalana
   website: https://shibalana.com
+tags:
+  - lp-token

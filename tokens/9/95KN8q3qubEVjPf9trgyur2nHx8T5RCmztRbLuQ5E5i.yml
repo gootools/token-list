@@ -1,11 +1,11 @@
 symbol: SMRT
 name: Solminter
 decimals: 0
-tags:
-  - utility-token
 extensions:
   coingeckoId: solminter
   github: https://github.com/solminter
   medium: https://solminter.medium.com
   twitter: https://twitter.com/solminter
   website: https://solminter.com
+tags:
+  - utility-token

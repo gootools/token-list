@@ -1,11 +1,11 @@
 symbol: BOP
 name: Boring Protocol
 decimals: 8
-tags:
-  - security-token
-  - utility-token
 extensions:
   coingeckoId: boring-protocol
   serumV3Usdc: 7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM
   twitter: https://twitter.com/BoringProtocol
   website: https://boringprotocol.io
+tags:
+  - security-token
+  - utility-token

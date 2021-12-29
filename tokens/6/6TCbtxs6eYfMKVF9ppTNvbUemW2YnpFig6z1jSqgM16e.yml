@@ -1,7 +1,7 @@
 symbol: STRANGE
 name: STRANGE
 decimals: 6
-tags:
-  - utility-token
 extensions:
   website: https://safepluto.tech
+tags:
+  - utility-token

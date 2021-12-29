@@ -1,7 +1,7 @@
 symbol: NFTJCJF
 name: SOLKITTY NFT EGG 6
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/egg-6
+tags:
+  - nft

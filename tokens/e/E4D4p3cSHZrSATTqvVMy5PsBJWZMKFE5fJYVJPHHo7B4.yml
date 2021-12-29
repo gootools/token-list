@@ -1,9 +1,9 @@
 symbol: LOOTERS
 name: Shadow Looters Token
 decimals: 9
-tags:
-  - Governance-token
-  - Game-Fi
 extensions:
   discord: https://discord.gg/5E4RzUPYjs
   twitter: https://twitter.com/shadowlooters
+tags:
+  - Governance-token
+  - Game-Fi

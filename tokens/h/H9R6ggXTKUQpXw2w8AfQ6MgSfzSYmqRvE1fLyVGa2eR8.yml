@@ -1,7 +1,7 @@
 symbol: NFTROTTW
 name: SOLKITTY NFT ROTTWEILER FRONT
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/rottweiler-front
+tags:
+  - nft

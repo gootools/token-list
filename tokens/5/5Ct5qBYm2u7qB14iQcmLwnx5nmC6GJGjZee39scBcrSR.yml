@@ -1,9 +1,9 @@
 symbol: RBN
 name: Robin Coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://robin.com
+tags:
+  - utility-token
 clusters:
-  - testnet
+  - devnet

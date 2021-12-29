@@ -1,9 +1,9 @@
 symbol: NIRV
 name: Nirvana
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   description: NIRV Is a token created for fun might turn into something cool we
     don't know yet
+tags:
+  - community-token
+  - social-token

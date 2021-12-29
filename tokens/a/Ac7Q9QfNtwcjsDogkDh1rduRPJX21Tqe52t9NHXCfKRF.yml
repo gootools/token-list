@@ -1,8 +1,8 @@
 symbol: ENDR
 name: Ender
 decimals: 9
+extensions:
+  website: https://discord.gg/4JzJfcMw8H
 tags:
   - community-token
   - meme-token
-extensions:
-  website: https://discord.gg/4JzJfcMw8H

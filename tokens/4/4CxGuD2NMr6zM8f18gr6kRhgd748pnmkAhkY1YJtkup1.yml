@@ -1,9 +1,9 @@
 symbol: cSRM
 name: Solend SRM
 decimals: 6
-tags:
-  - solend
-  - lending
-  - collateral-tokens
 extensions:
   website: https://solend.fi
+tags:
+  - collateral-tokens
+  - lending
+  - solend

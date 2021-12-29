@@ -1,10 +1,10 @@
 symbol: wCCX
 name: Wrapped Conceal
 decimals: 6
-tags:
-  - wrapped
 extensions:
   coingeckoId: wrapped-conceal
   discord: https://discord.conceal.network/
   twitter: https://twitter.com/ConcealNetwork
   website: https://conceal.network/
+tags:
+  - wrapped

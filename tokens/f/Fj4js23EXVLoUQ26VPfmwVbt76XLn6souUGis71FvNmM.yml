@@ -1,11 +1,11 @@
 symbol: LEARN
 name: Solearna
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/z3AZSHfcQ4
   reddit: https://www.reddit.com/r/solearna
   telegram: https://t.me/joinchat/3U4rp853CFMyNGY0
   twitter: https://twitter.com/solearna
   website: https://solearna.com/
+tags:
+  - utility-token

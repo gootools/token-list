@@ -1,11 +1,11 @@
 symbol: MCAKE
 name: Meme Cake
 decimals: 6
-tags:
-  - utility-token
-  - memecake
-  - social-token
 extensions:
   discord: https://discord.com/invite/WFkRssvNtW
   twitter: https://twitter.com/realmemecake
   website: https://memecake.io/
+tags:
+  - memecake
+  - social-token
+  - utility-token

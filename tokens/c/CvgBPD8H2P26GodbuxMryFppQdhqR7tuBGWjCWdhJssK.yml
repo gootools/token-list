@@ -1,10 +1,10 @@
 symbol: YODA
 name: Baby Yoda
 decimals: 9
-tags:
-  - YODA
-  - Community-token
-  - MEME
 extensions:
   twitter: https://twitter.com/babyyoda_token
   website: https://www.babyoda.info
+tags:
+  - Community-token
+  - MEME
+  - YODA

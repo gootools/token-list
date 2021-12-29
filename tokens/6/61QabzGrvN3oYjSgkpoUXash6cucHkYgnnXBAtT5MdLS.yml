@@ -1,7 +1,7 @@
 symbol: HMG
 name: Hamingja
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/HamingjaToken
+tags:
+  - utility-token

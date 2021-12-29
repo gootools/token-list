@@ -1,10 +1,6 @@
 symbol: KITTY
 name: Kitty Coin
 decimals: 6
-tags:
-  - meme-token
-  - kitty
-  - cat
 extensions:
   coingeckoId: kitty-coin-solana
   discord: https://discord.gg/kittycoinsolana
@@ -12,3 +8,7 @@ extensions:
   serumV3Usdt: H8VLs7VYaBg3rg1NvVNJKb1QWMf3kzieTPkgPmVffXTx
   twitter: https://twitter.com/KittyCoinSolana
   website: https://kittycoinsolana.com/
+tags:
+  - cat
+  - kitty
+  - meme-token

@@ -1,8 +1,8 @@
 symbol: wHUSD-USDC
 name: Saber wHUSD-USDC LP
 decimals: 8
+extensions:
+  website: https://app.saber.so/#/pools/whusd
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2
-extensions:
-  website: https://app.saber.so/#/pools/whusd

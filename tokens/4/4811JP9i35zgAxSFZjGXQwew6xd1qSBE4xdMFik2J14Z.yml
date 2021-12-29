@@ -1,11 +1,11 @@
 symbol: wROOM_v1
 name: OptionRoom Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64"
   assetContract: https://etherscan.io/address/0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: option-room
+tags:
+  - wrapped
+  - wormhole

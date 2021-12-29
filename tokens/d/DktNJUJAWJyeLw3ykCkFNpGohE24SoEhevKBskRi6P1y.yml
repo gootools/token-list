@@ -1,12 +1,12 @@
 symbol: SOLBEAR
 name: Solar Bear
 decimals: 9
-tags:
-  - utility-token
-  - meme-token
-  - dex
 extensions:
   discord: https://discord.io/solarbear
   telegram: https://t.me/solar_bear_official
   twitter: https://twitter.com/solarbear_sol
   website: https://solar-bear.com
+tags:
+  - dex
+  - meme-token
+  - utility-token

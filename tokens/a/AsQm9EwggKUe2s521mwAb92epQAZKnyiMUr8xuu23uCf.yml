@@ -1,11 +1,11 @@
 symbol: DMY
 name: Dummyland
 decimals: 9
-tags:
-  - Governance-token
-  - utility-token
 extensions:
   discord: https://discord.com/inviteWhApWVU8
   instagram: https://www.instagram.com/dummylandai
   twitter: https://twitter.com/dummylandai
   website: https://dummyland.ai
+tags:
+  - Governance-token
+  - utility-token

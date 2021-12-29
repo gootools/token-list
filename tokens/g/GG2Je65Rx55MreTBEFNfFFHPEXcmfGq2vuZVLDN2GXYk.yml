@@ -1,9 +1,9 @@
 symbol: ALTR
 name: Altar Finance
 decimals: 9
-tags:
-  - Exchange
-  - DApp
 extensions:
   telegram: https://t.me/altarfinanceCH
   website: https://altar.finance/
+tags:
+  - DApp
+  - Exchange

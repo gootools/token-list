@@ -1,11 +1,11 @@
 symbol: wAMP_v1
 name: Amp (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
   assetContract: https://etherscan.io/address/0xfF20817765cB7f73d4bde2e66e067E58D11095C2
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: amp-token
+tags:
+  - wrapped
+  - wormhole

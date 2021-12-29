@@ -1,11 +1,11 @@
 symbol: wORN_v1
 name: Orion Protocol (Wormhole v1)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
   assetContract: https://etherscan.io/address/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: orion-protocol
+tags:
+  - wrapped
+  - wormhole

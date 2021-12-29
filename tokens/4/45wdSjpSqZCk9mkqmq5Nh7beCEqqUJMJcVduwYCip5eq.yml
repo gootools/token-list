@@ -1,13 +1,6 @@
 symbol: BOFB
 name: BofB
 decimals: 8
-tags:
-  - utility-token
-  - social-token
-  - community-token
-  - BankOfBitcoin
-  - bofb
-  - metaverse
 extensions:
   description: BofB is where Bank meets Bitcoin. BofB's vision is to become a
     transitional platform that will help connect the old banking system with how
@@ -22,3 +15,10 @@ extensions:
   telegram: https://t.me/bofbdc
   twitter: https://twitter.com/bofbdc
   website: https://bofb.com
+tags:
+  - bofb
+  - BankOfBitcoin
+  - community-token
+  - metaverse
+  - social-token
+  - utility-token

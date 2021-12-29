@@ -1,7 +1,7 @@
 symbol: SOL/USDC
 name: Orca Aquafarm Token (SOL/USDC)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://orca.so
+tags:
+  - lp-token

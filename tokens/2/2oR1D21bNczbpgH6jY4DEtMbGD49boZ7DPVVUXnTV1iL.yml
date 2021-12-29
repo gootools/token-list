@@ -1,10 +1,10 @@
 symbol: SKUMA
 name: SOLKUMAINU
 decimals: 4
-tags:
-  - utility-token
-  - community-token
 extensions:
   discord: https://discord.gg/PJ9BGz3Tmx
   twitter: https://twitter.com/solkumainu
   website: https://solkumainu.com
+tags:
+  - community-token
+  - utility-token

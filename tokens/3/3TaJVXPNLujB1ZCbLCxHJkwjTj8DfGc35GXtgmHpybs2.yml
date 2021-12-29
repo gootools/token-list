@@ -1,8 +1,8 @@
 symbol: GENIAL
 name: Genial4 Educational Token
 decimals: 9
-tags:
-  - utility-token
-  - genial4
 extensions:
   website: https://www.genial4.com/
+tags:
+  - genial4
+  - utility-token

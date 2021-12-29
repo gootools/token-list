@@ -1,8 +1,8 @@
 symbol: GAMER
 name: GamerGains
 decimals: 9
+extensions:
+  website: https://gamergains.com
 tags:
   - gaming
   - utility-token
-extensions:
-  website: https://gamergains.com

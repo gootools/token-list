@@ -1,8 +1,8 @@
 symbol: TROLL
 name: TROLL
 decimals: 3
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/solanatrollcamp
   website: https://solanatrollcamp.io/
+tags:
+  - utility-token

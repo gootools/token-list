@@ -1,11 +1,11 @@
 symbol: wALBT_v1
 name: AllianceBlock Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0"
   assetContract: https://etherscan.io/address/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: allianceblock
+tags:
+  - wrapped
+  - wormhole

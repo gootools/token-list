@@ -1,9 +1,9 @@
 symbol: LMAO
 name: Solana Alien Business
 decimals: 6
-tags:
-  - NFT
-  - nft-token
 extensions:
   discord: https://discord.gg/HWVM99HhNb
   twitter: https://twitter.com/SolanaAB
+tags:
+  - nft-token
+  - NFT

@@ -1,9 +1,9 @@
 symbol: ENTROPPP
 name: ENTROPPP (Entropy for security)
 decimals: 6
-tags:
-  - cryptography
-  - blockchain-security
-  - randomness-entropy
 extensions:
   website: https://www.entroppp.com
+tags:
+  - blockchain-security
+  - cryptography
+  - randomness-entropy

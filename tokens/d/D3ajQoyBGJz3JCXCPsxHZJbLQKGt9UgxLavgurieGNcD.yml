@@ -1,11 +1,11 @@
 symbol: wSDT_v1
 name: Stake DAO Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
   assetContract: https://etherscan.io/address/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: stake-dao
+tags:
+  - wrapped
+  - wormhole

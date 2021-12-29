@@ -1,8 +1,6 @@
 symbol: XP
 name: Elite XP
 decimals: 9
-tags:
-  - utility-token
 extensions:
   description: Elite XP is a new skill-based wagering platform for gamers to play
     and earn crypto based on their own in-game performance. We’re bringing
@@ -12,3 +10,5 @@ extensions:
   imageUrl: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hUanQop7uL6V1S1U7tydn7SBuieRSW6wYsbXWea3Lsi/logo.svg
   twitter: https://twitter.com/XPcorp
   website: https://elite.xpfantasy.com
+tags:
+  - utility-token

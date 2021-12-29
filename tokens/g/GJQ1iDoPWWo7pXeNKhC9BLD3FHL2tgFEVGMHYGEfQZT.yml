@@ -1,10 +1,10 @@
 symbol: ALTAR
 name: Altar
 decimals: 9
-tags:
-  - Exchange
-  - DApp
 extensions:
   telegram: https://t.me/altarfin
   twitter: https://twitter.com/AltarFin
   website: https://altar.finance/
+tags:
+  - DApp
+  - Exchange

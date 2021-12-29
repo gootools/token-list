@@ -1,10 +1,6 @@
 symbol: agEUR
 name: agEUR (Wormhole)
 decimals: 8
-tags:
-  - ethereum
-  - wrapped
-  - wormhole
 extensions:
   address: "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
   assetContract: https://etherscan.io/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8
@@ -15,3 +11,7 @@ extensions:
   discord: https://discord.gg/z3kCpTaKMh
   twitter: https://twitter.com/AngleProtocol
   website: https://www.angle.money
+tags:
+  - ethereum
+  - wrapped
+  - wormhole

@@ -1,9 +1,9 @@
 symbol: NSPACE
 name: My NFT Space
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/NJjqzzXNKb
   twitter: https://twitter.com/mynftspace_art
   website: http://mynftspace.art/
+tags:
+  - utility-token

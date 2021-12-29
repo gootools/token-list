@@ -1,11 +1,11 @@
 symbol: 1Coin
 name: 1Coin
 decimals: 10
-tags:
-  - social-token
-  - utility-token
-  - social-token
 extensions:
   github: https://github.com/1coin1
   twitter: https://twitter.com/1coincx
   website: https://1coin.cx
+tags:
+  - social-token
+  - social-token
+  - utility-token

@@ -1,11 +1,11 @@
 symbol: SINU
 name: Samo INU
 decimals: 9
-tags:
-  - meme-token
-  - community-token
 extensions:
   description: Samo Inu is an hybrid meme coin with fun and social utilities
   discord: https://discord.gg/samoinu
   twitter: https://twitter.com/samo_inu
   website: https://www.samoinu.com
+tags:
+  - community-token
+  - meme-token

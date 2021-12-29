@@ -1,10 +1,10 @@
 symbol: sUSDT-9
 name: Saber Wrapped USDT (9 decimals)
 decimals: 9
+extensions:
+  coingeckoId: tether
+  website: https://app.saber.so
 tags:
   - stablecoin
   - saber-market-usd
   - saber-dec-wrapped
-extensions:
-  coingeckoId: tether
-  website: https://app.saber.so

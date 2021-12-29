@@ -1,7 +1,7 @@
 symbol: NFTFUTUR
 name: SOLKITTY NFT Futuristic Forklift
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/futuristic-forklift--
+tags:
+  - nft

@@ -1,9 +1,6 @@
 symbol: PAI
 name: PAI (Parrot USD)
 decimals: 6
-tags:
-  - utility-token
-  - stablecoin
 extensions:
   coingeckoId: parrot-usd
   discord: https://discord.gg/gopartyparrot
@@ -11,3 +8,6 @@ extensions:
   telegram: https://t.me/gopartyparrot
   twitter: https://twitter.com/gopartyparrot
   website: https://parrot.fi
+tags:
+  - stablecoin
+  - utility-token

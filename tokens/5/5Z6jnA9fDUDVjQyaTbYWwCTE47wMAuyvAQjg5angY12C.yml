@@ -1,7 +1,7 @@
 symbol: DNDZ
 name: Dinarius Token
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   website: http://dinarius.net
+tags:
+  - stablecoin

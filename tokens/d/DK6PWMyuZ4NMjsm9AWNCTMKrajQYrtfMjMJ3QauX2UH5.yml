@@ -1,10 +1,10 @@
 symbol: BITXBIT
 name: BITXBIT
 decimals: 9
+extensions:
+  twitter: https://twitter.com/bitXbit_aus
+  website: https://bitxbit.com.au
 tags:
   - social-token
   - technology
   - utility-token
-extensions:
-  twitter: https://twitter.com/bitXbit_aus
-  website: https://bitxbit.com.au

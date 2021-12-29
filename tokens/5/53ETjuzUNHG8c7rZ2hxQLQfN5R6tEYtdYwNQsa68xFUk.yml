@@ -1,11 +1,11 @@
 symbol: wFARM_v1
 name: FARM Reward Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xa0246c9032bC3A600820415aE600c6388619A14D"
   assetContract: https://etherscan.io/address/0xa0246c9032bC3A600820415aE600c6388619A14D
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: harvest-finance
+tags:
+  - wrapped
+  - wormhole

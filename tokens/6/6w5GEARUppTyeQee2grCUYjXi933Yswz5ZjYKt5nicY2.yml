@@ -1,9 +1,9 @@
 symbol: SOTY
 name: Sol Infinity
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/z9st3dHRPf
   telegram: https://t.me/Solinfinity_official
   twitter: https://twitter.com/Solanainfinity
+tags:
+  - utility-token

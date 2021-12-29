@@ -2,7 +2,7 @@ symbol: BCY
 name: BitcoinCity
 decimals: 9
 tags:
+  - bitcoincity
+  - community-token
   - meme-token
   - trading-token
-  - community-token
-  - bitcoincity

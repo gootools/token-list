@@ -1,8 +1,8 @@
 symbol: MDC
 name: Medcoin
 decimals: 9
-tags:
-  - Community-token
 extensions:
   telegram: https://t.me/medcointech
   website: https://medcoin.tech/
+tags:
+  - Community-token

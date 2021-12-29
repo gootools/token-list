@@ -1,10 +1,10 @@
 symbol: RAC
 name: Rainc
 decimals: 4
-tags:
-  - meme-token
 extensions:
   discord: https://discord.io/rainc
   serumV3Usdc: 21eq7jsx59jPFo2gt4npreKu1voURzcjyPniBdgupuQC
   twitter: https://twitter.com/raincproject
   website: https://www.raincsol.com/
+tags:
+  - meme-token

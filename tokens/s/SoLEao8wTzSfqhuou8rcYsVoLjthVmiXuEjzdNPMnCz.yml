@@ -1,7 +1,7 @@
 symbol: mSOL-SOL
 name: Saber mSOL-SOL LP
 decimals: 9
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/msol_sol
+tags:
+  - saber-stableswap-lp

@@ -1,8 +1,6 @@
 symbol: TCW
 name: The Convergence War
 decimals: 0
-tags:
-  - nft
 extensions:
   description: All three factions, thinking they were the sole owners of the
     cataclysmic data drop, converge to settle the area. A devastating war breaks
@@ -11,3 +9,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-3/the-convergence-war.jpg
   serumV3Usdc: DXPv2ZyMD6Y2mDenqYkAhkvGSjNahkuMkm4zv6DqB7RF
   website: https://www.staratlas.com
+tags:
+  - nft

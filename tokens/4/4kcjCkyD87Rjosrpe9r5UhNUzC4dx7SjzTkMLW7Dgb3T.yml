@@ -1,9 +1,9 @@
 symbol: SHMAC
 name: Shiba McEntire
 decimals: 0
-tags:
-  - social-token
 extensions:
   website: https://shmactoken.com/
+tags:
+  - social-token
 clusters:
-  - testnet
+  - devnet

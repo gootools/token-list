@@ -1,10 +1,10 @@
 symbol: LEARN
 name: Learn Crypto
 decimals: 6
-tags:
-  - community-token
-  - utility-token
-  - DeFi
 extensions:
   discord: https://discord.com/invite/learncrypto
   telegram: https://t.me/learncrypto5
+tags:
+  - community-token
+  - DeFi
+  - utility-token

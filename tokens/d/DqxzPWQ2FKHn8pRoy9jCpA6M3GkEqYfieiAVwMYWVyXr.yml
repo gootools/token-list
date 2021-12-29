@@ -1,11 +1,11 @@
 symbol: ROAR
 name: Roar Token
 decimals: 9
-tags:
-  - community-token
-  - social-token
-  - utility-token
 extensions:
   description: Earn ROAR by playing to soltigers game
   twitter: https://twitter.com/SOL_Tigers
   website: https://soltigers.io/
+tags:
+  - community-token
+  - social-token
+  - utility-token

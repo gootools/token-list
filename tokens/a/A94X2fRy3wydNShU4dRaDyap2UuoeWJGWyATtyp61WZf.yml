@@ -1,13 +1,13 @@
 symbol: TRYB
 name: BiLira
 decimals: 6
-tags:
-  - tryb
-  - bilira
-  - stablecoin
 extensions:
   coingeckoId: bilira
   github: https://github.com/bilira-org
   instagram: https://instagram.com/bilira_official
   telegram: https://t.me/BiLira_Official
   website: http://bilira.co
+tags:
+  - bilira
+  - stablecoin
+  - tryb

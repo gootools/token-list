@@ -1,11 +1,11 @@
 symbol: BTC
 name: Wrapped Bitcoin (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: bitcoin
   serumV3Usdc: A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw
   serumV3Usdt: C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4
+tags:
+  - ethereum
+  - wrapped-sollet

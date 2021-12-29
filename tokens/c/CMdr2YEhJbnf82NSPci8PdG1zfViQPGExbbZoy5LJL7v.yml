@@ -1,9 +1,9 @@
 symbol: AGX
 name: AGX Coin
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   address: "0x69CF1e63090Acf1e1E16ec0066055f8973fc9Ec8"
   assetContract: https://etherscan.io/address/0x69CF1e63090Acf1e1E16ec0066055f8973fc9Ec8
   website: https://lode.one
+tags:
+  - stablecoin

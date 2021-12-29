@@ -1,7 +1,7 @@
 symbol: afUSDC
 name: Wrapped USDC (Allbridge from Fantom)
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   coingeckoId: usd-coin
+tags:
+  - stablecoin

@@ -1,7 +1,7 @@
 symbol: PVK
 name: PlatinumO2
 decimals: 8
-tags:
-  - utility-token
 extensions:
   website: https://plantinumo2.com/
+tags:
+  - utility-token

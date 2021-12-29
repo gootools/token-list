@@ -1,8 +1,8 @@
 symbol: BULL
 name: BULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-bitcoin-token
+tags:
+  - bull
+  - leveraged

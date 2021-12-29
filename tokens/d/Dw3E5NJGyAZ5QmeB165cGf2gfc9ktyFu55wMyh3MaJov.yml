@@ -1,8 +1,8 @@
 symbol: TKC
 name: Tugscom Coin
 decimals: 9
+extensions:
+  website: https://tugscom.mn/
 tags:
   - TKC
   - Tugscom
-extensions:
-  website: https://tugscom.mn/

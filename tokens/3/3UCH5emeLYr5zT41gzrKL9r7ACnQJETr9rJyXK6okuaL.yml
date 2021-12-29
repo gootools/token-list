@@ -1,9 +1,9 @@
 symbol: FANTASY
 name: SolFantasy
 decimals: 9
-tags:
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/SolFantasyGirls
   website: http://solfantasy.com
+tags:
+  - nft
+  - utility-token

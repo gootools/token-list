@@ -1,8 +1,8 @@
 symbol: YWC
 name: Yoseph Wijaya Cool Coin
 decimals: 1
-tags:
-  - social-token
-  - community-token
 extensions:
   website: https://yoseph.ws
+tags:
+  - community-token
+  - social-token

@@ -1,9 +1,9 @@
 symbol: FLOKIS
 name: Floki Shiba Solana
 decimals: 9
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/QDfXeXhkqR
   twitter: https://twitter.com/floki_solana
   website: http://flokisol.tech/
+tags:
+  - meme-token

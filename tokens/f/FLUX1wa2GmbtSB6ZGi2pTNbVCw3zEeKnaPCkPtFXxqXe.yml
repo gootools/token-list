@@ -1,12 +1,6 @@
 symbol: FLUX
 name: Flux
 decimals: 8
-tags:
-  - web3
-  - decentralized-cloud
-  - masternodes
-  - mineable
-  - proof-of-work
 extensions:
   description: Flux is the cryptocurrency powering the Flux Ecosystem, including
     decentralized computational network. Flux gives users both institutional and
@@ -23,3 +17,9 @@ extensions:
   twitter: https://twitter.com/RunOnFlux
   website: https://runonflux.io
   youtube: https://www.youtube.com/channel/UCphbdfb1MXYgUPsdhQPcnGw
+tags:
+  - decentralized-cloud
+  - masternodes
+  - mineable
+  - proof-of-work
+  - web3

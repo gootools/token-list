@@ -1,11 +1,11 @@
 symbol: BOOTY
 name: Big Booty Coin
 decimals: 0
+extensions:
+  website: http://bigbootycoin.net/
 tags:
-  - meme
+  - adult
   - big
   - booty
   - coin
-  - adult
-extensions:
-  website: http://bigbootycoin.net/
+  - meme

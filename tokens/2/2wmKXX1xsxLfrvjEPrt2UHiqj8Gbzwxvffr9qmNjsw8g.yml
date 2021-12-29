@@ -1,8 +1,6 @@
 symbol: Solar
 name: Solar
 decimals: 9
-tags:
-  - community-token
 extensions:
   coingeckoId: solar
   coinmarketcap: https://coinmarketcap.com/currencies/solardex/
@@ -10,3 +8,5 @@ extensions:
   telegram: https://t.me/solardexofficialchat
   twitter: https://twitter.com/solar_dex
   website: https://solardex.finance/
+tags:
+  - community-token

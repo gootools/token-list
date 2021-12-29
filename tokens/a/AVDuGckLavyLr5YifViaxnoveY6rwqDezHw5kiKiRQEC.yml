@@ -1,8 +1,8 @@
 symbol: aaDAI-USDC
 name: Saber aaDAI-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/aadai
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/aadai

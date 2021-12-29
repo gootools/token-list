@@ -1,11 +1,6 @@
 symbol: RLB
 name: Rollbit Coin
 decimals: 2
-tags:
-  - utility-token
-  - community-token
-  - stake-pool-token
-  - lottery
 extensions:
   description: Stake your RLB on rollbit.com to participate in a profit share
     distribution every 100 Bitcoin blocks
@@ -15,3 +10,8 @@ extensions:
   serumV3Usdc: DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE
   twitter: https://twitter.com/rollbitcom
   website: https://www.rollbit.com
+tags:
+  - community-token
+  - lottery
+  - stake-pool-token
+  - utility-token

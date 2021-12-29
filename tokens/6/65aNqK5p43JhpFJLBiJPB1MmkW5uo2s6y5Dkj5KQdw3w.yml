@@ -1,13 +1,13 @@
 symbol: TUI
 name: TradeUI
 decimals: 3
-tags:
-  - social-token
-  - community-token
-  - reward-token
-  - utility-token
 extensions:
   discord: http://discord.gg/uSDVQRF
   facebook: https://facebook.com/tradeui
   twitter: https://twitter.com/tradeui
   website: https://tradeui.com
+tags:
+  - community-token
+  - reward-token
+  - social-token
+  - utility-token

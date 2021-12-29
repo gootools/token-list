@@ -1,8 +1,8 @@
 symbol: wDAIV1-USDC
 name: Saber wDAI_V1-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/dai
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1
-extensions:
-  website: https://app.saber.so/#/pools/dai

@@ -2,7 +2,7 @@ symbol: $WDR
 name: Wonderland
 decimals: 9
 tags:
-  - Metaverse
   - Game-Fi
+  - Metaverse
 clusters:
-  - testnet
+  - devnet

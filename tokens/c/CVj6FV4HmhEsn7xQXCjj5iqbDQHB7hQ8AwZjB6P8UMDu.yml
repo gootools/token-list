@@ -1,11 +1,11 @@
 symbol: CoW
 name: Culture of Women Token
 decimals: 9
-tags:
-  - utility-token
-  - meme-token
-  - nfts
 extensions:
   discord: https://discord.gg/cultureofwomen
   twitter: https://twitter.com/CultureOfWomen
   website: https://cultureofwomen.com/
+tags:
+  - meme-token
+  - nfts
+  - utility-token

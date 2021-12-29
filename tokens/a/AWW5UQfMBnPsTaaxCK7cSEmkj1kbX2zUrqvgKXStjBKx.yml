@@ -1,11 +1,11 @@
 symbol: SBFC
 name: SBF Coin
 decimals: 6
-tags:
-  - utility-token
-  - SBF
-  - sbfcoin
-  - SBFC
 extensions:
   twitter: https://twitter.com/sbfcoin
   website: https://www.sbfcoin.org/
+tags:
+  - sbfcoin
+  - SBF
+  - SBFC
+  - utility-token

@@ -1,7 +1,7 @@
 symbol: CASH-USDC
 name: Saber CASH-USDC LP
 decimals: 6
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/cash
+tags:
+  - saber-stableswap-lp

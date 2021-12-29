@@ -1,9 +1,9 @@
 symbol: soJPYC
 name: JPY Coin(Sollet)(Deprecated)
 decimals: 6
-tags:
-  - stablecoin
-  - ethereum
-  - wrapped-sollet
 extensions:
   website: https://jpyc.jp/
+tags:
+  - ethereum
+  - stablecoin
+  - wrapped-sollet

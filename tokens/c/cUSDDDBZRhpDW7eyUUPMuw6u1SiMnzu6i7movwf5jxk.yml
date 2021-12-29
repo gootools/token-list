@@ -1,8 +1,8 @@
 symbol: acUSD-USDC
 name: Saber acUSD-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/acusd
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/acusd

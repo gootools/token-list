@@ -1,7 +1,7 @@
 symbol: pBTC-renBTC
 name: Saber pBTC-renBTC LP
 decimals: 8
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/pbtc
+tags:
+  - saber-stableswap-lp

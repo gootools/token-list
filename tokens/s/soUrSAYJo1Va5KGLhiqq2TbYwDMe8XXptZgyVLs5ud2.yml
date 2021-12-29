@@ -2,8 +2,8 @@ symbol: SOUND
 name: SOUND tokens
 decimals: 9
 tags:
-  - utility-token
   - buy-music
-  - pay-performance
   - De-Fi
   - De-Mu
+  - pay-performance
+  - utility-token

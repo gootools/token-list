@@ -5,5 +5,5 @@ extensions:
   coingeckoId: serum
   website: https://projectserum.com/
 clusters:
+  - devnet
   - mainnet-beta
-  - testnet

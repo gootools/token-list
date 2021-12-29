@@ -1,9 +1,9 @@
 symbol: KATZ
 name: MeerkatCoin
 decimals: 9
-tags:
-  - community-token
 extensions:
   discord: https://discord.gg/ynkkE3raZf
   twitter: https://twitter.com/mmccsolana
   website: https://meerkatmillionaires.club
+tags:
+  - community-token

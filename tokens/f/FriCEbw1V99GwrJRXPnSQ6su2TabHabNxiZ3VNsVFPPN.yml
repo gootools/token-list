@@ -1,11 +1,11 @@
 symbol: FRIES
 name: Soltato FRIES
 decimals: 9
-tags:
-  - nft
-  - utility-token
 extensions:
   discord: https://discord.com/invite/Wkgh9Fvy84
   serumV3Usdc: 8DKD5dKmmwparxCkpV2BQFTxt164rfadK8kX3at6hWUB
   twitter: https://twitter.com/Soltato_NFT
   website: https://soltato.io/
+tags:
+  - nft
+  - utility-token

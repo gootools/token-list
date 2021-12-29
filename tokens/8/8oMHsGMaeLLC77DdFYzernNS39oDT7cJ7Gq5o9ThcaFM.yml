@@ -1,7 +1,7 @@
 symbol: PLUS
 name: PlusPlus
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://plusplus.is/
+tags:
+  - utility-token

@@ -2,4 +2,4 @@ symbol: ENEC
 name: ENEC
 decimals: 2
 clusters:
-  - testnet
+  - devnet

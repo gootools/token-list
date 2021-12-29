@@ -1,8 +1,6 @@
 symbol: SPWN
 name: Bitspawn Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: bitspawn
   discord: https://discord.gg/EAtfCq9
@@ -10,3 +8,5 @@ extensions:
   telegram: https://t.me/bitspawnprotocol
   twitter: https://twitter.com/bitspawngg
   website: https://bitspawn.io
+tags:
+  - utility-token

@@ -1,8 +1,8 @@
 symbol: ASS
 name: Assaed coin
 decimals: 9
+extensions:
+  twitter: https://twitter.com/Ndirxnadix
 tags:
   - assaed
   - utility-token
-extensions:
-  twitter: https://twitter.com/Ndirxnadix

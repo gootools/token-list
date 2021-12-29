@@ -1,10 +1,10 @@
 symbol: KAJAME
 name: Kajame
 decimals: 4
-tags:
-  - meme-token
-  - social-token
-  - community-token
 extensions:
   blog: https://blog.me-idea.in.th
   website: https://kajame.xyz
+tags:
+  - community-token
+  - meme-token
+  - social-token

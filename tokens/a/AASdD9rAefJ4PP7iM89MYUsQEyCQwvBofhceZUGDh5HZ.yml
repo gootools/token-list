@@ -1,11 +1,11 @@
 symbol: SLX
 name: Solex Finance
 decimals: 9
-tags:
-  - Exchange
-  - DApp
 extensions:
   coingeckoId: solex-finance
   serumV3Usdc: 7xy4r55rLu2QYeSGwTGDCBKEYERDX98f6kQLn9Zre6S3
   twitter: https://twitter.com/SolexFinance
   website: https://solex.finance/
+tags:
+  - DApp
+  - Exchange

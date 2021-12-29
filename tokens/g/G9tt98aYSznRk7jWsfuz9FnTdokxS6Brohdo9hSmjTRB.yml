@@ -1,9 +1,9 @@
 symbol: PUFF
 name: PUFF
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/stonedapecrew
   twitter: https://twitter.com/stonedapecrew
   website: https://www.stonedapecrew.com/
+tags:
+  - utility-token

@@ -1,9 +1,9 @@
 symbol: MNM
 name: The Metaverse Museum
 decimals: 9
-tags:
-  - meta-verse
-  - utility-token
-  - community-token
 extensions:
   website: https://themetaversemuseum.io
+tags:
+  - community-token
+  - meta-verse
+  - utility-token

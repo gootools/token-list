@@ -1,10 +1,10 @@
 symbol: POPC
 name: PopCoin
 decimals: 9
+extensions:
+  twitter: https://twitter.com/OfficialPopCoin
 tags:
   - MetaVerse
   - nft-token
-  - token
   - PopCoin
-extensions:
-  twitter: https://twitter.com/OfficialPopCoin
+  - token

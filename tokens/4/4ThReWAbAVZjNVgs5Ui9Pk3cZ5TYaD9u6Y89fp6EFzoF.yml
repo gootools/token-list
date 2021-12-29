@@ -1,10 +1,6 @@
 symbol: 1SOL
 name: 1sol.io Token
 decimals: 8
-tags:
-  - wrapped
-  - utility-token
-  - aggregator
 extensions:
   coinmarketcap: https://coinmarketcap.com/currencies/1sol/
   description: 1Sol aggregates DEX(s), lending, yield-farming, and cross-chain trading.
@@ -14,3 +10,7 @@ extensions:
   telegram: https://t.me/onesolcommunity
   twitter: https://twitter.com/1solProtocol
   website: https://app.1sol.io/
+tags:
+  - aggregator
+  - utility-token
+  - wrapped

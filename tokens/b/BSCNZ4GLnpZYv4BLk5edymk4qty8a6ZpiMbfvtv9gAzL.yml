@@ -1,8 +1,8 @@
 symbol: weBUSD-USDC
 name: Saber weBUSD-USDC LP
 decimals: 8
+extensions:
+  website: https://app.saber.so/#/pools/webusd
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2
-extensions:
-  website: https://app.saber.so/#/pools/webusd

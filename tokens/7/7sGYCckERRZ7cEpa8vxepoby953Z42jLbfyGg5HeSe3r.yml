@@ -2,7 +2,7 @@ symbol: GIGA
 name: Giga Token
 decimals: 9
 tags:
+  - community-token
+  - meme-token
   - stake-pool-token
   - utility-token
-  - meme-token
-  - community-token

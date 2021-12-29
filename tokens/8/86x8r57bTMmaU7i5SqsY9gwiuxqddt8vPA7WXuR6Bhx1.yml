@@ -4,4 +4,4 @@ decimals: 9
 extensions:
   website: https://www.hatchgroup.co.uk/
 clusters:
-  - testnet
+  - devnet

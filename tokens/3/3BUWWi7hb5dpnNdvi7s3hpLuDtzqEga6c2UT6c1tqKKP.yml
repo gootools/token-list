@@ -1,8 +1,8 @@
 symbol: COD
 name: CODEMY
 decimals: 9
+extensions:
+  website: http://codemyedu.com
 tags:
   - CODEMY
   - COD
-extensions:
-  website: http://codemyedu.com

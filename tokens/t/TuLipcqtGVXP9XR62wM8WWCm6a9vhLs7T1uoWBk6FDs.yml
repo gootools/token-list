@@ -1,13 +1,13 @@
 symbol: TULIP
 name: Tulip
 decimals: 6
-tags:
-  - tulip
-  - tulip-protocol
-  - vaults
 extensions:
   coingeckoId: solfarm
   serumV3Usdc: 8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW
   twitter: https://twitter.com/TulipProtocol
   waterfallbot: https://bit.ly/TULIPwaterfall
   website: https://tulip.garden
+tags:
+  - tulip
+  - tulip-protocol
+  - vaults

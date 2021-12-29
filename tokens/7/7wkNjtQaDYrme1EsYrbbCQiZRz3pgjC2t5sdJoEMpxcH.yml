@@ -1,11 +1,11 @@
 symbol: R3N
 name: R3DWA Coin
 decimals: 6
+extensions:
+  description: Pas cher.
 tags:
-  - utility-token
   - game-token
   - game-currency
   - GameFi
   - Gaming
-extensions:
-  description: Pas cher.
+  - utility-token

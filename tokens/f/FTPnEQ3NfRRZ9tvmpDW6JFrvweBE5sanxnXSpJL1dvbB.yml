@@ -1,11 +1,11 @@
 symbol: wBIRD_v1
 name: Bird.Money (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0"
   assetContract: https://etherscan.io/address/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: bird-money
+tags:
+  - wrapped
+  - wormhole

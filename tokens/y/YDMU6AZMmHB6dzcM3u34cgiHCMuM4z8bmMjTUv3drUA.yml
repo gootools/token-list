@@ -1,8 +1,8 @@
 symbol: FSY
 name: Fraktionalized Synapses-914
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U
   vaultPubkey: 6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U
+tags:
+  - fractionalized-nft

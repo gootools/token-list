@@ -1,7 +1,7 @@
 symbol: PANTIE
 name: Pantie
 decimals: 9
-tags:
-  - social-token
 extensions:
   website: https://pantie.app/
+tags:
+  - social-token

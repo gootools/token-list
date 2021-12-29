@@ -1,11 +1,11 @@
 symbol: waBAT_v1
 name: Aave interest bearing BAT (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1"
   assetContract: https://etherscan.io/address/0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-bat
+tags:
+  - wrapped
+  - wormhole

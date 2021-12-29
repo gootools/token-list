@@ -1,8 +1,8 @@
 symbol: CHONK
 name: CHONKERS
 decimals: 5
+extensions:
+  twitter: https://twitter.com/ChonkersSolana
 tags:
   - community-token
   - meme-token
-extensions:
-  twitter: https://twitter.com/ChonkersSolana

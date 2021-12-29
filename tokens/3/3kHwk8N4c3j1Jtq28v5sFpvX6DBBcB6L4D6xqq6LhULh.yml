@@ -1,16 +1,16 @@
 symbol: GGG
 name: Good Games Guild
 decimals: 9
-tags:
-  - GameFi
-  - NFT
-  - dao
-  - utility-token
-  - meta-verse
-  - governance
 extensions:
   discord: https://discord.gg/x47U9qkR5K
   medium: https://medium.com/@goodgamesguild/
   telegram: https://t.me/GoodGamesGuildChat
   twitter: https://twitter.com/goodgamesguild
   website: https://goodgamesguild.com
+tags:
+  - dao
+  - governance
+  - GameFi
+  - meta-verse
+  - NFT
+  - utility-token

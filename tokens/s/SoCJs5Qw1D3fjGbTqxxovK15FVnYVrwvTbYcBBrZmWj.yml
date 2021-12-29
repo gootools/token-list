@@ -1,7 +1,7 @@
 symbol: scnSOL-SOL
 name: Saber scnSOL-SOL LP
 decimals: 9
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/socean
+tags:
+  - saber-stableswap-lp

@@ -1,8 +1,8 @@
 symbol: ETH-USDC
 name: HydraSwap LP Token (ETH-USDC)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   twitter: https://twitter.com/HydraSwap_io
   website: https://www.hydraswap.io
+tags:
+  - lp-token

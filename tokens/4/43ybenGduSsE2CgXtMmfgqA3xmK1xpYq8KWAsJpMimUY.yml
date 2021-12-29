@@ -1,9 +1,9 @@
 symbol: LYNX
 name: Lynxer
 decimals: 9
+extensions:
+  description: Copyright Lynxer INC
 tags:
   - community-token
   - social-token
   - utility-token
-extensions:
-  description: Copyright Lynxer INC

@@ -1,11 +1,11 @@
 symbol: YORK
 name: Yorkipoo
 decimals: 9
-tags:
-  - community-token
-  - meme-token
-  - social-token
 extensions:
   telegram: https://t.me/yorkipoocoin
   twitter: https://twitter.com/yorkipoocoin
   website: https://yorkipoocoin.com
+tags:
+  - community-token
+  - meme-token
+  - social-token

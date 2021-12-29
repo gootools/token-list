@@ -1,10 +1,10 @@
 symbol: DoggyStyle
 name: Doggy Style
 decimals: 9
-tags:
-  - Meme
-  - community
-  - utility-token
 extensions:
   serumV3Usdc: yzKcpbgRmwE5ULL72C4JPUZYQ2S8ZHRFJnrXgQrKyvB
   website: https://doggystyle.samoymeme.com
+tags:
+  - community
+  - Meme
+  - utility-token

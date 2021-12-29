@@ -1,7 +1,7 @@
 symbol: BABA
 name: Alibaba
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BABA
+tags:
+  - tokenized-stock

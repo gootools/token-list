@@ -1,8 +1,8 @@
 symbol: TOPS
 name: TOPSOL
 decimals: 9
-tags:
-  - utility-token
-  - commodity-token
 extensions:
   website: https://topsol.finance
+tags:
+  - commodity-token
+  - utility-token

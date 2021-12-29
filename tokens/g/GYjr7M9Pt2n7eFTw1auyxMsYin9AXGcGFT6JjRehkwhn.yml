@@ -1,9 +1,9 @@
 symbol: BANC
 name: Banana Coin
 decimals: 0
-tags:
-  - social-token
 extensions:
   discord: https://discord.gg/tzQuHSzn
   twitter: https://twitter.com/bananatokensol
   website: https://banana.lamhng.com
+tags:
+  - social-token

@@ -1,8 +1,6 @@
 symbol: BURD
 name: tudaBirds Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   description: tudabirds metaNest
   discord: https://discord.gg/tudabirds
@@ -11,3 +9,5 @@ extensions:
   medium: https://tudabirds.medium.com
   telegram: https://t.me/tudabirdsgroup
   website: https://tudabirds.io
+tags:
+  - utility-token

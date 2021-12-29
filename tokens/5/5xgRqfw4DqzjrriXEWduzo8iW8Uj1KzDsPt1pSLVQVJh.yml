@@ -1,8 +1,8 @@
 symbol: RNFTz
 name: RNFTz
 decimals: 9
-tags:
-  - nft
 extensions:
   twitter: https://twitter.com/RnftzS
   website: https://rnftz.com
+tags:
+  - nft

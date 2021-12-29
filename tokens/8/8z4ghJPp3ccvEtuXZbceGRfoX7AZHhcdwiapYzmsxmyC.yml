@@ -1,10 +1,10 @@
 symbol: TIGER
 name: TIGER COIN
 decimals: 9
-tags:
-  - TIGER
-  - Community-token
-  - MEME
 extensions:
   twitter: https://twitter.com/tigercoin_
   website: https://www.tigercoin.space
+tags:
+  - Community-token
+  - MEME
+  - TIGER

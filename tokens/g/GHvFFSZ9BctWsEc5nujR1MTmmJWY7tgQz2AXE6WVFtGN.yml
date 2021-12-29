@@ -1,10 +1,10 @@
 symbol: SOLAPE
 name: SolAPE Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: solape-token
   serumV3Usdc: 4zffJaPyeXZ2wr4whHgP39QyTfurqZ2BEd4M5W6SEuon
   twitter: https://twitter.com/SolApeFinance
   website: https://solape.io
+tags:
+  - utility-token

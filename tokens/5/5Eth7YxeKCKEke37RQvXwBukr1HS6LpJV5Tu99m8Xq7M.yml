@@ -1,10 +1,10 @@
 symbol: WJF
 name: We're Just Friends
 decimals: 9
-tags:
-  - MEME
-  - Friends
-  - community
 extensions:
   twitter: https://twitter.com/werejustfriend_
   website: https://www.werejustfriends.space
+tags:
+  - community
+  - Friends
+  - MEME

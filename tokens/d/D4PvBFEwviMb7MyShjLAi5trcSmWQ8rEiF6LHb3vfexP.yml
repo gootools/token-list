@@ -1,7 +1,7 @@
 symbol: NFTDPVB
 name: SOLKITTY NFT BOSS APE 19
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/boss-ape-19
+tags:
+  - nft

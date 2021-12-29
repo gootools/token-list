@@ -1,11 +1,11 @@
 symbol: wBBR_v1
 name: BitberryToken (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x7671904eed7f10808B664fc30BB8693FD7237abF"
   assetContract: https://etherscan.io/address/0x7671904eed7f10808B664fc30BB8693FD7237abF
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: bitberry-token
+tags:
+  - wrapped
+  - wormhole

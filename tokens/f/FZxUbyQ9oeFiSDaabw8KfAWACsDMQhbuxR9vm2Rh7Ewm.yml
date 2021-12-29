@@ -1,9 +1,9 @@
 symbol: PHASE
 name: PHASE
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/jVwHMvXfp9
   twitter: https://twitter.com/phase_trade
   website: https://phase.trade/
+tags:
+  - utility-token

@@ -1,8 +1,6 @@
 symbol: BET
 name: SOLBET
 decimals: 9
-tags:
-  - utility-token
 extensions:
   description: SOLBET seeks to facilitate P2P speculation and provide trustless
     on-chain escrow services for speculative ventures utilizing on-chain data,
@@ -13,3 +11,5 @@ extensions:
   telegram: https://t.me/solbet_official
   twitter: https://twitter.com/solbet_official
   website: https://solbet.org/
+tags:
+  - utility-token

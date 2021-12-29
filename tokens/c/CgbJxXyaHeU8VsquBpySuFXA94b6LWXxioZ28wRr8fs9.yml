@@ -1,13 +1,13 @@
 symbol: VINU
 name: Viral Inu
 decimals: 6
-tags:
-  - stake-pool-token
-  - utility-token
-  - meme-token
-  - community-token
 extensions:
   discord: https://discord.gg/zpJ7zADRZ5
   telegram: https://t.me/viralinu
   twitter: https://twitter.com/ViralInu
   website: https://viralinu.com
+tags:
+  - community-token
+  - meme-token
+  - stake-pool-token
+  - utility-token

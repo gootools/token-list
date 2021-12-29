@@ -1,8 +1,8 @@
 symbol: ahUSDT-USDC
 name: Saber ahUSDT-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/ahusdt
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/ahusdt

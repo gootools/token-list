@@ -1,12 +1,12 @@
 symbol: PANDA
 name: Panda Coin
 decimals: 9
-tags:
-  - meme-token
-  - community-token
 extensions:
   coingeckoId: panda-coin
   discord: https://discord.gg/nPSXvdJpvz
   telegram: https://t.me/pandacoin_announcements
   twitter: https://twitter.com/pandacoin_fi
   website: https://pandacrypto.org/
+tags:
+  - community-token
+  - meme-token

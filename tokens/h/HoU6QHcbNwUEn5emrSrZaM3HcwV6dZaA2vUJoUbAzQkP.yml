@@ -1,8 +1,8 @@
 symbol: IGNFTHOU
 name: Instagram NFT HOU
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/HoU6QHcbNwUEn5emrSrZaM3HcwV6dZaA2vUJoUbAzQkP
+tags:
+  - instagram
+  - nft

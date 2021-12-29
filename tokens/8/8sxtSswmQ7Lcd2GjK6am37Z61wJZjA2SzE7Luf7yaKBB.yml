@@ -1,8 +1,8 @@
 symbol: XRPBEAR
 name: XRPBEAR
 decimals: 6
-tags:
-  - leveraged
-  - bear
 extensions:
   coingeckoId: 3x-short-xrp-token
+tags:
+  - bear
+  - leveraged

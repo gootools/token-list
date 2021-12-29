@@ -3,8 +3,8 @@ name: Traceability
 decimals: 9
 tags:
   - currency
-  - social-token
   - community-token
-  - trading-token
   - reward-token
+  - social-token
+  - trading-token
   - utility-token

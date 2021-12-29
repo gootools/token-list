@@ -1,14 +1,14 @@
 symbol: SBC
 name: Sam Bear Coin
 decimals: 0
-tags:
-  - meme-coin
-  - meme-token
-  - community-token
-  - nft
-  - bearish
-  - monetary-experiment
 extensions:
   discord: https://discord.gg/eRgSfy5ACA
   twitter: https://twitter.com/SamBearCoin
   website: https://sambearcoin.art
+tags:
+  - bearish
+  - community-token
+  - meme-coin
+  - meme-token
+  - monetary-experiment
+  - nft

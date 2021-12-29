@@ -1,9 +1,6 @@
 symbol: PSK
 name: Pesky Penguins Droplet
 decimals: 8
-tags:
-  - utility-token
-  - solvent-droplet
 extensions:
   discord: https://discord.gg/thK8BCtQbM
   github: https://github.com/solventprotocol
@@ -12,3 +9,6 @@ extensions:
   telegram: https://t.me/solventprotocol
   twitter: https://twitter.com/solventprotocol
   website: https://solvent.xyz
+tags:
+  - solvent-droplet
+  - utility-token

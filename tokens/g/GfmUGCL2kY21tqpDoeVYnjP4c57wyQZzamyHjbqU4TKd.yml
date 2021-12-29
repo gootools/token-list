@@ -1,10 +1,10 @@
 symbol: VENUS
 name: Venus Protocol
 decimals: 9
-tags:
-  - trading-token
-  - utility-token
 extensions:
   discord: https://discord.gg/T39rQGunSK
   twitter: https://twitter.com/venusprotosol
   website: http://www.venusprotocolsol.live/
+tags:
+  - trading-token
+  - utility-token

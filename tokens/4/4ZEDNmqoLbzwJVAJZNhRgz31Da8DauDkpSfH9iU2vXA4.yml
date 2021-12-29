@@ -1,9 +1,9 @@
 symbol: CATOMIAOU
 name: Cato Miaouss
 decimals: 9
-tags:
-  - Meme
-  - community
 extensions:
   serumV3Usdc: FFJpw24jsFWgjcJKffjBc9FzAeoMpzedHBn9WhwwtcmD
   website: https://catomiaouss.samoymeme.com
+tags:
+  - community
+  - Meme

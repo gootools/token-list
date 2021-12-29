@@ -1,7 +1,7 @@
 symbol: LCD-SOL
 name: LCD-SOL
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://www.crazydice.app
+tags:
+  - utility-token

@@ -1,8 +1,8 @@
 symbol: ZERO
 name: Z-Coin
 decimals: 9
-tags:
-  - ztechhub
-  - smartshift
 extensions:
   website: https://www.smartshift.asia
+tags:
+  - smartshift
+  - ztechhub

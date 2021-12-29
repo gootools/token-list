@@ -1,9 +1,9 @@
 symbol: Wen
 name: Wen Token
 decimals: 9
+extensions:
+  twitter: https://twitter.com/notifbutwen
 tags:
   - community-token
   - meme-token
   - social-token
-extensions:
-  twitter: https://twitter.com/notifbutwen

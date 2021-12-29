@@ -1,7 +1,7 @@
 symbol: PELF
 name: PELF Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://Pelfcoin.io
+tags:
+  - utility-token

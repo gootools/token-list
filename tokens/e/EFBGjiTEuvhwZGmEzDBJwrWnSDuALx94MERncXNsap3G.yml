@@ -1,7 +1,7 @@
 symbol: RBTP
 name: Robotopian Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://robotopia.io
+tags:
+  - utility-token

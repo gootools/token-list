@@ -1,10 +1,10 @@
 symbol: JESUS
 name: JESUS
 decimals: 9
-tags:
-  - Meme
-  - Social
-  - Community
 extensions:
   serumV3Usdc: 7h3Pda8GwRg83NifksuZNx9xBS6voe1DyxGrQb6JqfB7
   website: https://jesus.samoymeme.com
+tags:
+  - Community
+  - Meme
+  - Social

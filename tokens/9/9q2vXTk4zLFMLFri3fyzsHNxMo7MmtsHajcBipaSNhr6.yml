@@ -1,8 +1,8 @@
 symbol: BLC
 name: Blockmec Coin
 decimals: 9
+extensions:
+  twitter: https://twitter.com/blockmectechno1
 tags:
   - blockmec
   - blc
-extensions:
-  twitter: https://twitter.com/blockmectechno1

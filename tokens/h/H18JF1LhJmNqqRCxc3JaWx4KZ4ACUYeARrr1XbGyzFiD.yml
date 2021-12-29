@@ -1,10 +1,10 @@
 symbol: SunS
 name: Sunflowers seeds
 decimals: 0
-tags:
-  - meme-token
-  - CATE
-  - NFT
-  - community
 extensions:
   website: https://anasnejb.com
+tags:
+  - community
+  - CATE
+  - meme-token
+  - NFT

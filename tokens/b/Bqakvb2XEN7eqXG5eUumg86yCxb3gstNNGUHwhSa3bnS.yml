@@ -1,10 +1,10 @@
 symbol: SolS
 name: S Token
 decimals: 9
-tags:
-  - meme-token
-  - S
-  - community-token
 extensions:
   twitter: https://twitter.com/Sol_S_Official
   website: https://www.solstoken.com/
+tags:
+  - community-token
+  - meme-token
+  - S

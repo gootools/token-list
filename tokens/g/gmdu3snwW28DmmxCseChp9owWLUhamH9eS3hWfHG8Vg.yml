@@ -1,11 +1,11 @@
 symbol: GMSOL
 name: We Say gm
 decimals: 9
-tags:
-  - community-token
-  - meme-token
-  - social-token
 extensions:
   discord: https://discord.com/invite/3KYEhaHFN5
   twitter: https://twitter.com/officialwesaygm
   website: https://www.wesaygm.com/
+tags:
+  - community-token
+  - meme-token
+  - social-token

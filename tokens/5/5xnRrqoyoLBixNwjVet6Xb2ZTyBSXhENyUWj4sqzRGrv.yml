@@ -1,10 +1,10 @@
 symbol: QUID
 name: Quid Token
 decimals: 9
-tags:
-  - social-token
-  - quid
 extensions:
   telegram: https://t.me/quidtoken
   twitter: https://twitter.com/quidtoken
   website: https://www.quidtoken.com/
+tags:
+  - quid
+  - social-token

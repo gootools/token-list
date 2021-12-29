@@ -1,11 +1,11 @@
 symbol: QUEST
 name: QUEST
 decimals: 4
-tags:
-  - DeFi
-  - GameFi
-  - NFT
-  - Metaverse
 extensions:
   description: Questland metaverse token
   website: https://questcoin.org
+tags:
+  - DeFi
+  - GameFi
+  - Metaverse
+  - NFT

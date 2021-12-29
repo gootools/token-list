@@ -1,10 +1,10 @@
 symbol: CKG
 name: CryptoKnight's Gold
 decimals: 6
-tags:
-  - NFT
-  - utility-token
 extensions:
   discord: https://discord.gg/SYpnu7pTPS
   twitter: https://twitter.com/CryptoKnightSOL
   website: https://www.cryptoknights.me/
+tags:
+  - NFT
+  - utility-token

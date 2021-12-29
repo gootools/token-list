@@ -1,9 +1,6 @@
 symbol: LUCHOW
 name: LunaChow
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57"
   assetContract: https://etherscan.io/address/0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57
@@ -16,3 +13,6 @@ extensions:
   telegram: https://t.me/LuChow
   twitter: https://twitter.com/LunaChoww
   website: https://www.lunachow.com/
+tags:
+  - wrapped
+  - wormhole

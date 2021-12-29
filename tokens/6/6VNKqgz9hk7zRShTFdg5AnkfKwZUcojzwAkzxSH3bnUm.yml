@@ -1,9 +1,6 @@
 symbol: wHAPI
 name: Wrapped HAPI
 decimals: 9
-tags:
-  - wrapped
-  - utility-token
 extensions:
   coingeckoId: hapi
   github: https://github.com/HAPIprotocol/HAPI/
@@ -11,3 +8,6 @@ extensions:
   telegram: https://t.me/hapiHF
   twitter: https://twitter.com/i_am_hapi_one
   website: https://hapi.one
+tags:
+  - utility-token
+  - wrapped

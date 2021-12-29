@@ -1,8 +1,6 @@
 symbol: SS1
 name: Naked Shorts
 decimals: 0
-tags:
-  - nft
 extensions:
   animationUrl: https://www.arweave.net/KBzRUmQNX6VKDH41N_uOETtJH21YtWXrOz270b8eqyo?ext=glb
   description: "After a gamma squeeze event he was left covered in theta. Due to
@@ -13,3 +11,5 @@ extensions:
   imageUrl: https://www.arweave.net/N-RGNyi1o1evhr7jTCXxHQlSndNPdnHWEzUTbTGMCl4
   twitter: https://twitter.com/sol__survivor
   website: https://www.sol-talk.com/sol-survivor
+tags:
+  - nft

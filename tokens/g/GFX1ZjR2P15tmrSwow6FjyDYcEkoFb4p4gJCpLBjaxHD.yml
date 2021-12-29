@@ -1,12 +1,12 @@
 symbol: GOFX
 name: GooseFX
 decimals: 9
-tags:
-  - utility-token
-  - dao
-  - governance
 extensions:
   discord: https://discord.gg/cDEPXpY26q
   telegram: https://t.me/goosefx
   twitter: https://twitter.com/GooseFX1
   website: https://goosefx.io
+tags:
+  - dao
+  - governance
+  - utility-token

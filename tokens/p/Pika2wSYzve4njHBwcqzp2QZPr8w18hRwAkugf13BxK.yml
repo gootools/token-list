@@ -1,9 +1,9 @@
 symbol: PIKA
 name: Pikachu
 decimals: 9
+extensions:
+  serumV3Usdc: BTtbWNAVB3eYfPUBuztYpxwNQVWYKN7TKU5e8HDPXCd9
 tags:
   - community-token
   - meme
   - nft
-extensions:
-  serumV3Usdc: BTtbWNAVB3eYfPUBuztYpxwNQVWYKN7TKU5e8HDPXCd9

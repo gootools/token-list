@@ -1,10 +1,10 @@
 symbol: GM
 name: GM Solana
 decimals: 7
+extensions:
+  website: https://gmsol.io
 tags:
-  - social-token
   - GM-Solana
   - Goodmorning
   - GM
-extensions:
-  website: https://gmsol.io
+  - social-token

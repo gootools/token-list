@@ -1,10 +1,10 @@
 symbol: WAMO
 name: WAMO
 decimals: 6
+extensions:
+  description: WAMO is the utility token for SolSamos.
+  twitter: https://twitter.com/solsamosnft
 tags:
   - community-token
   - social-token
   - utility-token
-extensions:
-  description: WAMO is the utility token for SolSamos.
-  twitter: https://twitter.com/solsamosnft

@@ -1,8 +1,8 @@
 symbol: weUSDT-USDT
 name: Saber weUSDT-USDT LP
 decimals: 6
+extensions:
+  website: https://app.saber.so/#/pools/weusdt
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2
-extensions:
-  website: https://app.saber.so/#/pools/weusdt

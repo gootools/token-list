@@ -1,8 +1,6 @@
 symbol: CYS
 name: Cyclos
 decimals: 6
-tags:
-  - utility-token
 extensions:
   coingeckoId: cyclos
   coinmarketcap: https://coinmarketcap.com/currencies/cyclos/
@@ -14,3 +12,5 @@ extensions:
   telegram: https://t.me/cyclosofficialchat
   twitter: https://twitter.com/cyclosfi
   website: https://cyclos.io/
+tags:
+  - utility-token

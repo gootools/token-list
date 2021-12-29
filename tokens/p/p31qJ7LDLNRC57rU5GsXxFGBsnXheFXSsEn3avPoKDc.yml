@@ -1,10 +1,10 @@
 symbol: ARTC
 name: Artchive Coin
 decimals: 8
-tags:
-  - nft
-  - nft-marketplace
-  - governance-token
 extensions:
   instagram: https://www.instagram.com/artchive.nft/
   website: https://artchivecoins.com/
+tags:
+  - governance-token
+  - nft
+  - nft-marketplace

@@ -1,8 +1,6 @@
 symbol: SLT
 name: Solit
 decimals: 6
-tags:
-  - meme-token
 extensions:
   coingeckoId: solit
   coinmarketcap: https://coinmarketcap.com/currencies/solit/
@@ -10,3 +8,5 @@ extensions:
   serumV3Usdc: DhmedYCzs57hspLjP3SKd3NRcsvDbuPSQdooSQof4vek
   twitter: https://twitter.com/solitso
   website: https://solit.so
+tags:
+  - meme-token

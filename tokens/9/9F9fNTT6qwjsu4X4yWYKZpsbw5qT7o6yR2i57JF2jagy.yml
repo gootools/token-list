@@ -1,10 +1,10 @@
 symbol: soSWAG
 name: Wrapped SWAG (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: swag-finance
   serumV3Usdt: J2XSt77XWim5HwtUM8RUwQvmRXNZsbMKpp5GTKpHafvf
+tags:
+  - ethereum
+  - wrapped-sollet

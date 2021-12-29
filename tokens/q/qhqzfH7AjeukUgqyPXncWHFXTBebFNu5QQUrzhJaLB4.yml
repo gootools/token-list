@@ -1,11 +1,11 @@
 symbol: waZRX_v1
 name: Aave Interest bearing ZRX (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f"
   assetContract: https://etherscan.io/address/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-zrx-v1
+tags:
+  - wrapped
+  - wormhole

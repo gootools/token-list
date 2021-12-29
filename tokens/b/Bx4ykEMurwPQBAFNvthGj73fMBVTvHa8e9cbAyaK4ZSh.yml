@@ -1,8 +1,8 @@
 symbol: TOX
 name: trollbox
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/trollboxio
   website: https://trollbox.io
+tags:
+  - utility-token

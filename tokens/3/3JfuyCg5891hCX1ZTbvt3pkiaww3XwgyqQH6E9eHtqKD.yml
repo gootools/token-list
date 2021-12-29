@@ -1,11 +1,11 @@
 symbol: wLON_v1
 name: Tokenlon (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x0000000000095413afC295d19EDeb1Ad7B71c952"
   assetContract: https://etherscan.io/address/0x0000000000095413afC295d19EDeb1Ad7B71c952
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: tokenlon
+tags:
+  - wrapped
+  - wormhole

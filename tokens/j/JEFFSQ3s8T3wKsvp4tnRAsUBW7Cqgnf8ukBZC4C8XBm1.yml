@@ -1,10 +1,10 @@
 symbol: sUSDC-9
 name: Saber Wrapped USD Coin (9 decimals)
 decimals: 9
+extensions:
+  coingeckoId: usd-coin
+  website: https://app.saber.so
 tags:
   - stablecoin
   - saber-market-usd
   - saber-dec-wrapped
-extensions:
-  coingeckoId: usd-coin
-  website: https://app.saber.so

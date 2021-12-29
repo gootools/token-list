@@ -1,9 +1,9 @@
 symbol: NanX
 name: NanoX
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/3TwxDEZ2Ss
   twitter: https://twitter.com/nanox_finance
   website: https://nanox.finance
+tags:
+  - utility-token

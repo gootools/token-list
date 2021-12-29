@@ -1,9 +1,9 @@
 symbol: VDC
 name: VDC Coin
 decimals: 2
-tags:
-  - stablecoin
 extensions:
   website: https://vdcs.io
+tags:
+  - stablecoin
 clusters:
-  - testnet
+  - devnet

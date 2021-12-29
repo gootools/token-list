@@ -1,7 +1,7 @@
 symbol: ACCT
 name: Agrinix Carbon Credit Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://acct.agrinix.com.br
+tags:
+  - utility-token

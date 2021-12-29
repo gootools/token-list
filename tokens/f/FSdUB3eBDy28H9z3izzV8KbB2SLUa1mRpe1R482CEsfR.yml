@@ -1,8 +1,8 @@
 symbol: tst
 name: Fraktionalized Skyline FLP
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm
   vaultPubkey: C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm
+tags:
+  - fractionalized-nft

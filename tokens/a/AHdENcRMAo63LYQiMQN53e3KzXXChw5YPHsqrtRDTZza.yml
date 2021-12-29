@@ -1,9 +1,9 @@
 symbol: DEVILz
 name: DEVILz
 decimals: 9
-tags:
-  - social-token
-  - utility-token
 extensions:
   twitter: https://twitter.com/NFTDevilz
   website: https://nftdevilz.com
+tags:
+  - social-token
+  - utility-token

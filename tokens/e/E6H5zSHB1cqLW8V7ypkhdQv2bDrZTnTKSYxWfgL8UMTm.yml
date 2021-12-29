@@ -1,14 +1,14 @@
 symbol: CAVIAR
 name: Caviar Token
 decimals: 9
-tags:
-  - NFT
-  - inflation
-  - resistant
-  - utility-token
-  - community-token
-  - community
 extensions:
   discord: https://discord.gg/zjtV3EjwUf
   twitter: https://twitter.com/fishynftmob
   website: https://somethingsfishy.art/
+tags:
+  - community-token
+  - community
+  - inflation
+  - NFT
+  - resistant
+  - utility-token

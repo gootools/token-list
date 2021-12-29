@@ -1,11 +1,11 @@
 symbol: MLAND
 name: Mineland Token
 decimals: 0
+extensions:
+  website: https://mineland.net
 tags:
-  - social-token
   - mineland
   - ml
   - mlt
   - mland
-extensions:
-  website: https://mineland.net
+  - social-token

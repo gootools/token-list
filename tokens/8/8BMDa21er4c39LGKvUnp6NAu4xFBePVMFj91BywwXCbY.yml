@@ -1,7 +1,7 @@
 symbol: NFTALIGA
 name: SOLKITTY NFT ALIGATOR ANIMAL
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/aligator-animal
+tags:
+  - nft

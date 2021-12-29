@@ -1,11 +1,11 @@
 symbol: ReeFi
 name: Reedify Finance
 decimals: 9
-tags:
-  - DeFi
 extensions:
   discord: https://discord.gg/f3VXDfwKNb
   medium: https://reedify.medium.com
   telegram: https://t.me/ReedifyFinance
   twitter: https://twitter.com/ReedifyFinance
   website: https://reedify.finance/
+tags:
+  - DeFi

@@ -1,14 +1,14 @@
 symbol: SHIMO
 name: Shibi Samo
 decimals: 9
-tags:
-  - meme
-  - community
-  - NFTs
-  - DEFI
-  - Dog
 extensions:
   discord: https://discord.gg/dCzfnNtZaH
   telegram: https://t.me/joinchat/DX1mQFn9behmNjRl
   twitter: https://twitter.com/ShibiSamo
   website: https://shibi-samo.com
+tags:
+  - community
+  - DEFI
+  - Dog
+  - meme
+  - NFTs

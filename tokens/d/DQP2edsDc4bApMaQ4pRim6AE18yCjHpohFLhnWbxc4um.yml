@@ -1,10 +1,6 @@
 symbol: wDAY
 name: ChronoLogic DAY (Wormhole)
 decimals: 8
-tags:
-  - ethereum
-  - wrapped
-  - wormhole
 extensions:
   coingeckoId: chronologic
   medium: https://blog.chronologic.network/
@@ -12,3 +8,7 @@ extensions:
   twitter: https://twitter.com/ChronoLogicETH
   website: https://chronologic.network/
   youtube: http://www.youtube.com/c/ChronoLogic
+tags:
+  - ethereum
+  - wrapped
+  - wormhole

@@ -1,9 +1,9 @@
 symbol: Finger
 name: SolaFinger
 decimals: 9
-tags:
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/solafinger
   website: https://www.solafinger.com/
+tags:
+  - nft
+  - utility-token

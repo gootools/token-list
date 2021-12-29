@@ -1,8 +1,8 @@
 symbol: DUNK
 name: SolJordan
 decimals: 9
+extensions:
+  twitter: https://twitter.com/SolJordanLabs
 tags:
   - NFT
   - utility-token
-extensions:
-  twitter: https://twitter.com/SolJordanLabs

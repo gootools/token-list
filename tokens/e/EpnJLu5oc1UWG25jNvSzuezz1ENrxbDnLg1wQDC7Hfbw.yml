@@ -1,8 +1,8 @@
 symbol: TURD
 name: Actual Shitcoin
 decimals: 2
-tags:
-  - MEME
 extensions:
   twitter: https://twitter.com/actualshitcoin
   website: https://actualshitcoin.com
+tags:
+  - MEME

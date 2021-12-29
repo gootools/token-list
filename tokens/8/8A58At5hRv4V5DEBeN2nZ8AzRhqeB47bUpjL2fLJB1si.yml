@@ -1,11 +1,11 @@
 symbol: IMINENCE
 name: Iminence Software
 decimals: 0
-tags:
-  - cms-token
-  - iminence-token
-  - software-token
 extensions:
   facebook: https://www.facebook.com/cms.iminence/
   twitter: https://twitter.com/cmsiminence
   website: https://www.iminence.com
+tags:
+  - cms-token
+  - iminence-token
+  - software-token

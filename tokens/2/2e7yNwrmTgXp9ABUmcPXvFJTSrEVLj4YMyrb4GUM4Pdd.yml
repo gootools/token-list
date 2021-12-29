@@ -1,10 +1,10 @@
 symbol: MSI
 name: Matrix Solana Index
 decimals: 6
-tags:
-  - utility-token
 extensions:
   coingeckoId: matrix-solana-index
   telegram: https://t.me/MatrixETF
   twitter: https://twitter.com/MatrixETF
   website: https://www.matrixetf.finance/
+tags:
+  - utility-token

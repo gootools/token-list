@@ -1,8 +1,8 @@
 symbol: CHUM
 name: Chum Coin
 decimals: 9
+extensions:
+  website: https://chumsmart.com
 tags:
   - email-token
   - email-coin
-extensions:
-  website: https://chumsmart.com

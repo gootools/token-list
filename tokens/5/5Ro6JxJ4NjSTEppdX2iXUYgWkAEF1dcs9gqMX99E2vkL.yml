@@ -1,11 +1,11 @@
 symbol: wBONDLY_v1
 name: Bondly Token (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85"
   assetContract: https://etherscan.io/address/0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: bondly
+tags:
+  - wrapped
+  - wormhole

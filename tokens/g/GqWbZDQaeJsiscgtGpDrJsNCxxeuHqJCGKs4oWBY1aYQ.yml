@@ -1,12 +1,12 @@
 symbol: GTA
 name: GTA LIVE
 decimals: 4
-tags:
-  - GameFi
-  - DeFi
-  - MetaVerse
-  - stablecoin
 extensions:
   discord: https://discord.gta.live
   telegram: https://t.me/gta_fiverp
   website: https://gta.live
+tags:
+  - DeFi
+  - GameFi
+  - MetaVerse
+  - stablecoin

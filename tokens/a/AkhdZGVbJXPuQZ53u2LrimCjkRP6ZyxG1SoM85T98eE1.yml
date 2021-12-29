@@ -1,9 +1,9 @@
 symbol: BOT
 name: Starbots Token
 decimals: 8
-tags:
-  - utility-token
-  - governance-token
-  - game-token
 extensions:
   twitter: https://twitter.com/Starbots_game
+tags:
+  - governance-token
+  - game-token
+  - utility-token

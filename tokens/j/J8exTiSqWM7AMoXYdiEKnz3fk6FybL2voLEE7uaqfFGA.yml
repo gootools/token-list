@@ -1,8 +1,8 @@
 symbol: SHIB2
 name: Shiba Inu 2.0
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   description: New projects coming!
+tags:
+  - community-token
+  - social-token

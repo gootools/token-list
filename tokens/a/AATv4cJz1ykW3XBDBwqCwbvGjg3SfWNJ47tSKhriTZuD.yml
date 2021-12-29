@@ -1,10 +1,10 @@
 symbol: MGS
 name: MoonGearSolid
 decimals: 0
-tags:
-  - Utility-token
-  - Defi
-  - Fund-management
 extensions:
   discord: https://discord.gg/4nrky27yu5
   twitter: https://twitter.com/MoonGearSolid
+tags:
+  - Defi
+  - Fund-management
+  - Utility-token

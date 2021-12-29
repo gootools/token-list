@@ -1,7 +1,7 @@
 symbol: LBC
 name: LobCoins
 decimals: 6
-tags:
-  - utility-token
 extensions:
   website: https://github.com/ImmTheo
+tags:
+  - utility-token

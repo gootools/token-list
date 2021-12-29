@@ -1,11 +1,11 @@
 symbol: GALAXY
 name: Galaxy
 decimals: 4
-tags:
-  - metaverse
-  - gaming
-  - utility-token
-  - nft
-  - DeFi
 extensions:
   serumV3Usdc: 2B6CxvMS91eNyQ1FPyEqybvjFiZtKaBqHWKfXAKn1jij
+tags:
+  - DeFi
+  - gaming
+  - metaverse
+  - nft
+  - utility-token

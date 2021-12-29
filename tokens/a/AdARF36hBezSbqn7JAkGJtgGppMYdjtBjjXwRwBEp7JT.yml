@@ -1,7 +1,7 @@
 symbol: CAEN
 name: Camel Aggregate Ecological Network
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://caen.io
+tags:
+  - utility-token

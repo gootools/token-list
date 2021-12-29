@@ -1,7 +1,7 @@
 symbol: NFTAYXH
 name: SOLKITTY NFT HORSE 2
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/horse-2
+tags:
+  - nft

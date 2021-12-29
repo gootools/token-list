@@ -1,8 +1,8 @@
 symbol: IGNFTEPH
 name: Instagram NFT EPH
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/E4P45hsc4WJ61EkJkoKg4HRps68WhnfBMqDWvNYBAVZ7
+tags:
+  - instagram
+  - nft

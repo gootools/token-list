@@ -1,8 +1,8 @@
 symbol: SLCAT
 name: Salad Cat Coin
 decimals: 4
-tags:
-  - meme-token
-  - community-token
 extensions:
   website: https://saladcatcoin.com
+tags:
+  - community-token
+  - meme-token

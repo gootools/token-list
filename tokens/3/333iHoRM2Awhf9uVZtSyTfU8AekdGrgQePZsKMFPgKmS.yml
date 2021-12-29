@@ -1,8 +1,6 @@
 symbol: ISOLA
 name: Intersola
 decimals: 6
-tags:
-  - utility-token
 extensions:
   github: https://github.com/Intersolaio/
   medium: https://intersola.medium.com/
@@ -10,3 +8,5 @@ extensions:
   telegram: https://t.me/intersola
   twitter: https://twitter.com/intersola_io
   website: https://intersola.io/
+tags:
+  - utility-token

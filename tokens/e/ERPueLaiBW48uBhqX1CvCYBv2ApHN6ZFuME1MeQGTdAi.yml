@@ -1,10 +1,10 @@
 symbol: MIT
 name: Muskimum Impact Token
 decimals: 8
-tags:
-  - mit
-  - musk
 extensions:
   serumV3Usdc: 3mhrhTFrHtxe7uZhvzBhzneR3bD3hDyWcgEkR8EcvNZk
   twitter: https://twitter.com/muskimum
   website: https://muskimum.win/
+tags:
+  - mit
+  - musk

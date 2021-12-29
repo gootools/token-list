@@ -1,10 +1,10 @@
 symbol: ILB
 name: ILearnBLock
 decimals: 9
-tags:
-  - utility-token
-  - value-token
-  - community-token
 extensions:
   instagram: https://instagram.com/ilearnblock
   twitter: https://twitter.com/ilearnblock
+tags:
+  - community-token
+  - utility-token
+  - value-token

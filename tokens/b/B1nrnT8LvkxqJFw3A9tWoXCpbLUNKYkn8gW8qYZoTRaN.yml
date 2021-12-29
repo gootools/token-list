@@ -1,10 +1,10 @@
 symbol: COBRA
 name: Cobra Coin
 decimals: 9
+extensions:
+  twitter: https://twitter.com/cobracoin_
+  website: https://www.cobracoin.info/
 tags:
   - COBRA
   - Community-token
   - MEME
-extensions:
-  twitter: https://twitter.com/cobracoin_
-  website: https://www.cobracoin.info/

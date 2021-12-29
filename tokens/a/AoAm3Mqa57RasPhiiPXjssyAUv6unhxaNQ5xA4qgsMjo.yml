@@ -1,11 +1,11 @@
 symbol: MOO
 name: Moo Token
 decimals: 0
-tags:
-  - social-token
-  - moo
-  - cow
-  - milk
 extensions:
   discord: https://discord.gg/kJ2YYyrnHP
   telegram: https://t.me/MooToken
+tags:
+  - cow
+  - moo
+  - milk
+  - social-token

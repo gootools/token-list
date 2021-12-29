@@ -1,8 +1,8 @@
 symbol: Nom
 name: Fraktionalized Frakt-1274
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/5AuSjp5d94882J3ctoeNjq8qRyzrvvznmUXKAAjJc9cT
   vaultPubkey: 5AuSjp5d94882J3ctoeNjq8qRyzrvvznmUXKAAjJc9cT
+tags:
+  - fractionalized-nft

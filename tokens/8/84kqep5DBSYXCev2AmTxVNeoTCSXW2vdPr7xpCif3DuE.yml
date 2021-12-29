@@ -1,7 +1,7 @@
 symbol: IAN
 name: Ian Coin
 decimals: 6
-tags:
-  - social-token
 extensions:
   website: https://ianridsdill.ca
+tags:
+  - social-token

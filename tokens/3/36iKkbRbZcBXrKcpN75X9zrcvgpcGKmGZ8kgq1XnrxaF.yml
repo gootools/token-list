@@ -2,6 +2,6 @@ symbol: CIR
 name: Circuit
 decimals: 0
 tags:
-  - social-token
   - community-token
   - connection-token
+  - social-token

@@ -1,8 +1,8 @@
 symbol: AIEA
 name: AI Token
 decimals: 6
+extensions:
+  website: https://ai-token.io
 tags:
   - community-token
   - social-token
-extensions:
-  website: https://ai-token.io

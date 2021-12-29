@@ -4,4 +4,4 @@ decimals: 6
 tags:
   - token
 clusters:
-  - testnet
+  - devnet

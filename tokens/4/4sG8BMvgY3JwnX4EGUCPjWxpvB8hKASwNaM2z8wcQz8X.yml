@@ -1,9 +1,9 @@
 symbol: ICN
 name: Icona
 decimals: 6
-tags:
-  - utility-token
-  - icona
-  - social-token
 extensions:
   website: https://icona.eth.link
+tags:
+  - icona
+  - social-token
+  - utility-token

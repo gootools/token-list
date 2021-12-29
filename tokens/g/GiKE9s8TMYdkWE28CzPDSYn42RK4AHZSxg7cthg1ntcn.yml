@@ -1,11 +1,11 @@
 symbol: SLTM
 name: Soltomm F-token
 decimals: 9
-tags:
-  - utility-token
-  - nft
 extensions:
   medium: https://soltomm.medium.com
   telegram: https://t.me/soltomm
   twitter: https://twitter.com/soltomm
   website: https://www.soltomm.com
+tags:
+  - nft
+  - utility-token

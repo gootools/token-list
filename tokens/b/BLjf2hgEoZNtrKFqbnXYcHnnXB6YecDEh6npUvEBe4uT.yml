@@ -1,11 +1,11 @@
 symbol: 918C
 name: PAC918 Coin
 decimals: 0
-tags:
-  - social-token
-  - community-token
-  - metaverse
-  - utility-token
 extensions:
   twitter: https://twitter.com/PAC918coin
   website: https://pac918.com/coin
+tags:
+  - community-token
+  - metaverse
+  - social-token
+  - utility-token

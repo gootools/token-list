@@ -1,11 +1,11 @@
 symbol: SLOCK
 name: SOLLock
 decimals: 9
-tags:
-  - utility-token
 extensions:
   github: https://github.com/SOLLock
   telegram: https://t.me/SOLLock
   telegramAnnouncements: https://t.me/SOLLockAnn
   twitter: https://twitter.com/SOLLockOfficial
   website: https://sollock.org/
+tags:
+  - utility-token

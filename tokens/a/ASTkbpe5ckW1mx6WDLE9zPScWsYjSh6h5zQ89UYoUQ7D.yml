@@ -1,10 +1,10 @@
 symbol: CHAM
 name: SOLChamies
 decimals: 9
-tags:
-  - social-token
-  - utility-token
 extensions:
   discord: https://discord.gg/GAN7MmCxAw
   twitter: https://twitter.com/SOLChamies
   website: https://solchamies.com/
+tags:
+  - social-token
+  - utility-token

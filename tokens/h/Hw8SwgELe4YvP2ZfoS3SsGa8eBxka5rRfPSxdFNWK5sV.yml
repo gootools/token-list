@@ -1,13 +1,13 @@
 symbol: PLVO
 name: PoruvoCoin
 decimals: 0
-tags:
-  - social-token
-  - gon-pulvo
-  - poruvo
-  - chiphop
-  - musician-token
-  - support-musicians
 extensions:
   twitter: https://twitter.com/poruvo
   website: https://gonpulvo.com/
+tags:
+  - chiphop
+  - gon-pulvo
+  - musician-token
+  - poruvo
+  - social-token
+  - support-musicians

@@ -1,9 +1,9 @@
 symbol: DJN
 name: Fenix Danjon
 decimals: 9
-tags:
-  - community-token
-  - utility-token
 extensions:
   twitter: https://twitter.com/FenixDanjon
   website: https://fenixdanjon.com
+tags:
+  - community-token
+  - utility-token

@@ -1,9 +1,9 @@
 symbol: LODE
 name: LODE Token
 decimals: 9
-tags:
-  - dividend
 extensions:
   address: "0x897f505d9637622219e4687eC1A71b4Acf204816"
   assetContract: https://etherscan.io/address/0x897f505d9637622219e4687eC1A71b4Acf204816
   website: https://lode.one
+tags:
+  - dividend

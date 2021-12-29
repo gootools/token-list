@@ -1,10 +1,10 @@
 symbol: MYR
 name: Malaysian Ringgit
 decimals: 2
-tags:
-  - stablecoin
-  - malaysian
-  - ringgit
 extensions:
   discord: https://discord.com/invite/ringgitfinance
   telegram: https://t.me/ringgitfinance
+tags:
+  - malaysian
+  - ringgit
+  - stablecoin

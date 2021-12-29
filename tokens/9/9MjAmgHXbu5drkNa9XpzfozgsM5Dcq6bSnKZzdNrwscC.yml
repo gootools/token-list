@@ -1,10 +1,10 @@
 symbol: $FORCE
 name: Force
 decimals: 9
+extensions:
+  twitter: https://twitter.com/solenforcers
+  website: https://solenforcers.io/
 tags:
   - community-token
   - social-token
   - utility-token
-extensions:
-  twitter: https://twitter.com/solenforcers
-  website: https://solenforcers.io/

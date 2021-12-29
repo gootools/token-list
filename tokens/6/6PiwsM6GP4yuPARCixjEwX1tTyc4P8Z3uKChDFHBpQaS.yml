@@ -1,7 +1,7 @@
 symbol: NFTSUV
 name: SOLKITTY NFT SUV 1
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/suv-1
+tags:
+  - nft

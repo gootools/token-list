@@ -1,8 +1,8 @@
 symbol: wFTTV1-FTT
 name: Saber wFTT_V1-FTT LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/ftt
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1
-extensions:
-  website: https://app.saber.so/#/pools/ftt

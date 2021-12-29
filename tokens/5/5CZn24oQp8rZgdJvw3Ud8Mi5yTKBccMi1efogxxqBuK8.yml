@@ -1,11 +1,11 @@
 symbol: CUTIE
 name: Cutie Patootie
 decimals: 9
-tags:
-  - MEME
 extensions:
   discord: https://discord.gg/2d3FvQUR
   github: https://github.com/Cutie-Patootie-Token
   telegram: https://t.me/joinchat/XFk1Boii0GxiNDc0
   twitter: https://twitter.com/CutiePatotieSLN
   website: https://www.cutiepatootie.tech
+tags:
+  - MEME

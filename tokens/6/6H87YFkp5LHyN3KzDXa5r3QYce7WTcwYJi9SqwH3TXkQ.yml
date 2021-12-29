@@ -1,9 +1,9 @@
 symbol: AINU
 name: Akamaru Inu
 decimals: 1
-tags:
-  - meme-token
-  - community-token
 extensions:
   twitter: https://twitter.com/akamaruinusol
   website: https://akamaruinusol.com/
+tags:
+  - community-token
+  - meme-token

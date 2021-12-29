@@ -1,13 +1,13 @@
 symbol: SHIMOO
 name: Shibi Samo Official
 decimals: 9
-tags:
-  - meme
-  - community
-  - NFTs
-  - DEFI
-  - Dog
 extensions:
   discord: https://discord.gg/GrPTmFqZ6m
   twitter: https://twitter.com/ShibiSamo
   website: https://shibi-samo.com
+tags:
+  - community
+  - DEFI
+  - Dog
+  - meme
+  - NFTs

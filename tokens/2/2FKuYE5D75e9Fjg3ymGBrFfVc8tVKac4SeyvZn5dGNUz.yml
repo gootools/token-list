@@ -1,8 +1,8 @@
 symbol: VITAL
 name: VITAL Token
 decimals: 8
+extensions:
+  discord: https://discord.gg/Z3cFSSZKwU
 tags:
   - community-token
   - utility-token
-extensions:
-  discord: https://discord.gg/Z3cFSSZKwU

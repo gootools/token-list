@@ -1,10 +1,10 @@
 symbol: FORA
 name: Fora
 decimals: 9
-tags:
-  - fora
-  - utility-token
 extensions:
   description: Co-founders hmu -> ryan@kanelabs.com
   discord: https://discord.gg/6erTzYChXh
   website: https://fora.co
+tags:
+  - fora
+  - utility-token

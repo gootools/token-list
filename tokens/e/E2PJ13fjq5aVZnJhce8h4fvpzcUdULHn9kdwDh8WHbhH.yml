@@ -1,7 +1,7 @@
 symbol: NFTEPJF
 name: SOLKITTY NFT BLACK KITTY
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/black-kitty
+tags:
+  - nft

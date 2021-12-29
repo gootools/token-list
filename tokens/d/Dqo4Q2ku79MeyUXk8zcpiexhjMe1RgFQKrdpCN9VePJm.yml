@@ -1,8 +1,8 @@
 symbol: DBLN
 name: Doublon
 decimals: 9
-tags:
-  - utility-token
-  - international-token
 extensions:
   instagram: https://www.instagram.com/clement_aglr
+tags:
+  - international-token
+  - utility-token

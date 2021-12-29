@@ -1,7 +1,7 @@
 symbol: TAMAL
 name: tamalerhino Token
 decimals: 9
-tags:
-  - social-token
 extensions:
   twitter: https://twitter.com/tamalerhino
+tags:
+  - social-token

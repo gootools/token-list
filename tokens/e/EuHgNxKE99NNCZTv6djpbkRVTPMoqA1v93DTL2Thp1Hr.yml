@@ -1,8 +1,6 @@
 symbol: BIG
 name: TBD Coin
 decimals: 5
-tags:
-  - Community-token
 extensions:
   description: The BIG Deal is a blockchain based auction house for physical
     goods, digital assets, NFT's and more.
@@ -13,3 +11,5 @@ extensions:
   telegram: https://t.me/+sWdEDZzdkSVlY2I1
   twitter: https://twitter.com/thebigdeal_play
   website: https://thebig.deals/
+tags:
+  - Community-token

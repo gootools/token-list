@@ -1,7 +1,7 @@
 symbol: ICY
 name: ICY TOKEN
 decimals: 9
-tags:
-  - community-token
 extensions:
   website: https://peskyicecube.xyz/
+tags:
+  - community-token

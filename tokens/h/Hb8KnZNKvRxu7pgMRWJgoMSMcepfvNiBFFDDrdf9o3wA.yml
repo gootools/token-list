@@ -1,7 +1,7 @@
 symbol: renDOGE-USDC
 name: Raydium LP Token V4 (renDOGE-USDC)
 decimals: 8
-tags:
-  - lp-token
 extensions:
   website: https://raydium.io/
+tags:
+  - lp-token

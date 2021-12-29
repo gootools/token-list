@@ -1,11 +1,11 @@
 symbol: SOLPAD
 name: Solpad Finance
 decimals: 9
-tags:
-  - utility-token
 extensions:
   github: https://github.com/solpad-finance
   telegram: https://t.me/solpadfinance_chat
   telegramAnnouncements: https://t.me/solpadfinance
   twitter: https://twitter.com/FinanceSolpad
   website: https://www.solpad.finance/
+tags:
+  - utility-token

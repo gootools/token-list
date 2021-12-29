@@ -1,9 +1,9 @@
 symbol: $KSH
 name: Keeshond Coin
 decimals: 9
-tags:
-  - Meme-Token
-  - NFT
 extensions:
   twitter: https://twitter.com/KeeshondC
   website: https://keeshondcoin.com/
+tags:
+  - Meme-Token
+  - NFT

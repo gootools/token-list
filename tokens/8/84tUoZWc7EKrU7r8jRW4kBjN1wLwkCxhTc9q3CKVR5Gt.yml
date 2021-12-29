@@ -1,8 +1,8 @@
 symbol: PET
 name: Pet Coin
 decimals: 0
-tags:
-  - utility-token
-  - NFT
 extensions:
   website: https://anotherapp.blogspot.com
+tags:
+  - NFT
+  - utility-token

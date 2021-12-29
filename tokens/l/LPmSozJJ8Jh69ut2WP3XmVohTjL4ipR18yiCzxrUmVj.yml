@@ -1,11 +1,11 @@
 symbol: mSOL-SOL-LP
 name: Marinade LP token
 decimals: 9
-tags:
-  - lp-token
 extensions:
   discord: https://discord.gg/mGqZA5pjRN
   github: https://github.com/marinade-finance
   medium: https://medium.com/marinade-finance
   twitter: https://twitter.com/MarinadeFinance
   website: https://marinade.finance
+tags:
+  - lp-token

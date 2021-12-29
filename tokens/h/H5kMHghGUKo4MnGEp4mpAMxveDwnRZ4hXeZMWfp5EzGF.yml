@@ -1,11 +1,11 @@
 symbol: UXD
 name: UXD Stablecoin
 decimals: 6
-tags:
-  - UXD
-  - Stablecoin
 extensions:
   discord: https://discord.com/invite/BHfpYmjsBM
   medium: https://uxdprotocol.medium.com/
   twitter: https://twitter.com/UXDProtocol
   website: https://uxd.fi/
+tags:
+  - Stablecoin
+  - UXD

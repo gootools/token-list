@@ -1,7 +1,7 @@
 symbol: TIPZ
 name: Tipzcoin
 decimals: 9
-tags:
-  - community-token
 extensions:
   twitter: https://twitter.com/tipzcoin
+tags:
+  - community-token

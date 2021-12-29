@@ -1,7 +1,7 @@
 symbol: pSOL-prtSOL
 name: Saber pSOL-prtSOL LP
 decimals: 9
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/psol
+tags:
+  - saber-stableswap-lp

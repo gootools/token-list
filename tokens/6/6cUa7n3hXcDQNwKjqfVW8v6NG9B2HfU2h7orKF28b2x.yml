@@ -1,9 +1,9 @@
 symbol: RICH
 name: The Rich DAO
 decimals: 8
-tags:
-  - meme
-  - DApp
 extensions:
   twitter: https://twitter.com/TheRichDAO
   website: https://therichdao.com/
+tags:
+  - DApp
+  - meme

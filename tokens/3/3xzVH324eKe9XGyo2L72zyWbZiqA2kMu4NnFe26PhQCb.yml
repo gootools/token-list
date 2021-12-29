@@ -1,8 +1,8 @@
 symbol: NFTX
 name: NFT Universal Exchangable
 decimals: 9
-tags:
-  - utility-token
-  - NFT
 extensions:
   telegram: https://t.me/u_nft
+tags:
+  - NFT
+  - utility-token

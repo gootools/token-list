@@ -1,11 +1,11 @@
 symbol: wOMG_v1
 name: OMG Network (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
   assetContract: https://etherscan.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: omisego
+tags:
+  - wrapped
+  - wormhole

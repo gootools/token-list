@@ -1,7 +1,7 @@
 symbol: SOL-pSOL
 name: Mercurial LP Token (SOL-pSOL)
 decimals: 9
-tags:
-  - lp-token
 extensions:
   website: https://www.mercurial.finance/
+tags:
+  - lp-token

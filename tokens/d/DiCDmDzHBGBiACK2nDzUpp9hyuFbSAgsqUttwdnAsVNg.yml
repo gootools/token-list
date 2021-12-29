@@ -1,7 +1,7 @@
 symbol: TEST
 name: SPL Test Token
 decimals: 9
-tags:
-  - test-token
 extensions:
   website: https://www.test.bg/
+tags:
+  - test-token

@@ -1,8 +1,8 @@
 symbol: VIVA
 name: Viva coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/inkresearch
   website: https://www.inkresearch.com
+tags:
+  - utility-token

@@ -1,11 +1,11 @@
 symbol: ETE
 name: Eternal Coin
 decimals: 6
-tags:
-  - utility-token
-  - community-token
 extensions:
   twitter: https://twitter.com/HaiTran60137177
   website: https://www.s3corp.com.vn
+tags:
+  - community-token
+  - utility-token
 clusters:
-  - testnet
+  - devnet

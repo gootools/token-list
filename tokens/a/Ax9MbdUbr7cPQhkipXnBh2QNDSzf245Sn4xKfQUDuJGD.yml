@@ -1,12 +1,12 @@
 symbol: EDGE
 name: Lord Edge Elon
 decimals: 9
-tags:
-  - Meme-token
-  - DEFI
-  - Elon
-  - Community
 extensions:
   telegram: https://t.me/lordedgesol
   twitter: https://twitter.com/LordedgeSol
   website: https://lordedgesol.com
+tags:
+  - Community
+  - DEFI
+  - Elon
+  - Meme-token

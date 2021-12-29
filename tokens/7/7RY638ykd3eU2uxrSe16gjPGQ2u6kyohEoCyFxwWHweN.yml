@@ -2,9 +2,9 @@ symbol: MKITSOL
 name: MkITSol COIN
 decimals: 0
 tags:
-  - social-token
-  - Community-Token
-  - Utility-Token
-  - fan-token
-  - tech-token
   - currency-token
+  - Community-Token
+  - fan-token
+  - social-token
+  - tech-token
+  - Utility-Token

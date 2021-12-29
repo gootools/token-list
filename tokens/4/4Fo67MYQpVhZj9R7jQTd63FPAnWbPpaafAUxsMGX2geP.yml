@@ -1,10 +1,10 @@
 symbol: DAIpo
 name: Dai Stablecoin (Wormhole from Polygon)
 decimals: 8
-tags:
-  - wrapped
 extensions:
   address: "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
   assetContract: https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063
   bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
   coingeckoId: dai
+tags:
+  - wrapped

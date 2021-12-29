@@ -1,7 +1,7 @@
 symbol: CRD
 name: Cards Cash
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://discord.gg/rAZyFEv4Fp
+tags:
+  - utility-token

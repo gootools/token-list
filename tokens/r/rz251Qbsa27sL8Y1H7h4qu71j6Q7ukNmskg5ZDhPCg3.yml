@@ -5,4 +5,4 @@ extensions:
   twitter: https://twitter.com/HiroLaunchdao
   website: https://hiro-finance.github.io/
 clusters:
-  - devnet
+  - testnet

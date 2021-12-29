@@ -1,8 +1,8 @@
 symbol: TSFU
 name: Coin For Miguel
 decimals: 6
+extensions:
+  twitter: https://twitter.com/Lynxer20
 tags:
   - community-token
   - social-token
-extensions:
-  twitter: https://twitter.com/Lynxer20

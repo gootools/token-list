@@ -1,11 +1,11 @@
 symbol: Kishu
 name: Kishu Inu
 decimals: 9
-tags:
-  - community-token
-  - meme-token
-  - doge
-  - dogecoin
 extensions:
   twitter: https://twitter.com/ShibamoonNFT
   website: https://www.shibamoon.info/
+tags:
+  - community-token
+  - doge
+  - dogecoin
+  - meme-token

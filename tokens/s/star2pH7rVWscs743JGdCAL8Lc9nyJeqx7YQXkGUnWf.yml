@@ -1,8 +1,8 @@
 symbol: STARFISH
 name: Orca Starfish Collectible
 decimals: 6
-tags:
-  - nft
 extensions:
   twitter: https://twitter.com/orca_so
   website: https://orca.so
+tags:
+  - nft

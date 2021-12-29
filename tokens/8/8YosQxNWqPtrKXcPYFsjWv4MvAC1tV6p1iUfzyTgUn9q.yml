@@ -1,8 +1,8 @@
 symbol: SHT
 name: Soft High Tech
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/softhightech
   website: https://softhightech.com
+tags:
+  - utility-token

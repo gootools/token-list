@@ -1,8 +1,8 @@
 symbol: wibBTCV1-renBTC
 name: Saber wibBTC_V1-renBTC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/ibbtc_ren
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1
-extensions:
-  website: https://app.saber.so/#/pools/ibbtc_ren

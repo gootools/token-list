@@ -1,7 +1,7 @@
 symbol: gFIDA
 name: Bonfida Governance Token
 decimals: 6
-tags:
-  - governance-token
 extensions:
   website: https://bonfida.org/
+tags:
+  - governance-token

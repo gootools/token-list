@@ -1,11 +1,11 @@
 symbol: ICE
 name: Fancy Diamond ICE
 decimals: 9
-tags:
-  - utility-token
-  - community-token
-  - NFTs
 extensions:
   discord: https://discord.gg/fancydiamondsol/
   twitter: https://twitter.com/fancydiamondsol
   website: https://holdfancy.diamonds/
+tags:
+  - community-token
+  - NFTs
+  - utility-token

@@ -1,10 +1,10 @@
 symbol: POT
 name: PotCoin
 decimals: 9
-tags:
-  - WEED
-  - community-token
-  - social-token
 extensions:
   twitter: https://twitter.com/Potcoins_
   website: https://www.potcoin.space/
+tags:
+  - community-token
+  - social-token
+  - WEED

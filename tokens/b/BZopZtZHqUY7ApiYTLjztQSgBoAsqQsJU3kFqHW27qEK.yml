@@ -1,7 +1,7 @@
 symbol: NICK
 name: Nick Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/nickchua5
+tags:
+  - utility-token

@@ -1,7 +1,7 @@
 symbol: stSOL-SOL
 name: Mercurial LP Token (stSOL-2Pool)
 decimals: 12
-tags:
-  - lp-token
 extensions:
   website: https://www.mercurial.finance/
+tags:
+  - lp-token

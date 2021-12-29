@@ -1,13 +1,13 @@
 symbol: CMU
 name: Cyberindo
 decimals: 9
-tags:
-  - utility-token
-  - capital-token
-  - DApp
-  - Application
-  - payment-protocol
-  - Payment
 extensions:
   twitter: https://twitter.com/CyberindoTech
   website: http://www.cyberindo.tech/
+tags:
+  - Application
+  - capital-token
+  - DApp
+  - payment-protocol
+  - Payment
+  - utility-token

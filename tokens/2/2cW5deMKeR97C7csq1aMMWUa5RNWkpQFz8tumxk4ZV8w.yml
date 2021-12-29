@@ -1,11 +1,11 @@
 symbol: wYLD_v1
 name: Yield (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xF94b5C5651c888d928439aB6514B93944eEE6F48"
   assetContract: https://etherscan.io/address/0xF94b5C5651c888d928439aB6514B93944eEE6F48
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: yield-app
+tags:
+  - wrapped
+  - wormhole

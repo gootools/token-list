@@ -1,9 +1,9 @@
 symbol: MAME
 name: mameCoin
 decimals: 8
-tags:
-  - utility-token
 extensions:
   discord: https://discord.com/invite/TcCZGu7HfA
   twitter: https://twitter.com/mameCoin
   website: https://mamecoin.id/
+tags:
+  - utility-token

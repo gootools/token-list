@@ -1,9 +1,9 @@
 symbol: NYANS
 name: NYANS DOGES
 decimals: 9
-tags:
-  - NFT
-  - MEME
 extensions:
   twitter: https://twitter.com/NyansDoges
   website: https://nyansdoges.com/
+tags:
+  - MEME
+  - NFT

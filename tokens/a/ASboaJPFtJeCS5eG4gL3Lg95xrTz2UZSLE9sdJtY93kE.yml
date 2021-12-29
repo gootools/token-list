@@ -1,8 +1,8 @@
 symbol: DOGEBULL
 name: DOGEBULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-dogecoin-token
+tags:
+  - bull
+  - leveraged

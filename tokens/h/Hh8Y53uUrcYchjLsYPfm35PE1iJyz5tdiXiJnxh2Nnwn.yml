@@ -1,8 +1,8 @@
 symbol: SHAB
 name: Shabro
 decimals: 8
+extensions:
+  website: https://shabronet.com/
 tags:
   - social-token
   - utility-token
-extensions:
-  website: https://shabronet.com/

@@ -1,9 +1,9 @@
 symbol: TETRA
 name: Tetracoin
 decimals: 9
-tags:
-  - community-token
-  - social-token
 extensions:
   discord: https://discord.gg/5Wq4aBjx
   telegram: https://t.me/tetracoinofficial
+tags:
+  - community-token
+  - social-token

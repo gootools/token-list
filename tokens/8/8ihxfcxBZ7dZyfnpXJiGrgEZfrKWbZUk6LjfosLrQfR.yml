@@ -1,7 +1,7 @@
 symbol: EWY
 name: iShares MSCI South Korea ETF
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?EWY
+tags:
+  - tokenized-stock

@@ -4,4 +4,4 @@ decimals: 6
 tags:
   - stablecoin
 clusters:
-  - testnet
+  - devnet

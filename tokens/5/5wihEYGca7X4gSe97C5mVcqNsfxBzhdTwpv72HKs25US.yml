@@ -1,9 +1,9 @@
 symbol: so1INCH
 name: Wrapped 1INCH (Sollet)
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: 1inch
+tags:
+  - ethereum
+  - wrapped-sollet

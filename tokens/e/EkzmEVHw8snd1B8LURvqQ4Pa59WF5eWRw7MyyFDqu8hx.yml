@@ -1,10 +1,10 @@
 symbol: FRFI
 name: Freedom Finance
 decimals: 0
-tags:
-  - NFT
-  - utility-token
 extensions:
   discord: https://discord.gg/zzdZx5aMfx
   twitter: https://twitter.com/FreedomDAO_
   website: https://freedom-dao.com/
+tags:
+  - NFT
+  - utility-token

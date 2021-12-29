@@ -1,8 +1,8 @@
 symbol: TUTL
 name: TurtleTraders
 decimals: 9
+extensions:
+  twitter: https://twitter.com/Turtle_Traders
 tags:
   - social-token
   - Turtles
-extensions:
-  twitter: https://twitter.com/Turtle_Traders

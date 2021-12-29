@@ -1,8 +1,8 @@
 symbol: ELV
 name: Elevator Beta
 decimals: 9
-tags:
-  - utility-token
-  - social-token
 extensions:
   website: https://www.elevator.biz
+tags:
+  - social-token
+  - utility-token

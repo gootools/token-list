@@ -1,10 +1,10 @@
 symbol: NSA
 name: Nebula Stars Anthill
 decimals: 9
-tags:
-  - social-token
-  - farming
-  - nebula
 extensions:
   telegram: https://t.me/nebula_android_application
   website: https://nebula.spl-token.com
+tags:
+  - farming
+  - nebula
+  - social-token

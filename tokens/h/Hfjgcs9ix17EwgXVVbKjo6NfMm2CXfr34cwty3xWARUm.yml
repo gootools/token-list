@@ -1,8 +1,8 @@
 symbol: TLS
 name: The Last Stand
 decimals: 0
-tags:
-  - nft
 extensions:
   serumV3Usdc: AVHndcEDUjP9Liz5dfcvAPAMffADXG6KMPn8sWB1XhFQ
   website: https://www.staratlas.com
+tags:
+  - nft

@@ -1,7 +1,7 @@
 symbol: NFTTXEY
 name: SOLKITTY NFT EGG 9
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/egg-9
+tags:
+  - nft

@@ -1,10 +1,10 @@
 symbol: SOLUP
 name: SOLUP
 decimals: 9
-tags:
-  - SOLUP-TOKEN
-  - Sol-UP
 extensions:
   assetContract: https://solscan.io/token/CnGUfvi9FxiRPuaBXpYmaXEwBjj5X6kwNJB2Cba5TiQp
   telegram: https://t.me/solanavietnam
   website: https://solup.xyz
+tags:
+  - SOLUP-TOKEN
+  - Sol-UP

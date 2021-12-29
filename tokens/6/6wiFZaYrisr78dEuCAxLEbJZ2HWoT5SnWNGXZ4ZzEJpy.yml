@@ -1,11 +1,11 @@
 symbol: SOLAROLD
 name: Solarna Token
 decimals: 9
-tags:
-  - social-token
-  - utility-token
-  - dex
-  - cross-swap
-  - wallet-token
 extensions:
   website: https://google.com
+tags:
+  - cross-swap
+  - dex
+  - social-token
+  - utility-token
+  - wallet-token

@@ -1,12 +1,12 @@
 symbol: CC
 name: Castle Coin
 decimals: 9
-tags:
-  - social-token
-  - utility-token
-  - meme-token
-  - community-token
 extensions:
   discord: https://discord.gg/4jNRF9zfCV
   twitter: https://twitter.com/Castle_Clique
   youtube: https://www.youtube.com/c/CastleClique
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

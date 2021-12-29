@@ -1,8 +1,8 @@
 symbol: xFTT-wFTT
 name: Saber xFTT-wFTT LP
 decimals: 8
+extensions:
+  website: https://app.saber.so/#/pools/xftt
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify
-extensions:
-  website: https://app.saber.so/#/pools/xftt

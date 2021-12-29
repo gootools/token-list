@@ -1,7 +1,7 @@
 symbol: FLX
 name: Fluxx
 decimals: 9
-tags:
-  - token
 extensions:
   website: https://fluxx.webnode.sk/
+tags:
+  - token

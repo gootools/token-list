@@ -1,7 +1,7 @@
 symbol: NFTGHBY
 name: SOLKITTY NFT EGG 8
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/egg-8
+tags:
+  - nft

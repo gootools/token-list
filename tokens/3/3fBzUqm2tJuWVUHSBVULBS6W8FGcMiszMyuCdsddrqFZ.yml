@@ -1,10 +1,10 @@
 symbol: LAG
 name: Lagrange
 decimals: 9
-tags:
-  - exchange-token
 extensions:
   discord: https://discord.gg/cwydgMVT
   github: https://github.com/Lagrange-fi
   twitter: https://twitter.com/Lagrange_fi
   website: https://lagrange.fi/
+tags:
+  - exchange-token

@@ -1,10 +1,10 @@
 symbol: HOLYSHIT
 name: HOLY SHIT
 decimals: 9
-tags:
-  - meme-token
-  - community-token
-  - social-token
 extensions:
   discord: https://discord.gg/xWCqbuMWFx
   website: https://www.cryptoneversleeps.org
+tags:
+  - community-token
+  - meme-token
+  - social-token

@@ -1,9 +1,6 @@
 symbol: FANT
 name: Phantasia
 decimals: 6
-tags:
-  - utility-token
-  - governance-token
 extensions:
   coinmarketcap: https://coinmarketcap.com/currencies/phantasia/
   discord: https://t.co/Vskz9PkBBC?amp=1
@@ -11,3 +8,6 @@ extensions:
   medium: https://medium.com/@phantasia
   twitter: https://twitter.com/PhantasiaSports
   website: https://phantasia.app/
+tags:
+  - governance-token
+  - utility-token

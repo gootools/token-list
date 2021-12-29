@@ -1,10 +1,10 @@
 symbol: HIPP
 name: HipsterCoin
 decimals: 9
-tags:
-  - social-token
-  - innovation
-  - community
-  - utility-token
 extensions:
   website: https://www.sunnybeach24.com
+tags:
+  - community
+  - innovation
+  - social-token
+  - utility-token

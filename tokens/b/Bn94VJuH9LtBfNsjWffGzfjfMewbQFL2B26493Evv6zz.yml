@@ -1,9 +1,9 @@
 symbol: SQRC
 name: Squarecoin
 decimals: 6
-tags:
-  - meme-token
-  - nft-token
 extensions:
   twitter: https://twitter.com/SquareheadzNFT
   website: https://squareheadz.xyz/
+tags:
+  - meme-token
+  - nft-token

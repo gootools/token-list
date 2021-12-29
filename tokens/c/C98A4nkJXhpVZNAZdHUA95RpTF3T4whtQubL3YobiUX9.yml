@@ -1,8 +1,6 @@
 symbol: C98
 name: Coin98
 decimals: 6
-tags:
-  - social-token
 extensions:
   coingeckoId: coin98
   github: https://github.com/coin98
@@ -10,3 +8,5 @@ extensions:
   twitter: https://twitter.com/coin98_finance
   waterfallbot: https://bit.ly/C98waterfall
   website: https://coin98.com
+tags:
+  - social-token

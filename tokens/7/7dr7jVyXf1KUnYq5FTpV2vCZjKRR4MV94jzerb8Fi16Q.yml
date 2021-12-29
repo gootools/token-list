@@ -1,8 +1,6 @@
 symbol: MRDR
 name: The Assassination of Paizul
 decimals: 0
-tags:
-  - nft
 extensions:
   description: Suffering one of the cruelest fates in the universe, the Sogmian
     race of aliens was driven to the brink of extinction. With only 10,000
@@ -13,3 +11,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-6/assassination-of-paizul.jpg
   serumV3Usdc: BJiV2gCLwMvj2c1CbhnMjjy68RjqoMzYT8brDrpVyceA
   website: https://www.staratlas.com
+tags:
+  - nft

@@ -1,12 +1,12 @@
 symbol: SOLNUT
 name: Solana Nut
 decimals: 4
-tags:
-  - meme-token
-  - nfts
 extensions:
   discord: https://discord.gg/solananut
   medium: https://medium.com/@nutsolana
   serumV3Usdc: CUttKiPJyu3dsfNwzaEHusGqY36qNkuWcZrVGrnPe9KQ
   twitter: https://twitter.com/Solana_Nut
   website: https://solananut.com/
+tags:
+  - meme-token
+  - nfts

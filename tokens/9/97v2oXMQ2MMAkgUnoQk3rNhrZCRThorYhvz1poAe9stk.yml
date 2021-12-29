@@ -1,7 +1,7 @@
 symbol: PFE
 name: Pfizer
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?PFE
+tags:
+  - tokenized-stock

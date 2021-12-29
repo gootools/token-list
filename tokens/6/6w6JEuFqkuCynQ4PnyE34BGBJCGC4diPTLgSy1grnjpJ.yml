@@ -1,8 +1,6 @@
 symbol: WSP
 name: WinterSolePets
 decimals: 6
-tags:
-  - NFT
 extensions:
   description: NFT Holders They're Weekly / Monthly $ WSP Rewards Will Be Given Lifetime.
   discord: https://discord.gg/3GS6DBSkbK
@@ -10,3 +8,5 @@ extensions:
   telegram: https://t.me/WinterSolePets
   twitter: https://twitter.com/WinterSolePets
   website: https://www.wintersolepets.com
+tags:
+  - NFT

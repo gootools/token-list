@@ -1,8 +1,8 @@
 symbol: SENDIT
 name: Sendit
 decimals: 0
+extensions:
+  website: https://get.stokedtosendit.com
 tags:
   - social-token
   - utility-token
-extensions:
-  website: https://get.stokedtosendit.com

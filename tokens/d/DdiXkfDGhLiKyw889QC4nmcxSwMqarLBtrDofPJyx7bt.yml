@@ -1,11 +1,11 @@
 symbol: wYFIM_v1
 name: yfi.mobi (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c"
   assetContract: https://etherscan.io/address/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: yfimobi
+tags:
+  - wrapped
+  - wormhole

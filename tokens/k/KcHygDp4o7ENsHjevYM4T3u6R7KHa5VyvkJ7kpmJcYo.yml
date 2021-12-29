@@ -1,10 +1,10 @@
 symbol: waUniLINKETH_v1
 name: Aave Interest bearing UniLINKETH (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x9548DB8b1cA9b6c757485e7861918b640390169c"
   assetContract: https://etherscan.io/address/0x9548DB8b1cA9b6c757485e7861918b640390169c
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+tags:
+  - wrapped
+  - wormhole

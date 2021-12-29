@@ -1,8 +1,8 @@
 symbol: XRPBULL
 name: XRPBULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-xrp-token
+tags:
+  - bull
+  - leveraged

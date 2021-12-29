@@ -1,7 +1,7 @@
 symbol: PHC
 name: Phosphine Coin
 decimals: 9
-tags:
-  - phosphine
 extensions:
   website: https://phosphinecoin.org/
+tags:
+  - phosphine

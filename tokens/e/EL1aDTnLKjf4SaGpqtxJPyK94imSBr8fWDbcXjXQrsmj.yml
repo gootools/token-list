@@ -1,9 +1,9 @@
 symbol: MIDBULL
 name: MIDBULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-midcap-index-token
   serumV3Usdc: 8BBtLkoaEyavREriwGUudzAcihTH9SJLAPBbgb7QZe9y
+tags:
+  - bull
+  - leveraged

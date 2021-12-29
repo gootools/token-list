@@ -1,7 +1,7 @@
 symbol: NFTBOXER
 name: SOLKITTY NFT BOXER FRONT
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/boxer-front
+tags:
+  - nft

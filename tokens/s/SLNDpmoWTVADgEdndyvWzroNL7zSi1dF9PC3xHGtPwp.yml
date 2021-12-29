@@ -1,10 +1,10 @@
 symbol: SLND
 name: Solend
 decimals: 6
-tags:
-  - solend
-  - lending
 extensions:
   coingeckoId: solend
   twitter: https://twitter.com/solendprotocol
   website: https://solend.fi
+tags:
+  - lending
+  - solend

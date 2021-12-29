@@ -1,10 +1,10 @@
 symbol: ADR
 name: AIR DROP
 decimals: 12
-tags:
-  - air-drop-token
-  - social-token
-  - community-token
 extensions:
   blog: https://acomdir.com
   website: https://jenka-nauta.com
+tags:
+  - air-drop-token
+  - community-token
+  - social-token

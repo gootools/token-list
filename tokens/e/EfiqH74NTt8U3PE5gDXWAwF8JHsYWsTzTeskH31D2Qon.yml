@@ -1,10 +1,10 @@
 symbol: CLB
 name: CLUBB
 decimals: 2
-tags:
-  - community-token
 extensions:
   facebook: https://www.facebook.com/Cllubbltd-103882295479000
   instagram: https://www.instagram.com/cllubbltd
   twitter: https://twitter.com/cllubbltd
   website: http://cllubb.com/cclub
+tags:
+  - community-token

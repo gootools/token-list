@@ -1,9 +1,9 @@
 symbol: WLB
 name: WHALEBE
 decimals: 9
-tags:
-  - token-games
-  - nft-token
 extensions:
   twitter: https://twitter.com/Whalebe_
   website: https://whalebe.art/
+tags:
+  - nft-token
+  - token-games

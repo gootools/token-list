@@ -1,14 +1,6 @@
 symbol: ORBEM
 name: Orbem
 decimals: 6
-tags:
-  - utility-token
-  - game-coin
-  - ORBEM
-  - Orbem-Coin
-  - Orbem-Token
-  - Duna-Games
-  - Zyon-Defenders
 extensions:
   discord: https://discord.gg/f5GCcnZ7
   instagram: https://www.instagram.com/zyondefenders/
@@ -16,3 +8,11 @@ extensions:
   reddit: https://www.reddit.com/user/ZyonDefenders
   telegram: https://t.me/joinchat/k4Rxha6DSzA2ODYx
   website: http://zyondefenders.com/
+tags:
+  - Duna-Games
+  - game-coin
+  - ORBEM
+  - Orbem-Coin
+  - Orbem-Token
+  - utility-token
+  - Zyon-Defenders

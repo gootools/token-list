@@ -1,7 +1,7 @@
 symbol: NFTCARTO
 name: SOLKITTY NFT Cartoon Ape
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/cartoon-ape
+tags:
+  - nft

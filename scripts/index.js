@@ -1,4 +1,7 @@
+require("isomorphic-fetch");
+
 const { readdir, readFile, writeFile } = require("fs/promises");
+const { join, basename } = require("path");
 const {
   array,
   assert,
@@ -9,7 +12,6 @@ const {
   string,
 } = require("superstruct");
 const { parse } = require("yaml");
-const { join, basename } = require("path");
 
 const tags = require(join(__dirname, "../tags.json"));
 
@@ -21,6 +23,11 @@ const Cluster = define("Cluster", (cluster) =>
 
 const re = RegExp(/(https?|ipfs):/);
 const Website = define("Website", (url) => re.test(new URL(url).protocol));
+
+let coingeckoIdList;
+
+// no async :( https://github.com/ianstormtaylor/superstruct/issues/48
+const CoinGeckoId = define("CoinGeckoId", (id) => coingeckoIdList.has(id));
 
 const Token = object({
   name: string(),
@@ -63,7 +70,7 @@ const Token = object({
       imageUrl: optional(Website),
 
       website: optional(Website),
-      coingeckoId: optional(string()),
+      coingeckoId: optional(CoinGeckoId),
     })
   ),
   tags: optional(array(Tag)),
@@ -139,4 +146,10 @@ async function readFiles(dirname) {
   );
 }
 
-readFiles(join(__dirname, "../tokens"));
+(async () => {
+  const data = await fetch("https://api.coingecko.com/api/v3/coins/list");
+  const list = await data.json();
+  coingeckoIdList = new Set(list.map(({ id }) => id));
+
+  readFiles(join(__dirname, "../tokens"));
+})();

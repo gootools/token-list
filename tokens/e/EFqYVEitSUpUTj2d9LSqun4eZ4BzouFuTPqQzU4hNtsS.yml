@@ -1,9 +1,9 @@
 symbol: MMaps
 name: MapMetrics
 decimals: 6
-tags:
-  - utility-token
-  - Community
-  - NFT
 extensions:
   website: https://mapmetrics.org/
+tags:
+  - Community
+  - NFT
+  - utility-token

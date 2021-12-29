@@ -1,11 +1,11 @@
 symbol: EDTH
 name: Edith Token
 decimals: 9
-tags:
-  - technology
-  - DeFi
-  - community
-  - community-token
-  - utility-token
 extensions:
   website: https://edithtoken.com/
+tags:
+  - community
+  - community-token
+  - DeFi
+  - technology
+  - utility-token

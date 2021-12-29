@@ -1,9 +1,9 @@
 symbol: MAK
 name: MAKOH
 decimals: 9
-tags:
-  - web3
-  - defi
-  - utility-token
 extensions:
   twitter: https://twitter.com/MakohToken
+tags:
+  - defi
+  - utility-token
+  - web3

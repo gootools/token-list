@@ -1,8 +1,8 @@
 symbol: afETH-weWETH
 name: Saber afETH-weWETH LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/afeth
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/afeth

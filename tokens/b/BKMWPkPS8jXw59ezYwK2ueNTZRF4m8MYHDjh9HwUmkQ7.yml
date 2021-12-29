@@ -1,8 +1,8 @@
 symbol: SDC
 name: SandDollarClassic
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/SandDollar_BS
   website: https://sanddollar.bs
+tags:
+  - utility-token

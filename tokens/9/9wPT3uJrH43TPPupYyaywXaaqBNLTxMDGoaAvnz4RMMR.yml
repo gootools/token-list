@@ -1,7 +1,7 @@
 symbol: DKC
 name: DockCoin
 decimals: 9
-tags:
-  - meme-token
 extensions:
   website: https://dockcoin.me/
+tags:
+  - meme-token

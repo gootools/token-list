@@ -1,7 +1,7 @@
 symbol: prtSOL-SOL
 name: Saber prtSOL-SOL LP
 decimals: 9
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/prtsol
+tags:
+  - saber-stableswap-lp

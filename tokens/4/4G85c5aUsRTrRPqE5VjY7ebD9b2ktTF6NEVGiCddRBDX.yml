@@ -1,8 +1,6 @@
 symbol: LOVE
 name: B ❤ P
 decimals: 0
-tags:
-  - nft
 extensions:
   description: Paizul, the charismatic and brilliant leader of the ONI consortium,
     vividly recalls the first time she saw her one true love. It was a warm
@@ -15,3 +13,5 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-5/love-story.jpg
   serumV3Usdc: AM9sNDh48N2qhYSgpA58m9dHvrMoQongtyYu2u2XoYTc
   website: https://www.staratlas.com
+tags:
+  - nft

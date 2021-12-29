@@ -1,9 +1,9 @@
 symbol: ZYB
 name: Ziyob
 decimals: 9
+extensions:
+  website: https://www.ziyob.com
 tags:
   - Ziyob-token
   - Ziyob
   - ZYB
-extensions:
-  website: https://www.ziyob.com

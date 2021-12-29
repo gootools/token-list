@@ -1,8 +1,8 @@
 symbol: MCN
 name: M-Coin
 decimals: 9
-tags:
-  - utility-token
-  - community-token
 extensions:
   website: https://318music.com/mcoin
+tags:
+  - community-token
+  - utility-token

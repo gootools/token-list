@@ -1,8 +1,8 @@
 symbol: SNS
 name: SynesisOne
 decimals: 3
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/synesis_one
   website: https://www.synesis.one/
+tags:
+  - utility-token

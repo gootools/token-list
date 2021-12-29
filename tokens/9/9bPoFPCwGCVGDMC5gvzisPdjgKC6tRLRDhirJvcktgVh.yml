@@ -1,8 +1,8 @@
 symbol: SPIRIT
 name: Spirit
 decimals: 0
+extensions:
+  twitter: https://twitter.com/Cyber_Gothica
 tags:
   - game-token
   - game-currency
-extensions:
-  twitter: https://twitter.com/Cyber_Gothica

@@ -1,8 +1,8 @@
 symbol: FLOCK
 name: Flock
 decimals: 0
-tags:
-  - utlity-token
 extensions:
   discord: https://discord.gg/DapperDucks
   twitter: https://twitter.com/Dapper_DucksNFT
+tags:
+  - utlity-token

@@ -1,7 +1,7 @@
 symbol: NFTADRM
 name: "SOLKITTY NFT BABA APE "
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/baba-ape--
+tags:
+  - nft

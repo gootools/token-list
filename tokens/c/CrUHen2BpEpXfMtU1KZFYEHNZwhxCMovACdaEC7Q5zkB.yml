@@ -1,11 +1,11 @@
 symbol: NFB
 name: NFBet
 decimals: 4
-tags:
-  - utility-token
-  - governance-token
-  - gaming
-  - NFTs
 extensions:
   twitter: https://twitter.com/nfbetofficial
   website: https://nfbet.io
+tags:
+  - governance-token
+  - gaming
+  - NFTs
+  - utility-token

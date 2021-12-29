@@ -1,7 +1,7 @@
 symbol: DICK
 name: Dickcoin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/dickcoinmoon
+tags:
+  - utility-token

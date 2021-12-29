@@ -1,7 +1,7 @@
 symbol: MLGO
 name: MLGO tokens
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://mlgo.io/
+tags:
+  - utility-token

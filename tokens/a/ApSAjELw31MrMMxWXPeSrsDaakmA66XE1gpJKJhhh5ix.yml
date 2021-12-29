@@ -1,9 +1,9 @@
 symbol: FJB
 name: FJB
 decimals: 9
-tags:
-  - meme-token
 extensions:
   instagram: https://www.instagram.com/official_fjb
   twitter: https://twitter.com/official_fjb
   website: http://OfficialFJB.com
+tags:
+  - meme-token

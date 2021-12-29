@@ -1,11 +1,6 @@
 symbol: URA
 name: URA
 decimals: 6
-tags:
-  - dao
-  - gaming
-  - gamefi
-  - utility-token
 extensions:
   discord: https://discord.gg/NqmHKDZp8d
   facebook: https://www.facebook.com/uranusx.official
@@ -15,3 +10,8 @@ extensions:
   twitter: https://twitter.com/uranusx_global
   website: https://uranusx.io
   youtube: https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg
+tags:
+  - dao
+  - gaming
+  - gamefi
+  - utility-token

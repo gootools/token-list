@@ -1,9 +1,9 @@
 symbol: SBBY
 name: StakedBabylonDAO
 decimals: 9
-tags:
-  - Utility-token
-  - Defi
-  - StakedBabylonDAO
 extensions:
   twitter: https://twitter.com/babylondao
+tags:
+  - Defi
+  - StakedBabylonDAO
+  - Utility-token

@@ -1,10 +1,6 @@
 symbol: MED
 name: Medusa token
 decimals: 9
-tags:
-  - NFT-token
-  - community-token
-  - Game
 extensions:
   description: Medusa token - Decentralized Cryptocurrency Token going to be used
     along with Medusa, Perseus NFT's and blockchain game.
@@ -12,3 +8,7 @@ extensions:
   telegram: https://t.me/project_medusa_NFT
   twitter: https://twitter.com/medusa_token
   website: https://www.projectmedusa.art/
+tags:
+  - community-token
+  - Game
+  - NFT-token

@@ -1,10 +1,10 @@
 symbol: WEENS
 name: Ween
 decimals: 0
-tags:
-  - meme-token
-  - nft
 extensions:
   discord: https://discord.gg/longweenclub
   twitter: https://twitter.com/weentoken
   website: https://weentoken.com
+tags:
+  - meme-token
+  - nft

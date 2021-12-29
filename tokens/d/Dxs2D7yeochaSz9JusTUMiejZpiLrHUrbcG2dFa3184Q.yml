@@ -1,7 +1,7 @@
 symbol: NFTPYREN
 name: SOLKITTY NFT PYRENEAN MASTIFF FRONT
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/pyrenean-mastiff-front
+tags:
+  - nft

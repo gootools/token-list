@@ -1,8 +1,8 @@
 symbol: afUSDC-USDC
 name: Saber afUSDC-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/afusdc
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/afusdc

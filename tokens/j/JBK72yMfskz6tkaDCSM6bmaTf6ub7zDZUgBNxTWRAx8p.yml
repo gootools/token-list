@@ -1,11 +1,11 @@
 symbol: ThugPandas
 name: Thug Pandas
 decimals: 9
-tags:
-  - community-token
-  - meme
-  - thug
 extensions:
   serumV3Usdc: FiJzMSWGzG5kwumYeYZNuRm9ByPj8mF1cFMeks5kRMhg
   twitter: https://twitter.com/ThugTokens
   website: https://thugtokens.com/
+tags:
+  - community-token
+  - meme
+  - thug

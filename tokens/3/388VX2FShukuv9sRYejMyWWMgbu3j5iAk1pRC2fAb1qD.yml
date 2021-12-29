@@ -1,11 +1,11 @@
 symbol: LOCAL
 name: Local Token
 decimals: 4
-tags:
-  - Community
-  - Shop-Small
-  - Local-Token
-  - P2E
 extensions:
   twitter: https://twitter.com/local_token
   website: https://www.ourlocaltokens.com
+tags:
+  - Community
+  - Local-Token
+  - P2E
+  - Shop-Small

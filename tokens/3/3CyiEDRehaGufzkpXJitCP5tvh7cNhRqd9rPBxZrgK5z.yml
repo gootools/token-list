@@ -1,11 +1,11 @@
 symbol: SXP
 name: Swipe (Wormhole)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9"
   assetContract: https://etherscan.io/address/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9
   bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
   coingeckoId: swipe
+tags:
+  - wrapped
+  - wormhole

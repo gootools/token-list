@@ -1,11 +1,11 @@
 symbol: POOK
 name: Pook
 decimals: 9
-tags:
-  - community-token
-  - social-token
-  - meme-token
-  - utility-token
-  - pook
 extensions:
   discord: https://discord.gg/uxKXY5GEN3
+tags:
+  - community-token
+  - meme-token
+  - pook
+  - social-token
+  - utility-token

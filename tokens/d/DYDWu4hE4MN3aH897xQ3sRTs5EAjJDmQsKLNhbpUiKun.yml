@@ -1,11 +1,11 @@
 symbol: pBTC
 name: pBTC (Parrot BTC)
 decimals: 8
-tags:
-  - stablecoin
 extensions:
   discord: https://discord.gg/gopartyparrot
   medium: https://gopartyparrot.medium.com/
   telegram: https://t.me/gopartyparrot
   twitter: https://twitter.com/gopartyparrot
   website: https://parrot.fi
+tags:
+  - stablecoin

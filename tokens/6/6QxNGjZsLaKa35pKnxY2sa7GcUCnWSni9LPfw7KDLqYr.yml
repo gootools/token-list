@@ -1,12 +1,6 @@
 symbol: MOF
 name: Molar Finance
 decimals: 9
-tags:
-  - utility-token
-  - aggregator
-  - DEX
-  - tool
-  - Exchange
 extensions:
   description: We are chemist on the solana ecosystem, Dev ops at its peek. All
     your favorite tools in one place
@@ -14,3 +8,9 @@ extensions:
   github: https://github.com/Molarfinance
   twitter: https://twitter.com/MolarFinance
   website: https://molar.finance
+tags:
+  - aggregator
+  - DEX
+  - Exchange
+  - tool
+  - utility-token

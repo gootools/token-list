@@ -1,9 +1,9 @@
 symbol: HYPE
 name: Hyperium
 decimals: 3
-tags:
-  - utility-token
-  - game-token
-  - GameFi
 extensions:
   twitter: https://twitter.com/frontiergame_io
+tags:
+  - game-token
+  - GameFi
+  - utility-token

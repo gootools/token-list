@@ -1,10 +1,10 @@
 symbol: DRINK
 name: Solana Drink
 decimals: 9
-tags:
-  - drink
-  - NFT
 extensions:
   discord: https://discord.gg/solanadrink
   twitter: https://twitter.com/solanadrink
   website: https://solanadrink.com
+tags:
+  - drink
+  - NFT

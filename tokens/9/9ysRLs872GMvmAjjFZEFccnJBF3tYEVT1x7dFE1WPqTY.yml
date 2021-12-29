@@ -1,7 +1,7 @@
 symbol: VRNT
 name: Variant
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://www.variantresearch.io
+tags:
+  - utility-token

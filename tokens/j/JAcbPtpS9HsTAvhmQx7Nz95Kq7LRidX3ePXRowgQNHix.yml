@@ -1,8 +1,8 @@
 symbol: SMB
 name: Fraktionalized SMB 1086
 decimals: 3
-tags:
-  - fractionalized-nft
 extensions:
   vault: https://fraktion.art/vault/8D1KmYWLdXZZiHqHbs8FS7Kw7RyF3jz2QbkhbwGGxhGj
   vaultPubkey: 8D1KmYWLdXZZiHqHbs8FS7Kw7RyF3jz2QbkhbwGGxhGj
+tags:
+  - fractionalized-nft

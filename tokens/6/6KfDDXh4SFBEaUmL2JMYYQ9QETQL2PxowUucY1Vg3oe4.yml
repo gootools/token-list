@@ -1,8 +1,8 @@
 symbol: SUSD
 name: Salvador USD
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   telegram: https://t.me/salvadousd
   twitter: https://twitter.com/SalvadorUsd
+tags:
+  - stablecoin

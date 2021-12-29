@@ -1,8 +1,8 @@
 symbol: KEKN1
 name: KEKW In Solana Tripping
 decimals: 0
-tags:
-  - nft
 extensions:
   twitter: https://twitter.com/kekwcoin
   website: https://www.kekw.io/
+tags:
+  - nft

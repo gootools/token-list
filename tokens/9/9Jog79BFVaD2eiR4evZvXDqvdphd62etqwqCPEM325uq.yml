@@ -1,7 +1,7 @@
 symbol: ALPS
 name: Alpstake Ownership
 decimals: 0
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/alpstake
+tags:
+  - utility-token

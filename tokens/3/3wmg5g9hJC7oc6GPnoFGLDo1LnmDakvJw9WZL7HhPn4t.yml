@@ -1,10 +1,10 @@
 symbol: LUDU
 name: LuduFi
 decimals: 9
-tags:
-  - utility-token
-  - LUDU
 extensions:
   discord: https://discord.gg/uZGdzzfGxd
   twitter: https://twitter.com/LuduFi_
   website: https://ludufi.io/
+tags:
+  - LUDU
+  - utility-token

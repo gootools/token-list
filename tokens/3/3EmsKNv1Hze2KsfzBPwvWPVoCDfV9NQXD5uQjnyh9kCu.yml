@@ -1,9 +1,9 @@
 symbol: PHC
 name: PegCoin
 decimals: 2
-tags:
-  - utility-token
 extensions:
   github: https://github.com/PegHeads-Inc
   twitter: https://twitter.com/pegheads1
   website: http://pegheads.ai
+tags:
+  - utility-token

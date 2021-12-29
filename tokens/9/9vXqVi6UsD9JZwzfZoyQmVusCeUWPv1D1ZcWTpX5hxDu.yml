@@ -1,13 +1,13 @@
 symbol: GHT
 name: Ghost Token
 decimals: 9
-tags:
-  - GHT
 extensions:
   instagram: https://www.instagram.com/bitexcer/
   telegram: https://t.me/bitexcer_info
   twitter: https://twitter.com/bitexcer
   website: https://bitexcer.com
   youtube: https://www.youtube.com/channel/UCmRkuXFFDYe5ISENoCkO6AA
+tags:
+  - GHT
 clusters:
-  - testnet
+  - devnet

@@ -1,10 +1,10 @@
 symbol: FRKT
 name: FRAKT Token
 decimals: 8
-tags:
-  - utility-token
 extensions:
   coingeckoId: frakt-token
   coinmarketcap: https://coinmarketcap.com/currencies/frakt-token/
   twitter: https://twitter.com/FraktArt
   website: https://frakt.art
+tags:
+  - utility-token

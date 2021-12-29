@@ -4,4 +4,4 @@ decimals: 6
 extensions:
   website: https://www.gridirondex.com
 clusters:
-  - testnet
+  - devnet

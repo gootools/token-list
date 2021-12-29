@@ -1,14 +1,14 @@
 symbol: TINY
 name: Tiny Colony
 decimals: 6
-tags:
-  - NFT
-  - social-token
-  - utility-token
-  - meta-verse
 extensions:
   discord: https://discord.gg/AT9caAbY
   github: https://github.com/TinyColonyGame
   medium: https://medium.com/@TinyColonyGame
   twitter: https://twitter.com/TinyColonyGame
   website: http://tinycolony.io/
+tags:
+  - meta-verse
+  - NFT
+  - social-token
+  - utility-token

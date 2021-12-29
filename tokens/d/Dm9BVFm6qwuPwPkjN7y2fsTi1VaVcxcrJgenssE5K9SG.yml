@@ -1,7 +1,7 @@
 symbol: HRS
 name: Volunteer Hours Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   description: Volunteer token associated with OneChurch in Sanford, MI.
+tags:
+  - utility-token

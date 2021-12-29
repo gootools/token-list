@@ -1,7 +1,7 @@
 symbol: PHR
 name: PHR Block
 decimals: 8
-tags:
-  - utility-token
 extensions:
   website: https://www.phrblock.com
+tags:
+  - utility-token

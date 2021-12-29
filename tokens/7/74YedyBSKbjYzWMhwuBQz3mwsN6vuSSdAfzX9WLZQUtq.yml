@@ -1,8 +1,8 @@
 symbol: GNAR
 name: GNAR
 decimals: 2
-tags:
-  - Utility-Token
 extensions:
   twitter: https://twitter.com/Komodo_Dragonz_
   website: https://komododragonz.com
+tags:
+  - Utility-Token

@@ -1,8 +1,6 @@
 symbol: KRW
 name: Krown
 decimals: 9
-tags:
-  - wrapped
 extensions:
   address: "0x1446f3cedf4d86a9399e49f7937766e6de2a3aab"
   assetContract: https://www.bscscan.com/address/0x1446f3cedf4d86a9399e49f7937766e6de2a3aab
@@ -10,3 +8,5 @@ extensions:
   coingeckoId: krown
   twitter: https://twitter.com/kingdefi2
   website: https://kingdefi.io
+tags:
+  - wrapped

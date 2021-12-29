@@ -1,13 +1,13 @@
 symbol: MAGI
 name: Crypto Pop Collectibles MAGI
 decimals: 9
-tags:
-  - utility-token
-  - NFTS
-  - Community-Token
-  - Game-Token
-  - Metaverse-Token
 extensions:
   description: Crypto Pop Collectibles Gaming/Utility Token.
   discord: https://discord.gg/Bv4k7npwM2
   website: https://cryptopopcollectibles.com
+tags:
+  - Community-Token
+  - Game-Token
+  - Metaverse-Token
+  - NFTS
+  - utility-token

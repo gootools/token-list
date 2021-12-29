@@ -1,8 +1,8 @@
 symbol: ETHBEAR
 name: ETHBEAR
 decimals: 6
-tags:
-  - leveraged
-  - bear
 extensions:
   coingeckoId: 3x-short-ethereum-token
+tags:
+  - bear
+  - leveraged

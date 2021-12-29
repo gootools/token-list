@@ -1,9 +1,9 @@
 symbol: PIXEL
 name: NINJA-PIXEL Token
 decimals: 0
-tags:
-  - nft-token
 extensions:
   discord: https://discord.gg/NinjaProtocol
   twitter: https://twitter.com/NinjaProtocol
   website: https://ninjaprotocol.io/
+tags:
+  - nft-token

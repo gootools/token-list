@@ -1,8 +1,8 @@
 symbol: APYS
 name: APYSwap
 decimals: 9
-tags:
-  - wrapped
 extensions:
   coingeckoId: apyswap
   website: https://apyswap.com
+tags:
+  - wrapped

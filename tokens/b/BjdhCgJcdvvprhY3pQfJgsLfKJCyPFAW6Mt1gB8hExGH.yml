@@ -1,9 +1,9 @@
 symbol: TALON
 name: Sendai Tokens
 decimals: 6
-tags:
-  - utility-token
-  - community-token
 extensions:
   discord: https://discord.com/invite/BwvMzPgHpC
   twitter: https://twitter.com/SendaiDojo
+tags:
+  - community-token
+  - utility-token

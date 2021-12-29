@@ -1,8 +1,6 @@
 symbol: BASIS
 name: basis
 decimals: 6
-tags:
-  - utility-token
 extensions:
   coingeckoId: basis-markets
   description: BASIS is basis.markets' fee-sharing token. Holders are able to
@@ -16,3 +14,5 @@ extensions:
   serumV3Usdc: HsUNWR7ghHSumwDW3MNgs2HSh94yrDuZFVR1XpykA9or
   twitter: https://twitter.com/basismarkets
   website: https://basis.markets
+tags:
+  - utility-token

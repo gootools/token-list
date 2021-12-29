@@ -1,8 +1,8 @@
 symbol: apUSDT-USDT
 name: Saber apUSDT-USDT LP
 decimals: 6
+extensions:
+  website: https://app.saber.so/#/pools/apusdt
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/apusdt

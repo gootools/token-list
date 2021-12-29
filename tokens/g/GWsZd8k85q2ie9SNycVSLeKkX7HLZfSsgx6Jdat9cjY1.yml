@@ -1,11 +1,11 @@
 symbol: PCN
 name: Pollen Coin
 decimals: 9
-tags:
-  - utility-token
-  - gaming
-  - play-to-earn
-  - solana-ecosystem
-  - network
 extensions:
   description: Pollen Coin is an SPL Token designed to help proliferate the Pollen Network
+tags:
+  - gaming
+  - network
+  - play-to-earn
+  - solana-ecosystem
+  - utility-token

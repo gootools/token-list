@@ -1,7 +1,7 @@
 symbol: WALLY
 name: WALLY Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://allycareint.com
+tags:
+  - utility-token

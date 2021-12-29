@@ -1,7 +1,7 @@
 symbol: TOSTI
 name: Tosti Coin
 decimals: 9
-tags:
-  - utility-token
 extensions:
   website: https://tosti.app
+tags:
+  - utility-token

@@ -1,9 +1,9 @@
 symbol: WUN
 name: WhaddupNow Coin
 decimals: 9
-tags:
-  - social-token
-  - community-token
 extensions:
   blog: https://news.whaddupnow.com/
   website: https://www.whaddupnow.com/
+tags:
+  - community-token
+  - social-token

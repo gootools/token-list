@@ -1,10 +1,10 @@
 symbol: MNR
 name: Moon Raccoons token
 decimals: 8
-tags:
-  - utility-token
 extensions:
   description: Major currency inside of Moon Raccoons Metaverse
   discord: https://discord.gg/66FX52eZrk
   twitter: https://twitter.com/moonraccoonsnft
   website: https://moonraccoon.io
+tags:
+  - utility-token

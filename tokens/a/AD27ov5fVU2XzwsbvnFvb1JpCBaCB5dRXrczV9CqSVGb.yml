@@ -1,10 +1,10 @@
 symbol: REAL
 name: Realy Token
 decimals: 9
-tags:
-  - Metaverse
-  - Governance-token
 extensions:
   telegram: https://t.me/realyofficial
   twitter: https://twitter.com/RealyOfficial
   website: https://realy.pro/
+tags:
+  - Governance-token
+  - Metaverse

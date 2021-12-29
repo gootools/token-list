@@ -1,9 +1,9 @@
 symbol: PHD
 name: PlantsHero Diamond
 decimals: 0
-tags:
-  - utility-token
-  - Metaverse
-  - Gamefi
 extensions:
   website: http://www.plantshero.com/
+tags:
+  - Gamefi
+  - Metaverse
+  - utility-token

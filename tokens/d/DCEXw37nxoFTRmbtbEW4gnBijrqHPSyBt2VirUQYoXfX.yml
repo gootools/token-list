@@ -1,16 +1,16 @@
 symbol: BERSX
 name: Bers Coin dev
 decimals: 9
-tags:
-  - mongolian-token
-  - gamefi
-  - ads-token
-  - community-token
-  - nft-token
 extensions:
   discord: https://discord.gg/2eACjdq9
   facebook: https://www.facebook.com/berscoin
   website: https://berscoin.com/
   youtube: https://www.youtube.com/c/BersCoinBersTube
+tags:
+  - ads-token
+  - community-token
+  - gamefi
+  - mongolian-token
+  - nft-token
 clusters:
-  - testnet
+  - devnet

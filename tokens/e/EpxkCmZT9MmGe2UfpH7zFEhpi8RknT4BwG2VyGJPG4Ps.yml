@@ -1,11 +1,11 @@
 symbol: CUMSTAR
 name: CumStar SOL
 decimals: 0
-tags:
-  - Application
-  - Payment
-  - NFT
-  - community
 extensions:
   twitter: https://twitter.com/CumStarSol
   website: https://solscan.io/token/EpxkCmZT9MmGe2UfpH7zFEhpi8RknT4BwG2VyGJPG4Ps
+tags:
+  - Application
+  - community
+  - NFT
+  - Payment

@@ -1,9 +1,9 @@
 symbol: BAD
 name: EA Bad
 decimals: 9
-tags:
-  - utility-token
-  - community-token
-  - meme-token
 extensions:
   twitter: https://twitter.com/EABadtoken
+tags:
+  - community-token
+  - meme-token
+  - utility-token

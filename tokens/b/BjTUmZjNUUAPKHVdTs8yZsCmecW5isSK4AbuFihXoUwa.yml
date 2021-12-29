@@ -1,10 +1,10 @@
 symbol: PUSSY
 name: Pussy
 decimals: 9
-tags:
-  - Meme
-  - Social
-  - Metaverse
 extensions:
   serumV3Usdc: ALgq4dHm4bypcsg1JRDc6VPurwDtUsdsbpYB8kDxyZ9o
   website: https://pussy.samoymeme.com
+tags:
+  - Meme
+  - Metaverse
+  - Social

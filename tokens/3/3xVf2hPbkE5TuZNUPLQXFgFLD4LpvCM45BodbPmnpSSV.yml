@@ -1,8 +1,8 @@
 symbol: sBull
 name: SolBull - GoPromotedToken
 decimals: 9
-tags:
-  - Utility-Token
 extensions:
   twitter: https://twitter.com/GoPromotedCom
   website: http://gopromoted.com/
+tags:
+  - Utility-Token

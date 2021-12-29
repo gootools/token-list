@@ -1,9 +1,9 @@
 symbol: BCGW
 name: Blockchain Games Token
 decimals: 8
-tags:
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/BlockchainGW
   website: http://blockchaingames.world
+tags:
+  - nft
+  - utility-token

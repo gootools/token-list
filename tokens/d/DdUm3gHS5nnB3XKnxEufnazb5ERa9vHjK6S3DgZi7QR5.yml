@@ -1,9 +1,9 @@
 symbol: BTSL
 name: Bitsol Finance
 decimals: 9
-tags:
-  - DEX
 extensions:
   telegram: https://t.me/bitsolfinance
   twitter: https://twitter.com/bitsol_finance
   website: https://bitsol.finance
+tags:
+  - DEX

@@ -1,11 +1,11 @@
 symbol: wUSDC_v1
 name: USD Coin (Wormhole v1)
 decimals: 6
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   assetContract: https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: usd-coin
+tags:
+  - wrapped
+  - wormhole

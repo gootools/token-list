@@ -1,7 +1,7 @@
 symbol: LEONIDAS-USDC
 name: Cropper Finance LP Token (LEONIDAS-USDC)
 decimals: 8
-tags:
-  - lp-token
 extensions:
   website: https://raydium.io
+tags:
+  - lp-token

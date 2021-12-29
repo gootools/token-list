@@ -1,10 +1,10 @@
 symbol: MINECRAFT
 name: Synex Coin
 decimals: 9
-tags:
-  - utility-token
-  - community-token
 extensions:
   discord: https://discord.gg/N3BE44234A
   telegram: https://t.me/synexcoin
   website: https://synexcoin.dev
+tags:
+  - community-token
+  - utility-token

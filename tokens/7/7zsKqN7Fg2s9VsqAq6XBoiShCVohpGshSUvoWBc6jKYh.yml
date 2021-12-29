@@ -1,9 +1,9 @@
 symbol: soARDX
 name: Wrapped ArdCoin (Sollet)
 decimals: 2
-tags:
-  - wrapped-sollet
-  - ethereum
 extensions:
   coingeckoId: ardcoin
   website: https://ardcoin.com
+tags:
+  - ethereum
+  - wrapped-sollet

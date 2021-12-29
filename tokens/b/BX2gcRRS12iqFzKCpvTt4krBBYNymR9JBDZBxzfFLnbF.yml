@@ -1,11 +1,11 @@
 symbol: weRSDL_v1
 name: UnFederalReserveToken (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6"
   assetContract: https://etherscan.io/address/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: unfederalreserve
+tags:
+  - wrapped
+  - wormhole

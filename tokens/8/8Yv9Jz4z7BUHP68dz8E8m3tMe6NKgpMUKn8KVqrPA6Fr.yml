@@ -1,7 +1,7 @@
 symbol: aaUSDC
 name: Wrapped USDC (Allbridge from Avalanche)
 decimals: 9
-tags:
-  - stablecoin
 extensions:
   coingeckoId: usd-coin
+tags:
+  - stablecoin

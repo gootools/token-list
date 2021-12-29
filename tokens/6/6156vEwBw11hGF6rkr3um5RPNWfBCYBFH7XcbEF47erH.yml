@@ -1,8 +1,8 @@
 symbol: STEPN
 name: STEPN - Run To Earn
 decimals: 6
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/Stepnofficial
   website: https://stepn.com/
+tags:
+  - utility-token

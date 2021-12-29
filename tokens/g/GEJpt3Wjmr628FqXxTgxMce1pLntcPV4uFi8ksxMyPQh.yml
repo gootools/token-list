@@ -1,9 +1,9 @@
 symbol: daoSOL
 name: daoSOL Token
 decimals: 9
-tags:
-  - stake-pool-token
 extensions:
   description: daoSOL is the staking token issued by the MonkeDAO staking pool
   twitter: https://twitter.com/MonkeDAO
   website: https://monkedao.io/
+tags:
+  - stake-pool-token

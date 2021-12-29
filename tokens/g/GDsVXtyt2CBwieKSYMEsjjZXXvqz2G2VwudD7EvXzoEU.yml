@@ -1,8 +1,8 @@
 symbol: HIRAM
 name: Hiram Coin
 decimals: 3
+extensions:
+  website: https://freemason-coin.io
 tags:
   - community-token
   - meme-token
-extensions:
-  website: https://freemason-coin.io

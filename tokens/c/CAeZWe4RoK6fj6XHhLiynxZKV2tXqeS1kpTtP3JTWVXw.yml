@@ -2,7 +2,7 @@ symbol: FBD
 name: FBD Collectible Token
 decimals: 9
 tags:
-  - rare
-  - value-token
   - FBD
   - FajCo
+  - rare
+  - value-token

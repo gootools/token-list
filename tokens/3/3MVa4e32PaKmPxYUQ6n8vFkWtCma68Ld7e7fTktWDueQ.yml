@@ -1,11 +1,11 @@
 symbol: wUNI_v1
 name: Uniswap (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
   assetContract: https://etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: uniswap
+tags:
+  - wrapped
+  - wormhole

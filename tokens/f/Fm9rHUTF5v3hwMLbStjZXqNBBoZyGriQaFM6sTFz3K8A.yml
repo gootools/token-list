@@ -1,12 +1,6 @@
 symbol: MBS
 name: MonkeyBucks
 decimals: 6
-tags:
-  - utility-token
-  - game-token
-  - game-currency
-  - GameFi
-  - Gaming
 extensions:
   coingeckoId: monkeyball
   description: MonkeyBall is the next-gen esports metaverse empowering players to
@@ -19,3 +13,9 @@ extensions:
   telegram: https://t.me/monkeyball_official
   twitter: https://twitter.com/MonkeyBallGame
   website: https://www.monkeyball.com
+tags:
+  - game-token
+  - game-currency
+  - GameFi
+  - Gaming
+  - utility-token

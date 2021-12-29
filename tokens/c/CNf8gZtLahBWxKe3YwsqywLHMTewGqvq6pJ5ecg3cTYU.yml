@@ -1,7 +1,7 @@
 symbol: SAMO/SOL
 name: Orca Aquafarm Token (SAMO/SOL)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://orca.so
+tags:
+  - lp-token

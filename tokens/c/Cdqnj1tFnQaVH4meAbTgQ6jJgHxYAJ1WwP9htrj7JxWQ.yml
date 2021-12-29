@@ -1,11 +1,11 @@
 symbol: CYBER
 name: Cyber Ape Age
 decimals: 6
+extensions:
+  twitter: https://twitter.com/CyberApeAge
 tags:
-  - social-token
   - ape
   - NFT
   - play-2-earn
   - P2E
-extensions:
-  twitter: https://twitter.com/CyberApeAge
+  - social-token

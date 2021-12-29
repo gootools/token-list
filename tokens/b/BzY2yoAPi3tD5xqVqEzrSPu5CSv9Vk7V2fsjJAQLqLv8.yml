@@ -1,11 +1,11 @@
 symbol: ThugMonkey
 name: Thug Monkey
 decimals: 9
-tags:
-  - community-token
-  - meme
-  - thug
 extensions:
   serumV3Usdc: AgUSpr5zSppSY3Gdz8j1HeKZuyntd3Q9KkjkT2KcYsj
   twitter: https://twitter.com/ThugTokens
   website: https://thugtokens.com/
+tags:
+  - community-token
+  - meme
+  - thug

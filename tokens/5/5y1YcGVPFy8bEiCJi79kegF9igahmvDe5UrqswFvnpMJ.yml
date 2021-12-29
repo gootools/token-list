@@ -1,10 +1,10 @@
 symbol: DSOL
 name: DecentSol
 decimals: 4
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/mkH52yU9xQ
   medium: https://decentsol.medium.com
   twitter: https://twitter.com/decentsol
   website: https://home.decentsol/
+tags:
+  - utility-token

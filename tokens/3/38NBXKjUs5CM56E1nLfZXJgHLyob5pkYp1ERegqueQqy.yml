@@ -1,9 +1,9 @@
 symbol: SOLLESS
 name: Solless Art Token
 decimals: 9
-tags:
-  - social-token
-  - community-token
-  - SOLLESS
 extensions:
   twitter: https://twitter.com/sollessart
+tags:
+  - community-token
+  - social-token
+  - SOLLESS

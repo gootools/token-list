@@ -1,7 +1,7 @@
 symbol: USDC/USDT[stable]
 name: Orca Aquafarm Token (USDC/USDT[stable])
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://orca.so
+tags:
+  - lp-token

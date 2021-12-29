@@ -1,7 +1,7 @@
 symbol: aSOL-SOL
 name: Saber aSOL-SOL LP
 decimals: 9
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/asol
+tags:
+  - saber-stableswap-lp

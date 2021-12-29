@@ -1,8 +1,8 @@
 symbol: ZI
 name: ZI (The Z Institute Token)
 decimals: 6
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/the_z_institute
   website: https://zinstitute.net/
+tags:
+  - utility-token

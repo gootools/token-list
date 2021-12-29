@@ -1,11 +1,6 @@
 symbol: RBT
 name: Reboot
 decimals: 8
-tags:
-  - utility-token
-  - community-token
-  - meme-token
-  - social-token
 extensions:
   description: Reboot Token is a Community driven token, this token is not
     structured after a CEO for its future, instead it has a Community Driven
@@ -13,3 +8,8 @@ extensions:
     token, every update will be voted on and decided by the community.
   reddit: https://www.reddit.com/r/RebootToken/
   twitter: https://twitter.com/RebootToken
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

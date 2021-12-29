@@ -5,4 +5,4 @@ extensions:
   twitter: https://twitter.com/lootheroesnft
   website: https://lootheroes.io
 clusters:
-  - testnet
+  - devnet

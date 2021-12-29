@@ -1,13 +1,13 @@
 symbol: Chicks
 name: SolChick
 decimals: 9
-tags:
-  - gaming
-  - nfts
-  - utility-token
-  - community-token
 extensions:
   description: The Leading Play-to-Earn Fantasy Game on Solana
   discord: https://discord.gg/solchicks
   telegram: https://t.me/solchicksnft
   twitter: https://twitter.com/SolChicksNFT
+tags:
+  - community-token
+  - gaming
+  - nfts
+  - utility-token

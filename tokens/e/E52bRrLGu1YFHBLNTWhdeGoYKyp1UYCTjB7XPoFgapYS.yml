@@ -1,9 +1,6 @@
 symbol: SAPN
 name: Sapling Network
 decimals: 9
-tags:
-  - sapling
-  - ecofriendly-token
 extensions:
   discord: https://discord.gg/xvCFjyF5wS
   github: https://github.com/SaplingNetwork
@@ -11,3 +8,6 @@ extensions:
   telegram: https://t.me/saplingnetwork
   twitter: https://twitter.com/Sapling_Network
   website: http://sapling.network
+tags:
+  - ecofriendly-token
+  - sapling

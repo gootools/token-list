@@ -1,11 +1,11 @@
 symbol: SHIBANA
 name: SHIBANA
 decimals: 4
-tags:
-  - community-token
-  - meme-token
-  - Defi
 extensions:
   discord: https://discord.gg/shibana
   twitter: https://twitter.com/ShibanaCoin
   website: https://www.shibana.io/
+tags:
+  - community-token
+  - Defi
+  - meme-token

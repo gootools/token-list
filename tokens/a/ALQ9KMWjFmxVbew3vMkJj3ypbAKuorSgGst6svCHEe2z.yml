@@ -1,10 +1,10 @@
 symbol: MDF
 name: MatrixETF DAO Finance
 decimals: 6
-tags:
-  - utility-token
 extensions:
   coingeckoId: matrixetf
   telegram: https://t.me/MatrixETF
   twitter: https://twitter.com/MatrixETF
   website: https://www.matrixetf.finance/
+tags:
+  - utility-token

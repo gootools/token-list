@@ -1,8 +1,8 @@
 symbol: SIML
 name: Simoleon
 decimals: 9
-tags:
-  - utility-token
-  - community-token
 extensions:
   website: https://livingfreely.on.fleek.co
+tags:
+  - community-token
+  - utility-token

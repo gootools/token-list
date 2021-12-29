@@ -1,8 +1,8 @@
 symbol: BANANA
 name: Banana Bucks
 decimals: 2
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/DVH2ggAc
   twitter: https://twitter.com/solbananabucks
+tags:
+  - meme-token

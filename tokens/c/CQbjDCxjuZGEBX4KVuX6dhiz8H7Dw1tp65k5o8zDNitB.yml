@@ -1,8 +1,8 @@
 symbol: FPVSWE
 name: FPVSweden Token
 decimals: 6
-tags:
-  - social-token
-  - Facebook-Group
 extensions:
   website: https://github.com/x0ff101x0ff101/FPVSwedenToken/blob/main/README.md
+tags:
+  - Facebook-Group
+  - social-token

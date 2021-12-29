@@ -1,11 +1,11 @@
 symbol: waLINK_v1
 name: Aave interest bearing LINK (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0"
   assetContract: https://etherscan.io/address/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-link
+tags:
+  - wrapped
+  - wormhole

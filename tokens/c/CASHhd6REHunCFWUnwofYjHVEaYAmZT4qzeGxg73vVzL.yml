@@ -2,7 +2,7 @@ symbol: Cash
 name: Capital
 decimals: 9
 tags:
-  - payment
   - capped
   - deflatory
   - De-Fi
+  - payment

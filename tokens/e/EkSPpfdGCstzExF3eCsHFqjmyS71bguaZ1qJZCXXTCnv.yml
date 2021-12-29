@@ -1,7 +1,7 @@
 symbol: SBY
 name: SolBody
 decimals: 9
-tags:
-  - community-token
 extensions:
   website: https://solbody.io
+tags:
+  - community-token

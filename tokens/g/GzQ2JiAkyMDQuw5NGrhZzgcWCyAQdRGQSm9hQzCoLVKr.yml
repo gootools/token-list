@@ -4,4 +4,4 @@ decimals: 9
 tags:
   - security-token
 clusters:
-  - testnet
+  - devnet

@@ -1,9 +1,9 @@
 symbol: SKIDDY
 name: SKIDDY
 decimals: 9
-tags:
-  - social-token
-  - meme-token
 extensions:
   twitter: https://twitter.com/SolBoxers
   website: https://solboxers.xyz/
+tags:
+  - meme-token
+  - social-token

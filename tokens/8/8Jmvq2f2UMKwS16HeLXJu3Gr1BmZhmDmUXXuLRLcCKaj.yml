@@ -1,11 +1,11 @@
 symbol: MYOPA
 name: Myopa
 decimals: 8
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/myopa
   facebook: https://www.facebook.com/MyopaNFT/
   telegram: https://t.me/myopanft
   twitter: https://twitter.com/myopanft
   website: https://myopa.io/
+tags:
+  - utility-token

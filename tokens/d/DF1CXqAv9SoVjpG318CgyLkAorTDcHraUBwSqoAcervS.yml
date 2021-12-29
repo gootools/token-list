@@ -1,8 +1,8 @@
 symbol: ROAR
 name: Royal Bears
 decimals: 8
+extensions:
+  website: https://royalbears.art/
 tags:
   - community-token
   - meme-token
-extensions:
-  website: https://royalbears.art/

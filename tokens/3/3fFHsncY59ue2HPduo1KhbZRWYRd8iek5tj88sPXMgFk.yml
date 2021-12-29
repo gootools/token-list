@@ -1,11 +1,11 @@
 symbol: FLOKI
 name: Floki Viking
 decimals: 9
-tags:
-  - community-token
-  - meme-token
-  - doge
-  - Floki
 extensions:
   twitter: https://twitter.com/FlokiVikingSOL
   website: https://www.flokiviking.net
+tags:
+  - community-token
+  - doge
+  - Floki
+  - meme-token

@@ -1,13 +1,13 @@
 symbol: BGLEV
 name: Bulgarian LEV Crypto
 decimals: 0
-tags:
-  - social-token
-  - community-token
-  - reward-token
-  - utility-token
-  - nft
 extensions:
   description: "Bulgarian LEV Crypto Currency (blockchain, independent from the
     official BGN currency). IPFS : bglev-crypto.coin"
   website: https://gateway.pinata.cloud/ipfs/QmVkteQriYAKt46CN7K6paqhQ3q2ECMs3ehGtPhW5jWcaQ/
+tags:
+  - community-token
+  - nft
+  - reward-token
+  - social-token
+  - utility-token

@@ -2,5 +2,5 @@ symbol: RAW
 name: Raw Coin
 decimals: 9
 tags:
-  - social-token
   - community-token
+  - social-token

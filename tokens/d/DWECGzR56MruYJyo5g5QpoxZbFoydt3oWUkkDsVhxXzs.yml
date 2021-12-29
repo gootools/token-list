@@ -1,11 +1,11 @@
 symbol: wMEME_v1
 name: MEME (Wormhole v1)
 decimals: 8
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xD5525D397898e5502075Ea5E830d8914f6F0affe"
   assetContract: https://etherscan.io/address/0xD5525D397898e5502075Ea5E830d8914f6F0affe
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: degenerator
+tags:
+  - wrapped
+  - wormhole

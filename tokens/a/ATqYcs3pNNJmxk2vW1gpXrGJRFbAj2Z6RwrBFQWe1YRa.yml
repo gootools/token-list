@@ -1,7 +1,7 @@
 symbol: NFTATQY
 name: SOLKITTY NFT CUSTOM  COIN 11
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/solana-custom-color-collection-coin-11
+tags:
+  - nft

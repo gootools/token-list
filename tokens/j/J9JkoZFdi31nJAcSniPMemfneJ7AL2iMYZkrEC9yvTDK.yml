@@ -1,13 +1,13 @@
 symbol: Book
 name: BookWorm Test Token
 decimals: 1
+extensions:
+  website: https://nftbookworm.com/
 tags:
+  - Auction
   - Book
   - BookWorm
   - NFT
   - Publisher
-  - Auction
-extensions:
-  website: https://nftbookworm.com/
 clusters:
-  - testnet
+  - devnet

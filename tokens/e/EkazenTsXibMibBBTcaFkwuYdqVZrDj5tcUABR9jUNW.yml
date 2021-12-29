@@ -1,10 +1,10 @@
 symbol: MFER
 name: Monkey Fucker
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   discord: https://discord.gg/fTvkBYAM3M
   twitter: https://twitter.com/kodamaNFTart
   website: http://rational.af
+tags:
+  - community-token
+  - social-token

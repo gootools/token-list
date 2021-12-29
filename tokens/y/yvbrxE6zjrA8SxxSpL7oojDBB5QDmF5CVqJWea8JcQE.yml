@@ -1,10 +1,10 @@
 symbol: CODI
 name: CODI
 decimals: 9
-tags:
-  - Infrastructure
-  - DeFi
 extensions:
   discord: https://discord.gg/npA4RDGv
   twitter: https://twitter.com/codi_finance
   website: https://codi.finance/
+tags:
+  - DeFi
+  - Infrastructure

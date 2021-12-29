@@ -1,10 +1,10 @@
 symbol: MOONRACE
 name: Moonrace
 decimals: 3
-tags:
-  - meme-token
-  - metaverse
-  - gaming
 extensions:
   twitter: https://twitter.com/moonracecoin
   website: https://moonrace.xyz/
+tags:
+  - gaming
+  - meme-token
+  - metaverse

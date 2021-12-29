@@ -1,9 +1,9 @@
 symbol: BORK
 name: BORK
 decimals: 3
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/fazKMkWSSA
   twitter: https://twitter.com/borksolana
   website: https://www.borksolana.club
+tags:
+  - meme-token

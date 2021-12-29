@@ -1,9 +1,6 @@
 symbol: IVN
 name: Investin Protocol
 decimals: 6
-tags:
-  - defi
-  - fund-management
 extensions:
   coingeckoId: investin
   discord: https://discord.com/invite/Yf54h9B
@@ -12,3 +9,6 @@ extensions:
   telegram: https://t.me/Investin_pro1
   twitter: https://twitter.com/Investin_pro
   website: https://www.investin.pro/
+tags:
+  - defi
+  - fund-management

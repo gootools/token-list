@@ -1,10 +1,10 @@
 symbol: ATWORLD
 name: ATWORLD
 decimals: 3
-tags:
-  - community-token
 extensions:
   facebook: https://www.facebook.com/ATWORLDCORP/
   telegram: https://t.me/atworldtoken
   twitter: https://twitter.com/atworldtoken
   website: https://Atworld.io/
+tags:
+  - community-token

@@ -1,11 +1,11 @@
 symbol: wSURF_v1
 name: SURF.Finance (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c"
   assetContract: https://etherscan.io/address/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: surf-finance
+tags:
+  - wrapped
+  - wormhole

@@ -1,9 +1,9 @@
 symbol: BTCNFT
 name: Bitcoin NFT Coin
 decimals: 6
-tags:
-  - nft-token
-  - btc-nft
 extensions:
   twitter: https://twitter.com/btcnftcoin
   website: https://btcnftcoin.com/
+tags:
+  - btc-nft
+  - nft-token

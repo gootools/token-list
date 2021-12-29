@@ -1,10 +1,10 @@
 symbol: WEEN
 name: Weenee
 decimals: 9
-tags:
-  - meme-token
-  - utility-token
-  - community-token
 extensions:
   twitter: https://twitter.com/lilweenees
   website: https://weenee.me
+tags:
+  - community-token
+  - meme-token
+  - utility-token

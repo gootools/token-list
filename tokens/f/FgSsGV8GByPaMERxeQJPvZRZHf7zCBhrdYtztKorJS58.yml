@@ -1,9 +1,9 @@
 symbol: pUSDC
 name: Port Finance USDC
 decimals: 6
-tags:
-  - port
-  - lending
-  - collateral-tokens
 extensions:
   website: https://port.finance
+tags:
+  - collateral-tokens
+  - lending
+  - port

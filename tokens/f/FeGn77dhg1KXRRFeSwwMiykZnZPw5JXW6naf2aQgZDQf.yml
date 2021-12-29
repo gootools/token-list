@@ -1,11 +1,11 @@
 symbol: wWETH_v1
 name: Wrapped Ether (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
   assetContract: https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: ethereum
+tags:
+  - wrapped
+  - wormhole

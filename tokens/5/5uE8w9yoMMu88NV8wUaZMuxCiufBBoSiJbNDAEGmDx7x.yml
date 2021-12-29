@@ -1,8 +1,8 @@
 symbol: SCIFI
 name: SciFi-Verse
 decimals: 9
-tags:
-  - SciFi
-  - Game
 extensions:
   website: https://www.scifiverse.net
+tags:
+  - Game
+  - SciFi

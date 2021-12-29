@@ -1,9 +1,9 @@
 symbol: SHIBU
 name: SHIBU Token
 decimals: 9
-tags:
-  - meme-token
-  - NFT
 extensions:
   twitter: https://twitter.com/shibu_io
   website: https://shibu.io/
+tags:
+  - meme-token
+  - NFT

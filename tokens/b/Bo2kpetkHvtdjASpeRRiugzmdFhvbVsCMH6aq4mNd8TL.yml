@@ -1,9 +1,9 @@
 symbol: NETX
 name: Syncline Health Network
 decimals: 9
-tags:
-  - utility-token
 extensions:
   telegram: https://t.me/joinchat/SKSLdG0sF53TFK6_
   twitter: https://twitter.com/synclinenetwork
   website: https://syncline.network
+tags:
+  - utility-token

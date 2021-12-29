@@ -1,11 +1,11 @@
 symbol: wDDIM_v1
 name: DuckDaoDime (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20"
   assetContract: https://etherscan.io/address/0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: duckdaodime
+tags:
+  - wrapped
+  - wormhole

@@ -1,9 +1,9 @@
 symbol: SC
 name: Swyft Coin
 decimals: 9
-tags:
-  - utility-token
-  - meme-token
-  - social-token
 extensions:
   website: http://swyftcoin.com
+tags:
+  - meme-token
+  - social-token
+  - utility-token

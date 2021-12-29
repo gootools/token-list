@@ -1,9 +1,9 @@
 symbol: NERD
 name: SolNerds
 decimals: 9
-tags:
-  - utility-token
-  - nft
 extensions:
   twitter: https://twitter.com/SolNerdsNFT
   website: https://www.solnerds.com
+tags:
+  - nft
+  - utility-token

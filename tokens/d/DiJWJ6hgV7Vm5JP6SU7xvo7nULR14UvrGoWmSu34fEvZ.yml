@@ -1,9 +1,9 @@
 symbol: SolBullDog
 name: SolanaBullDog
 decimals: 6
-tags:
-  - meme-token
-  - NFT
 extensions:
   twitter: https://twitter.com/BullDogSolana
   website: http://bulldogsolana.space/
+tags:
+  - meme-token
+  - NFT

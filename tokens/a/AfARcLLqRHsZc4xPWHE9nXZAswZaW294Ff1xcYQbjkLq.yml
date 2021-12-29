@@ -1,10 +1,10 @@
 symbol: KROOK
 name: Krook Coin
 decimals: 9
-tags:
-  - social-token
 extensions:
   discord: https://discord.gg/krookssolana
   serumV3Usdc: aGyXAmV1QBESopcEgmr52qtaQ4DuEBg7WJARh1ojSPx
   twitter: https://twitter.com/KrooksSol
   website: https://thekrooks.io/
+tags:
+  - social-token

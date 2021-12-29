@@ -1,10 +1,10 @@
 symbol: FENR
 name: Fenrir Coin
 decimals: 0
-tags:
-  - Payment
-  - Application
-  - utility-token
-  - community-token
 extensions:
   github: https://github.com/sexywerewolf
+tags:
+  - Application
+  - community-token
+  - Payment
+  - utility-token

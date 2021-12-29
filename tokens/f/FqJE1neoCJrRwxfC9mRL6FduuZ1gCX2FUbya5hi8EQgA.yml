@@ -1,8 +1,8 @@
 symbol: VLDC
 name: Viloid Coin
 decimals: 9
-tags:
-  - social-token
 extensions:
   github: https://github.com/viloidcoin
   website: https://viloidcoin.com
+tags:
+  - social-token

@@ -2,6 +2,6 @@ symbol: UBER
 name: TRANSPORT
 decimals: 9
 tags:
-  - transport-token
   - delivery-token
+  - transport-token
   - utility-token

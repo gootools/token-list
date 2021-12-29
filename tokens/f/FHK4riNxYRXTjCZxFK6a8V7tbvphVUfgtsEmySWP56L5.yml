@@ -1,8 +1,8 @@
 symbol: SHAI
 name: ShaiCoin
 decimals: 9
-tags:
-  - utility-token
-  - Shai
 extensions:
   youtube: https://www.youtube.com/channel/UCWOOi-1RPVdOxf-FY283FZA
+tags:
+  - Shai
+  - utility-token

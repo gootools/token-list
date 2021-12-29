@@ -1,9 +1,9 @@
 symbol: LAMP
 name: Lamp
 decimals: 0
-tags:
-  - social-token
-  - lamp
-  - few
 extensions:
   website: https://lamp.church
+tags:
+  - few
+  - lamp
+  - social-token

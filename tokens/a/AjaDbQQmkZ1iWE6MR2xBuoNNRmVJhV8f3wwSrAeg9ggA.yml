@@ -1,8 +1,8 @@
 symbol: D20
 name: d20 Gamer Nation
 decimals: 5
-tags:
-  - meme-token
 extensions:
   discord: https://discord.gg/7G5ZjxYp7M
   website: https://thegamernation.org
+tags:
+  - meme-token

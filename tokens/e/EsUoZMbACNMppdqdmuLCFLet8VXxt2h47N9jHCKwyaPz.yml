@@ -1,8 +1,8 @@
 symbol: LINKBULL
 name: LINKBULL
 decimals: 6
-tags:
-  - leveraged
-  - bull
 extensions:
   coingeckoId: 3x-long-chainlink-token
+tags:
+  - bull
+  - leveraged

@@ -1,8 +1,8 @@
 symbol: wUST-CASH
 name: Saber wUST-CASH LP
 decimals: 6
+extensions:
+  website: https://app.saber.so/#/pools/ust_cash
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio
-extensions:
-  website: https://app.saber.so/#/pools/ust_cash

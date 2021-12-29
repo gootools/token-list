@@ -1,8 +1,8 @@
 symbol: APT3
 name: APT3 Coin
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   website: https://www.apt3.com
+tags:
+  - community-token
+  - social-token

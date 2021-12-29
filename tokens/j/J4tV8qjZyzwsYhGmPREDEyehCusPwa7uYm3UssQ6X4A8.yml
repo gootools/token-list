@@ -1,12 +1,12 @@
 symbol: GRUNT
 name: GRUNT Token
 decimals: 6
-tags:
-  - community-token
-  - meme-token
-  - social-token
-  - DeFi
 extensions:
   discord: https://discord.gg/xsFxe2XV9z
   twitter: https://twitter.com/goonygoblins
   website: https://goonygoblins.com
+tags:
+  - community-token
+  - DeFi
+  - meme-token
+  - social-token

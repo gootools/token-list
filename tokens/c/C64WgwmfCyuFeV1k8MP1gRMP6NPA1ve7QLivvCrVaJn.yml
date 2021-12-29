@@ -1,11 +1,11 @@
 symbol: KRI
 name: Kauri Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/jeN7dhes9V
   instagram: https://www.instagram.com/_museinc/
   telegram: https://t.me/kauritoken
   twitter: https://twitter.com/_museinc
   website: https://www.museinc.studio
+tags:
+  - utility-token

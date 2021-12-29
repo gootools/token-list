@@ -1,12 +1,12 @@
 symbol: SIN
 name: Staked Sol Invictus
 decimals: 9
-tags:
-  - decentralizedreserve
-  - utility-token
-  - DeFi
-  - community-token
 extensions:
   discord: https://discord.gg/invictusdao
   twitter: https://twitter.com/InvictusDAO
   website: https://invictusdao.fi/
+tags:
+  - community-token
+  - decentralizedreserve
+  - DeFi
+  - utility-token

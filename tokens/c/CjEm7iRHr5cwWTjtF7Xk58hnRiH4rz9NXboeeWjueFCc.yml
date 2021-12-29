@@ -1,7 +1,7 @@
 symbol: DSPWN
 name: Despawn
 decimals: 8
-tags:
-  - utility-token
 extensions:
   website: https://despawn.io/dspwn
+tags:
+  - utility-token

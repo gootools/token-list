@@ -1,12 +1,12 @@
 symbol: Paws
 name: Solana Paws
 decimals: 2
-tags:
-  - meme-token
-  - community
-  - doge
-  - Paws
 extensions:
   discord: https://discord.gg/sVP35wfPhX
   twitter: https://twitter.com/Sol_Paws
   website: https://www.solanapaws.com
+tags:
+  - community
+  - doge
+  - meme-token
+  - Paws

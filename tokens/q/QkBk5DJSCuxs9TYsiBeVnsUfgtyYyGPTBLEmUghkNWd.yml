@@ -1,7 +1,7 @@
 symbol: NFTKOALA
 name: "SOLKITTY NFT KOALA "
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/koala-
+tags:
+  - nft

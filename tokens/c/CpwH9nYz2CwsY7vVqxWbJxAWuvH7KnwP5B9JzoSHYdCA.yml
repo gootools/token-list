@@ -1,12 +1,12 @@
 symbol: SHELL
 name: Tribeland Game Token
 decimals: 9
-tags:
-  - game
-  - utility-token
-  - nft
-  - gaming
-  - metaverse
 extensions:
   twitter: https://twitter.com/tribe_land
   website: https://tribeland.io
+tags:
+  - game
+  - gaming
+  - metaverse
+  - nft
+  - utility-token

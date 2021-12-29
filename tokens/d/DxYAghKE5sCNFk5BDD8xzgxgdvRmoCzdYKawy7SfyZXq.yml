@@ -1,9 +1,9 @@
 symbol: PIGS
 name: Diamond Pigs
 decimals: 9
+extensions:
+  website: https://diamondpigs.com/
 tags:
   - IDO
   - IDX
   - utility-token
-extensions:
-  website: https://diamondpigs.com/

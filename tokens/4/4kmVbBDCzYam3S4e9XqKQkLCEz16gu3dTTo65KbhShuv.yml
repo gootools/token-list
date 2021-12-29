@@ -1,7 +1,7 @@
 symbol: UBER
 name: Uber
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?UBER
+tags:
+  - tokenized-stock

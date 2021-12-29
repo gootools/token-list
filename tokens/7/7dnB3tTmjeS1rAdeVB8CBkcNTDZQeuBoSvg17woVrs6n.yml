@@ -1,8 +1,8 @@
 symbol: IGNFTDNB
 name: Instagram NFT SOLKITTYNFT 3
 decimals: 6
-tags:
-  - nft
-  - instagram
 extensions:
   website: https://rocketsola.com/nft/instagram/7dnB3tTmjeS1rAdeVB8CBkcNTDZQeuBoSvg17woVrs6n
+tags:
+  - instagram
+  - nft

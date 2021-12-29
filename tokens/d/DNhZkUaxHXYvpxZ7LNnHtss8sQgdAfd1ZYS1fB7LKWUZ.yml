@@ -1,7 +1,7 @@
 symbol: apUSDT
 name: Wrapped USDT (Allbridge from Polygon)
 decimals: 6
-tags:
-  - stablecoin
 extensions:
   coingeckoId: tether
+tags:
+  - stablecoin

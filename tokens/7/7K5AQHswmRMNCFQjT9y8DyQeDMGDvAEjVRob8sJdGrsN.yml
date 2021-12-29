@@ -1,9 +1,9 @@
 symbol: ATCOIN
 name: ATCOIN
 decimals: 9
-tags:
-  - community-token
 extensions:
   telegram: https://t.me/atworldcoin
   twitter: https://twitter.com/atworldcoin
   website: http://atcoin.club
+tags:
+  - community-token

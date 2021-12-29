@@ -1,10 +1,10 @@
 symbol: wUniDAIETH_v1
 name: Uniswap DAI LP (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667"
   assetContract: https://etherscan.io/address/0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+tags:
+  - wrapped
+  - wormhole

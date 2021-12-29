@@ -1,11 +1,11 @@
 symbol: TRPY
 name: Trippy Leaf
 decimals: 6
-tags:
-  - utility-token
-  - community-token
-  - general-token
 extensions:
   serumV3Usdc: 3N4UgbUHUkwMU5DKFYRvz3HASbFjs3q9JLAYVRdEQvbp
   twitter: https://twitter.com/Real_TrippyLeaf
   website: https://trippyleaf.com
+tags:
+  - community-token
+  - general-token
+  - utility-token

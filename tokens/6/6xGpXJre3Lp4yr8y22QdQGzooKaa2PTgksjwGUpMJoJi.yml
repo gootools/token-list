@@ -1,14 +1,14 @@
 symbol: 22MTA
 name: META 22
 decimals: 6
-tags:
-  - utility-token
-  - GameFi
-  - DeFi
-  - MetaVerse
-  - stablecoin
 extensions:
   description: Meta22 Token
   instagram: https://www.instagram.com/meta_.22/
   waterfallbot: https://bit.ly/Meta22ToTheMoon
   website: https://meta22.io
+tags:
+  - DeFi
+  - GameFi
+  - MetaVerse
+  - stablecoin
+  - utility-token

@@ -1,9 +1,9 @@
 symbol: ASL-NFT
 name: ASL Moto NFT
 decimals: 0
-tags:
-  - utility-token
-  - nft-token
 extensions:
   telegram: https://t.me/Artur_buell
   website: https://instalinks.ru/ArturBuell
+tags:
+  - nft-token
+  - utility-token

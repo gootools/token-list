@@ -1,9 +1,9 @@
 symbol: FLOKIS
 name: FlokiSol
 decimals: 4
-tags:
-  - community-token
-  - meme-token
 extensions:
   twitter: https://twitter.com/FlokiSol
   website: https://flokisol.com
+tags:
+  - community-token
+  - meme-token

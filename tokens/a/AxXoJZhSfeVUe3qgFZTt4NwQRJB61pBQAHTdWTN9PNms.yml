@@ -1,11 +1,11 @@
 symbol: KAYAC
 name: Kayac
 decimals: 9
-tags:
-  - utility-token
-  - governance-token
-  - game-token
 extensions:
   github: https://github.com/GlyphBound
   twitter: https://twitter.com/GlyphBound
   website: https://www.glyph-bound.com/
+tags:
+  - governance-token
+  - game-token
+  - utility-token

@@ -1,8 +1,8 @@
 symbol: HIT
 name: Hello Token
 decimals: 9
-tags:
-  - utility-token
 extensions:
   facebook: https://www.facebook.com/Hello-Entertainment-103715111864185
   website: https://app.gethello.net
+tags:
+  - utility-token

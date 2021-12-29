@@ -1,11 +1,11 @@
 symbol: wXOR_v1
 name: Sora (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x40FD72257597aA14C7231A7B1aaa29Fce868F677"
   assetContract: https://etherscan.io/address/0x40FD72257597aA14C7231A7B1aaa29Fce868F677
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: sora
+tags:
+  - wrapped
+  - wormhole

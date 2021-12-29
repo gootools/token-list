@@ -1,9 +1,9 @@
 symbol: SHILL
 name: Project SEED Token
 decimals: 6
-tags:
-  - projectseedtoken
 extensions:
   website: https://projectseed.io
+tags:
+  - projectseedtoken
 clusters:
-  - testnet
+  - devnet

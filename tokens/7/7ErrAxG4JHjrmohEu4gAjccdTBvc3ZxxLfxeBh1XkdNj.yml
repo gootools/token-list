@@ -1,7 +1,7 @@
 symbol: MICH
 name: MichMich
 decimals: 6
-tags:
-  - community-token
 extensions:
   website: https://github.com/Michenux/michmich-token
+tags:
+  - community-token

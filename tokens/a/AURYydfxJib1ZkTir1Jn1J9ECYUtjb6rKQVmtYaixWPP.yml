@@ -1,9 +1,9 @@
 symbol: AURY
 name: Aurory
 decimals: 9
-tags:
-  - utility-token
 extensions:
   coingeckoId: aurory
   description: Aurory Token
   website: https://aurory.io
+tags:
+  - utility-token

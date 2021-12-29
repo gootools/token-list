@@ -1,11 +1,11 @@
 symbol: WEED
 name: Solana Weed
 decimals: 6
-tags:
-  - social-token
-  - utility-token
 extensions:
   discord: https://discord.gg/3cshJ2gVz6
   telegram: https://t.me/Solanaweed
   twitter: https://twitter.com/SolanaWeed
   website: https://solanaweed.com/
+tags:
+  - social-token
+  - utility-token

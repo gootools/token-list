@@ -1,7 +1,7 @@
 symbol: SUSDT
 name: Stether
 decimals: 2
-tags:
-  - stablecoin
 extensions:
   website: https://stether.io/
+tags:
+  - stablecoin

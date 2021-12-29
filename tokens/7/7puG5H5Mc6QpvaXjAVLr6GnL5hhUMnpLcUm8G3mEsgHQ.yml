@@ -1,12 +1,6 @@
 symbol: LEONIDAS
 name: Leonidas Token
 decimals: 9
-tags:
-  - community-token
-  - utility-token
-  - social-token
-  - NFTs
-  - DeFi
 extensions:
   discord: https://www.discord.com/invite/drN8FUruAu
   instagram: https://www.instagram.com/leonidas_token
@@ -16,3 +10,9 @@ extensions:
   telegram: https://t.me/leonidas_token
   twitter: https://twitter.com/leonidas_token
   website: https://www.leonidastoken.com
+tags:
+  - community-token
+  - DeFi
+  - NFTs
+  - social-token
+  - utility-token

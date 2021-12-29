@@ -1,7 +1,7 @@
 symbol: TBC
 name: Trader Best Coin
 decimals: 6
-tags:
-  - social-token
 extensions:
   twitter: https://twitter.com/Imwarmsmile
+tags:
+  - social-token

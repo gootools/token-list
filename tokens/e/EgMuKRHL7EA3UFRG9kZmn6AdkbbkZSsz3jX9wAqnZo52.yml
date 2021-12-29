@@ -1,7 +1,7 @@
 symbol: MEOWCR
 name: Meow Coin
 decimals: 0
-tags:
-  - social-token
 extensions:
   twitter: https://twitter.com/TheMayMeow
+tags:
+  - social-token

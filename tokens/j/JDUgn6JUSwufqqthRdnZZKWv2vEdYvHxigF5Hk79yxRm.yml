@@ -1,11 +1,11 @@
 symbol: wPNK_v1
 name: Pinakion (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"
   assetContract: https://etherscan.io/address/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: kleros
+tags:
+  - wrapped
+  - wormhole

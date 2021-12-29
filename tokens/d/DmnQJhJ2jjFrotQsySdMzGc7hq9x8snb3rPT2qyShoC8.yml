@@ -1,10 +1,10 @@
 symbol: BEACH
 name: BEACH
 decimals: 9
-tags:
-  - community-token
-  - meme-token
 extensions:
   discord: https://discord.gg/VAybaUNMsD
   twitter: https://twitter.com/beachdaysio
   website: https://beachdays.io/
+tags:
+  - community-token
+  - meme-token

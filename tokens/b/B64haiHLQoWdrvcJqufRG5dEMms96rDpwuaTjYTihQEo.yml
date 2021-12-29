@@ -1,8 +1,8 @@
 symbol: pyUSDC
 name: Port Finance 2022 March Yield USDC
 decimals: 6
-tags:
-  - port
-  - lending
 extensions:
   website: https://port.finance
+tags:
+  - lending
+  - port

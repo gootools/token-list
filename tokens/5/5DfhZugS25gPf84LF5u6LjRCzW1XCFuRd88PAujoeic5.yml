@@ -1,8 +1,8 @@
 symbol: MZOO
 name: Millionaire ZOO
 decimals: 2
-tags:
-  - NFT
 extensions:
   twitter: https://twitter.com/millionairecroc
   website: https://www.millionairecrocodileclub.io/
+tags:
+  - NFT

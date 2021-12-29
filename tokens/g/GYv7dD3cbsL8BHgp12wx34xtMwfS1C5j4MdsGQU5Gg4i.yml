@@ -1,7 +1,7 @@
 symbol: OIL
 name: OIL
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/cyber_apes_nft
+tags:
+  - utility-token

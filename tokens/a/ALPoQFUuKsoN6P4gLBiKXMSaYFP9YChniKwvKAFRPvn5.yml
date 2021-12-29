@@ -1,8 +1,8 @@
 symbol: afBTC-renBTC
 name: Saber afBTC-renBTC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/afbtc
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge
-extensions:
-  website: https://app.saber.so/#/pools/afbtc

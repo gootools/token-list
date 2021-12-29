@@ -1,8 +1,8 @@
 symbol: ATG
 name: AbstergoAI
 decimals: 9
+extensions:
+  twitter: https://twitter.com/AbstergoAI
 tags:
   - ATG
   - NFT
-extensions:
-  twitter: https://twitter.com/AbstergoAI

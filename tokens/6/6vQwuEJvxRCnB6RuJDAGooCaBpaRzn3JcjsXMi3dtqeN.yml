@@ -1,7 +1,7 @@
 symbol: NFTSPACE
 name: SOLKITTY NFT Spacer
 decimals: 6
-tags:
-  - nft
 extensions:
   website: https://solkitty.io/nft/spacer
+tags:
+  - nft

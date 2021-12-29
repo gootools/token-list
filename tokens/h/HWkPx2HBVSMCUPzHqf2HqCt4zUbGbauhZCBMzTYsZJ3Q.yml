@@ -1,9 +1,9 @@
 symbol: MWC
 name: Mr. Wonderful Coin
 decimals: 0
-tags:
-  - social-token
-  - community-token
 extensions:
   twitter: https://twitter.com/kevinolearytv
   website: https://www.kevinoleary.com/
+tags:
+  - community-token
+  - social-token

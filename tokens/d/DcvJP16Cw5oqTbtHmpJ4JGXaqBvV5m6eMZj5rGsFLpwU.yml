@@ -1,9 +1,9 @@
 symbol: BOOGI
 name: BABY OOGI
 decimals: 4
-tags:
-  - community-token
-  - meme-token
 extensions:
   twitter: https://twitter.com/babyoogi_
   website: https://babyoogi.xyz/
+tags:
+  - community-token
+  - meme-token

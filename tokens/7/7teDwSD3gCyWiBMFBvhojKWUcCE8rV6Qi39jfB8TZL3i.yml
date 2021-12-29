@@ -1,7 +1,7 @@
 symbol: FUD
 name: Forge Utah DAO Coin
 decimals: 0
-tags:
-  - community-token
 extensions:
   twitter: https://twitter.com/ForgeUtah
+tags:
+  - community-token

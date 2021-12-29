@@ -1,7 +1,7 @@
 symbol: BTC-renBTC
 name: Saber BTC-renBTC LP
 decimals: 8
-tags:
-  - saber-stableswap-lp
 extensions:
   website: https://app.saber.so/#/pools/btc
+tags:
+  - saber-stableswap-lp

@@ -1,12 +1,12 @@
 symbol: XHamster
 name: xHamster
 decimals: 0
-tags:
-  - payment-protocol
-  - Payment
-  - Videos
-  - community
-  - live-stream
 extensions:
   twitter: https://twitter.com/xhamster_sol
   website: https://solscan.io/token/39cG39AZ4cG7oGNMe4RhD3xAzjy1nkiNgk8W6WbDCgeR
+tags:
+  - community
+  - live-stream
+  - payment-protocol
+  - Payment
+  - Videos

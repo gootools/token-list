@@ -1,11 +1,11 @@
 symbol: KSOL
 name: KITTYCOIN SOL
 decimals: 6
-tags:
-  - utility-token
 extensions:
   facebook: https://facebook.com/KittycoinSOL
   telegram: https://t.me/KittycoinSOL
   twitter: https://twitter.com/KittycoinSOL
   website: https://kittycoinsol.com/
   youtube: https://www.youtube.com/channel/UCRn6xC1Gmr6enUia-mg2rIA
+tags:
+  - utility-token

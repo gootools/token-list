@@ -1,8 +1,6 @@
 symbol: SAFE
 name: Safecoin
 decimals: 8
-tags:
-  - wrapped-wormhole2
 extensions:
   bridgeContract: https://etherscan.io/address/0xdaf566020156297e2837fdfaa6fbba929a29461e
   coingeckoId: safe-coin-2
@@ -15,3 +13,5 @@ extensions:
   telegram: https://t.me/SafeCoinEN
   twitter: https://twitter.com/safecoins
   website: https://safecoin.org
+tags:
+  - wrapped-wormhole2

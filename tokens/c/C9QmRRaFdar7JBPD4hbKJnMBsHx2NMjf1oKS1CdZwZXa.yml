@@ -1,9 +1,9 @@
 symbol: KTSG
 name: Kitty Sol Gang
 decimals: 0
-tags:
-  - nft-token
 extensions:
   discord: https://discord.com/invite/pdVbz6yf
   twitter: https://twitter.com/kittysolgang
   website: https://kittysolgang.com
+tags:
+  - nft-token

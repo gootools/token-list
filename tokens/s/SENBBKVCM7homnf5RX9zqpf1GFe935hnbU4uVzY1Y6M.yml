@@ -1,11 +1,11 @@
 symbol: SEN
 name: Sen
 decimals: 9
-tags:
-  - utility-token
 extensions:
   discord: https://discord.gg/FyHJgQ7W
   medium: https://sentre.medium.com
   telegram: https://t.me/Sentre
   twitter: https://twitter.com/SentreProtocol
   website: https://sentre.io
+tags:
+  - utility-token

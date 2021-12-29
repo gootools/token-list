@@ -1,17 +1,17 @@
 symbol: PHY
 name: Physis
 decimals: 9
-tags:
-  - utility-token
-  - metaverse
-  - physis
-  - fitness
-  - wellness
-  - health
-  - marketplace
-  - nft
 extensions:
   discord: https://discord.gg/U9YyKgjH5x
   telegram: https://t.me/PhysisVerse
   twitter: https://twitter.com/PhysisVerse
   website: https://www.phys.is/
+tags:
+  - fitness
+  - health
+  - metaverse
+  - marketplace
+  - nft
+  - physis
+  - utility-token
+  - wellness

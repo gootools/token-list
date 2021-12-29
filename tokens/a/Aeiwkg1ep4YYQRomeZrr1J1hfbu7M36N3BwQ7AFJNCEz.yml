@@ -1,14 +1,14 @@
 symbol: AGB
 name: Angry Bird
 decimals: 9
-tags:
-  - utility-token
-  - meme-token
-  - nfts
-  - meme-token
-  - community-token
-  - game-token
-  - metaverse-token
 extensions:
   twitter: https://twitter.com/AngryBirdLabs
   website: https://angrybird.org
+tags:
+  - community-token
+  - game-token
+  - meme-token
+  - meme-token
+  - metaverse-token
+  - nfts
+  - utility-token

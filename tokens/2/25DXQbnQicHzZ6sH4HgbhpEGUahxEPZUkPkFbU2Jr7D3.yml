@@ -1,8 +1,8 @@
 symbol: CLICK
 name: Nice Click
 decimals: 9
-tags:
-  - meme-token
 extensions:
   twitter: https://twitter.com/proofofclick
   website: https://www.proofofclick.com/
+tags:
+  - meme-token

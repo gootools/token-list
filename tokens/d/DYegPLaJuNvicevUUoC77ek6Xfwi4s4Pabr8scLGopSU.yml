@@ -1,9 +1,9 @@
 symbol: SNG
 name: Synergy
 decimals: 9
-tags:
-  - synergy
-  - gaming
-  - nft
 extensions:
   website: https://synergyland.world/
+tags:
+  - gaming
+  - nft
+  - synergy

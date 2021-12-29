@@ -1,7 +1,7 @@
 symbol: FUS
 name: FUS Token
 decimals: 9
-tags:
-  - FUS-Token
 extensions:
   website: http://www.thehae.biz
+tags:
+  - FUS-Token

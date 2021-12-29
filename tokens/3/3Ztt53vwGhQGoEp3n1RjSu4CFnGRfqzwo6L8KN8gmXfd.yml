@@ -1,8 +1,8 @@
 symbol: METAS
 name: METASEER
 decimals: 9
-tags:
-  - utility-token
 extensions:
   twitter: https://twitter.com/MSEERofficial
   website: https://metaseer.io/
+tags:
+  - utility-token

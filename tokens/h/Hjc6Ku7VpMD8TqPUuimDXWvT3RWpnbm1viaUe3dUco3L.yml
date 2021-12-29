@@ -1,8 +1,8 @@
 symbol: SHLT
 name: Sehlat
 decimals: 2
+extensions:
+  medium: https://medium.com/@all4free.crypto
 tags:
   - payment-token
   - social-token
-extensions:
-  medium: https://medium.com/@all4free.crypto

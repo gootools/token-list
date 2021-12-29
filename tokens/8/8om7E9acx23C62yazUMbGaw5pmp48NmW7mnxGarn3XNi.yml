@@ -1,14 +1,14 @@
 symbol: GT
 name: Good Terrier
 decimals: 9
-tags:
-  - Analytics
-  - Oracle
-  - Swap
-  - solana
 extensions:
   discord: https://discord.com/invite/YchEcgMgeC
   medium: https://medium.com/goodterrier
   telegram: https://t.me/goodterrier
   twitter: https://twitter.com/Goodterrier
   website: https://www.goodterrier.com/
+tags:
+  - Analytics
+  - Oracle
+  - solana
+  - Swap

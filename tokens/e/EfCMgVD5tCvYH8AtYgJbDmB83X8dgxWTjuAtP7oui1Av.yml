@@ -1,12 +1,12 @@
 symbol: Mpet
 name: Meta Pet Book
 decimals: 9
-tags:
-  - Metaverse
-  - Pet
-  - NFTs
-  - NFT-Token
 extensions:
   discord: https://discord.gg/9X4ZaNSmEX
   telegram: https://t.me/+56ohaRsnGfcyNDdk
   twitter: https://twitter.com/Metapetbook
+tags:
+  - Metaverse
+  - NFTs
+  - NFT-Token
+  - Pet

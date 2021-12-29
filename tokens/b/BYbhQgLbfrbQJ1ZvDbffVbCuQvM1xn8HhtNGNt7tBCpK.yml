@@ -1,12 +1,12 @@
 symbol: CITY
 name: Manchester City Fan Token
 decimals: 9
-tags:
-  - manchester
-  - city
-  - fan-token
 extensions:
   discord: https://discord.gg/UDBRKsEY
   telegram: https://t.me/ManCityTokenCommunity
   twitter: https://twitter.com/ManCityToken
   website: https://citytoken.fund
+tags:
+  - city
+  - fan-token
+  - manchester

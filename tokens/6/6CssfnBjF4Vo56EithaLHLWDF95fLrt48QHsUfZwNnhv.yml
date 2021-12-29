@@ -1,13 +1,13 @@
 symbol: JPYC
 name: JPY Coin(Wormhole)
 decimals: 9
-tags:
-  - stablecoin
-  - ethereum
-  - wrapped
-  - wormhole
 extensions:
   assetContract: https://etherscan.io/address/0x2370f9d504c7a6e775bf6e14b3f12846b594cd53
   coingeckoId: jpyc
   twitter: https://twitter.com/jpy_coin
   website: https://jpyc.jp/
+tags:
+  - ethereum
+  - stablecoin
+  - wrapped
+  - wormhole

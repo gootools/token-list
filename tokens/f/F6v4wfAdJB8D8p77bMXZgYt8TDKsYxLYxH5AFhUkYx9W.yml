@@ -1,11 +1,11 @@
 symbol: LUNA
 name: LUNA (Wormhole)
 decimals: 6
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: uluna
   bridgeContract: https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf
   coingeckoId: terra-luna
   serumV3Usdc: HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE
+tags:
+  - wrapped
+  - wormhole

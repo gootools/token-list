@@ -1,8 +1,8 @@
 symbol: acUSD-CASH
 name: Saber acUSD-CASH LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/acusd_cash
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio
-extensions:
-  website: https://app.saber.so/#/pools/acusd_cash

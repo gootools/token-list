@@ -1,11 +1,11 @@
 symbol: AMBR
 name: AMBROSIA
 decimals: 6
-tags:
-  - community-token
-  - utility-token
-  - Ambrosians
-  - AMBROSIA
 extensions:
   twitter: https://twitter.com/ambrosiansnft
   website: https://ambrosians.io
+tags:
+  - Ambrosians
+  - AMBROSIA
+  - community-token
+  - utility-token

@@ -1,11 +1,11 @@
 symbol: SOLAB
 name: Solabrador
 decimals: 9
-tags:
-  - social-token
 extensions:
   coingeckoId: solabrador
   discord: https://discord.gg/8HJK4apjd7
   serumV3Usdc: 5m7CdEhV6Tq5KnSCy5Cg4w6ug5DFCcHrUJ8JMzKVDdav
   twitter: https://twitter.com/Solabrador
   website: https://solabrador.com
+tags:
+  - social-token

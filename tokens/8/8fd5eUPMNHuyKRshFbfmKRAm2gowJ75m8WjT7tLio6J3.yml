@@ -1,11 +1,6 @@
 symbol: DLN
 name: Goekdln
 decimals: 9
-tags:
-  - community-token
-  - meme-token
-  - social-token
-  - utility-token
 extensions:
   description: We are based on a Decentralized community token which aims to make
     peer-to-peer exchanges thanks to blockchain technology.
@@ -16,3 +11,8 @@ extensions:
   telegram: https://t.me/goekdln
   twitter: https://twitter.com/goekdln
   website: https://www.goekdln.com
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

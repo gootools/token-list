@@ -1,11 +1,11 @@
 symbol: waENJ_v1
 name: Aave interest bearing ENJ (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef"
   assetContract: https://etherscan.io/address/0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-enj
+tags:
+  - wrapped
+  - wormhole

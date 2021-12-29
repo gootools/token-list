@@ -14,7 +14,7 @@ const go = async () => {
   tokens
     // load mainnet tokens first
     .sort((a, b) => a.chainId - b.chainId)
-    .map(({ chainId, address, logoURI, ...rest }) => {
+    .map(({ chainId, address, logoURI, tags, ...rest }) => {
       if (!CLUSTERS[chainId]) {
         console.error(`invalid chain ${chainId}`);
         return null;
@@ -23,6 +23,10 @@ const go = async () => {
       rest.clusters = Array.from(
         new Set((ob[address]?.clusters || []).concat(CLUSTERS[chainId]).sort())
       );
+
+      if (tags && tags.length > 0) {
+        rest.tags = tags.sort(([a], [b]) => a.localeCompare(b));
+      }
 
       ob[address] = rest;
     });

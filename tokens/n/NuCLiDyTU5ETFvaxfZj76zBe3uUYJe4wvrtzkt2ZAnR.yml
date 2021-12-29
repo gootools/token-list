@@ -2,7 +2,7 @@ symbol: NUCL
 name: Nuclear
 decimals: 9
 tags:
-  - The-Core
-  - of-everything
   - capped
   - deflatory
+  - of-everything
+  - The-Core

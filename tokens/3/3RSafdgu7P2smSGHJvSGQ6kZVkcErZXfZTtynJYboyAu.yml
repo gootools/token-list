@@ -1,9 +1,9 @@
 symbol: SINE
 name: SINE
 decimals: 9
-tags:
-  - security-token
-  - utility-token
 extensions:
   twitter: https://twitter.com/SolAiNetwork
   website: https://solainetwork.com/
+tags:
+  - security-token
+  - utility-token

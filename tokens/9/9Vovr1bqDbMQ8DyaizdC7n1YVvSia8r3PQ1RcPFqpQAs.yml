@@ -1,7 +1,7 @@
 symbol: BILI
 name: Bilibili Inc
 decimals: 8
-tags:
-  - tokenized-stock
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BILI
+tags:
+  - tokenized-stock

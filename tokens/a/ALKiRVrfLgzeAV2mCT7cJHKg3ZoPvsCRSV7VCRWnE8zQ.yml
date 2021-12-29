@@ -1,9 +1,9 @@
 symbol: NEKI
 name: Maneki-neko
 decimals: 9
-tags:
-  - utility-token
-  - meme-token
-  - neki
 extensions:
   twitter: https://twitter.com/ManekiNekoLabs
+tags:
+  - meme-token
+  - neki
+  - utility-token

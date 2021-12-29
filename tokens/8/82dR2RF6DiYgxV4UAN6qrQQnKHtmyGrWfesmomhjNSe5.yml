@@ -1,11 +1,11 @@
 symbol: ESC
 name: Escape
 decimals: 9
-tags:
-  - utility-token
-  - social-token
-  - metaverse-token
-  - game-token
-  - nfts
 extensions:
   website: https://escape.bilalbayrak.com
+tags:
+  - game-token
+  - metaverse-token
+  - nfts
+  - social-token
+  - utility-token

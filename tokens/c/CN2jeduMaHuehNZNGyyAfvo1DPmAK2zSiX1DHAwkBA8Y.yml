@@ -1,10 +1,10 @@
 symbol: VER
 name: Vera
 decimals: 8
-tags:
-  - vera-token
 extensions:
   website: http://veracurrency.com
+tags:
+  - vera-token
 clusters:
+  - devnet
   - mainnet-beta
-  - testnet

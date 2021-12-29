@@ -1,8 +1,8 @@
 symbol: wFRAXV1-USDC
 name: Saber wFRAX_V1-USDC LP
 decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/frax
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1
-extensions:
-  website: https://app.saber.so/#/pools/frax

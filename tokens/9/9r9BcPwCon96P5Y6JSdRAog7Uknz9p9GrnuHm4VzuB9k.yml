@@ -1,7 +1,7 @@
 symbol: FTT/SOL
 name: Orca Aquafarm Token (FTT/SOL)
 decimals: 6
-tags:
-  - lp-token
 extensions:
   website: https://orca.so
+tags:
+  - lp-token

@@ -1,11 +1,11 @@
 symbol: waBUSD_v1
 name: Aave Interest bearing Binance USD (Wormhole v1)
 decimals: 9
-tags:
-  - wrapped
-  - wormhole
 extensions:
   address: "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8"
   assetContract: https://etherscan.io/address/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-busd-v1
+tags:
+  - wrapped
+  - wormhole
