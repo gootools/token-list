@@ -15,8 +15,8 @@ const tags = require(join(__dirname, "../tags.json"));
 
 const Tag = define("Tag", (tag) => Boolean(tags[tag]));
 
-const Network = define("Network", (network) =>
-  ["mainnet-beta", "devnet", "testnet"].includes(network)
+const Cluster = define("Cluster", (cluster) =>
+  ["mainnet-beta", "devnet", "testnet"].includes(cluster)
 );
 
 const re = RegExp(/(https?|ipfs):/);
@@ -67,7 +67,7 @@ const Token = object({
     })
   ),
   tags: optional(array(Tag)),
-  networks: optional(array(Network)),
+  clusters: optional(array(Cluster)),
 });
 
 const format = (ob) => {
@@ -89,34 +89,35 @@ async function readFiles(dirname) {
     .flat()
     .filter((f) => f.endsWith(".yml"));
 
-  const allNetworks = {};
+  const allClusters = {};
 
   await Promise.all(
     filenames.map(async (filename) => {
       const content = await readFile(filename, "utf-8");
-      const { networks = ["mainnet-beta"], ...data } = format(parse(content));
-      networks.forEach((network) => {
-        allNetworks[network] ||= {};
-        allNetworks[network].tokens ||= {};
-        allNetworks[network].tokens[basename(filename, ".yml")] = data;
+      const { clusters = ["mainnet-beta"], ...data } = format(parse(content));
+
+      clusters.forEach((cluster) => {
+        allClusters[cluster] ||= {};
+        allClusters[cluster].tokens ||= {};
+        allClusters[cluster].tokens[basename(filename, ".yml")] = data;
 
         data.tags?.forEach((tag) => {
-          allNetworks[network].tags ||= {};
-          allNetworks[network].tags[tag] ||= 0;
-          allNetworks[network].tags[tag] += 1;
+          allClusters[cluster].tags ||= {};
+          allClusters[cluster].tags[tag] ||= 0;
+          allClusters[cluster].tags[tag] += 1;
         });
       });
     })
   );
 
   await Promise.all(
-    Object.entries(allNetworks).map(([network, { tags: usedTags, tokens }]) =>
+    Object.entries(allClusters).map(([cluster, { tags: usedTags, tokens }]) =>
       writeFile(
-        `${network}.json`,
+        `out/${cluster}.json`,
         JSON.stringify(
           {
             name: "Solana Token List",
-            network,
+            cluster,
             tags: Object.entries(usedTags)
               .sort(([a], [b]) => a.localeCompare(b))
               .reduce((acc, [tag, count]) => {

@@ -1,0 +1,7 @@
+symbol: sHOG
+name: Devnet StableHog
+decimals: 6
+tags:
+  - stablecoin
+clusters:
+  - testnet

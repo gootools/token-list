@@ -1,0 +1,10 @@
+symbol: ART
+name: Art Token
+decimals: 9
+tags:
+  - utility-token
+  - art-token
+  - community-token
+  - meta-verse
+clusters:
+  - testnet

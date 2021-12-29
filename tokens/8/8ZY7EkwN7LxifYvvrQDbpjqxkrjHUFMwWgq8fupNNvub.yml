@@ -1,0 +1,7 @@
+symbol: BIAD
+name: daib test token
+decimals: 6
+extensions:
+  website: https://daios.io/
+clusters:
+  - devnet

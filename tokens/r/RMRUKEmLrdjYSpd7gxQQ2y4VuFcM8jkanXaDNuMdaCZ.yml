@@ -1,0 +1,12 @@
+symbol: RM
+name: Ringgit Malaysia
+decimals: 2
+tags:
+  - stablecoin
+  - ringgit
+  - malaysia
+extensions:
+  twitter: https://twitter.com/ringgitfinance
+  website: https://ringgit.finance
+clusters:
+  - testnet

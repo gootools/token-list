@@ -1,0 +1,5 @@
+symbol: HGEN
+name: HGEN
+decimals: 8
+clusters:
+  - testnet

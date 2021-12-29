@@ -1,0 +1,10 @@
+symbol: CINS
+name: Cinovos
+decimals: 9
+tags:
+  - CINS
+  - Cinovos
+extensions:
+  website: https://cinovos.com
+clusters:
+  - testnet

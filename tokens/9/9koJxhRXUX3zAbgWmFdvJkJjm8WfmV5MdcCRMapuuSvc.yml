@@ -1,0 +1,11 @@
+symbol: HMTC
+name: Hamlett Coin
+decimals: 9
+tags:
+  - troll
+  - company
+extensions:
+  twitter: https://twitter.com/Jul00t
+  website: http://hamlett-company.tk/
+clusters:
+  - testnet

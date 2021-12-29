@@ -1,0 +1,11 @@
+symbol: ECZ
+name: Eczodex
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  reddit: https://www.reddit.com/r/Eczodex/
+  twitter: https://twitter.com/eczodex
+  website: https://eczodex.com/
+clusters:
+  - testnet

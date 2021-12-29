@@ -1,0 +1,8 @@
+symbol: SNKC
+name: SnakeChainCoin
+decimals: 8
+tags:
+  - social-token
+  - utility-token
+clusters:
+  - testnet

@@ -1,0 +1,7 @@
+symbol: NLC
+name: NewLifeCoin
+decimals: 9
+tags:
+  - social-token
+clusters:
+  - testnet

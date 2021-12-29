@@ -1,11 +1,6 @@
-symbol: soUNI
-name: Wrapped UNI (Sollet)
+symbol: XYZ
+name: XYZ Test
 decimals: 6
-tags:
-  - wrapped-sollet
-  - ethereum
-extensions:
-  bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
-  coingeckoId: uniswap
-  serumV3Usdc: 6JYHjaQBx6AtKSSsizDMwozAEDEZ5KBsSUzH7kRjGJon
-  serumV3Usdt: 2SSnWNrc83otLpfRo792P6P3PESZpdr8cu2r8zCE6bMD
+clusters:
+  - mainnet-beta
+  - testnet

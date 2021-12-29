@@ -1,0 +1,7 @@
+symbol: LDXI
+name: LDXI Token
+decimals: 9
+tags:
+  - utility-token
+clusters:
+  - testnet

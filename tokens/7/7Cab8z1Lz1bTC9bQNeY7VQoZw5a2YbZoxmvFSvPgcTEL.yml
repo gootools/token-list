@@ -1,0 +1,9 @@
+symbol: LGGD
+name: LGG Dev Fan Token
+decimals: 0
+tags:
+  - LGG
+extensions:
+  website: https://lgg-hacks.art
+clusters:
+  - testnet

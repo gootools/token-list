@@ -1,0 +1,5 @@
+symbol: BTP
+name: BLOCKOVATE TEST PROJECT
+decimals: 0
+clusters:
+  - testnet

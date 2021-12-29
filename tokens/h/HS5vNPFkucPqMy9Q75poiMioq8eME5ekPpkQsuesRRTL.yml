@@ -3,3 +3,6 @@ name: Tillman Token
 decimals: 0
 tags:
   - social-token
+clusters:
+  - mainnet-beta
+  - testnet

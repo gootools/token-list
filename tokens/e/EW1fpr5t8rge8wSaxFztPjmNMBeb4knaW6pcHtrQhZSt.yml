@@ -1,0 +1,5 @@
+symbol: SMILE
+name: Smiles
+decimals: 9
+clusters:
+  - testnet

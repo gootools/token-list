@@ -1,0 +1,7 @@
+symbol: USDT_ILT
+name: USDT_ILT_Token_Test
+decimals: 6
+tags:
+  - stablecoin
+clusters:
+  - devnet

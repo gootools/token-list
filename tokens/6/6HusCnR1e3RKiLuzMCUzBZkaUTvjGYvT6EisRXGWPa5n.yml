@@ -1,0 +1,12 @@
+symbol: ROBO
+name: ROBO
+decimals: 8
+tags:
+  - dao
+  - gaming
+  - gamefi
+  - utility-token
+extensions:
+  website: https://roboworld.io
+clusters:
+  - testnet

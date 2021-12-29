@@ -1,15 +1,11 @@
 {
   "name": "token-list",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "node scripts/index.js",
     "sync": "node scripts/sync.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "superstruct": "^0.15.3",
     "yaml": "^2.0.0-9"

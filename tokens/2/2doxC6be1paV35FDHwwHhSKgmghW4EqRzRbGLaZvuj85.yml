@@ -1,0 +1,7 @@
+symbol: O_N_I_O_N
+name: ONIONTOKEN
+decimals: 9
+tags:
+  - social-token
+clusters:
+  - testnet

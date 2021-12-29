@@ -5,3 +5,7 @@ extensions:
   github: https://github.com/metaplex-foundation/metaplex
   twitter: https://twitter.com/metaplex
   website: https://metaplex.com
+clusters:
+  - devnet
+  - mainnet-beta
+  - testnet

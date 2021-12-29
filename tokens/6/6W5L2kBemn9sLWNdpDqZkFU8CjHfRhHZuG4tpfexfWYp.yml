@@ -1,0 +1,7 @@
+symbol: CHB
+name: Cheeseburger
+decimals: 9
+tags:
+  - community-token
+clusters:
+  - testnet

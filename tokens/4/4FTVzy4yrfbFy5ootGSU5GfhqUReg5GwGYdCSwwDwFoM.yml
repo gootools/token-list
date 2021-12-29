@@ -1,0 +1,7 @@
+symbol: TSTO
+name: Tsaki Token
+decimals: 9
+tags:
+  - utility-token
+clusters:
+  - testnet

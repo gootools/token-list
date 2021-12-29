@@ -1,0 +1,9 @@
+symbol: ETH-SOL
+name: Raydium LP Token (ETH-SOL)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/
+clusters:
+  - testnet

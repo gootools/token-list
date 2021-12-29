@@ -1,0 +1,7 @@
+symbol: SHILL
+name: Shill
+decimals: 9
+tags:
+  - SPL-token
+clusters:
+  - testnet

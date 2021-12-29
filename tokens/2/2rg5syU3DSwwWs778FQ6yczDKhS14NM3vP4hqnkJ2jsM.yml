@@ -1,0 +1,5 @@
+symbol: pSOL
+name: SOL stake pool
+decimals: 9
+clusters:
+  - testnet

@@ -1,0 +1,9 @@
+symbol: USDC-USDr
+name: Raydium LP Token (USDC-USDr)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/
+clusters:
+  - testnet

@@ -1,0 +1,9 @@
+symbol: fBoku-420
+name: Fractionalised Boku-420
+decimals: 2
+tags:
+  - bridgesplit-fraction
+extensions:
+  vault: https://devnet.bridgesplit.com/markets/HVVB2ZDw1ykyRYSwcMrDXsQ6sesGe7qyp5vB3zAuK4Hw
+clusters:
+  - testnet

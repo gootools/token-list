@@ -1,0 +1,7 @@
+symbol: FITT
+name: Fit Panda Test
+decimals: 9
+tags:
+  - security-token
+clusters:
+  - testnet

@@ -1,0 +1,7 @@
+symbol: HGC
+name: Hatch Group Coin
+decimals: 9
+extensions:
+  website: https://www.hatchgroup.co.uk/
+clusters:
+  - testnet

@@ -1,0 +1,9 @@
+symbol: USDr
+name: Ratio Finance Stable Coin USDr
+decimals: 6
+tags:
+  - stable-coin
+extensions:
+  website: https://ratio.finance/
+clusters:
+  - testnet

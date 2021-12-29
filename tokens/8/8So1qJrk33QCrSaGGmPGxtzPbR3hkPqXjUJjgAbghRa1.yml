@@ -1,0 +1,9 @@
+symbol: ATLAS-RAY
+name: Raydium LP Token V4 (ATLAS-RAY)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/
+clusters:
+  - testnet

@@ -1,0 +1,10 @@
+symbol: SINGULARITY
+name: Singularity
+decimals: 9
+tags:
+  - utility-token
+extensions:
+  twitter: https://twitter.com/SingularityMeta
+  website: https://singularityonline.app
+clusters:
+  - testnet

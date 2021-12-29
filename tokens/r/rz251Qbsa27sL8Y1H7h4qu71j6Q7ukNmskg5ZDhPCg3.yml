@@ -1,0 +1,8 @@
+symbol: HIRO
+name: Hiro LaunchDAO
+decimals: 6
+extensions:
+  twitter: https://twitter.com/HiroLaunchdao
+  website: https://hiro-finance.github.io/
+clusters:
+  - devnet

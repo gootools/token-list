@@ -1,0 +1,7 @@
+symbol: GRIDX
+name: Gridiron Protocol
+decimals: 6
+extensions:
+  website: https://www.gridirondex.com
+clusters:
+  - testnet

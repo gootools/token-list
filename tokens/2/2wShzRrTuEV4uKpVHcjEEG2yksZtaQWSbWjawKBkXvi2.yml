@@ -1,0 +1,9 @@
+symbol: fCryptoPunk-1021
+name: Fractionalised CryptoPunk-1021
+decimals: 2
+tags:
+  - bridgesplit-fraction
+extensions:
+  vault: https://devnet.bridgesplit.com/markets/2wShzRrTuEV4uKpVHcjEEG2yksZtaQWSbWjawKBkXvi2
+clusters:
+  - testnet

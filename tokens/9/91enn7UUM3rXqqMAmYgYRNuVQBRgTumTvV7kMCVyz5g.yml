@@ -1,0 +1,5 @@
+symbol: XYZ2
+name: XYZ2 Test
+decimals: 6
+clusters:
+  - testnet

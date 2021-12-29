@@ -5,3 +5,6 @@ tags:
   - vera-token
 extensions:
   website: http://veracurrency.com
+clusters:
+  - mainnet-beta
+  - testnet

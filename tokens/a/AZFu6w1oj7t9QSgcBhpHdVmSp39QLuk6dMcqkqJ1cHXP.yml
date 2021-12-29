@@ -1,0 +1,9 @@
+symbol: SAMO-RAY
+name: Raydium LP Token (SAMO-RAY)
+decimals: 9
+tags:
+  - lp-token
+extensions:
+  website: https://raydium.io/
+clusters:
+  - testnet

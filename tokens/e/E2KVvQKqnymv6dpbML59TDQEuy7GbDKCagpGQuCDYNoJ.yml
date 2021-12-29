@@ -1,0 +1,5 @@
+symbol: JJC
+name: JJC
+decimals: 8
+clusters:
+  - testnet

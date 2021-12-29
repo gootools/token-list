@@ -1,0 +1,5 @@
+symbol: GENS
+name: GENS
+decimals: 8
+clusters:
+  - testnet

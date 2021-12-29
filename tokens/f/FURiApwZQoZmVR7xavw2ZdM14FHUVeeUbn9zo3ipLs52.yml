@@ -1,0 +1,5 @@
+symbol: FURIA
+name: Furia Token
+decimals: 9
+clusters:
+  - testnet

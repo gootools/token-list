@@ -1,0 +1,8 @@
+symbol: WIZZ
+name: WizZ Coin
+decimals: 9
+tags:
+  - social-token
+  - wizzcoin
+clusters:
+  - testnet

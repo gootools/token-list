@@ -1,0 +1,9 @@
+symbol: Miin
+name: Miin Token
+decimals: 8
+tags:
+  - utility-token
+extensions:
+  website: https://miinasian.vn
+clusters:
+  - testnet

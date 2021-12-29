@@ -1,0 +1,7 @@
+symbol: SPK
+name: SPL Token
+decimals: 6
+tags:
+  - utility-token
+clusters:
+  - testnet
