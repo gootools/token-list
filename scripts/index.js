@@ -9,7 +9,7 @@ const {
   string,
 } = require("superstruct");
 const { parse } = require("yaml");
-const { join } = require("path");
+const { join, basename } = require("path");
 
 const tags = require(join(__dirname, "../tags.json"));
 
@@ -76,28 +76,37 @@ const format = (ob) => {
 };
 
 async function readFiles(dirname) {
-  const filenames = await readdir(dirname);
+  const dirs = await readdir(dirname);
+
+  const filenames = (
+    await Promise.all(
+      dirs.flatMap(async (dir) => {
+        const files = await readdir(join(dirname, dir));
+        return files.map((f) => join(dirname, dir, f));
+      })
+    )
+  )
+    .flat()
+    .filter((f) => f.endsWith(".yml"));
 
   const allNetworks = {};
 
   await Promise.all(
-    filenames
-      .filter((n) => n.endsWith(".yml"))
-      .map(async (filename) => {
-        const content = await readFile(dirname + filename, "utf-8");
-        const { networks = ["mainnet-beta"], ...data } = format(parse(content));
-        networks.forEach((network) => {
-          allNetworks[network] ||= {};
-          allNetworks[network].tokens ||= {};
-          allNetworks[network].tokens[filename.split(".")[0]] = data;
+    filenames.map(async (filename) => {
+      const content = await readFile(filename, "utf-8");
+      const { networks = ["mainnet-beta"], ...data } = format(parse(content));
+      networks.forEach((network) => {
+        allNetworks[network] ||= {};
+        allNetworks[network].tokens ||= {};
+        allNetworks[network].tokens[basename(filename, ".yml")] = data;
 
-          data.tags?.forEach((tag) => {
-            allNetworks[network].tags ||= {};
-            allNetworks[network].tags[tag] ||= 0;
-            allNetworks[network].tags[tag] += 1;
-          });
+        data.tags?.forEach((tag) => {
+          allNetworks[network].tags ||= {};
+          allNetworks[network].tags[tag] ||= 0;
+          allNetworks[network].tags[tag] += 1;
         });
-      })
+      });
+    })
   );
 
   await Promise.all(
@@ -129,5 +138,4 @@ async function readFiles(dirname) {
   );
 }
 
-// readFiles("tokens/");
-readFiles(join(__dirname, "../tokens/"));
+readFiles(join(__dirname, "../tokens"));
