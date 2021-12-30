@@ -1,5 +1,3 @@
-name: PR Checks
-
 on:
   pull_request:
     types: [opened, synchronize]
@@ -7,6 +5,39 @@ on:
       - main
 
 jobs:
+  add-labels-based-on-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            add:
+              - added: 'tokens/**/*.yml'
+            update:
+              - modified: 'tokens/**/*.yml'
+            remove:
+              - deleted: 'tokens/**/*.yml'
+
+      - name: assign Add Token label
+        if: steps.changes.outputs.add == 'true'
+        uses: andymckay/labeler@1.0.4
+        with:
+          add-labels: "add token"
+
+      - name: assign Update Token label
+        if: steps.changes.outputs.update == 'true'
+        uses: andymckay/labeler@1.0.4
+        with:
+          add-labels: "update token"
+
+      - name: assign Remove Token label
+        if: steps.changes.outputs.remove == 'true'
+        uses: andymckay/labeler@1.0.4
+        with:
+          add-labels: "remove token"
+
   pr-checks:
     runs-on: ubuntu-latest
     steps:
