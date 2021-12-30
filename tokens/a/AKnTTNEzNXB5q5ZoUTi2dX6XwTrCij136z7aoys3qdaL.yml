@@ -1,0 +1,5 @@
+symbol: BASM
+name: Bwood Coin
+decimals: 9
+clusters:
+  - devnet

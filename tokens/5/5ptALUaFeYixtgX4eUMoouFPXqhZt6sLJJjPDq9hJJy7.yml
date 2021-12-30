@@ -1,0 +1,10 @@
+symbol: PAP
+name: PapaCoin
+decimals: 0
+extensions:
+  facebook: https://www.facebook.com/PapalexiouPavlos
+  instagram: https://www.instagram.com/pavlospapalexiou/
+  twitter: https://twitter.com/PapalexiouP
+  website: https://papalexiou.me
+tags:
+  - social-token

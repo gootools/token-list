@@ -1,0 +1,13 @@
+symbol: AETHER
+name: Aether
+decimals: 8
+extensions:
+  address: FuGpEMivuKnTU5KwhCuq9rjfEVX2WekNeSNNqJdThpHk
+  description: Aether7.io is a cloud platform with applications that utilize
+    blockchain technology to store B2B records and transactions
+  facebook: https://www.facebook.com/Aether7io
+  website: https://aether7.io/
+tags:
+  - Application
+  - NFTS
+  - utility-token

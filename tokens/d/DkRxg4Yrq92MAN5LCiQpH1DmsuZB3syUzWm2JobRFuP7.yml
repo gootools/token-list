@@ -1,6 +1,11 @@
 symbol: TALENTS
 name: VURO
 decimals: 9
+extensions:
+  description: Workspaces in the metaverse
+  instagram: https://www.instagram.com/vuro.io/
+  twitter: https://twitter.com/Vuro_io
+  website: https://vuro.io
 tags:
   - utility-token
   - VURO

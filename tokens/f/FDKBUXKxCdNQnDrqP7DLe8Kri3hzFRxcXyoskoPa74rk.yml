@@ -1,0 +1,8 @@
+symbol: $YETI
+name: YETI
+decimals: 9
+extensions:
+  twitter: https://twitter.com/solyetis
+  website: https://solyetis.io/
+tags:
+  - community-token

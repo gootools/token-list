@@ -1,0 +1,12 @@
+symbol: BOX
+name: Solootbox DAO
+decimals: 8
+extensions:
+  address: DysbQiM8nPdZbBhvHM1EgcSE73EwtFWDanXwY8CDD3Jn
+  description: Solootbox is a rewards driven DAO structure built on the Solana blockchain.
+  discord: https://discord.com/invite/hM78bJHMqx
+  twitter: https://twitter.com/solootbox
+  website: https://www.solootbox.xyz/
+tags:
+  - governance-token
+  - utility-token

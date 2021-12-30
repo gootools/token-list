@@ -1,0 +1,16 @@
+symbol: DWELL
+name: DwellFi
+decimals: 4
+extensions:
+  description: DWELL is a community governance token for DwellFi
+  github: https://github.com/dwellfi
+  website: https://dwell.fi
+tags:
+  - community-token
+  - DAO
+  - DeFi
+  - governance
+  - metaverse
+  - NFT
+  - real-estate
+  - utility-token

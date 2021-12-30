@@ -1,0 +1,8 @@
+symbol: $DIGI
+name: Digi Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/DigiDinoNFT
+  website: http://pridelands.co.uk
+tags:
+  - community-token

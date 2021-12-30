@@ -1,0 +1,9 @@
+symbol: SOUP
+name: GoodSoup
+decimals: 9
+extensions:
+  twitter: https://twitter.com/goodsouptoken
+  website: https://goodsoup.io/
+tags:
+  - community-token
+  - governance-token

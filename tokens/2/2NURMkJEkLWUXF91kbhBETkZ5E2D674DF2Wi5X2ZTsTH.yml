@@ -1,0 +1,9 @@
+symbol: GCC
+name: GitCompile Coin
+decimals: 9
+extensions:
+  website: https://gitcompile.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

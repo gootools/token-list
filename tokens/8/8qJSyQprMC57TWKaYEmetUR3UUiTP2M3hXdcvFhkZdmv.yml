@@ -5,6 +5,7 @@ extensions:
   address: "0x55d398326f99059ff775485246999027b3197955"
   assetContract: https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955
   bridgeContract: https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7
+  coingeckoId: tether
 tags:
   - wrapped
   - wormhole

@@ -1,0 +1,7 @@
+symbol: BNTY
+name: Bounty
+decimals: 9
+extensions:
+  website: https://bountyhunterspaceguild.com
+tags:
+  - utility-token

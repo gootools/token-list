@@ -1,0 +1,9 @@
+symbol: WEISS
+name: Weiss token
+decimals: 0
+extensions:
+  github: https://github.com/0xw01f
+  twitter: https://twitter.com/w01f_src
+  website: https://w01f.xyz/
+tags:
+  - social-token

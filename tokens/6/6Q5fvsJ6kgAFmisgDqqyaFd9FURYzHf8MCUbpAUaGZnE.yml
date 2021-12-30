@@ -1,0 +1,11 @@
+symbol: SOS
+name: SOS (Wormhole)
+decimals: 8
+extensions:
+  address: "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+  assetContract: https://etherscan.io/address/0x3b484b82567a09e2588a13d54d032153f0c0aee0
+  bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
+  coingeckoId: opendao
+tags:
+  - ethereum
+  - wrapped

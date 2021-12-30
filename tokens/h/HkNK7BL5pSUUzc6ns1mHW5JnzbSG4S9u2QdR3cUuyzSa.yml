@@ -1,0 +1,14 @@
+symbol: SPZ
+name: Solprize
+decimals: 5
+extensions:
+  description: Let's get be rich and happy together!
+  instagram: https://www.instagram.com/solprize
+  reddit: https://www.reddit.com/r/solprize
+  telegram: https://t.me/solprize
+  twitter: https://twitter.com/solprize
+  website: https://www.solprize.io
+tags:
+  - community-token
+  - meme-token
+  - social-token

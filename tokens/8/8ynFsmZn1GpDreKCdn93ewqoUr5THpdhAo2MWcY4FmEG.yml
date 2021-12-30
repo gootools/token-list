@@ -1,0 +1,9 @@
+symbol: DSPC
+name: DSP Coin
+decimals: 6
+extensions:
+  discord: https://t.co/j1ljROSuoJ
+  twitter: https://twitter.com/cryptodsps
+tags:
+  - community-token
+  - utility-token

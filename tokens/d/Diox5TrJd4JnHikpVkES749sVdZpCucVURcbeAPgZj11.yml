@@ -1,0 +1,7 @@
+symbol: ITT
+name: Inter Tin Token
+decimals: 9
+extensions:
+  website: https://www.intertin.com
+tags:
+  - utility-token

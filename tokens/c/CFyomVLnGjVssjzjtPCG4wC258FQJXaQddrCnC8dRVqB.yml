@@ -1,0 +1,8 @@
+symbol: NTLC
+name: Nightly
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet
+  - mainnet-beta

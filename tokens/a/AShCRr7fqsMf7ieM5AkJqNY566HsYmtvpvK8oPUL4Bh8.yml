@@ -1,0 +1,10 @@
+symbol: MBC
+name: MoneyBoy Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/SolanaMoneyBoys
+  website: https://www.solanamoneyboys.com/
+tags:
+  - community-token
+  - meme-token
+  - utility-token

@@ -1,0 +1,8 @@
+symbol: BMINUS
+name: Fraktionalized Solana White Paper
+decimals: 3
+extensions:
+  vault: https://fraktion.art/vault/FGJJoASbC8g5Mx1JjUKKPDwCJYLnxEMyCmdd7KeJjbe9
+  vaultPubkey: FGJJoASbC8g5Mx1JjUKKPDwCJYLnxEMyCmdd7KeJjbe9
+tags:
+  - fractionalized-nft

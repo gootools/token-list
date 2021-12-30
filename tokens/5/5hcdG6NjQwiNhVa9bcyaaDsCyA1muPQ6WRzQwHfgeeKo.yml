@@ -1,0 +1,13 @@
+symbol: SWAG
+name: Swag Token (Wormhole)
+decimals: 8
+extensions:
+  address: "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6"
+  assetContract: https://etherscan.io/address/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6
+  bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
+  coingeckoId: swag-finance
+  serumV3Usdc: wSkeLMv3ktJyLm51bvQWxY2saGKqGxbnUFimPxbgEvQ
+  serumV3Usdt: 6URQ4zFWvPm1fhJCKKWorrh8X3mmTFiDDyXEUmSf8Rb2
+tags:
+  - ethereum
+  - wrapped

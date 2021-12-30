@@ -1,0 +1,7 @@
+symbol: SB
+name: SuperBonds Token
+decimals: 6
+extensions:
+  website: https://superbonds.finance
+tags:
+  - defi-token

@@ -1,0 +1,10 @@
+symbol: CODE
+name: CodeCatch Coin
+decimals: 0
+extensions:
+  discord: https://codecatch.net/discord
+  website: https://codecatch.net
+tags:
+  - community-token
+  - social-token
+  - utility-token

@@ -1,0 +1,7 @@
+symbol: XIN
+name: XIN Dragon Token
+decimals: 6
+extensions:
+  website: https://xindragons.com
+tags:
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: SCTT
+name: SOLANA CRYPT TOKEN
+decimals: 6
+extensions:
+  discord: https://discord.gg/cEEy8WweTy
+  serumV3Usdc: DRSZihtHpPkMqivKdwcdunGC3Z4aSfQFPiUCh3Nb4HPW
+  twitter: https://twitter.com/SolanaCrypt
+  website: https://solanacrypt.com/
+tags:
+  - meme-token

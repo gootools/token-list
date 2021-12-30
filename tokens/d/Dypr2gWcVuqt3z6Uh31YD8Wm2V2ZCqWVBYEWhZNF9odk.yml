@@ -1,5 +1,10 @@
 symbol: SOLJAV
 name: SOLJAV
 decimals: 6
+extensions:
+  discord: https://discord.gg/n3VJpqftRU
+  serumV3Usdc: 9e63hJZ1HUNDeBwmzJy9VsRT4kzqJ92Xk24htAwjTCeQ
+  twitter: https://twitter.com/soljav1
+  website: https://www.soljav.xyz/
 tags:
   - social-token

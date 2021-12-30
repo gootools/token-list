@@ -1,0 +1,7 @@
+symbol: DST
+name: Dooku Society Token
+decimals: 9
+extensions:
+  website: https://dookusociety.io
+tags:
+  - social-token

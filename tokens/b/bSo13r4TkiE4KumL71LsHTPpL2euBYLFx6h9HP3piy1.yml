@@ -1,0 +1,11 @@
+symbol: bSOL
+name: BlazeStake Staked SOL (bSOL)
+decimals: 9
+extensions:
+  github: https://github.com/SolBlazeOrg
+  twitter: https://twitter.com/solblaze_org
+  website: https://stake.solblaze.org/
+tags:
+  - stake-pool
+  - stake-pool-token
+  - utility-token

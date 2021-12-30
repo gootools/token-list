@@ -1,0 +1,5 @@
+symbol: AGE
+name: Medieval Age Token
+decimals: 2
+clusters:
+  - devnet

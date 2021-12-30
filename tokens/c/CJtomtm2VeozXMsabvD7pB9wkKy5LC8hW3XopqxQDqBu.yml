@@ -1,0 +1,11 @@
+symbol: PRBLY
+name: probably.legal
+decimals: 7
+extensions:
+  discord: https://discord.gg/TkJxyyee
+  facebook: https://www.facebook.com/ProbablyLegalToken/
+  instagram: https://www.instagram.com/probablylegaltoken/
+  twitter: https://twitter.com/probablylegal
+  website: https://probably.legal
+tags:
+  - social-token

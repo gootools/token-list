@@ -1,0 +1,22 @@
+symbol: NOCH
+name: NodeBunch
+decimals: 6
+extensions:
+  description: Extend the boundaries of earning with nodebunch, a futuristic AMM
+    Dex with the power of DEFi
+  discord: https://discord.gg/C4dC2grHAj
+  medium: https://nodebunch.medium.com/
+  reddit: https://www.reddit.com/user/nodebunch
+  twitter: https://twitter.com/BunchNode
+  website: https://nodebunch.finance
+tags:
+  - amm
+  - dex
+  - farming
+  - launchpad
+  - nft
+  - nft-staking
+  - pool
+  - swap
+  - staking
+  - trade

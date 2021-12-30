@@ -2,7 +2,10 @@ symbol: RACEFI
 name: RaceFi Token
 decimals: 6
 extensions:
+  coingeckoId: racefi
   description: The fist AI/ML Play-to-Earn Racing Game on Solana
+  discord: https://discord.com/invite/rDX8uwd2sg
+  telegram: https://t.me/racefi_io
   website: https://racefi.io/
 tags:
   - GameFi

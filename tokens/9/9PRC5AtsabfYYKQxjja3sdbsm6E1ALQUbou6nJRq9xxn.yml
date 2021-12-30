@@ -1,0 +1,9 @@
+symbol: VIE
+name: Virtual Internet Experience
+decimals: 4
+extensions:
+  telegram: https://t.me/vieofficial
+  twitter: https://twitter.com/vie_metaverse
+  website: https://vie.digital
+tags:
+  - metaverse-token

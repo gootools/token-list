@@ -1,0 +1,7 @@
+symbol: NDC
+name: QV5D Coin
+decimals: 9
+extensions:
+  description: Five Heads Monster Coin
+tags:
+  - social-token

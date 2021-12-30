@@ -1,5 +1,5 @@
-symbol: SIN
-name: Staked Sol Invictus
+symbol: sIN
+name: Wrapped Staked Sol Invictus
 decimals: 9
 extensions:
   discord: https://discord.gg/invictusdao

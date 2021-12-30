@@ -1,0 +1,11 @@
+symbol: ILV
+name: Illuvium (Wormhole)
+decimals: 8
+extensions:
+  address: "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+  assetContract: https://etherscan.io/address/0x767fe9edc9e0df98e07454847909b5e959d7ca0e
+  bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
+  coingeckoId: illuvium
+tags:
+  - ethereum
+  - wrapped

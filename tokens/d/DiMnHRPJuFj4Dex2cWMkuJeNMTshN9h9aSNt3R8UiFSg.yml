@@ -1,0 +1,7 @@
+symbol: AZT
+name: Andrew Token
+decimals: 3
+extensions:
+  twitter: https://twitter.com/andrewztan
+tags:
+  - utility-token

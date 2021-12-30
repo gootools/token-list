@@ -1,0 +1,7 @@
+symbol: xDOT
+name: Synthetic DOT
+decimals: 6
+extensions:
+  coingeckoId: polkadot
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

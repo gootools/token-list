@@ -1,6 +1,6 @@
-symbol: weSAND
+symbol: SAND
 name: Sandbox (Wormhole)
 decimals: 8
 tags:
+  - ethereum
   - wrapped
-  - wormhole

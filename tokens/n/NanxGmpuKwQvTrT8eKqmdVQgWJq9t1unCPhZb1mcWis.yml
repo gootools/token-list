@@ -1,8 +1,10 @@
-symbol: NanX
-name: NanoX
+symbol: nanX
+name: nanoX
 decimals: 9
 extensions:
   discord: https://discord.gg/3TwxDEZ2Ss
+  github: https://github.com/nanoX-finance
+  medium: https://medium.com/@nano.x
   twitter: https://twitter.com/nanox_finance
   website: https://nanox.finance
 tags:

@@ -1,0 +1,11 @@
+symbol: ELONINU
+name: ElonInu
+decimals: 6
+extensions:
+  discord: https://discord.gg/MKRhSdSb
+  twitter: https://twitter.com/eloninu
+  website: https://eloninu.org
+tags:
+  - community-token
+  - meme-token
+  - utility-token

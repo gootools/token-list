@@ -1,0 +1,13 @@
+symbol: FRLP
+name: FundRaiseLaunchpad
+decimals: 18
+extensions:
+  discord: https://discord.com/invite/C3jrUAzm
+  facebook: https://www.facebook.com/Fundraise-Launchpad-106074095265419
+  instagram: https://www.instagram.com/fundraise_launchpad/
+  reddit: https://www.reddit.com/r/fundraise_launchpad/
+  telegram: https://t.me/fundraiselaunchpad
+  twitter: https://twitter.com/fundraiseLP
+  website: https://fundraiselaunchpad.com/
+tags:
+  - launchpad-token
