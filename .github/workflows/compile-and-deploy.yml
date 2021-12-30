@@ -1,3 +1,5 @@
+name: Compile and deploy JSON
+
 on:
   push:
     branches: [main]
