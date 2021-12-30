@@ -1,4 +1,4 @@
-name: Merge Check
+name: PR Checks
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  merge_check:
+  pr-checks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
