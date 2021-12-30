@@ -16,11 +16,11 @@ jobs:
             shared: &shared
               - tokens/**
             add:
-              - added: '*.yml'
+              - added: '/*.yml'
             update:
-              - modified: '*.yml'
+              - modified: '/*.yml'
             remove:
-              - deleted: '*.yml'
+              - deleted: '/*.yml'
 
       - name: assign Add Token label
         if: steps.filter.outputs.add == 'true'
@@ -39,17 +39,3 @@ jobs:
         uses: andymckay/labeler@1.0.4
         with:
           add-labels: "remove token"
-
-  pr-checks:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: actions/setup-node@v2
-        with:
-          node-version: lts/*
-          cache: yarn
-
-      - run: |
-          yarn install --frozen-lockfile
-          yarn test
