@@ -5,7 +5,6 @@ extensions:
   address: "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
   assetContract: https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
   bridgeContract: https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7
-  coingeckoId: pancakeswap
 tags:
   - wrapped
   - wormhole

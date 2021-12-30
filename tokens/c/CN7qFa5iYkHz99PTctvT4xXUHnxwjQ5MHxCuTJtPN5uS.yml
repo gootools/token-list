@@ -2,7 +2,6 @@ symbol: BOKU
 name: BOKU
 decimals: 9
 extensions:
-  coingeckoId: boryoku-dragonz
   coinmarketcap: https://coinmarketcap.com/currencies/boku/
   serumV3Usdc: Dvm8jjdAy8uyXn9WXjS2p1mcPeFTuYS6yW2eUL9SJE8p
   twitter: https://twitter.com/BoryokuDragonz

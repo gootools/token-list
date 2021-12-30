@@ -2,6 +2,5 @@ symbol: SBNK
 name: Solbank
 decimals: 6
 extensions:
-  coingeckoId: solblank
   twitter: https://twitter.com/solbankapp
   website: http://solbank.app/
