@@ -1,18 +1,22 @@
 const { mkdir, writeFile } = require("fs/promises");
 const compile = require("./compile");
+const { join } = require("path");
 
 (async () => {
   const output = await compile();
 
-  console.log(output);
+  const dir = join(__dirname, "../out/v1");
 
-  await mkdir("out", { recursive: true });
+  await mkdir(dir, { recursive: true });
 
   await Promise.all(
     output.flatMap((item) =>
       Promise.all([
-        writeFile(`out/${item.cluster}.json`, JSON.stringify(item, null, 2)),
-        writeFile(`out/${item.cluster}.min.json`, JSON.stringify(item)),
+        writeFile(
+          join(dir, `${item.cluster}.json`),
+          JSON.stringify(item, null, 2)
+        ),
+        writeFile(join(dir, `${item.cluster}.min.json`), JSON.stringify(item)),
       ])
     )
   );
