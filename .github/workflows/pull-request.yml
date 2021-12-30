@@ -16,11 +16,11 @@ jobs:
             shared: &shared
               - tokens/**
             add:
-              - added: '/*.yml'
+              - added: '**'
             update:
-              - modified: '/*.yml'
+              - modified: '**'
             remove:
-              - deleted: '/*.yml'
+              - deleted: '**'
 
       - name: assign Add Token label
         if: steps.filter.outputs.add == 'true'
