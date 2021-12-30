@@ -1,8 +1,10 @@
 symbol: OLY
 name: Solympic
-decimals: 4
+decimals: 9
 tags:
   - community-token
   - oly
   - sports-token
   - social-token
+clusters:
+  - devnet
