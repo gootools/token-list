@@ -29,7 +29,7 @@ jobs:
           add-labels: "add token"
 
       - name: assign Update Token label
-        if: steps.filter.outputs.update == 'true'
+        if: steps.filter.outputs.update == 'true' && steps.filter.outputs.add != 'true'
         uses: andymckay/labeler@1.0.4
         with:
           add-labels: "update token"
