@@ -36,10 +36,8 @@ const re = RegExp(/(https?|ipfs):/);
 const Website = define("Website", (url) => re.test(new URL(url).protocol));
 
 let coingeckoIdList;
-
 // no async :( https://github.com/ianstormtaylor/superstruct/issues/48
-// const CoinGeckoId = define("CoinGeckoId", (id) => coingeckoIdList.has(id));
-const CoinGeckoId = define("CoinGeckoId", (id) => true);
+const CoinGeckoId = define("CoinGeckoId", (id) => coingeckoIdList.has(id));
 
 const Token = object({
   name: string(),

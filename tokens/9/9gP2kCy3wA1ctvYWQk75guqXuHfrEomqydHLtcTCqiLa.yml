@@ -5,7 +5,6 @@ extensions:
   address: "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
   assetContract: https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
   bridgeContract: https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7
-  coingeckoId: binance-coin
   serumV3Usdc: 4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f
   serumV3Usdt: FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV
 tags:

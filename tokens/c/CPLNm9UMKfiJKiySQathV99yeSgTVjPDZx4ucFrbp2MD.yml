@@ -5,7 +5,6 @@ extensions:
   address: "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
   assetContract: https://etherscan.io/address/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
-  coingeckoId: synthetix-network-token
 tags:
   - wrapped
   - wormhole
