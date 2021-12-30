@@ -2728,7 +2728,7 @@
     "solana",
     "spl"
   ],
-  "timestamp": "2021-12-30T13:03:58.434Z",
+  "timestamp": "2021-12-30T13:29:21.150Z",
   "tokens": {
     "128U4NbjWptP3GTg1NdgDRdeGVZpiiqvTgdELffYngaR": {
       "symbol": "FSD",
@@ -3383,15 +3383,6 @@
         "leveraged"
       ]
     },
-    "2D9iaJ5Rgb3R6DJ4v9Wd1CMEFSogBgEuReoEnGrgvquM": {
-      "symbol": "GUE",
-      "name": "GUERRERO",
-      "decimals": 9,
-      "tags": [
-        "gamefi",
-        "game-token"
-      ]
-    },
     "2DDyLzN1pxVddhkgZYJdJH6YFUbeSVPFZBMSxcLswwap": {
       "symbol": "SOUP",
       "name": "GoodSoup",
@@ -3411,6 +3402,15 @@
       "decimals": 9,
       "tags": [
         "utility-token"
+      ]
+    },
+    "2D9iaJ5Rgb3R6DJ4v9Wd1CMEFSogBgEuReoEnGrgvquM": {
+      "symbol": "GUE",
+      "name": "GUERRERO",
+      "decimals": 9,
+      "tags": [
+        "gamefi",
+        "game-token"
       ]
     },
     "2DKqMEPNGDuooM8ZydBQAJSPK695mNjC8KKUfJdzHe8A": {
@@ -6387,11 +6387,6 @@
         "ERC20"
       ]
     },
-    "3Qug1jMgAhLvo8A95BVAwtYXfKct3Bz3iw4aMFqGfs9p": {
-      "symbol": "SCAM_9BFF",
-      "name": "SCAM TOKEN PLEASE IGNORE",
-      "decimals": 0
-    },
     "3RBYvg79eGAvzq3BeC7u4SDqtr82Yb4wDimbVPxmSQwL": {
       "symbol": "MAHT",
       "name": "Mahalo",
@@ -6399,6 +6394,11 @@
       "tags": [
         "social-token"
       ]
+    },
+    "3Qug1jMgAhLvo8A95BVAwtYXfKct3Bz3iw4aMFqGfs9p": {
+      "symbol": "SCAM_9BFF",
+      "name": "SCAM TOKEN PLEASE IGNORE",
+      "decimals": 0
     },
     "3RDQ9dBYwb2LxNsEHM6spWYzkL4sgafgBBArtaN5gZ8A": {
       "symbol": "NCHC",
@@ -7823,6 +7823,21 @@
         "lp-token"
       ]
     },
+    "2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2": {
+      "symbol": "wPOLK_v1",
+      "name": "Polkamarkets (Wormhole v1)",
+      "decimals": 9,
+      "extensions": {
+        "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+        "assetContract": "https://etherscan.io/address/0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "coingeckoId": "polkamarkets"
+      },
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ]
+    },
     "3pX59cis3ZXnX6ZExPoUQjpvJVspmj4YavtUmpTpkB33": {
       "symbol": "Chicks",
       "name": "SolChick",
@@ -7977,6 +7992,15 @@
         "exchange-token"
       ]
     },
+    "3vCtw56GedaqNhZQniJRoCFFZwnABrtcBqmK8RHVz1kt": {
+      "symbol": "VVC",
+      "name": "ViaViaCoin",
+      "decimals": 0,
+      "tags": [
+        "matching",
+        "social-token"
+      ]
+    },
     "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
       "symbol": "AAVE",
       "name": "Aave Token (Wormhole)",
@@ -7992,15 +8016,6 @@
       "tags": [
         "wrapped",
         "wormhole"
-      ]
-    },
-    "3vCtw56GedaqNhZQniJRoCFFZwnABrtcBqmK8RHVz1kt": {
-      "symbol": "VVC",
-      "name": "ViaViaCoin",
-      "decimals": 0,
-      "tags": [
-        "matching",
-        "social-token"
       ]
     },
     "3vDfXEw3MZQgjYpLbjoZDYmgVci16CsC6ZDLgUzmcKR2": {
@@ -8088,14 +8103,6 @@
         "website": "https://skem.finance/"
       }
     },
-    "3xDhNZt1aTEuwgeLrxmcqbkZBNyDgXoWVzJqUFVtcP2S": {
-      "symbol": "RND",
-      "name": "Random Token",
-      "decimals": 0,
-      "tags": [
-        "social-token"
-      ]
-    },
     "3xVf2hPbkE5TuZNUPLQXFgFLD4LpvCM45BodbPmnpSSV": {
       "symbol": "sBull",
       "name": "SolBull - GoPromotedToken",
@@ -8106,6 +8113,14 @@
       },
       "tags": [
         "Utility-Token"
+      ]
+    },
+    "3xDhNZt1aTEuwgeLrxmcqbkZBNyDgXoWVzJqUFVtcP2S": {
+      "symbol": "RND",
+      "name": "Random Token",
+      "decimals": 0,
+      "tags": [
+        "social-token"
       ]
     },
     "3xXMjiMyu4hthrVWmsxvBrKtehBWFgSKRnGB9Je4mmdA": {
@@ -8182,6 +8197,14 @@
         "lp-token"
       ]
     },
+    "42jcPenNUYhNftUd9WdBtzjxpU7QckkYG8togt7d8YSB": {
+      "symbol": "CHOCG",
+      "name": "Chocolate Gerbil",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
+    },
     "42gecM46tdSiYZN2CK1ek5raCxnzQf1xfhoKAf3F7Y5k": {
       "symbol": "wSLP_v1",
       "name": "Small Love Potion (Wormhole v1)",
@@ -8195,14 +8218,6 @@
       "tags": [
         "wrapped",
         "wormhole"
-      ]
-    },
-    "42jcPenNUYhNftUd9WdBtzjxpU7QckkYG8togt7d8YSB": {
-      "symbol": "CHOCG",
-      "name": "Chocolate Gerbil",
-      "decimals": 0,
-      "tags": [
-        "social-token"
       ]
     },
     "42pr4AkwMzHRspr8VXmP9mfaV8QP21WptmWA3SjNfAxS": {
@@ -8430,14 +8445,6 @@
         "website": "https://blocities.finance"
       }
     },
-    "47gavssnzGQLTUexBZyKqUh9b2iixymoJ9LpT9muGvPD": {
-      "symbol": "SHIBVS",
-      "name": "Shiba verse",
-      "decimals": 0,
-      "tags": [
-        "social-token"
-      ]
-    },
     "4811JP9i35zgAxSFZjGXQwew6xd1qSBE4xdMFik2J14Z": {
       "symbol": "wROOM_v1",
       "name": "OptionRoom Token (Wormhole v1)",
@@ -8451,6 +8458,14 @@
       "tags": [
         "wrapped",
         "wormhole"
+      ]
+    },
+    "47gavssnzGQLTUexBZyKqUh9b2iixymoJ9LpT9muGvPD": {
+      "symbol": "SHIBVS",
+      "name": "Shiba verse",
+      "decimals": 0,
+      "tags": [
+        "social-token"
       ]
     },
     "48AEwauAHsJibyt3WqjQ6EoHnFBcnyHASfo7vB2eCXPS": {
@@ -8708,17 +8723,6 @@
         "solend"
       ]
     },
-    "4D2umdRkmjgsFj4Vf9foJGMkTjNQ41jXaGuAL3xb4dQj": {
-      "symbol": "FLX",
-      "name": "Fluxx",
-      "decimals": 9,
-      "extensions": {
-        "website": "https://fluxx.webnode.sk/"
-      },
-      "tags": [
-        "token"
-      ]
-    },
     "4DHywS5EjUTF5AYisPZiJbWcCV4gfpH98oKxpgyKRnnQ": {
       "symbol": "wMATIC_v1",
       "name": "Matic Token (Wormhole v1)",
@@ -8732,6 +8736,17 @@
       "tags": [
         "wrapped",
         "wormhole"
+      ]
+    },
+    "4D2umdRkmjgsFj4Vf9foJGMkTjNQ41jXaGuAL3xb4dQj": {
+      "symbol": "FLX",
+      "name": "Fluxx",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://fluxx.webnode.sk/"
+      },
+      "tags": [
+        "token"
       ]
     },
     "4DSym9K22MV1b9eAdA5udXAD2hWTpAHGhFNhgXAQRqph": {
@@ -9141,6 +9156,14 @@
         "social-token"
       ]
     },
+    "4QHgnsUhyM4wZUhnHpMBcH37VBr81Ka3L8o1t34yQAfR": {
+      "symbol": "MOCO",
+      "name": "Monarch Coin",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
+    },
     "4PKZftmFS776BSwnDhhwfsxgLxtFiHpoErNdz9rAdxhu": {
       "symbol": "KUSH",
       "name": "Kush Coin",
@@ -9157,12 +9180,20 @@
         "social-token"
       ]
     },
-    "4QHgnsUhyM4wZUhnHpMBcH37VBr81Ka3L8o1t34yQAfR": {
-      "symbol": "MOCO",
-      "name": "Monarch Coin",
-      "decimals": 0,
+    "4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV": {
+      "symbol": "AGTE",
+      "name": "Agronomist coin",
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "agronomist",
+        "discord": "https://discord.gg/tR45QftB6K",
+        "medium": "https://medium.com/@agronomist.tech",
+        "serumV3Usdc": "Ci3wLTY3X9iuMxDGErSNwfWKcrhwPMugk8yWTGBvEzF",
+        "twitter": "https://twitter.com/AgronomistTech",
+        "website": "https://agronomist.tech"
+      },
       "tags": [
-        "social-token"
+        "utility-token"
       ]
     },
     "4QSK13NTKxTBExbMjHFsj3QfHBn4Hfp3DGLSba8GvFvh": {
@@ -9178,22 +9209,6 @@
         "collateral-tokens",
         "lending",
         "tulip-protocol"
-      ]
-    },
-    "4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV": {
-      "symbol": "AGTE",
-      "name": "Agronomist coin",
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "agronomist",
-        "discord": "https://discord.gg/tR45QftB6K",
-        "medium": "https://medium.com/@agronomist.tech",
-        "serumV3Usdc": "Ci3wLTY3X9iuMxDGErSNwfWKcrhwPMugk8yWTGBvEzF",
-        "twitter": "https://twitter.com/AgronomistTech",
-        "website": "https://agronomist.tech"
-      },
-      "tags": [
-        "utility-token"
       ]
     },
     "4R8DBzZEzjBQzPJe4qqaxXM97am7unGM1ZYfviS6oSFe": {
@@ -9491,17 +9506,17 @@
         "social-token"
       ]
     },
-    "4YRtGRmbFZVzqetnJge9cPTA7PJpK51fyv8huwbJAzGt": {
-      "symbol": "PEP",
-      "name": "Pepega Coin",
+    "4Yeb5am94p8qQBWJzWE5qafoSXUnEUCxAA9RSLYvQ1Ck": {
+      "symbol": "KIRB",
+      "name": "KirbKoin",
       "decimals": 0,
       "tags": [
         "social-token"
       ]
     },
-    "4Yeb5am94p8qQBWJzWE5qafoSXUnEUCxAA9RSLYvQ1Ck": {
-      "symbol": "KIRB",
-      "name": "KirbKoin",
+    "4YRtGRmbFZVzqetnJge9cPTA7PJpK51fyv8huwbJAzGt": {
+      "symbol": "PEP",
+      "name": "Pepega Coin",
       "decimals": 0,
       "tags": [
         "social-token"
@@ -9686,16 +9701,6 @@
         "social-token"
       ]
     },
-    "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y": {
-      "symbol": "SNY",
-      "name": "Synthetify",
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "synthetify-token",
-        "twitter": "https://twitter.com/synthetify",
-        "website": "https://synthetify.io/"
-      }
-    },
     "4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu": {
       "symbol": "SWARM",
       "name": "MIM",
@@ -9707,6 +9712,16 @@
         "telegram": "https://t.me/mimswarm",
         "twitter": "https://twitter.com/mimswarm",
         "website": "https://mim-swarm.com"
+      }
+    },
+    "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y": {
+      "symbol": "SNY",
+      "name": "Synthetify",
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "synthetify-token",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
       }
     },
     "4dzDhawz7bHfDDfBpbDrLeDu6T7vZEtmmyQtn9Df2PRa": {
@@ -9764,6 +9779,18 @@
         "meme-token"
       ]
     },
+    "4evENxfLeUDk24nrqzMp4gkR3kPxCMeQuCeftjgd66BD": {
+      "symbol": "SBOOBS",
+      "name": "Solana Boobs",
+      "decimals": 9,
+      "extensions": {
+        "twitter": "https://twitter.com/solanaboobs",
+        "website": "https://www.solanaboobs.com/"
+      },
+      "tags": [
+        "utility-token"
+      ]
+    },
     "4erbVWFvdvS5P8ews7kUjqfpCQbA8vurnWyvRLsnZJgv": {
       "symbol": "waLINK_v1",
       "name": "Aave interest bearing LINK (Wormhole v1)",
@@ -9777,18 +9804,6 @@
       "tags": [
         "wrapped",
         "wormhole"
-      ]
-    },
-    "4evENxfLeUDk24nrqzMp4gkR3kPxCMeQuCeftjgd66BD": {
-      "symbol": "SBOOBS",
-      "name": "Solana Boobs",
-      "decimals": 9,
-      "extensions": {
-        "twitter": "https://twitter.com/solanaboobs",
-        "website": "https://www.solanaboobs.com/"
-      },
-      "tags": [
-        "utility-token"
       ]
     },
     "4ezHExHThrwnnoqKcMNbUwcVYXzdkDerHFGfegnTqA2E": {
@@ -10241,20 +10256,20 @@
         "social-token"
       ]
     },
+    "4pbWFHwDaci7RhJPNjtravxVUNdUiuFUwas2bzB62hBf": {
+      "symbol": "ZSOL",
+      "name": "ZeNNSol",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
+    },
     "4pLFiemidbyyiGzP4C7jSpnLabCaZmJWTGeSnet7pwBW": {
       "symbol": "TQSI",
       "name": "TemQueSerInvestigado",
       "decimals": 0,
       "tags": [
         "investigation",
-        "social-token"
-      ]
-    },
-    "4pbWFHwDaci7RhJPNjtravxVUNdUiuFUwas2bzB62hBf": {
-      "symbol": "ZSOL",
-      "name": "ZeNNSol",
-      "decimals": 0,
-      "tags": [
         "social-token"
       ]
     },
@@ -10624,14 +10639,6 @@
         "team-token"
       ]
     },
-    "4xGGBuyz7r7ps6Kb2Xt8Nh7B6hcGxTaC1pYvcxXJ83YG": {
-      "symbol": "TORO",
-      "name": "TORO Coin",
-      "decimals": 0,
-      "tags": [
-        "social-token"
-      ]
-    },
     "4xT2BPEh3GY5bJveNTngSTqstH5SfH2zAQYAGjfZC8Lq": {
       "symbol": "JDM",
       "name": "JapaneseDomesticMarket Token",
@@ -10639,6 +10646,14 @@
       "tags": [
         "community-token",
         "tokenomics"
+      ]
+    },
+    "4xGGBuyz7r7ps6Kb2Xt8Nh7B6hcGxTaC1pYvcxXJ83YG": {
+      "symbol": "TORO",
+      "name": "TORO Coin",
+      "decimals": 0,
+      "tags": [
+        "social-token"
       ]
     },
     "4xh8iC54UgaNpY4h34rxfZBSc9L2fBB8gWcYtDGHjxhN": {
@@ -10703,18 +10718,6 @@
         "social-token"
       ]
     },
-    "51LAPRbcEvheteGQjSgAFV6rrEvjL4P2igvzPH8bu88": {
-      "symbol": "SNS",
-      "name": "SynesisOne",
-      "decimals": 3,
-      "extensions": {
-        "twitter": "https://twitter.com/synesis_one",
-        "website": "https://www.synesis.one/"
-      },
-      "tags": [
-        "utility-token"
-      ]
-    },
     "51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg": {
       "symbol": "APEX",
       "name": "APEX",
@@ -10726,6 +10729,18 @@
         "twitter": "https://twitter.com/apeXit_finance",
         "website": "https://apexit.finance/"
       }
+    },
+    "51LAPRbcEvheteGQjSgAFV6rrEvjL4P2igvzPH8bu88": {
+      "symbol": "SNS",
+      "name": "SynesisOne",
+      "decimals": 3,
+      "extensions": {
+        "twitter": "https://twitter.com/synesis_one",
+        "website": "https://www.synesis.one/"
+      },
+      "tags": [
+        "utility-token"
+      ]
     },
     "52NggxAXyBqp32P2fpdvcTrR1b3mcasBBkdjwzLUXjWN": {
       "symbol": "EZC",
@@ -10816,17 +10831,17 @@
         "tokenized-invitation"
       ]
     },
-    "55EZVKbY9u9vdouob88QiKQ4g9nfYUoAu7aWQUiuQ8pc": {
-      "symbol": "ZKB",
-      "name": "KolaZoin",
+    "55cVxgRyn4WS6dTdzfNepn2374v46xRUdk31sH1eYi7R": {
+      "symbol": "CLR",
+      "name": "Celerity",
       "decimals": 0,
       "tags": [
         "social-token"
       ]
     },
-    "55cVxgRyn4WS6dTdzfNepn2374v46xRUdk31sH1eYi7R": {
-      "symbol": "CLR",
-      "name": "Celerity",
+    "55EZVKbY9u9vdouob88QiKQ4g9nfYUoAu7aWQUiuQ8pc": {
+      "symbol": "ZKB",
+      "name": "KolaZoin",
       "decimals": 0,
       "tags": [
         "social-token"
@@ -11185,17 +11200,6 @@
         "website": "http://galaxypanda.space"
       }
     },
-    "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o": {
-      "symbol": "LIZARD",
-      "name": "Lizard Token",
-      "decimals": 4,
-      "extensions": {
-        "coingeckoId": "lizard-token",
-        "discord": "https://discord.gg/zMvCkck2k2",
-        "twitter": "https://twitter.com/Lizard_Token",
-        "website": "http://www.lizardToken.xyz"
-      }
-    },
     "5Eth7YxeKCKEke37RQvXwBukr1HS6LpJV5Tu99m8Xq7M": {
       "symbol": "WJF",
       "name": "We're Just Friends",
@@ -11209,6 +11213,17 @@
         "Friends",
         "MEME"
       ]
+    },
+    "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o": {
+      "symbol": "LIZARD",
+      "name": "Lizard Token",
+      "decimals": 4,
+      "extensions": {
+        "coingeckoId": "lizard-token",
+        "discord": "https://discord.gg/zMvCkck2k2",
+        "twitter": "https://twitter.com/Lizard_Token",
+        "website": "http://www.lizardToken.xyz"
+      }
     },
     "5EvkywasgapiYDtoAdfvFoVnzQPN1bsap4RUyoLyY9fB": {
       "symbol": "RWC",
@@ -11368,18 +11383,6 @@
         "wormhole"
       ]
     },
-    "5JvWhg6s9wLqeEwQydi3QhXF9x2WxywCTTR8n6MiJus3": {
-      "symbol": "STE",
-      "name": "Ernst Stelter Coin",
-      "decimals": 9,
-      "extensions": {
-        "website": "https://peerstudios.net/"
-      },
-      "tags": [
-        "community-token",
-        "social-token"
-      ]
-    },
     "5K1JtWpdSksVKaL6R2DuLpCDAjzxK6sq2CpXaXDWHVLg": {
       "symbol": "YORK",
       "name": "Yorkipoo",
@@ -11392,6 +11395,18 @@
       "tags": [
         "community-token",
         "meme-token",
+        "social-token"
+      ]
+    },
+    "5JvWhg6s9wLqeEwQydi3QhXF9x2WxywCTTR8n6MiJus3": {
+      "symbol": "STE",
+      "name": "Ernst Stelter Coin",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://peerstudios.net/"
+      },
+      "tags": [
+        "community-token",
         "social-token"
       ]
     },
@@ -11481,6 +11496,14 @@
         "website": "https://capitalfusion.io/"
       }
     },
+    "5MmPuS9D1iQwhqpanamkYppRS9J2iZpD5rpum2mHFux8": {
+      "symbol": "MAEL",
+      "name": "Maelstromdal Token",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
+    },
     "5LoM1CvGUgv2FAPgt6HLbWtPDvatuLBZVQURn7zqHMzM": {
       "symbol": "NDCT",
       "name": "NandoCarter",
@@ -11488,14 +11511,6 @@
       "tags": [
         "social-token",
         "utility-token"
-      ]
-    },
-    "5MmPuS9D1iQwhqpanamkYppRS9J2iZpD5rpum2mHFux8": {
-      "symbol": "MAEL",
-      "name": "Maelstromdal Token",
-      "decimals": 0,
-      "tags": [
-        "social-token"
       ]
     },
     "5MoDJmq3JqsNnottRdot3WHmhmD6h8VRodqsBKVu9LPk": {
@@ -11526,6 +11541,11 @@
         "wormhole"
       ]
     },
+    "5P8fWyGpwNhScv3hJCiSSBKWpo7sYR954AddefEvqMWM": {
+      "symbol": "MNL",
+      "name": "MANUEL",
+      "decimals": 9
+    },
     "5Ne8szYZGGcXByFQA4zNBqJaWNdeTcJYAf2ZDLFfjVdA": {
       "symbol": "TIGER",
       "name": "Tiger Coin",
@@ -11536,11 +11556,6 @@
         "non-nft",
         "nft"
       ]
-    },
-    "5P8fWyGpwNhScv3hJCiSSBKWpo7sYR954AddefEvqMWM": {
-      "symbol": "MNL",
-      "name": "MANUEL",
-      "decimals": 9
     },
     "5P8qGxw7GuhhoLs6T67mfwLdNMotmLXxBWkpbeD8cmK3": {
       "symbol": "SirT",
@@ -13226,14 +13241,6 @@
         "utility-token"
       ]
     },
-    "61bW17b7WaWgA916RusHpzqTw9gZKf84sWN2efhtCrq": {
-      "symbol": "DODO",
-      "name": "Dodo Coin",
-      "decimals": 9,
-      "extensions": {
-        "discord": "https://discord.gg/wVAxxw3rn4"
-      }
-    },
     "62FWgS4XaMJrUrAYw7mHMRye4iY9hqgqnJLBiT8QyPJv": {
       "symbol": "COFFEE",
       "name": "CoffeeMaker",
@@ -14821,20 +14828,6 @@
       },
       "tags": [
         "dev-token"
-      ]
-    },
-    "6g1VPx4L1U69qkAcQyRh9b9UtsT7FboA4maeBb62fCY4": {
-      "symbol": "POT",
-      "name": "PotCoin",
-      "decimals": 9,
-      "extensions": {
-        "twitter": "https://twitter.com/Potcoins_",
-        "website": "https://www.potcoin.space/"
-      },
-      "tags": [
-        "community-token",
-        "social-token",
-        "WEED"
       ]
     },
     "6g6GDxiHh6y4DSnmUEMCU3Wk111RPTAoNgUwZT7R7x7E": {
@@ -17605,6 +17598,17 @@
         "social-token"
       ]
     },
+    "7grgNP3tAJh7DRELmotHzC5Efth4e4SoBvgmFYTX9jPB": {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "decimals": 8,
+      "extensions": {
+        "website": "https://www.digitalassets.ag/UnderlyingDetails?AMD"
+      },
+      "tags": [
+        "tokenized-stock"
+      ]
+    },
     "7gudXHNwesV7Sxposo5c2esj7MJ7M5HCaXAkMyYaZipd": {
       "symbol": "ALP",
       "name": "AlpCoin",
@@ -19953,14 +19957,6 @@
         "NFTs"
       ]
     },
-    "8Sv5TQPQtv3gA9D5ucp7XoG8TDGbo4UNBhACcg36G9iY": {
-      "symbol": "NOOB",
-      "name": "NOOB COIN",
-      "decimals": 0,
-      "tags": [
-        "social-token"
-      ]
-    },
     "8SvvzDMu5jqcBhfdYZM1zDjDG5YGYrsNmGsPzTm4bFYU": {
       "symbol": "QIA",
       "name": "Qia Coin",
@@ -20007,6 +20003,20 @@
       "tags": [
         "community-token",
         "social-token"
+      ]
+    },
+    "6g1VPx4L1U69qkAcQyRh9b9UtsT7FboA4maeBb62fCY4": {
+      "symbol": "POT",
+      "name": "PotCoin",
+      "decimals": 9,
+      "extensions": {
+        "twitter": "https://twitter.com/Potcoins_",
+        "website": "https://www.potcoin.space/"
+      },
+      "tags": [
+        "community-token",
+        "social-token",
+        "WEED"
       ]
     },
     "8TQdiAzdZZEtkWUR8Zj1tqDYGPv9TR1XjPqrew39Vq9V": {
@@ -21591,17 +21601,6 @@
         "social-token"
       ]
     },
-    "91fSFQsPzMLat9DHwLdQacW3i3EGnWds5tA5mt7yLiT9": {
-      "symbol": "Unlimited Energy",
-      "name": "Unlimited Energy",
-      "decimals": 9,
-      "extensions": {
-        "website": "https://solible.com/"
-      },
-      "tags": [
-        "nft"
-      ]
-    },
     "91z91RukFM16hyEUCXuwMQwp2BW3vanNG5Jh5yj6auiJ": {
       "symbol": "BVOL",
       "name": "BVOL",
@@ -21618,6 +21617,17 @@
         "twitter": "https://twitter.com/piranhasol",
         "website": "http://wwww.piranha.network"
       }
+    },
+    "91fSFQsPzMLat9DHwLdQacW3i3EGnWds5tA5mt7yLiT9": {
+      "symbol": "Unlimited Energy",
+      "name": "Unlimited Energy",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://solible.com/"
+      },
+      "tags": [
+        "nft"
+      ]
     },
     "92bcERNtUmuaJ6mwLSxYHZYSph37jdKxRdoYNxpcYNPp": {
       "symbol": "BTC-mSOL",
@@ -21646,6 +21656,14 @@
         "twitter": "https://twitter.com/fomokitty",
         "website": "https://fomokitty.com"
       }
+    },
+    "8Sv5TQPQtv3gA9D5ucp7XoG8TDGbo4UNBhACcg36G9iY": {
+      "symbol": "NOOB",
+      "name": "NOOB COIN",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
     },
     "939KAUTAyNdmpahj1vQmbS67D7auhyJnkMt4sv2tzBwU": {
       "symbol": "SHIMOO",
@@ -23653,15 +23671,6 @@
         "social-token"
       ]
     },
-    "9mgCWxChSM5sWkRd9xA6ocNkJ48s5ySo5umQ7gfovHpW": {
-      "symbol": "SMIL",
-      "name": "Smile",
-      "decimals": 9,
-      "tags": [
-        "community-token",
-        "social-token"
-      ]
-    },
     "9mnngHc1pAt5x6vHz4JRLexVWjGk9j7eJWs9QkJzh9RH": {
       "symbol": "jm",
       "name": "JackCoin",
@@ -23681,6 +23690,15 @@
       "tags": [
         "NFT",
         "utility-token"
+      ]
+    },
+    "9mgCWxChSM5sWkRd9xA6ocNkJ48s5ySo5umQ7gfovHpW": {
+      "symbol": "SMIL",
+      "name": "Smile",
+      "decimals": 9,
+      "tags": [
+        "community-token",
+        "social-token"
       ]
     },
     "9mxv3qiMZdcaBeFBrNqiP7WFZLJMFZDeQEnNpDzcWpa9": {
@@ -23728,21 +23746,13 @@
         "social-token"
       ]
     },
-    "2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC": {
-      "symbol": "MM",
-      "name": "Million",
-      "decimals": 8,
+    "61bW17b7WaWgA916RusHpzqTw9gZKf84sWN2efhtCrq": {
+      "symbol": "DODO",
+      "name": "Dodo Coin",
+      "decimals": 9,
       "extensions": {
-        "coingeckoId": "million",
-        "discord": "http://app.milliontoken.org/discord",
-        "reddit": "https://www.reddit.com/r/milliontoken/",
-        "twitter": "https://twitter.com/Million__Token",
-        "website": "https://www.milliontoken.org/"
-      },
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ]
+        "discord": "https://discord.gg/wVAxxw3rn4"
+      }
     },
     "9nQPYJvysyfnXhQ6nkK5V7sZG26hmDgusfdNQijRk5LD": {
       "symbol": "BOP-RAY",
@@ -35779,6 +35789,19 @@
         "utility-token"
       ]
     },
+    "DcvJP16Cw5oqTbtHmpJ4JGXaqBvV5m6eMZj5rGsFLpwU": {
+      "symbol": "BOOGI",
+      "name": "BABY OOGI",
+      "decimals": 4,
+      "extensions": {
+        "twitter": "https://twitter.com/babyoogi_",
+        "website": "https://babyoogi.xyz/"
+      },
+      "tags": [
+        "community-token",
+        "meme-token"
+      ]
+    },
     "DcqWM1BdgfUFktSKw8XC6qLAo2Ki2dUFXc1YYe67c8kD": {
       "symbol": "DRUGS",
       "name": "Cartel DRUGS",
@@ -35793,19 +35816,6 @@
         "meme-token",
         "stake-pool-token",
         "utility-token"
-      ]
-    },
-    "DcvJP16Cw5oqTbtHmpJ4JGXaqBvV5m6eMZj5rGsFLpwU": {
-      "symbol": "BOOGI",
-      "name": "BABY OOGI",
-      "decimals": 4,
-      "extensions": {
-        "twitter": "https://twitter.com/babyoogi_",
-        "website": "https://babyoogi.xyz/"
-      },
-      "tags": [
-        "community-token",
-        "meme-token"
       ]
     },
     "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9": {
@@ -37744,19 +37754,12 @@
         "general-token"
       ]
     },
-    "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak": {
-      "symbol": "AMPL",
-      "name": "Ampleforth (Wormhole)",
-      "decimals": 8,
-      "extensions": {
-        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-        "assetContract": "https://etherscan.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-        "coingeckoId": "ampleforth"
-      },
+    "2NZo5Dd1qJDTTP3HCMvTPeP3A2HjaZX1UBwv7kk8eNbe": {
+      "symbol": "BC",
+      "name": "Borneo Chicos",
+      "decimals": 0,
       "tags": [
-        "ethereum",
-        "wrapped"
+        "social-token"
       ]
     },
     "EHkfnhKLLTUqo1xMZLxhM9EusEgpN6RXPpZsGpUsewaa": {
@@ -40985,9 +40988,9 @@
         "wormhole"
       ]
     },
-    "2NZo5Dd1qJDTTP3HCMvTPeP3A2HjaZX1UBwv7kk8eNbe": {
-      "symbol": "BC",
-      "name": "Borneo Chicos",
+    "FPBj9Nq1PmbqzhMwkJLsweDyutoqABnnA6vXD2mWLCQA": {
+      "symbol": "WEND",
+      "name": "Wendpaaper",
       "decimals": 0,
       "tags": [
         "social-token"
@@ -42406,17 +42409,6 @@
         "community",
         "meme",
         "utility-token"
-      ]
-    },
-    "7grgNP3tAJh7DRELmotHzC5Efth4e4SoBvgmFYTX9jPB": {
-      "symbol": "AMD",
-      "name": "Advanced Micro Devices",
-      "decimals": 8,
-      "extensions": {
-        "website": "https://www.digitalassets.ag/UnderlyingDetails?AMD"
-      },
-      "tags": [
-        "tokenized-stock"
       ]
     },
     "FoFMZpggKZ9Eq8gS582Z98w5mqXTuLQRmYw9c3gVEKW7": {
@@ -45586,12 +45578,19 @@
         "meme-token"
       ]
     },
-    "FPBj9Nq1PmbqzhMwkJLsweDyutoqABnnA6vXD2mWLCQA": {
-      "symbol": "WEND",
-      "name": "Wendpaaper",
-      "decimals": 0,
+    "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak": {
+      "symbol": "AMPL",
+      "name": "Ampleforth (Wormhole)",
+      "decimals": 8,
+      "extensions": {
+        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "assetContract": "https://etherscan.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "coingeckoId": "ampleforth"
+      },
       "tags": [
-        "social-token"
+        "ethereum",
+        "wrapped"
       ]
     },
     "GveRVvWTUH1s26YxyjUnXh1J5mMdu5crC2K2uQy26KXi": {
@@ -49792,16 +49791,6 @@
         "website": "https://marinade.finance"
       }
     },
-    "maLen3sJGjSrWermkmjtD63jMwuDfD8kAZ6qtJ3JuYZ": {
-      "symbol": "MPT",
-      "name": "Male Privelege Token",
-      "decimals": 9,
-      "tags": [
-        "anti-authoritarian",
-        "De-Fi",
-        "underground-economy"
-      ]
-    },
     "meebAU3nZrU5PbUt3dVK6ExgbNWCUAkV7C3DaJKMZZ4": {
       "symbol": "MEEB",
       "name": "Meeb Coin",
@@ -52903,6 +52892,32 @@
         "utility-token"
       ]
     },
+    "maLen3sJGjSrWermkmjtD63jMwuDfD8kAZ6qtJ3JuYZ": {
+      "symbol": "MPT",
+      "name": "Male Privelege Token",
+      "decimals": 9,
+      "tags": [
+        "anti-authoritarian",
+        "De-Fi",
+        "underground-economy"
+      ]
+    },
+    "2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC": {
+      "symbol": "MM",
+      "name": "Million",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "million",
+        "discord": "http://app.milliontoken.org/discord",
+        "reddit": "https://www.reddit.com/r/milliontoken/",
+        "twitter": "https://twitter.com/Million__Token",
+        "website": "https://www.milliontoken.org/"
+      },
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ]
+    },
     "Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq": {
       "symbol": "KRW",
       "name": "Krown",
@@ -52925,21 +52940,6 @@
       "decimals": 0,
       "tags": [
         "social-token"
-      ]
-    },
-    "2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2": {
-      "symbol": "wPOLK_v1",
-      "name": "Polkamarkets (Wormhole v1)",
-      "decimals": 9,
-      "extensions": {
-        "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-        "assetContract": "https://etherscan.io/address/0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "coingeckoId": "polkamarkets"
-      },
-      "tags": [
-        "wrapped",
-        "wormhole"
       ]
     }
   }
