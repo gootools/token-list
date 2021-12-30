@@ -1,0 +1,7 @@
+symbol: LEAF
+name: Leaf Coin
+decimals: 0
+extensions:
+  website: https://perkypikas.com
+tags:
+  - utility-token

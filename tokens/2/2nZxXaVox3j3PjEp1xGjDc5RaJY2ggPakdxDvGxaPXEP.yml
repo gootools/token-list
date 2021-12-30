@@ -1,0 +1,8 @@
+symbol: ISPT
+name: Internet Service Provider Token
+decimals: 6
+extensions:
+  description: Internet Service Provider Token
+tags:
+  - community-token
+  - social-token

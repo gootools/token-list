@@ -2,6 +2,7 @@ symbol: GUA
 name: Gua Coin
 decimals: 0
 extensions:
+  twitter: https://twitter.com/snft2022
   website: https://solana-nft.io/
 tags:
   - meme-token

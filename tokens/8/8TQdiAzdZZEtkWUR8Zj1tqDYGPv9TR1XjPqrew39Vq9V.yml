@@ -1,0 +1,12 @@
+symbol: HYPE
+name: HypeProxy
+decimals: 7
+extensions:
+  discord: https://discord.gg/HYyGPe7
+  github: https://github.com/hypeproxy
+  medium: https://medium.com/@HypeProxy
+  telegram: https://t.me/hypeproxy_org
+  twitter: https://twitter.com/hypeproxyio
+  website: http://hypeproxy.org
+tags:
+  - utility-token

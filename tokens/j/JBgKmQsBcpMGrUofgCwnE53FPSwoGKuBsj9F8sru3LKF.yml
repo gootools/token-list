@@ -1,0 +1,9 @@
+symbol: NUFI
+name: Nu-Finance
+decimals: 9
+extensions:
+  twitter: https://twitter.com/nufi_official
+  website: https://nu.fi
+tags:
+  - community-token
+  - CEX-DEX

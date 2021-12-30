@@ -1,0 +1,14 @@
+symbol: ISLAMI
+name: ISLAMICOIN
+decimals: 7
+extensions:
+  description: ISLAMICOIN is a cryptocurrency for the global Muslim community
+  facebook: https://facebook.com/islamicoin
+  github: https://github.com/islamiblockchain
+  telegram: https://t.me/islamicoin1
+  twitter: https://twitter.com/islamicoin
+  website: https://islamicoin.finance/
+tags:
+  - community-token
+  - social-token
+  - utility-token

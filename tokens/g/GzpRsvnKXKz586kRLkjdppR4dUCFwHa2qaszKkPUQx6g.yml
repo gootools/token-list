@@ -1,0 +1,11 @@
+symbol: LOOT
+name: LOOT
+decimals: 6
+extensions:
+  discord: https://discord.gg/copsgame
+  twitter: https://twitter.com/copsdotgame
+  website: https://cops.game/
+tags:
+  - community-token
+  - social-token
+  - utility-token

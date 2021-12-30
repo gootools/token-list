@@ -1,0 +1,10 @@
+symbol: BECOIN
+name: Be Company
+decimals: 0
+extensions:
+  twitter: https://twitter.com/badoun
+  website: https://www.intengo.fr
+tags:
+  - community-token
+  - social-token
+  - utility-token

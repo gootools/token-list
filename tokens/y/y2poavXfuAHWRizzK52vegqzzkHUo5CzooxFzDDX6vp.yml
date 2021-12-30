@@ -1,0 +1,7 @@
+symbol: y-USDT-USDC
+name: Yield Saber LP Token (USDT-USDC)
+decimals: 6
+extensions:
+  website: https://bunnyducky.com/
+tags:
+  - yield-token

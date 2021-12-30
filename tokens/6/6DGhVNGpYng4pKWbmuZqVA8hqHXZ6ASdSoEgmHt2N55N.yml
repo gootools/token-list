@@ -1,0 +1,5 @@
+symbol: AGE
+name: Medieval Age Coin
+decimals: 2
+clusters:
+  - devnet

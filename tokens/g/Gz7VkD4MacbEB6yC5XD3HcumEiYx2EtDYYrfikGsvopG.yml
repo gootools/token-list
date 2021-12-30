@@ -1,5 +1,5 @@
 symbol: MATICpo
-name: Wrapped Matic (Wormhole from Polygon)
+name: Matic (Wormhole from Polygon)
 decimals: 8
 extensions:
   address: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"

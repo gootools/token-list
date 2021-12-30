@@ -1,0 +1,7 @@
+symbol: y-stSOL-2Pool
+name: Yield Mercurial LP Token (stSOL-2Pool)
+decimals: 12
+extensions:
+  website: https://bunnyducky.com/
+tags:
+  - yield-token

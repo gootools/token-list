@@ -1,0 +1,9 @@
+symbol: ROAC
+name: Retroactive
+decimals: 0
+extensions:
+  discord: https://discord.gg/g2swACkaWq
+  telegram: https://t.me/RetroactiveToken
+tags:
+  - social-token
+  - utility-token

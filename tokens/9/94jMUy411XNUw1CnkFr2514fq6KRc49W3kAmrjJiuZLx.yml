@@ -1,0 +1,10 @@
+symbol: SYXT
+name: SolanyxToken
+decimals: 9
+extensions:
+  discord: https://discord.gg/uVxJ6zebB3
+  telegram: https://t.me/solanyxofficial
+  twitter: https://twitter.com/solanyxnft
+  website: https://solanyx.com
+tags:
+  - utility-token

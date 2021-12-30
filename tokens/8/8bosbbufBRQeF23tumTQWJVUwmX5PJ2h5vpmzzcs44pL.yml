@@ -1,0 +1,9 @@
+symbol: URN
+name: URunner Coin
+decimals: 6
+extensions:
+  twitter: https://twitter.com/URunnerApp
+tags:
+  - community
+  - social-token
+  - urunner

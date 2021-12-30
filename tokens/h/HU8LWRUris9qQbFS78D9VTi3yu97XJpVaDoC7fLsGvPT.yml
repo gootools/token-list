@@ -1,0 +1,10 @@
+symbol: BOOTY
+name: Dope Pirates Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/dopepirates
+  twitter: https://twitter.com/dopepirates
+  website: https://dopepirates.com
+tags:
+  - meme-coin
+  - social-token

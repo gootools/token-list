@@ -1,0 +1,13 @@
+symbol: CGOLDR
+name: CryptoGoldRush
+decimals: 6
+extensions:
+  twitter: https://twitter.com/WavemStudios
+  website: https://medium.com/crypto-gold-rush
+tags:
+  - community-token
+  - lp-token
+  - media
+  - reward-token
+  - social-token
+  - utility-token

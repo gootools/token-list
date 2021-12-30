@@ -1,0 +1,7 @@
+symbol: y-UST-3Pool
+name: Yield Mercurial LP Token (UST-3Pool)
+decimals: 9
+extensions:
+  website: https://bunnyducky.com/
+tags:
+  - yield-token

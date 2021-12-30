@@ -1,0 +1,5 @@
+symbol: FIZZ
+name: FizzCoin
+decimals: 9
+tags:
+  - social-token

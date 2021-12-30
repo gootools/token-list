@@ -1,0 +1,7 @@
+symbol: y-wbBUSD-4Pool
+name: Yield Mercurial LP Token (wbBUSD-4Pool)
+decimals: 8
+extensions:
+  website: https://bunnyducky.com/
+tags:
+  - yield-token

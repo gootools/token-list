@@ -1,0 +1,11 @@
+symbol: BOOP
+name: Boopieverse
+decimals: 6
+extensions:
+  description: The official token powering the Boopieverse.
+  discord: https://discord.gg/u4es8yZrms
+  twitter: https://twitter.com/boopieverse
+  website: https://boopieverse.com/
+tags:
+  - nft-token
+  - utility-token

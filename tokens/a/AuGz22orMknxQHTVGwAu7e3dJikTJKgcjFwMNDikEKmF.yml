@@ -1,0 +1,11 @@
+symbol: GALA
+name: Gala (Wormhole)
+decimals: 8
+extensions:
+  address: "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
+  assetContract: https://etherscan.io/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da
+  bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
+  coingeckoId: gala
+tags:
+  - ethereum
+  - wrapped

@@ -1,0 +1,11 @@
+symbol: TOKE
+name: Tokemak (Wormhole)
+decimals: 8
+extensions:
+  address: "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
+  assetContract: https://etherscan.io/address/0x2e9d63788249371f1dfc918a52f8d799f4a38c94
+  bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
+  coingeckoId: tokemak
+tags:
+  - ethereum
+  - wrapped

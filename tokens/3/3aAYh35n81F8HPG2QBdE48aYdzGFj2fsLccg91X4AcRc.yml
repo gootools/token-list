@@ -1,8 +1,8 @@
-symbol: MAYA
-name: Maya
+symbol: CLASH
+name: Clash Of Cars
 decimals: 9
 extensions:
-  website: https://genezys.io
+  website: https://clashofcars.io
 tags:
   - community-token
   - solana-token

@@ -1,0 +1,7 @@
+symbol: $ZOOT
+name: Mutant Penguins Token
+decimals: 9
+extensions:
+  discord: http://discord.gg/FKPX3fjXRB
+  twitter: https://twitter.com/Mutant_Penguins
+  website: https://mutantpenguins.club/

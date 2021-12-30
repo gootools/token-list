@@ -1,0 +1,11 @@
+symbol: CO2
+name: CO2 Coin
+decimals: 2
+extensions:
+  facebook: https://www.facebook.com/vekin.th/
+  website: https://www.facebook.com/vekin.th/
+tags:
+  - co2-token
+  - utility-token
+clusters:
+  - devnet

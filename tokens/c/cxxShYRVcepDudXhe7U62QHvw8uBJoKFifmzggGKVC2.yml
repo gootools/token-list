@@ -2,10 +2,12 @@ symbol: CHICKS
 name: SolChicks
 decimals: 9
 extensions:
+  coingeckoId: solchicks-token
   description: The Leading Play-to-Earn Fantasy Game on Solana
   discord: https://discord.gg/solchicks
   telegram: https://t.me/solchicksnft
   twitter: https://twitter.com/SolChicksNFT
+  website: https://www.solchicks.io/
 tags:
   - community-token
   - gaming

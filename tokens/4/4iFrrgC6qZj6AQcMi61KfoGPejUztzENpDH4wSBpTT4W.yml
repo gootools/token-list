@@ -1,0 +1,9 @@
+symbol: BOHEM
+name: Gallery Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/BohemiaArtFair
+  website: https://bohemia.gallery
+tags:
+  - mint-token
+  - utility-token

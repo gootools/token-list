@@ -1,0 +1,9 @@
+symbol: MTP
+name: MetaPrimo
+decimals: 9
+extensions:
+  telegram: https://t.me/Meta_Primo
+  twitter: https://twitter.com/Meta_Primoi
+  website: https://www.metaprimo.io
+tags:
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: BETS
+name: BETS
+decimals: 9
+extensions:
+  twitter: https://twitter.com/solbets_io
+  website: https://www.solbets.io
+tags:
+  - NFT
+  - utility-token

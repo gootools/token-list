@@ -1,0 +1,8 @@
+symbol: SLUGGEN2
+name: Generation 2 Slug
+decimals: 0
+extensions:
+  description: This token lets you mint a generation 2 Sol Slug
+  twitter: https://twitter.com/SolSlugsNFT
+tags:
+  - community-token

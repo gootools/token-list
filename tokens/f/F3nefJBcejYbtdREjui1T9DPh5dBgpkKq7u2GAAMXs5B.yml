@@ -1,0 +1,12 @@
+symbol: AART
+name: ALL ART
+decimals: 6
+extensions:
+  discord: https://discord.gg/allart
+  github: https://github.com/allartprotocol
+  medium: https://allart.medium.com
+  telegram: https://t.me/allartprotocol
+  twitter: https://twitter.com/AllArtProtocol
+  website: https://all.art
+tags:
+  - utility-token

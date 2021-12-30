@@ -1,0 +1,12 @@
+symbol: SSK
+name: SolShark
+decimals: 9
+extensions:
+  discord: https://discord.io/solshark_sol
+  telegram: https://t.me/solshark_sol
+  twitter: https://twitter.com/sol_shark_sol
+  website: https://sol-shark.com
+tags:
+  - dex
+  - meme-token
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: BII
+name: Shebii Coin
+decimals: 0
+extensions:
+  website: https://shebii.com
+tags:
+  - community-token
+  - social-token
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: JINDO
+name: Solana Jindo Inu
+decimals: 9
+extensions:
+  telegram: https://t.me/soljindo
+  twitter: https://twitter.com/soljindo
+  website: https://www.soljindo.com/
+tags:
+  - meme-coin
+  - social-token

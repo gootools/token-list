@@ -1,7 +1,8 @@
-symbol: SEN
-name: Sen
+symbol: SNTR
+name: Sentre
 decimals: 9
 extensions:
+  coingeckoId: sentre
   discord: https://discord.gg/FyHJgQ7W
   medium: https://sentre.medium.com
   telegram: https://t.me/Sentre

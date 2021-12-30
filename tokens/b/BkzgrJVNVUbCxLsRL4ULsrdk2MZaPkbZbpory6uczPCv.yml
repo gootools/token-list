@@ -1,0 +1,9 @@
+symbol: MYCRA
+name: Mystery Crabs Coin
+decimals: 6
+extensions:
+  discord: https://discord.gg/TyeVKNBx
+  twitter: https://twitter.com/MysteryCrabsNFT
+tags:
+  - mysterycrabs
+  - nft-token

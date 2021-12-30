@@ -1,0 +1,10 @@
+symbol: KATAK
+name: Kataklop Network
+decimals: 9
+extensions:
+  description: Cryptomony specializing in the equestrian world
+  facebook: https://www.facebook.com/kataklopnetwork
+  website: https://crypto.kataklop.com
+tags:
+  - social-token
+  - utility-token

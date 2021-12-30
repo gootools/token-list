@@ -1,0 +1,9 @@
+symbol: CRBNT
+name: CarbonTAX
+decimals: 9
+extensions:
+  description: Token used to trade international carbon tax
+  website: https://cryptometeo.fr/
+tags:
+  - COMMERCE
+  - utility-token

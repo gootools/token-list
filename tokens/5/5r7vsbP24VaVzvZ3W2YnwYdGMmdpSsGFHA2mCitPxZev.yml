@@ -1,0 +1,8 @@
+symbol: VOLT
+name: Voltage Solana
+decimals: 4
+extensions:
+  discord: https://discord.gg/FFkmX5S9As
+  twitter: https://twitter.com/VoltageSolana
+tags:
+  - community-token

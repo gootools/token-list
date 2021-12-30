@@ -1,0 +1,8 @@
+symbol: DALI
+name: Fraktionalized Blockasset Legend Ali
+decimals: 3
+extensions:
+  vault: https://fraktion.art/vault/3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum
+  vaultPubkey: 3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum
+tags:
+  - fractionalized-nft

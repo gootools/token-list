@@ -1,0 +1,7 @@
+symbol: SKAL
+name: SkalCoin
+decimals: 0
+extensions:
+  github: https://github.com/Skaldhor/
+tags:
+  - social-token

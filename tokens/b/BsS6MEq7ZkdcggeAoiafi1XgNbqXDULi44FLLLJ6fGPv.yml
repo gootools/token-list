@@ -1,0 +1,7 @@
+symbol: MWRC
+name: MoonWar Coin
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet
