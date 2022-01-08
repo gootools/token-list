@@ -29,6 +29,9 @@
     "bridgesplit-fraction": {
       "count": 2
     },
+    "change-the-world": {
+      "count": 1
+    },
     "Cinovos": {
       "count": 1
     },
@@ -39,9 +42,12 @@
       "count": 1
     },
     "community-token": {
-      "count": 5
+      "count": 7
     },
     "company": {
+      "count": 1
+    },
+    "company-token": {
       "count": 1
     },
     "Cupon": {
@@ -53,11 +59,23 @@
     "DXDGM": {
       "count": 1
     },
+    "fabric": {
+      "count": 3
+    },
+    "game-currency": {
+      "count": 1
+    },
     "Game-Fi": {
+      "count": 1
+    },
+    "game-token": {
       "count": 1
     },
     "gamefi": {
       "count": 3
+    },
+    "GameFi": {
+      "count": 1
     },
     "gaming": {
       "count": 3
@@ -66,6 +84,9 @@
       "count": 1
     },
     "GHT": {
+      "count": 1
+    },
+    "governance-token": {
       "count": 1
     },
     "LGG": {
@@ -88,18 +109,27 @@
     "Metaverse": {
       "count": 1
     },
+    "MetaVerse": {
+      "count": 1
+    },
     "mongolian-token": {
       "count": 1
     },
     "nft": {
       "name": "nft",
       "description": "Non-fungible token",
-      "count": 1
+      "count": 2
     },
     "NFT": {
-      "count": 7
+      "count": 8
     },
     "nft-token": {
+      "count": 1
+    },
+    "oly": {
+      "count": 1
+    },
+    "payment-token": {
       "count": 1
     },
     "Perks": {
@@ -122,13 +152,19 @@
       "description": "Tokens that are used to gain access to an electronically restricted resource",
       "count": 1
     },
+    "social-my-new-token": {
+      "count": 1
+    },
     "social-token": {
-      "count": 10
+      "count": 17
     },
     "soical-token": {
       "count": 1
     },
     "SPL-token": {
+      "count": 1
+    },
+    "sports-token": {
       "count": 1
     },
     "stable-coin": {
@@ -138,6 +174,9 @@
       "name": "stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
       "count": 5
+    },
+    "synthetics": {
+      "count": 3
     },
     "test-token": {
       "count": 1
@@ -151,7 +190,7 @@
     "utility-token": {
       "name": "utility-token",
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens",
-      "count": 25
+      "count": 29
     },
     "vera-token": {
       "count": 1
@@ -172,7 +211,7 @@
     "solana",
     "spl"
   ],
-  "timestamp": "2021-12-30T13:46:45.519Z",
+  "timestamp": "2022-01-08T16:04:18.488Z",
   "tokens": {
     "2U3Mf4umT4CpLhhdwpfmGiktyvhdrLrNNv4z4GgsXNMe": {
       "symbol": "GENS",
@@ -208,12 +247,33 @@
       "name": "URA",
       "decimals": 9,
       "extensions": {
-        "website": "https://roboworld.io"
+        "website": "https://uranusx.io"
       },
       "tags": [
         "dao",
         "gaming",
         "gamefi",
+        "governance-token"
+      ]
+    },
+    "2zSBuTeYKYyRSyAQ2XW1VkaiqtkAe12Nz6VkqFKZEnKe": {
+      "symbol": "PERKS",
+      "name": "PERKS",
+      "decimals": 8,
+      "extensions": {
+        "website": "https://www.perkhero.com"
+      }
+    },
+    "3485gPZHaNvhXC15HqfSUojefN2xPfg5mJCrnY6BNU6T": {
+      "symbol": "VELORUM",
+      "name": "Singularity DAO",
+      "decimals": 9,
+      "extensions": {
+        "description": "Singularity Online DAO Token",
+        "twitter": "https://twitter.com/SingularityMeta",
+        "website": "https://singularityonline.app"
+      },
+      "tags": [
         "utility-token"
       ]
     },
@@ -247,6 +307,18 @@
       "decimals": 6,
       "tags": [
         "stablecoin"
+      ]
+    },
+    "3jFvJtQnEvpXTZ3rkaP7gFWzxGSpN1hRg2FkHvKX8Qbo": {
+      "symbol": "XESQ",
+      "name": "Xesque Dele",
+      "decimals": 9,
+      "tags": [
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "NFT",
+        "utility-token"
       ]
     },
     "3sJWs1uNphtHMVrqqP6foFxNTi1XLa6BZiyftq41y6kQ": {
@@ -398,6 +470,14 @@
         "utility-token"
       ]
     },
+    "6Mdq1QmqbWLejtSsvHVXc5HtTkztVTHgdb2EJUtCMRMq": {
+      "symbol": "XMT",
+      "name": "X-mas Token",
+      "decimals": 9,
+      "tags": [
+        "social-token"
+      ]
+    },
     "6W5L2kBemn9sLWNdpDqZkFU8CjHfRhHZuG4tpfexfWYp": {
       "symbol": "CHB",
       "name": "Cheeseburger",
@@ -539,6 +619,17 @@
       "extensions": {
         "website": "https://www.hatchgroup.co.uk/"
       }
+    },
+    "89fVzH7zgQoGpi8US3LGchvfc4tNP4vksYjW3dQ9Go8H": {
+      "symbol": "ANSD",
+      "name": "AntoSid",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://github.com/gotchhan/AntoSid"
+      },
+      "tags": [
+        "change-the-world"
+      ]
     },
     "8M6x4qnPPjrevm81h65fE2bQMNYU58NnTUi1BZQh1xUb": {
       "symbol": "WIZZ",
@@ -692,6 +783,17 @@
       "name": "Bwood Coin",
       "decimals": 9
     },
+    "AQxde8jgvxgkTcovbae1CvaRpfVsovB26wTrdgyVkAKA": {
+      "symbol": "BEAN",
+      "name": "Token of TimeStore",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://timebitlaw.com"
+      },
+      "tags": [
+        "social-token"
+      ]
+    },
     "AZFu6w1oj7t9QSgcBhpHdVmSp39QLuk6dMcqkqJ1cHXP": {
       "symbol": "SAMO-RAY",
       "name": "Raydium LP Token (SAMO-RAY)",
@@ -703,12 +805,75 @@
         "lp-token"
       ]
     },
+    "AgDGJHx2nsrnuouQ1p5f5wCy3bgBAppuuxR82ToUVGeg": {
+      "symbol": "VR1",
+      "name": "VR One",
+      "decimals": 9,
+      "extensions": {
+        "facebook": "https://www.facebook.com/VROneKoszalin",
+        "github": "https://github.com/AzureVein",
+        "website": "https://vr-one.pro/"
+      },
+      "tags": [
+        "company-token",
+        "community-token",
+        "MetaVerse",
+        "payment-token",
+        "social-token",
+        "utility-token"
+      ]
+    },
     "Av8oBwC39SJGWUH94wPJVzjSbaEReKZp8cYP6zUzvqQP": {
       "symbol": "NLC",
       "name": "NewLifeCoin",
       "decimals": 9,
       "tags": [
         "social-token"
+      ]
+    },
+    "B686FgNBkbEnMTA5CoHm7pNWp6GAezrBJ54NXmM453JG": {
+      "symbol": "fURA_d",
+      "name": "Synthetic Uranium (devnet)",
+      "decimals": 9,
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://fsynth.io/"
+      },
+      "tags": [
+        "fabric",
+        "synthetics"
+      ]
+    },
+    "BH3BxwXgk1PGwM7wKXNaxVEFTATjHaoJqRx4QcETquK3": {
+      "symbol": "OLY",
+      "name": "Solympic",
+      "decimals": 9,
+      "extensions": {
+        "description": "OLY is a virtual sports gaming cryptocurrency",
+        "website": "https://github.com/denizTutuncu/SOLympic"
+      },
+      "tags": [
+        "community-token",
+        "oly",
+        "sports-token",
+        "social-token"
+      ]
+    },
+    "BT8TU9w3pebspLxWwZ1TEg8adymKggpJDoyYptvkkef7": {
+      "symbol": "fUSD_d",
+      "name": "Synthetic USD (devnet)",
+      "decimals": 9,
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://fsynth.io/"
+      },
+      "tags": [
+        "fabric",
+        "synthetics"
       ]
     },
     "BXKro6nDX9y86rtGn6uh6K1rZUqENzsUHP6gAbdJj1NS": {
@@ -726,6 +891,17 @@
       "symbol": "NNI",
       "name": "Neonomad Finance",
       "decimals": 6,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    "Beemann1VaDTxXwKTRDM3ovrUYXQDyAq4od3yeFUGyBB": {
+      "symbol": "BEEMAN",
+      "name": "BEEMAN Test Token",
+      "decimals": 5,
+      "extensions": {
+        "twitter": "https://twitter.com/beeman_nl"
+      },
       "tags": [
         "utility-token"
       ]
@@ -760,6 +936,18 @@
         "Metaverse"
       ]
     },
+    "CFkiqiAD1cJDLqGXHh1iLGPVMiwr1ajPW4nWPwsgGWit": {
+      "symbol": "BLCN",
+      "name": "Balancana NFT",
+      "decimals": 0,
+      "extensions": {
+        "description": "One and only Balancana non fungible token.",
+        "imageUrl": "https://raw.githubusercontent.com/Lovresqu/crptos/main/eggplant-2924511.png"
+      },
+      "tags": [
+        "nft"
+      ]
+    },
     "CFyomVLnGjVssjzjtPCG4wC258FQJXaQddrCnC8dRVqB": {
       "symbol": "NTLC",
       "name": "Nightly",
@@ -790,6 +978,14 @@
       "tags": [
         "co2-token",
         "utility-token"
+      ]
+    },
+    "CnSfJEVhiysH7ZcB1AZ7ztUKmMxWvkAmGH1qn68Pq5NK": {
+      "symbol": "OLB",
+      "name": "SOL BOOL",
+      "decimals": 10,
+      "tags": [
+        "social-token"
       ]
     },
     "Crm2bpr3ai5QKMNfaq11NkBnHeMGULeP5YDLpkLeJjnw": {
@@ -877,6 +1073,14 @@
         "website": "https://www.sofven.com"
       }
     },
+    "DxGGS7cVsmihX8QUcLriWokXih6Kwo7PviVHWEYDhbua": {
+      "symbol": "FTK",
+      "name": "Flame",
+      "decimals": 0,
+      "tags": [
+        "social-token"
+      ]
+    },
     "E2KVvQKqnymv6dpbML59TDQEuy7GbDKCagpGQuCDYNoJ": {
       "symbol": "JJC",
       "name": "JJC",
@@ -919,6 +1123,26 @@
         "utility-token"
       ]
     },
+    "EgfvoickZyuPCDbLGzNXbFWCfYif9bie7HViErSJpJ8U": {
+      "symbol": "FAB_d",
+      "name": "FABRIC (devnet)",
+      "decimals": 9,
+      "extensions": {
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://fsynth.io/"
+      },
+      "tags": [
+        "fabric",
+        "synthetics"
+      ]
+    },
+    "EhSrrLdyVnWQ18LXvxAsVePmtLrADrss1UcZ1W98BNjJ": {
+      "symbol": "CHT",
+      "name": "CRYPTOHYVE Token",
+      "decimals": 9
+    },
     "EreDcRUuV8pBkpgoJfWmgzpWhwnrnHBNDQqSWzZk5dsa": {
       "symbol": "CAT",
       "name": "CatCoin",
@@ -926,6 +1150,11 @@
       "tags": [
         "utility-token"
       ]
+    },
+    "Evup5hpQjUYYCwjVKeMsoyBztq11hgBb75rK4ZXWpvvL": {
+      "symbol": "SRP",
+      "name": "StarPunk",
+      "decimals": 0
     },
     "FQxi8FaHaLtFzW1bZK3zuq2bWFxbJeeiUaUD5WY5oE17": {
       "symbol": "LORDA",
@@ -979,6 +1208,11 @@
         "website": "https://www.gridirondex.com"
       }
     },
+    "Gw35BDbNkQtnMYezjSsFCZ1qZfgMbfMiHkwwB3UAz2XZ": {
+      "symbol": "MPI",
+      "name": "Meta Paradise Island",
+      "decimals": 18
+    },
     "GzQ2JiAkyMDQuw5NGrhZzgcWCyAQdRGQSm9hQzCoLVKr": {
       "symbol": "FITT",
       "name": "Fit Panda Test",
@@ -1001,6 +1235,19 @@
       "decimals": 8,
       "extensions": {
         "website": "https://miinasian.vn"
+      },
+      "tags": [
+        "utility-token"
+      ]
+    },
+    "HFhsaBch3nGYE4ehef7s2m9f1EMRZDzL7t7cNkW71L3F": {
+      "symbol": "SBG",
+      "name": "Solana Bear Gang Token",
+      "decimals": 0,
+      "extensions": {
+        "discord": "https://discord.gg/Xn9WHM2RbN",
+        "twitter": "https://twitter.com/solanabeargang",
+        "website": "https://solanabeargang.com"
       },
       "tags": [
         "utility-token"
@@ -1065,6 +1312,14 @@
         "Publisher"
       ]
     },
+    "kbWpPDaa7h8ggHpFHbgZy4p4Y26pe4uv1TrkR58GssU": {
+      "symbol": "BRIC",
+      "name": "BridgemanCoin",
+      "decimals": 2,
+      "tags": [
+        "social-token"
+      ]
+    },
     "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m": {
       "symbol": "META",
       "name": "Metaplex",
@@ -1118,6 +1373,17 @@
       },
       "tags": [
         "utility-token"
+      ]
+    },
+    "Tcc6Xcjuru2jtGMB6bTg7EPMGJrZFXbmKiKHRmEgq9j": {
+      "symbol": "MNTK",
+      "name": "My New Token",
+      "decimals": 9,
+      "extensions": {
+        "website": "https://google.com"
+      },
+      "tags": [
+        "social-my-new-token"
       ]
     },
     "xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G": {

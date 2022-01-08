@@ -10,6 +10,11 @@
     "stake-pool": {
       "count": 1
     },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens",
+      "count": 1
+    },
     "wrapped": {
       "name": "wrapped",
       "description": "Asset wrapped using wormhole bridge",
@@ -20,7 +25,7 @@
     "solana",
     "spl"
   ],
-  "timestamp": "2021-12-30T13:46:45.519Z",
+  "timestamp": "2022-01-08T16:04:18.488Z",
   "tokens": {
     "2jQc2jDHVCewoWsQJK7JPLetP7UjqXvaFdno8rtrD8Kg": {
       "symbol": "sHOG",
@@ -59,6 +64,14 @@
         "stablecoin"
       ]
     },
+    "C4yTauQS75Dosut6LBLGLfJj7CnFURSVmQRNftf2tUuB": {
+      "symbol": "LTO",
+      "name": "LOTO",
+      "decimals": 9,
+      "tags": [
+        "utility-token"
+      ]
+    },
     "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp": {
       "symbol": "USDC",
       "name": "USD Coin",
@@ -70,6 +83,11 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    "Evup5hpQjUYYCwjVKeMsoyBztq11hgBb75rK4ZXWpvvL": {
+      "symbol": "SRP",
+      "name": "StarPunk",
+      "decimals": 0
     },
     "Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS": {
       "symbol": "spSOL",
