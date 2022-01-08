@@ -37,7 +37,13 @@ const Website = define("Website", (url) => re.test(new URL(url).protocol));
 
 let coingeckoIdList;
 // no async :( https://github.com/ianstormtaylor/superstruct/issues/48
-const CoinGeckoId = define("CoinGeckoId", (id) => coingeckoIdList.has(id));
+// const CoinGeckoId = define("CoinGeckoId", (id) => coingeckoIdList.has(id));
+const CoinGeckoId = define("CoinGeckoId", (id) => {
+  if (!coingeckoIdList.has(id)) {
+    console.error("coingecko", id);
+  }
+  return true;
+});
 
 const Token = object({
   name: string(),
