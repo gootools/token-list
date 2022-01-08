@@ -1,0 +1,10 @@
+symbol: TREAT
+name: doggos
+decimals: 0
+extensions:
+  discord: https://discord.gg/doggos
+  twitter: https://twitter.com/DoggosNFTs
+  website: https://doggos.dog/
+tags:
+  - NFT
+  - utility-token

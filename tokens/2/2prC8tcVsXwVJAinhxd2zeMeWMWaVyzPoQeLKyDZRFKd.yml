@@ -2,6 +2,7 @@ symbol: MCAPS
 name: Mango Market Caps
 decimals: 0
 extensions:
+  coingeckoId: mango-market-caps
   website: https://initialcapoffering.com/
 tags:
   - mango

@@ -1,9 +1,10 @@
-symbol: GÜ
-name: GÜ
+symbol: GU
+name: Kugle GU
 decimals: 9
 extensions:
   coingeckoId: gu
-  twitter: https://twitter.com/Kugle_
+  description: GU token for the Kugle play to earn game.
+  twitter: https://twitter.com/Kuglesworld
   website: https://kugle.org
 tags:
   - utility-token

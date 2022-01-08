@@ -1,0 +1,8 @@
+symbol: OIL
+name: SolBots
+decimals: 5
+extensions:
+  twitter: https://twitter.com/SolbotsDAO
+tags:
+  - community-token
+  - utility-token

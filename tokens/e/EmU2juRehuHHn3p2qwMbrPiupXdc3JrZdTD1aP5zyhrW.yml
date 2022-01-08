@@ -1,0 +1,12 @@
+symbol: GRF
+name: Graef Token
+decimals: 0
+extensions:
+  github: https://github.com/segraef
+  website: https://graef.io/
+tags:
+  - company-token
+  - fabric-token
+  - meta-token
+  - social-token
+  - utility-token

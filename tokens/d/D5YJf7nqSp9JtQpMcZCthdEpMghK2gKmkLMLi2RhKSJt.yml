@@ -1,0 +1,7 @@
+symbol: $KAIDO
+name: Kaidos Token
+decimals: 9
+extensions:
+  website: https://kaidostempest.com
+tags:
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: TSRCT
+name: Tesseract
+decimals: 6
+extensions:
+  description: Tesseract Comics and Games, Glenwood Springs, CO
+  twitter: https://twitter.com/tesseractcomics
+  website: http://tesseractcomicsandgames.com
+tags:
+  - community-token
+  - meme-token

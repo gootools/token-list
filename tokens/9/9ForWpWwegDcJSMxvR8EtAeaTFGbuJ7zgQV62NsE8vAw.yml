@@ -1,0 +1,11 @@
+symbol: BERK
+name: Berk Coin
+decimals: 9
+extensions:
+  github: https://github.com/berk-demirci-bimu
+tags:
+  - community-token
+  - individual-token
+  - social-token
+  - util-token
+  - utility-token

@@ -1,0 +1,12 @@
+symbol: HSMINT
+name: High Society WL Mint Pass
+decimals: 0
+extensions:
+  discord: https://discord.gg/a9Btmz4m4c
+  twitter: https://twitter.com/highsocietynfts
+  website: https://highsocietynft.io
+tags:
+  - community-token
+  - general-token
+  - mint-token
+  - NFT

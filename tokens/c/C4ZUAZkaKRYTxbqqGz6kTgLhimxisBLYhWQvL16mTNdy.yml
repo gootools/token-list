@@ -1,0 +1,9 @@
+symbol: EHT
+name: EggHead Token
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/etUarp4x8y
+  twitter: https://twitter.com/eggheadnft
+tags:
+  - community-token
+  - utility-token

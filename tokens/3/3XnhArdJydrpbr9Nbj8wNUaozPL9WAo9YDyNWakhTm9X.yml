@@ -5,6 +5,7 @@ extensions:
   address: "0xc00e94Cb662C3520282E6f5717214004A7f26888"
   assetContract: https://etherscan.io/address/0xc00e94Cb662C3520282E6f5717214004A7f26888
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: compound
 tags:
   - wrapped
   - wormhole

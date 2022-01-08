@@ -1,0 +1,7 @@
+symbol: xAVAX
+name: Synthetic AVAX
+decimals: 6
+extensions:
+  coingeckoId: avalanche-2
+  twitter: https://twitter.com/synthetify
+  website: https://synthetify.io/

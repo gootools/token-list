@@ -1,5 +1,11 @@
 symbol: BZML
 name: BreezyModels Coin
 decimals: 8
+extensions:
+  discord: https://discord.gg/wWThnqNrud
+  instagram: https://instagram.com/breezymodels/
+  website: https://www.breezymodels.ml/
+  youtube: https://www.youtube.com/c/BreezyChannel
 tags:
+  - community-token
   - social-token

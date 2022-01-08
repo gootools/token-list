@@ -1,0 +1,10 @@
+symbol: MUN
+name: MuneraGames
+decimals: 8
+extensions:
+  description: MunerGames in-game and governance token.
+  twitter: https://twitter.com/MuneraGames
+  website: http://muneragames.com
+tags:
+  - nft
+  - utility-token

@@ -1,0 +1,12 @@
+symbol: EGEC
+name: EgeCoin
+decimals: 9
+extensions:
+  description: The one and only EgeCoin! Made by Ege Efes.
+  instagram: https://egeefes.com/instagram/
+  website: https://www.egeefes.com/
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

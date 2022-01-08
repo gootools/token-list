@@ -1,0 +1,9 @@
+symbol: MNTK
+name: My New Token
+decimals: 9
+extensions:
+  website: https://google.com
+tags:
+  - social-my-new-token
+clusters:
+  - devnet

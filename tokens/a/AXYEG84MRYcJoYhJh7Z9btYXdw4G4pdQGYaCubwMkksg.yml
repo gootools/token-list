@@ -1,0 +1,8 @@
+symbol: DXLSTAKE_V1
+name: Dexlab Stake Season 1
+decimals: 0
+extensions:
+  twitter: https://twitter.com/dexlab_official
+  website: https://www.dexlab.space/
+tags:
+  - stake-pool-token

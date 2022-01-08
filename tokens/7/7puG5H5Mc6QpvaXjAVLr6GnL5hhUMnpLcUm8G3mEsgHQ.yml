@@ -2,6 +2,7 @@ symbol: LEONIDAS
 name: Leonidas Token
 decimals: 9
 extensions:
+  coingeckoId: leonidas-token
   discord: https://www.discord.com/invite/drN8FUruAu
   instagram: https://www.instagram.com/leonidas_token
   medium: https://leonidastoken.medium.com

@@ -1,0 +1,9 @@
+symbol: THMP
+name: Thimp Coin
+decimals: 0
+extensions:
+  github: https://github.com/Thimp-com
+tags:
+  - social-token
+  - util-token
+  - web3

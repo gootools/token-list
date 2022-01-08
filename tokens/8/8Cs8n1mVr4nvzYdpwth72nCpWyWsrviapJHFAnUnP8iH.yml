@@ -1,0 +1,11 @@
+symbol: FLAKE
+name: Snowflakes
+decimals: 6
+extensions:
+  twitter: https://twitter.com/icybearznft
+  website: https://icybearz.art
+tags:
+  - community-token
+  - IcyBearz
+  - Snowflakes
+  - utility-token

@@ -1,0 +1,11 @@
+symbol: Wen
+name: Wen Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/EMWVVXQnMy
+  twitter: https://twitter.com/notifbutwen
+  website: https://notifbutwen.io
+tags:
+  - community-token
+  - meme-token
+  - social-token

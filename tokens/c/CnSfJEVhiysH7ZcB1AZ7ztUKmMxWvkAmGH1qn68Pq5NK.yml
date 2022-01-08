@@ -1,0 +1,7 @@
+symbol: OLB
+name: SOL BOOL
+decimals: 10
+tags:
+  - social-token
+clusters:
+  - devnet

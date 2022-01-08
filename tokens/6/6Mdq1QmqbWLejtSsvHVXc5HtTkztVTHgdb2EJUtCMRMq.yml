@@ -1,0 +1,7 @@
+symbol: XMT
+name: X-mas Token
+decimals: 9
+tags:
+  - social-token
+clusters:
+  - devnet

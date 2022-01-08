@@ -1,5 +1,8 @@
 symbol: creatorpro
-name: creator
+name: creatorPRO
 decimals: 6
 tags:
+  - artist
+  - creator
+  - creators
   - creator-token

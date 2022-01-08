@@ -1,0 +1,7 @@
+symbol: IVORY
+name: Ivory Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/IvoryInvestors
+tags:
+  - utility-token

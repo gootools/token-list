@@ -2,13 +2,17 @@ symbol: DGLN
 name: Dogelana
 decimals: 9
 extensions:
-  blog: http://dogelana.com/blog
+  blog: https://dogelana.com/blog
   coingeckoId: dogelana
   coinmarketcap: https://coinmarketcap.com/currencies/dogelana/
+  discord: https://discord.gg/UNjbTguY5x
   facebook: https://facebook.com/dogelana
-  telegram: https://t.me/dogelana
-  twitter: https://twitter.com/dogelana
-  website: http://www.dogelana.com
+  instagram: https://www.instagram.com/realdogelana/
+  reddit: https://www.reddit.com/r/dogelana
+  telegram: https://t.me/realdogelana
+  twitter: https://twitter.com/realdogelana
+  website: https://www.dogelana.com
+  youtube: https://www.youtube.com/channel/UCkUS4exbXFaEVx5wBypMKaQ
 tags:
   - dogecoin
   - dogelana

@@ -2,7 +2,9 @@ symbol: KUNCI
 name: Kunci Coin
 decimals: 8
 extensions:
-  twitter: https://twitter.com/kunci_coin
+  instagram: https://instagram.com/kuncicoin_id
+  telegram: https://t.me/kunciofficial
+  twitter: https://twitter.com/Kuncicoin_id
   website: https://kuncicoin.com/
 tags:
   - utility-token

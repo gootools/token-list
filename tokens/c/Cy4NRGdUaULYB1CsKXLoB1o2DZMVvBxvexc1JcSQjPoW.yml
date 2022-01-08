@@ -1,0 +1,10 @@
+symbol: FLOOR
+name: Floor Coin
+decimals: 3
+extensions:
+  vault: https://fraktion.art/vault/5ZyJM8iRp3vDTvbGhJkoEZPCeBjcNmTRX6v8KvheNTtw
+  vaultPubkey: 5ZyJM8iRp3vDTvbGhJkoEZPCeBjcNmTRX6v8KvheNTtw
+tags:
+  - community-token
+  - fractionalized-nft
+  - meme-token

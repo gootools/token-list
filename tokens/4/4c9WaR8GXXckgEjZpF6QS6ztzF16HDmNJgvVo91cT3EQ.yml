@@ -1,0 +1,5 @@
+symbol: $BUCK
+name: Buck Token
+decimals: 0
+tags:
+  - social-token

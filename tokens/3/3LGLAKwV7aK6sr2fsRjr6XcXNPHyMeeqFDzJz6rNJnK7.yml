@@ -1,0 +1,10 @@
+symbol: DVL
+name: DigiVelly
+decimals: 6
+extensions:
+  twitter: https://twitter.com/digivelly
+  website: https://digivelly.com
+tags:
+  - community-token
+  - meta-token
+  - social-token

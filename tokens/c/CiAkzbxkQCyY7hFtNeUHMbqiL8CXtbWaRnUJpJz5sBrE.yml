@@ -1,0 +1,12 @@
+symbol: PLUT
+name: PlutusFi
+decimals: 9
+extensions:
+  description: PlutusFi is a SocialFi application for Decentralized Social Trading
+  instagram: https://www.instagram.com/plutusfi
+  telegram: https://t.me/plutusfi
+  twitter: https://twitter.com/plutusfi
+  website: https://plutusfi.io
+tags:
+  - community-token
+  - social-token

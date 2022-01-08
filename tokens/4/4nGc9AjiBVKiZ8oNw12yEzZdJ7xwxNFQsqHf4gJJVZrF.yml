@@ -1,0 +1,11 @@
+symbol: GEICO
+name: Fractionalized Gecko-2140
+decimals: 2
+extensions:
+  discord: https://discord.gg/bridgesplit
+  twitter: https://twitter.com/bridgesplit
+  vault: https://app.bridgesplit.com/vault/4nGc9AjiBVKiZ8oNw12yEzZdJ7xwxNFQsqHf4gJJVZrF
+tags:
+  - bridgesplit-fraction
+  - fnft
+  - gecko

@@ -1,0 +1,9 @@
+symbol: LND
+name: Lend 2 Us Token
+decimals: 9
+extensions:
+  github: https://github.com/lend2-us
+  twitter: https://twitter.com/Lend2Us
+  website: https://lend2.us/
+tags:
+  - utility-token

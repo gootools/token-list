@@ -1,0 +1,14 @@
+symbol: VVS
+name: VVS Token
+decimals: 9
+extensions:
+  description: VVS is an invite- & mobile-only, engage-to-earn social media
+    platform where content creators can drop exclusive experiences, merchandise,
+    and digital collectibles in exchange for cryptocurrency.
+  twitter: https://twitter.com/earnVVS
+  website: https://www.vvs.io
+tags:
+  - altcoin
+  - community-token
+  - social-token
+  - utility-token

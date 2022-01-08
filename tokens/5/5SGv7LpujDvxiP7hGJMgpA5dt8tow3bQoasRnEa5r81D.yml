@@ -1,0 +1,8 @@
+symbol: HackA
+name: HackA Token
+decimals: 2
+extensions:
+  website: https://website.hackatalk.dev
+tags:
+  - community-token
+  - hacka-token

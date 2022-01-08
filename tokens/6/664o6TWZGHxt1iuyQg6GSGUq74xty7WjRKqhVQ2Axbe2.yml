@@ -1,0 +1,9 @@
+symbol: SBG
+name: Solana Bear Gang Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/Xn9WHM2RbN
+  twitter: https://twitter.com/solanabeargang
+  website: https://solanabeargang.com
+tags:
+  - utility-token

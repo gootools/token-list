@@ -1,8 +1,11 @@
 symbol: VITAL
 name: VITAL Token
-decimals: 8
+decimals: 9
 extensions:
+  coingeckoId: vitall-markets
   discord: https://discord.gg/Z3cFSSZKwU
+  twitter: https://twitter.com/vitallmarkets
+  website: https://www.vitallmarkets.com/
 tags:
   - community-token
   - utility-token

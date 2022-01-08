@@ -1,0 +1,13 @@
+symbol: fURA_d
+name: Synthetic Uranium (devnet)
+decimals: 9
+extensions:
+  github: https://github.com/fabric-foundation/
+  medium: https://xfabric.medium.com/
+  twitter: https://twitter.com/official_fabric
+  website: https://fsynth.io/
+tags:
+  - fabric
+  - synthetics
+clusters:
+  - devnet

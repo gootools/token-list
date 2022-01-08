@@ -1,0 +1,9 @@
+symbol: ATLS
+name: Atlas Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/atlasdotgs
+  website: https://atlas.gs
+tags:
+  - social-token
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: DIKK
+name: Dikkenek Coin
+decimals: 8
+extensions:
+  twitter: https://twitter.com/DikkenekCoin
+tags:
+  - community-token
+  - meme-token
+  - utility-token

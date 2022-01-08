@@ -5,6 +5,7 @@ extensions:
   address: "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
   assetContract: https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7
   bridgeContract: https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052
+  coingeckoId: avalanche
   serumV3Usdc: E8JQstcwjuqN5kdMyUJLNuaectymnhffkvfg1j286UCr
 tags:
   - wrapped

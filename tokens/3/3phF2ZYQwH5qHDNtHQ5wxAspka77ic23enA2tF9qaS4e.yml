@@ -1,0 +1,11 @@
+symbol: FF
+name: FORBE FINANCE
+decimals: 8
+extensions:
+  address: 3phF2ZYQwH5qHDNtHQ5wxAspka77ic23enA2tF9qaS4e
+  discord: https://discord.gg/U2N9b42C
+  telegram: https://t.me/ForbeFinance
+tags:
+  - ethereum
+  - solana
+  - wormhole

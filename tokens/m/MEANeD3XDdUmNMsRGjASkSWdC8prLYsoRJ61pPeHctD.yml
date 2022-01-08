@@ -2,7 +2,9 @@ symbol: MEAN
 name: MEAN
 decimals: 6
 extensions:
+  coingeckoId: meanfi
   discord: https://discord.meanfi.com/
   medium: https://meandao.medium.com
+  serumV3Usdc: 3WXrxhrj4PXYUwW4ozBjxdSxwEp9ELKf3vETxXTqdiQJ
   twitter: https://twitter.com/meanfinance
   website: https://www.meanfi.com/

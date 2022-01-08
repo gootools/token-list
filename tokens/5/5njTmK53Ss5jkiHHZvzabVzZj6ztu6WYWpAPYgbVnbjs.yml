@@ -5,6 +5,7 @@ extensions:
   address: "0x831753dd7087cac61ab5644b308642cc1c33dc13"
   assetContract: https://polygonscan.com/address/0x831753dd7087cac61ab5644b308642cc1c33dc13
   bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
+  coingeckoId: quickswap
 tags:
   - wrapped
   - wormhole

@@ -1,0 +1,13 @@
+symbol: BLNK
+name: Bliiink Token
+decimals: 9
+extensions:
+  description: Bliiink is a blockchain community-driven music streaming platform
+    connecting artists, influencers, and fans.
+  instagram: https://instagram.com/bliiinkmusic
+  twitter: https://twitter.com/bliiinkmusic
+  website: https://bliiink.co.uk
+tags:
+  - community-token
+  - social-token
+  - utility-token

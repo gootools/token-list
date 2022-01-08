@@ -1,0 +1,15 @@
+symbol: CMFI
+name: Compendium Finance
+decimals: 6
+extensions:
+  discord: https://discord.gg/64r2xtqczs
+  medium: https://compendiumfi.medium.com/
+  twitter: https://twitter.com/CompendiumFi
+  website: https://compendium.finance/
+  whitepaper: https://compendium.finance/litepaper
+tags:
+  - Application
+  - community-token
+  - DeFi
+  - Exchange
+  - utility-token

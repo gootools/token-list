@@ -1,0 +1,7 @@
+symbol: RECORD
+name: RECORD Token
+decimals: 8
+extensions:
+  website: https://itsthelabel.com
+tags:
+  - utility-token

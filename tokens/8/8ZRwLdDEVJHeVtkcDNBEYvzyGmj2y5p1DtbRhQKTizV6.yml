@@ -1,0 +1,8 @@
+symbol: DEAD
+name: DeadCoin
+decimals: 0
+extensions:
+  description: DeadChannels
+  website: https://www.trapdrum.com
+tags:
+  - social-token

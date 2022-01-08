@@ -1,0 +1,10 @@
+symbol: BLOCK
+name: Block
+decimals: 9
+extensions:
+  discord: https://discord.gg/8nHcQFbPE3
+tags:
+  - currency-token
+  - community-token
+  - social-token
+  - trading-token

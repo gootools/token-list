@@ -1,0 +1,12 @@
+symbol: SBD
+name: Solana Bird
+decimals: 9
+extensions:
+  discord: https://discord.io/solanabird_sol
+  telegram: https://t.me/solanabird_sol
+  twitter: https://twitter.com/solanabird_sol
+  website: https://solanabird.net
+tags:
+  - dex
+  - meme-token
+  - utility-token

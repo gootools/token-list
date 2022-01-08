@@ -1,0 +1,8 @@
+symbol: FONE
+name: Fone
+decimals: 2
+extensions:
+  website: https://www.fone.dev/
+tags:
+  - community-token
+  - utility-token

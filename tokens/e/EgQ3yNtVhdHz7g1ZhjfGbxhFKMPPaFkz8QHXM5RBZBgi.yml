@@ -1,5 +1,7 @@
 symbol: aaDAI
 name: Wrapped DAI (Allbridge from Avalanche)
 decimals: 9
+extensions:
+  coingeckoId: multi-collateral-dai
 tags:
   - stablecoin

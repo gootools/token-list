@@ -2,11 +2,11 @@ symbol: URA
 name: URA
 decimals: 9
 extensions:
-  website: https://roboworld.io
+  website: https://uranusx.io
 tags:
   - dao
   - gaming
   - gamefi
-  - utility-token
+  - governance-token
 clusters:
   - devnet

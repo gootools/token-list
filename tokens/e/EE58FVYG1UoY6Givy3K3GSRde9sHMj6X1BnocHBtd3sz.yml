@@ -5,6 +5,7 @@ extensions:
   address: "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd"
   assetContract: https://etherscan.io/address/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+  coingeckoId: ayfi
 tags:
   - wrapped
   - wormhole

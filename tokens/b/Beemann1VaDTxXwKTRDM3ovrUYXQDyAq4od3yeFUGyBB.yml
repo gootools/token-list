@@ -1,0 +1,9 @@
+symbol: BEEMAN
+name: BEEMAN Test Token
+decimals: 5
+extensions:
+  twitter: https://twitter.com/beeman_nl
+tags:
+  - utility-token
+clusters:
+  - devnet

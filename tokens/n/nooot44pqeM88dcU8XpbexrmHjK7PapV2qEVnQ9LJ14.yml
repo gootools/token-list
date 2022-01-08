@@ -1,0 +1,10 @@
+symbol: PESKY
+name: Pesky Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/peskypenguins
+  website: https://pesky-penguins.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

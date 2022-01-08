@@ -1,0 +1,14 @@
+symbol: IZU
+name: IZUNO Token
+decimals: 2
+extensions:
+  discord: http://discord.gg/kam1
+  medium: https://medium.com/@kam1nft
+  twitter: https://twitter.com/KAM1NFT
+  website: https://kam1.com/
+tags:
+  - game-token
+  - game-currency
+  - GameFi
+  - NFT
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: PLC
+name: PlatinePHP Coin
+decimals: 9
+extensions:
+  telegram: https://t.me/platinephptoken
+  website: https://www.iacademy.cf
+tags:
+  - community-token
+  - meme-token
+  - social-token

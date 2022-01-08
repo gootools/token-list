@@ -1,0 +1,12 @@
+symbol: HIGHMINT
+name: High Society Mint Pass
+decimals: 1
+extensions:
+  discord: https://discord.gg/a9Btmz4m4c
+  twitter: https://twitter.com/highsocietynfts
+  website: https://highsocietynft.io
+tags:
+  - community-token
+  - general-token
+  - mint-token
+  - NFT

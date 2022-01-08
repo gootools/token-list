@@ -1,0 +1,11 @@
+symbol: GRLR
+name: Growler Token
+decimals: 0
+extensions:
+  description: Receive Growler By Holding your Leopard NFT
+  twitter: https://twitter.com/LeopardSNFT
+  website: https://leopardsyndicate.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

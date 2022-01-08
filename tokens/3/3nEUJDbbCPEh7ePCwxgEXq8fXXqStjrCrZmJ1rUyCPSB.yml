@@ -1,0 +1,8 @@
+symbol: SKL
+name: SkylrFinance
+decimals: 8
+extensions:
+  discord: https://discord.gg/AHqRRmNg
+  twitter: https://twitter.com/SkylrFinance
+tags:
+  - community

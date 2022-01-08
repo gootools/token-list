@@ -1,0 +1,7 @@
+symbol: BOOZ
+name: BoozCoin
+decimals: 9
+extensions:
+  telegram: https://t.me/boozcoin
+  twitter: https://twitter.com/boozcoin
+  website: https://boozcoin.com/

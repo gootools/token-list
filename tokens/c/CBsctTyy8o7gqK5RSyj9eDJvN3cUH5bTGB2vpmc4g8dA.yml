@@ -1,0 +1,11 @@
+symbol: KOBRA
+name: Kobra Coin
+decimals: 0
+extensions:
+  github: https://github.com/ATLTuck
+tags:
+  - company-token
+  - community-token
+  - payment-token
+  - social-token
+  - utility-token

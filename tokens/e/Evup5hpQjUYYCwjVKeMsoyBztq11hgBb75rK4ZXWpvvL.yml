@@ -1,0 +1,7 @@
+symbol: SRP
+name: StarPunk
+decimals: 0
+clusters:
+  - devnet
+  - mainnet-beta
+  - testnet

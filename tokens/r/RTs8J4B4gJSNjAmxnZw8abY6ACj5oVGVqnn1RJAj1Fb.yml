@@ -1,0 +1,5 @@
+symbol: RUSD
+name: Real USD
+decimals: 6
+tags:
+  - mint-token

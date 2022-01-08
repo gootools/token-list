@@ -1,0 +1,8 @@
+symbol: CTH
+name: Catch
+decimals: 7
+extensions:
+  website: https://www.catchcoin.me/
+tags:
+  - social-token
+  - utility-token

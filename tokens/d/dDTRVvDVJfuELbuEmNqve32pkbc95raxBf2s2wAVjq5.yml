@@ -1,0 +1,10 @@
+symbol: CREDIT
+name: Metaversol Credit
+decimals: 9
+extensions:
+  description: Metaversol Credits are the official currency of The Expanse.
+  discord: https://discord.gg/metaversol
+  twitter: https://twitter.com/MxMetaversol
+  website: https://metaversol.com/
+tags:
+  - utility-token

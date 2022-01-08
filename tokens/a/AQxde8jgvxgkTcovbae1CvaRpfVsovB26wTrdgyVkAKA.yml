@@ -1,0 +1,9 @@
+symbol: BEAN
+name: Token of TimeStore
+decimals: 9
+extensions:
+  website: https://timebitlaw.com
+tags:
+  - social-token
+clusters:
+  - devnet

@@ -1,0 +1,9 @@
+symbol: ANSD
+name: AntoSid
+decimals: 9
+extensions:
+  website: https://github.com/gotchhan/AntoSid
+tags:
+  - change-the-world
+clusters:
+  - devnet

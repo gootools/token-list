@@ -2,6 +2,7 @@ symbol: BLOCK
 name: Blockasset
 decimals: 6
 extensions:
+  coingeckoId: blockasset
   discord: https://discord.com/invite/mynn9p6uNw
   telegram: https://t.me/blockassetupdates
   twitter: https://twitter.com/Blockassetco

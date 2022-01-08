@@ -1,0 +1,7 @@
+symbol: PERKS
+name: PERKS
+decimals: 8
+extensions:
+  website: https://www.perkhero.com
+clusters:
+  - devnet

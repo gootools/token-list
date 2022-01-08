@@ -1,0 +1,8 @@
+symbol: CLEM
+name: SUPERCLEMTOKEN
+decimals: 9
+extensions:
+  website: http://clementlefevre.com/
+tags:
+  - community-token
+  - meme-token

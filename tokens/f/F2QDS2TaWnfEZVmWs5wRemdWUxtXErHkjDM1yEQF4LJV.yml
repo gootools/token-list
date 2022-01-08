@@ -1,0 +1,7 @@
+symbol: BWS1WL
+name: BitWhips S1 Whitelist Token
+decimals: 0
+extensions:
+  website: https://bitwhips.io/
+tags:
+  - utility-token

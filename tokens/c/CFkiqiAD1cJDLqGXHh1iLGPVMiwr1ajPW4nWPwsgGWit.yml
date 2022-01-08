@@ -1,0 +1,10 @@
+symbol: BLCN
+name: Balancana NFT
+decimals: 0
+extensions:
+  description: One and only Balancana non fungible token.
+  imageUrl: https://raw.githubusercontent.com/Lovresqu/crptos/main/eggplant-2924511.png
+tags:
+  - nft
+clusters:
+  - devnet

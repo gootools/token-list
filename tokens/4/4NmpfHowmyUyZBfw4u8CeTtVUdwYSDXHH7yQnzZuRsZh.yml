@@ -1,0 +1,8 @@
+symbol: AAA
+name: DEV TOKEN
+decimals: 9
+extensions:
+  website: https://www.soldev.app/
+tags:
+  - DEV
+  - DApp

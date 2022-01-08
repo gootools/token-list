@@ -1,0 +1,9 @@
+symbol: CARIBB
+name: CaribbCoin
+decimals: 9
+extensions:
+  website: https://caribbcoin.com
+tags:
+  - community-token
+  - caribbcoin
+  - utility-token

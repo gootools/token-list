@@ -1,0 +1,11 @@
+symbol: HKV
+name: HuskyVerse Token
+decimals: 8
+extensions:
+  discord: https://discord.gg/TTnKwcdngt
+  twitter: https://twitter.com/husky_verse
+  website: https://huskyverse.network
+tags:
+  - community-token
+  - meme-token
+  - utility-token

@@ -1,0 +1,12 @@
+symbol: kcSOL
+name: Katana SOL Covered Call Vault Share
+decimals: 9
+extensions:
+  discord: https://discord.gg/katana-hq
+  github: https://github.com/Katana-Labs
+  twitter: https://twitter.com/Katana_HQ
+  website: https://app.katana.so
+tags:
+  - Katana
+  - share-token
+  - utility-token
