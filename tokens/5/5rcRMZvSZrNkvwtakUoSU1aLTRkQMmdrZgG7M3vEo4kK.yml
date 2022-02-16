@@ -1,0 +1,7 @@
+symbol: AA_WL
+name: Alpha Alerts Whitelist Token
+decimals: 0
+extensions:
+  website: https://www.viewsolana.com/nft
+tags:
+  - utility

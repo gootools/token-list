@@ -1,0 +1,7 @@
+symbol: WRZTR
+name: Thug Roozter Whitelist
+decimals: 0
+extensions:
+  website: https://twitter.com/thugroozter
+tags:
+  - whitelist-token

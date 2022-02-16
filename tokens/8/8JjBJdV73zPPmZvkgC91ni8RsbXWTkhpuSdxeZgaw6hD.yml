@@ -2,6 +2,7 @@ symbol: BABYTIGER
 name: Baby Tiger
 decimals: 9
 extensions:
+  coingeckoId: babytigergold
   twitter: https://twitter.com/babytigergold
   website: https://www.babytiger.gold
 tags:

@@ -1,0 +1,7 @@
+symbol: SMBX20
+name: SmashCoin
+decimals: 9
+extensions:
+  website: http://smashbox20.com
+tags:
+  - social-token

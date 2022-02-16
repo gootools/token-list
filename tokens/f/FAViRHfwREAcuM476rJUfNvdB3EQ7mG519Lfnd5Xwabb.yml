@@ -1,0 +1,13 @@
+symbol: FAV
+name: Faviont Token
+decimals: 9
+extensions:
+  description: Faviont is an NFT based marketplace for you to buy, sell, explorer
+    and curated a Fashion including Digital Fashion & Metaverse Fashion on
+    Solana Blockchain.
+  discord: https://discord.gg/T6mVYKeVYc
+  twitter: https://twitter.com/FaviontOfficial
+  website: https://faviont.io/
+tags:
+  - community-token
+  - utility-token

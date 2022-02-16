@@ -1,0 +1,5 @@
+symbol: PTN-USDC
+name: PTN-USDC LP
+decimals: 9
+tags:
+  - lp-token

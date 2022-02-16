@@ -1,0 +1,14 @@
+symbol: CSC
+name: Cipherspace Credits
+decimals: 8
+extensions:
+  description: Credits to be used in Cipherspace
+  discord: https://discord.gg/3UJRJfeMmk
+  twitter: https://twitter.com/Cipherspace_Cr
+  website: https://www.cipherspace.credit
+tags:
+  - community-token
+  - gaming
+  - NFT
+  - social-token
+  - utility-token

@@ -1,0 +1,12 @@
+symbol: SP
+name: Space Puppy
+decimals: 9
+extensions:
+  telegram: https://t.me/space_puppy
+  twitter: https://twitter.com/_spacepuppy
+  website: https://spacepuppy.fun
+tags:
+  - community-token
+  - meme-token
+  - multi-chain
+  - social-token

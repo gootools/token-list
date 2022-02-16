@@ -1,0 +1,7 @@
+symbol: MINTYWL
+name: Minty Whitelist
+decimals: 0
+extensions:
+  twitter: https://twitter.com/MintyAutomation
+tags:
+  - whitelist-token

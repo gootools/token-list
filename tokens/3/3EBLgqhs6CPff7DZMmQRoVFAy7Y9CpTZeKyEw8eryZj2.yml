@@ -1,0 +1,10 @@
+symbol: BUZZ
+name: BUZZ
+decimals: 9
+extensions:
+  twitter: https://twitter.com/buzzapegang
+  website: https://buzz-ape.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

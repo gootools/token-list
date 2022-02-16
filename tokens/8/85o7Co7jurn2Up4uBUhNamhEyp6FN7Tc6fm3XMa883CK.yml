@@ -1,0 +1,8 @@
+symbol: TMT
+name: Tommy Token
+decimals: 0
+extensions:
+  description: Tommy Token
+tags:
+  - community-token
+  - social-token

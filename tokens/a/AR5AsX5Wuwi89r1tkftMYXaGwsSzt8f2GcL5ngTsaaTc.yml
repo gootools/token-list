@@ -1,0 +1,10 @@
+symbol: SHAPES
+name: Shapes WL token
+decimals: 0
+extensions:
+  discord: https://discord.gg/msB5gFcUZM
+  twitter: https://twitter.com/shapesofsolana
+  website: https://shapes.ltd/
+tags:
+  - community-token
+  - nft

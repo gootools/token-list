@@ -1,0 +1,7 @@
+symbol: SLIME
+name: Slime Token
+decimals: 0
+extensions:
+  website: https://www.weareslimes.com
+tags:
+  - social-token

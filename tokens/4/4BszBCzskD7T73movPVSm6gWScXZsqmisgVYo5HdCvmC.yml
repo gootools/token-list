@@ -1,0 +1,7 @@
+symbol: BB
+name: BostonBionics Token
+decimals: 0
+extensions:
+  website: https://www.bostonbionics.eu/
+tags:
+  - company-token

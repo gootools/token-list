@@ -1,0 +1,7 @@
+symbol: LUNA
+name: LUNA
+decimals: 6
+tags:
+  - LUNA
+clusters:
+  - devnet

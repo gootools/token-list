@@ -1,0 +1,8 @@
+symbol: BUD
+name: BunnyDucky Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/BunnyDuckyHQ
+  website: https://bunnyducky.com/
+tags:
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: HOOTS
+name: SolOwl Token
+decimals: 9
+extensions:
+  discord: https://t.co/iOUr4IKfcm
+  twitter: https://twitter.com/owlsofsol
+  website: https://solowl.io
+tags:
+  - utility-token

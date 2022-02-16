@@ -1,0 +1,8 @@
+symbol: PURR
+name: Alleycats Collective Token
+decimals: 2
+extensions:
+  discord: https://discord.gg/v6wJMQhArX
+  twitter: https://twitter.com/accsolana
+tags:
+  - utility-token

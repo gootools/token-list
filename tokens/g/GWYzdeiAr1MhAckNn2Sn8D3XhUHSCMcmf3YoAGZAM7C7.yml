@@ -1,0 +1,9 @@
+symbol: MILL
+name: Millitoken
+decimals: 9
+extensions:
+  discord: https://discord.gg/aW7MRd5zYA
+  twitter: https://twitter.com/MillennialsNFT
+  website: https://themillennials.io/
+tags:
+  - utility-token

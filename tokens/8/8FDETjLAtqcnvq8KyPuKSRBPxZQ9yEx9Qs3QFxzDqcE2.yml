@@ -1,0 +1,5 @@
+symbol: G
+name: TEST G Token
+decimals: 9
+clusters:
+  - devnet

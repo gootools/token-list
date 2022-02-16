@@ -1,0 +1,11 @@
+symbol: UXD
+name: UXD Stablecoin
+decimals: 6
+extensions:
+  coingeckoId: uxd-stablecoin
+  discord: https://discord.com/invite/BHfpYmjsBM
+  medium: https://uxdprotocol.medium.com/
+  twitter: https://twitter.com/UXDProtocol
+  website: https://uxd.fi/
+tags:
+  - stablecoin

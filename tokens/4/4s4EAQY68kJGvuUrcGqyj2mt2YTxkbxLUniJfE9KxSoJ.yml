@@ -1,0 +1,8 @@
+symbol: OVCN
+name: Ovecon Token
+decimals: 8
+extensions:
+  website: http://ovecon.com
+tags:
+  - community-token
+  - social-token

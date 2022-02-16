@@ -1,0 +1,11 @@
+symbol: RP
+name: Rogue Panda Token
+decimals: 4
+extensions:
+  twitter: https://twitter.com/rogue_pandas
+  website: https://roguepandas.io/
+tags:
+  - governance-token
+  - gaming
+  - NFTs
+  - utility-token

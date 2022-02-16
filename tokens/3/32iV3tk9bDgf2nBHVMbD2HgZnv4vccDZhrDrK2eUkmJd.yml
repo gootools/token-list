@@ -1,0 +1,9 @@
+symbol: MAGIK
+name: Magik Finance
+decimals: 9
+extensions:
+  twitter: https://twitter.com/Magik_Finance
+  website: https://magikfinance.xyz
+tags:
+  - DeFi
+  - Lending-Protocol

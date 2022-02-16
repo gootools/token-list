@@ -1,0 +1,11 @@
+symbol: EZS
+name: EZsmarts Token
+decimals: 9
+extensions:
+  facebook: https://www.facebook.com/groups/ezsmarts
+  instagram: https://www.instagram.com/ezsmarts
+  linkedin: https://linkedin.com/company/ezsmarts
+  telegram: https://t.me/ezsmarts
+  website: https://www.ezsmarts.io
+tags:
+  - utility-token

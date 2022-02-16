@@ -1,0 +1,8 @@
+symbol: CLAIM
+name: CLAIM Coin
+decimals: 2
+extensions:
+  website: https://blocksto.ne/claim-coin/
+tags:
+  - claims
+  - invest

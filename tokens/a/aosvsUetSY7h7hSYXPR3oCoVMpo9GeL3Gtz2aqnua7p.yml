@@ -1,0 +1,10 @@
+symbol: AOST
+name: AOS Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/cmUJSVqK
+  twitter: https://twitter.com/aos_NFT
+  website: https://apeson.space
+tags:
+  - community-token
+  - nft-token

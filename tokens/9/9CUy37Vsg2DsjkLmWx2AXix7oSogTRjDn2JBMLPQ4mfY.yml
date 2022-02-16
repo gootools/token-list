@@ -1,0 +1,8 @@
+symbol: LCT
+name: LoutreCoin Tuto
+decimals: 9
+extensions:
+  twitter: https://twitter.com/laloutre
+  website: https://laloutre.gitbook.io/
+tags:
+  - social-token

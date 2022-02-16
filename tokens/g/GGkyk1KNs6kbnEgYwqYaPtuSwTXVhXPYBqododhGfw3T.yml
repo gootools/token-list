@@ -1,0 +1,9 @@
+symbol: UNITOK
+name: Bugsy Token
+decimals: 6
+tags:
+  - DeFi
+  - Gaming
+  - Gambling
+clusters:
+  - devnet

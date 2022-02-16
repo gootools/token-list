@@ -1,0 +1,20 @@
+symbol: TBIG
+name: BiG Coin (Testnet)
+decimals: 5
+extensions:
+  coingeckoId: usd-coin
+  description: The BiG Deal - is a decentralized blockchain-based platform that
+    churns out amazing deals (BiG Deals) to its community members via auctioning
+    and other engagement models. Each engagement has elements of luck, skill,
+    gamification and is amazing fun.
+  github: https://github.com/thebigdeals
+  instagram: https://www.instagram.com/thebigdeal_official
+  linkedin: https://www.linkedin.com/company/the-big-deals
+  medium: https://medium.com/@thebigdealofficial
+  telegram: https://t.me/+sWdEDZzdkSVlY2I1
+  twitter: https://twitter.com/thebigdeal_play
+  website: https://thebig.deals/
+tags:
+  - stablecoin
+clusters:
+  - testnet

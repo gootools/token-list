@@ -1,0 +1,12 @@
+symbol: NYN
+name: NYN Token
+decimals: 9
+extensions:
+  coinmarketcap: https://coinmarketcap.com/currencies/nyan-heroes/
+  discord: https://discord.gg/nyanheroes
+  medium: https://nyanheroes.medium.com/
+  telegram: https://t.me/nyanheroes
+  twitter: https://twitter.com/nyanheroes
+  website: https://nyanheroes.com/
+tags:
+  - utility-token

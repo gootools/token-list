@@ -1,0 +1,7 @@
+symbol: WEB
+name: CityWeb
+decimals: 9
+extensions:
+  website: https://cityweb.fr
+tags:
+  - utility-token

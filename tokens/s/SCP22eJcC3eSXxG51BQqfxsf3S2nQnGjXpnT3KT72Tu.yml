@@ -1,0 +1,9 @@
+symbol: SCP
+name: Sporting CP Fan Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/SportingToken
+  website: https://www.sporting.pt
+tags:
+  - community-token
+  - social-token

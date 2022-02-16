@@ -1,0 +1,9 @@
+symbol: TABC
+name: True Aid Bangladesh Coin
+decimals: 0
+extensions:
+  description: True Aid Bangladesh Coin
+  twitter: https://twitter.com/TrueAidBD
+tags:
+  - bangladesh
+  - social-token

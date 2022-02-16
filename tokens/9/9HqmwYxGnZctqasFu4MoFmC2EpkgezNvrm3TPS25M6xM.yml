@@ -1,0 +1,9 @@
+symbol: ST8
+name: StaticToken
+decimals: 9
+extensions:
+  discord: https://discord.gg/DXDfk4zV
+  reddit: https://www.reddit.com/r/statictoken
+  twitter: https://twitter.com/staticcomputers
+tags:
+  - tech-token

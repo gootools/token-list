@@ -1,0 +1,10 @@
+symbol: EGGZ
+name: Dapper Ducks Eggs
+decimals: 0
+extensions:
+  description: $EGGZ are the utility token for the Dapper Ducks Universe use to
+    purchase a multitude of items from The Pond.
+  discord: https://discord.gg/DapperDucks
+  website: https://www.thedapperducks.com
+tags:
+  - utility-token

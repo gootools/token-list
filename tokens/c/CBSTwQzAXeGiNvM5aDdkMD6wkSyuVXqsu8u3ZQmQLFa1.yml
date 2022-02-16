@@ -1,0 +1,11 @@
+symbol: CUBIST
+name: Cubist Coin
+decimals: 9
+extensions:
+  discord: https://discord.gg/cubistcollective
+  twitter: https://twitter.com/CubistNFT
+  website: https://cubistcollective.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

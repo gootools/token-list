@@ -1,0 +1,7 @@
+symbol: NGNC
+name: NGN Coin
+decimals: 2
+extensions:
+  website: https://www.linkio.africa/
+tags:
+  - stablecoin

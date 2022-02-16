@@ -1,0 +1,7 @@
+symbol: SFT
+name: Scorpion Fit Token
+decimals: 9
+tags:
+  - SFT
+clusters:
+  - devnet

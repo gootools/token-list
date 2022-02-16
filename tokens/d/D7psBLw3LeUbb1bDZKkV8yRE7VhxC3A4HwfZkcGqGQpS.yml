@@ -1,0 +1,8 @@
+symbol: XKR
+name: Kori
+decimals: 9
+extensions:
+  description: Kori Coin
+  twitter: https://twitter.com/KoriPay
+tags:
+  - social-token

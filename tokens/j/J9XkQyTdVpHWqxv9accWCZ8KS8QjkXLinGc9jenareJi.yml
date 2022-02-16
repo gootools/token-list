@@ -1,0 +1,8 @@
+symbol: FULL
+name: FullToken
+decimals: 9
+tags:
+  - carbon-offset
+  - energy-token
+  - game-token
+  - utility-token

@@ -1,0 +1,11 @@
+symbol: SLITE
+name: SolanaLite
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/GbQAgQKxdN
+  reddit: https://www.reddit.com/r/SolanaLite
+  telegram: https://t.me/SolanaLite
+  twitter: https://twitter.com/SolanaLite
+  website: https://www.solanalite.io
+tags:
+  - SolanaLite

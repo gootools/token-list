@@ -1,0 +1,7 @@
+symbol: WAD
+name: Watchad Token
+decimals: 8
+extensions:
+  website: https://www.watchad.org/
+tags:
+  - payment-token

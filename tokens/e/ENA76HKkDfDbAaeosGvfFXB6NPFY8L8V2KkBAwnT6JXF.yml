@@ -1,0 +1,9 @@
+symbol: rayTICKET-USDC
+name: rayTICKET-USDC LP TOken
+decimals: 8
+extensions:
+  telegram: https://t.me/theticketfinance
+  twitter: https://twitter.com/TheTicketSol
+  website: https://theticket.finance
+tags:
+  - lp-token

@@ -1,0 +1,11 @@
+symbol: CatchCoin
+name: CatchCoin
+decimals: 9
+extensions:
+  discord: https://discord.gg/catchking
+  twitter: https://twitter.com/catch_king
+  website: https://www.catchking.io/
+tags:
+  - CatchCoin
+  - game-token
+  - utility-token

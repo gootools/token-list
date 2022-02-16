@@ -1,0 +1,7 @@
+symbol: IRC
+name: Informatics Research Coin
+decimals: 0
+extensions:
+  website: https://www.irc.or.id
+tags:
+  - reward-token

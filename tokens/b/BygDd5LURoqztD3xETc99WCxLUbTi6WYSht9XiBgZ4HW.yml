@@ -2,6 +2,7 @@ symbol: WMP
 name: Whalemap
 decimals: 9
 extensions:
+  coingeckoId: whalemap
   website: https://whalemap.io/
 tags:
   - social-token

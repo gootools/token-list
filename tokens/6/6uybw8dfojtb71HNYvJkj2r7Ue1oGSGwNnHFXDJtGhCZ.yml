@@ -1,0 +1,8 @@
+symbol: RIOT
+name: Riot C01N
+decimals: 9
+extensions:
+  description: Riot C01N - first Riot Token/Coin
+  twitter: https://twitter.com/MrRoryRiot
+tags:
+  - social-token

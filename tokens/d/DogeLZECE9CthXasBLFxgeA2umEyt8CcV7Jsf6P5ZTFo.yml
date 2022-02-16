@@ -2,7 +2,6 @@ symbol: DLANA
 name: Dogelana Token
 decimals: 9
 extensions:
-  coingeckoId: dogelana
   discord: https://discord.gg/dogelana
   github: https://github.com/dogelanaio
   telegram: https://t.me/dogelana

@@ -2,7 +2,9 @@ symbol: BOT
 name: Starbots Token
 decimals: 8
 extensions:
+  coingeckoId: starbots
   twitter: https://twitter.com/Starbots_game
+  website: https://starbots.net
 tags:
   - governance-token
   - game-token

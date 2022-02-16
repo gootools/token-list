@@ -1,0 +1,14 @@
+symbol: DDT
+name: Dancer Dates Token
+decimals: 9
+extensions:
+  facebook: https://www.facebook.com/dancerdatespage
+  instagram: https://www.instagram.com/dancerdates
+  twitter: https://twitter.com/dancerdates
+  website: https://www.dancerdates.net/
+tags:
+  - community-token
+  - meme-token
+  - nft
+  - social-token
+  - utility-token

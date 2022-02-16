@@ -1,0 +1,8 @@
+symbol: COBAN/CRP
+name: Cropper LP token (COBAN/CRP)
+decimals: 8
+extensions:
+  twitter: https://twitter.com/CropperFinance
+  website: https://cropper.finance/
+tags:
+  - lp-token

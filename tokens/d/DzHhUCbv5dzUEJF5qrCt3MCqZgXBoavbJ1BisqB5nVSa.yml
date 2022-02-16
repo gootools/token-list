@@ -1,0 +1,9 @@
+symbol: PATENT
+name: PATENT
+decimals: 0
+extensions:
+  description: The first NFT-based patent issued on Solana. The patent holds
+    essential guidelines to reconstruct parts of human muscle and bone tissues
+    in laboratory setting. The Dawn of the Decentralized Intellectual Property.
+tags:
+  - NFT

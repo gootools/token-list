@@ -1,0 +1,7 @@
+symbol: Souls
+name: Souls Token
+decimals: 6
+extensions:
+  website: https://www.hornsvshalosnft.com/
+tags:
+  - utility-token

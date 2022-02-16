@@ -1,0 +1,10 @@
+symbol: DPD
+name: DPD
+decimals: 9
+extensions:
+  twitter: https://twitter.com/DuckPatrolNFT
+  website: https://duckpatrol.io/
+tags:
+  - community-token
+  - social-token
+  - utility-token

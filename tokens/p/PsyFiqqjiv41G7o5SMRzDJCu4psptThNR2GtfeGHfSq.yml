@@ -1,0 +1,8 @@
+symbol: PSY
+name: PsyOptions
+decimals: 6
+extensions:
+  discord: https://discord.gg/Ew3dq7dKwp
+  serumV3Usdc: CzuipkNnvG4JaTQPjgAseWLNhLZFYxMcYpd2G8hDLHco
+  twitter: https://twitter.com/psyoptions
+  website: https://psyoptions.io/

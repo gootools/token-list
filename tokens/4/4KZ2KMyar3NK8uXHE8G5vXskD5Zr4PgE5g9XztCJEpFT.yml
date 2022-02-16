@@ -1,0 +1,7 @@
+symbol: MOM
+name: TEST_TOKEN_METADATA
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

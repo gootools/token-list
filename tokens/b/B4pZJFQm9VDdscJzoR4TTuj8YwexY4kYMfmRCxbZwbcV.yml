@@ -1,0 +1,10 @@
+symbol: HERD
+name: Herd Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/qMb6Evqe2b
+  twitter: https://twitter.com/ChillElephants
+  website: https://thechillelephantsnft.site/
+tags:
+  - nft
+  - social-token

@@ -1,0 +1,7 @@
+symbol: WUSDT
+name: Wrapped USDT
+decimals: 9
+extensions:
+  website: https://wrappedtether.to
+tags:
+  - Payment-token

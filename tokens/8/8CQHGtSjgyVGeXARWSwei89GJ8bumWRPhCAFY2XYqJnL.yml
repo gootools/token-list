@@ -1,0 +1,5 @@
+symbol: USDS
+name: USD Stable
+decimals: 0
+tags:
+  - stablecoin

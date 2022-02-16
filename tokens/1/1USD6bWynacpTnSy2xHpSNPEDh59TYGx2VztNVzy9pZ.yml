@@ -1,0 +1,13 @@
+symbol: 1USD
+name: OneUSD
+decimals: 6
+extensions:
+  discord: https://discord.com/invite/oneringfinance
+  github: https://github.com/OneRingUSD
+  medium: https://medium.com/oneringfinance
+  telegram: https://t.me/OneRing_Finance
+  twitter: https://twitter.com/onering_finance
+  website: https://www.onering.finance
+tags:
+  - DeFi
+  - stablecoin

@@ -1,0 +1,7 @@
+symbol: FETTI
+name: Fetti
+decimals: 6
+extensions:
+  website: http://fetti.life/
+tags:
+  - social-token

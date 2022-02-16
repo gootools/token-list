@@ -1,0 +1,11 @@
+symbol: FL
+name: Fuel Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/kongracers
+  twitter: https://twitter.com/KongRacers
+tags:
+  - Betting
+  - Casino
+  - gaming-token
+  - Gambling

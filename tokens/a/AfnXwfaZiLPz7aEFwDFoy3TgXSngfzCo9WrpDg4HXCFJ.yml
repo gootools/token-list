@@ -1,0 +1,10 @@
+symbol: MILK1
+name: MILKTOKEN
+decimals: 6
+extensions:
+  discord: https://discord.gg/test
+  twitter: https://twitter.com/test
+tags:
+  - milk-test
+  - marketplace
+  - nft

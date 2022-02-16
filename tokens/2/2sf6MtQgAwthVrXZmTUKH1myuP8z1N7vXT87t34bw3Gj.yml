@@ -1,0 +1,13 @@
+symbol: MNSTR
+name: Monsterz Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/monsterzdao
+  twitter: https://twitter.com/MonsterzDao
+  website: https://monsterzdao.com/
+tags:
+  - art-token
+  - artists-token
+  - community-token
+  - NFT
+  - utility-token

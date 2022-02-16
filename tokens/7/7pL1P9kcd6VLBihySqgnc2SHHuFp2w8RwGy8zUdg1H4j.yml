@@ -1,0 +1,12 @@
+symbol: IBBP
+name: Ipa Belgium Beer Project
+decimals: 3
+extensions:
+  website: https://belgiumbeerproject.be/
+tags:
+  - beer-token
+  - belgium-token
+  - solana
+  - social-token
+  - utility-token
+  - webshop-token

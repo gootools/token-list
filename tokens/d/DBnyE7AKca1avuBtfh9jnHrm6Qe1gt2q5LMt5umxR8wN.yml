@@ -1,0 +1,9 @@
+symbol: LZ
+name: Leanza Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/GmDSMR8E
+  twitter: https://twitter.com/leanzadario
+  website: https://www.leanza.nl/
+tags:
+  - social-token

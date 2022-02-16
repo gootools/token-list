@@ -1,0 +1,7 @@
+symbol: FLX
+name: Flexcoin
+decimals: 6
+extensions:
+  website: https://flexboks.com
+tags:
+  - utility-token

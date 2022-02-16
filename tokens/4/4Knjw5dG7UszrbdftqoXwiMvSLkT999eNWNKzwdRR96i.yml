@@ -1,0 +1,8 @@
+symbol: DNGN
+name: DungeonCoin
+decimals: 18
+extensions:
+  description: What are ya buyin'?
+tags:
+  - game
+  - social-token

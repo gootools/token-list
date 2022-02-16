@@ -1,0 +1,12 @@
+symbol: KAFE
+name: Kafe
+decimals: 6
+extensions:
+  description: KAFE Token
+  discord: https://discord.gg/r4vNRUTXY9
+  twitter: https://twitter.com/TheBuilderDAO
+  website: https://learn.figment.io/
+tags:
+  - utility-token
+clusters:
+  - devnet

@@ -1,0 +1,15 @@
+symbol: $WNZ
+name: Winerz
+decimals: 4
+extensions:
+  facebook: https://www.facebook.com/winerz.official
+  instagram: https://www.instagram.com/winerz.official/
+  medium: https://medium.com/@winerz
+  twitter: https://twitter.com/Winerz_official
+  website: https://winerz.com/
+  whitepaper: https://ico.winerz.com/assets/docs/Winerz-Token-Economics.pdf
+tags:
+  - community-token
+  - game-token
+  - payment-token
+  - utility-token

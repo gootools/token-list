@@ -1,0 +1,9 @@
+symbol: BACH
+name: BACH Token
+decimals: 12
+extensions:
+  website: https://musik88.com/BACH
+tags:
+  - music-token
+  - social-token
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: FWL
+name: Fellowship WL Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/fellowshipdao
+  twitter: https://twitter.com/FellowshipDAO
+  website: https://fellowshipdao.com/
+tags:
+  - utility-token

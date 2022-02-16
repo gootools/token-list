@@ -1,0 +1,9 @@
+symbol: cscnSOL
+name: Solend scnSOL
+decimals: 9
+extensions:
+  website: https://solend.fi
+tags:
+  - collateral-tokens
+  - lending
+  - solend

@@ -1,0 +1,9 @@
+symbol: MTM
+name: MTM
+decimals: 9
+extensions:
+  twitter: https://twitter.com/metamounts
+  website: https://metamounts.io/
+tags:
+  - NFT
+  - Utility-token

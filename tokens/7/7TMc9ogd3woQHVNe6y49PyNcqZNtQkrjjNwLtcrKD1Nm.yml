@@ -1,0 +1,9 @@
+symbol: BBQ
+name: BBQ Coin
+decimals: 0
+extensions:
+  website: https://www.americanbbq.org
+tags:
+  - community-token
+  - social-token
+  - utility-token

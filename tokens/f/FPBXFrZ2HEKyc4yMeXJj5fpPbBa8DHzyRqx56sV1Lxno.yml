@@ -1,0 +1,7 @@
+symbol: INT
+name: Inferno
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

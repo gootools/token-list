@@ -1,0 +1,9 @@
+symbol: MAI
+name: MAI Stablecoin
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/mQq55j65xJ
+  twitter: https://twitter.com/QiDaoProtocol
+  website: https://mai.finance/
+tags:
+  - stablecoin

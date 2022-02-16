@@ -1,0 +1,7 @@
+symbol: TRADEN
+name: TRADEN
+decimals: 9
+extensions:
+  website: https://traden.pro/
+tags:
+  - social-token

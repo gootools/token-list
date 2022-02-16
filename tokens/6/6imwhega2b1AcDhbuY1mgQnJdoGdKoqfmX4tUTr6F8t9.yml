@@ -1,0 +1,12 @@
+symbol: NIKE
+name: Nike Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/nike
+  website: https://nike.com
+tags:
+  - community-token
+  - meme-token
+  - nike-token
+  - social-token
+  - utility-token

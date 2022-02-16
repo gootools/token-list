@@ -1,0 +1,7 @@
+symbol: KOFI
+name: Coffee Coin
+decimals: 2
+extensions:
+  website: https://sebastianalscher.de/coffee-coin/
+tags:
+  - social-token

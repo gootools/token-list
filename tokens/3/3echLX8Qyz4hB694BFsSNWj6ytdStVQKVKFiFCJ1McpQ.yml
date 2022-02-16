@@ -1,0 +1,11 @@
+symbol: TOME
+name: TOME
+decimals: 6
+extensions:
+  discord: https://discord.gg/qRcCATnZ
+  twitter: https://twitter.com/AlderMages
+  website: https://aldermages.com/
+tags:
+  - community-token
+  - nft-token
+  - utility-token

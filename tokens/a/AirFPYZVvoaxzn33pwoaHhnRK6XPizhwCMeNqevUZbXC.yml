@@ -1,0 +1,10 @@
+symbol: AFT
+name: AirFly Token
+decimals: 5
+extensions:
+  discord: https://discord.gg/WKMFhNrxvS
+  twitter: https://twitter.com/airflyersnft
+  website: https://airflyersnft.com
+tags:
+  - social-token
+  - utility-token

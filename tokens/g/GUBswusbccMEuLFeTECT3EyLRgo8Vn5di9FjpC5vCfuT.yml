@@ -1,0 +1,9 @@
+symbol: OGL
+name: OGL Token
+decimals: 9
+extensions:
+  website: https://youtube.com/channel/UCEmwk5liIg8lxIjGqh8uHaA
+tags:
+  - utility-token
+clusters:
+  - devnet

@@ -1,0 +1,8 @@
+symbol: $ROBO
+name: ROBO Coin
+decimals: 9
+extensions:
+  discord: https://discord.gg/cN4qECwt68
+  twitter: https://twitter.com/robotmafiaclub
+tags:
+  - social-token

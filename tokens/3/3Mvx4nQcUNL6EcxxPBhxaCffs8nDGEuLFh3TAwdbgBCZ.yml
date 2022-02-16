@@ -1,0 +1,5 @@
+symbol: PHY-SOL
+name: Physis LP Token (PHY-SOL)
+decimals: 6
+tags:
+  - lp-token

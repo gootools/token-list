@@ -1,0 +1,10 @@
+symbol: SLACC
+name: SLACC Whitelist
+decimals: 9
+extensions:
+  discord: https://discord.gg/slacc
+  twitter: https://twitter.com/SlaccSol
+  website: https://slacc.io
+tags:
+  - social-token
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: CST
+name: Coin98 Stock Token
+decimals: 2
+extensions:
+  telegram: https://t.me/coin98
+tags:
+  - Coin98
+  - tokenized-stock
+  - utility-token

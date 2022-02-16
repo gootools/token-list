@@ -1,0 +1,8 @@
+symbol: MNTYTKN
+name: Minty Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/RfShDcAuwU
+  twitter: https://twitter.com/MintyAutomation
+tags:
+  - whitelist-token

@@ -1,0 +1,10 @@
+symbol: NARWHAL
+name: Narwhal Coin
+decimals: 9
+extensions:
+  serumV3Usdc: 3qXkLj4vAT4B2dMJQgtKSrNxLfrSQawMZtAzKVEsMyYT
+  twitter: https://twitter.com/narwhalcoin
+  website: https://www.narwhalcoin.net
+tags:
+  - DeFi
+  - NFTs

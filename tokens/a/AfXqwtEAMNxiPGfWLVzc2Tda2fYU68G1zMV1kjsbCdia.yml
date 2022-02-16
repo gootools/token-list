@@ -1,0 +1,7 @@
+symbol: BTCSEA
+name: Bitcoin NFT Sea
+decimals: 9
+extensions:
+  website: https://btcnftsea.io/
+tags:
+  - utility-token

@@ -1,0 +1,7 @@
+symbol: LDY
+name: Lovely DanDy Coin
+decimals: 9
+extensions:
+  website: http://lovelydandy.ch
+tags:
+  - social-token

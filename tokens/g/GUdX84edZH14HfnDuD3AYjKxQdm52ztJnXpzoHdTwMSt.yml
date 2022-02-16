@@ -1,0 +1,7 @@
+symbol: GEM
+name: Gemstone
+decimals: 6
+extensions:
+  website: https://www.gemtoken.online
+tags:
+  - social-token

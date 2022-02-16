@@ -1,0 +1,7 @@
+symbol: RENTA
+name: Renta
+decimals: 6
+extensions:
+  website: https://renta.world/
+tags:
+  - Utility-token

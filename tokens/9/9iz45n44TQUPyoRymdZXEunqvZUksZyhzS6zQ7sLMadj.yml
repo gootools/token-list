@@ -1,0 +1,9 @@
+symbol: POT
+name: Positron
+decimals: 9
+extensions:
+  description: POT is a utility token for Ubik LoFi metaverse.
+tags:
+  - governance-token
+  - social-token
+  - utility-token

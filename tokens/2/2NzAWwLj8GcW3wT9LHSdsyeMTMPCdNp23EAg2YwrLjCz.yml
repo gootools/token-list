@@ -1,0 +1,10 @@
+symbol: STONE
+name: STONE - Metaversium
+decimals: 9
+extensions:
+  twitter: https://twitter.com/metaversiumgame
+  website: https://metaversium.io/
+tags:
+  - utility-token
+clusters:
+  - testnet

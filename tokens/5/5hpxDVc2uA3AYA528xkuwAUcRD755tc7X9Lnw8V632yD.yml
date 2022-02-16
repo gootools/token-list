@@ -1,0 +1,10 @@
+symbol: $CAL
+name: CalCoin
+decimals: 0
+extensions:
+  twitter: https://twitter.com/CalCoins
+tags:
+  - meme-token
+  - networking-token
+  - social-token
+  - utility-token

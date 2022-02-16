@@ -1,0 +1,5 @@
+symbol: XSGD
+name: Wormhole wrapped XSGD(eth)
+decimals: 8
+extensions:
+  website: https://straitsx.com

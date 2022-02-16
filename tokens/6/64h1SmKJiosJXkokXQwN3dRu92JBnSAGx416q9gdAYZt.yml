@@ -1,0 +1,7 @@
+symbol: SLG
+name: Solido
+decimals: 9
+extensions:
+  telegram: https://t.me/solidogames
+  twitter: https://twitter.com/solidogames
+  website: https://solido.games/

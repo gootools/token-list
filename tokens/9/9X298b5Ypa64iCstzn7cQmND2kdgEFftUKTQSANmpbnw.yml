@@ -1,0 +1,7 @@
+symbol: BWS2WL
+name: BitWhips S2 Whitelist Token
+decimals: 0
+extensions:
+  website: https://bitwhips.io/
+tags:
+  - utility-token

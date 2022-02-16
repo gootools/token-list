@@ -1,0 +1,10 @@
+symbol: CRPSV
+name: Corpusville Membership Pass
+decimals: 0
+extensions:
+  description: Token to Mint Corpusville Membership Pass
+  discord: http://discord.gg/3fH3cVVFfg
+  twitter: https://twitter.com/CorpusvilleNFT
+  website: https://corpusville.com
+tags:
+  - mint-token

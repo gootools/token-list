@@ -1,0 +1,9 @@
+symbol: CBDB
+name: CBDB WL Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/ChibiDBs
+  website: https://www.chibidbs.com/
+tags:
+  - utility-token
+  - whitelist-token

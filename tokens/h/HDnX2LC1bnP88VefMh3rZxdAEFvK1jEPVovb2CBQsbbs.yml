@@ -1,0 +1,9 @@
+symbol: PEW
+name: Moose and cub currency system
+decimals: 9
+extensions:
+  discord: https://discord.gg/n26UwdVy
+  twitter: https://twitter.com/solgats
+  website: https://solgats.io
+tags:
+  - social-token

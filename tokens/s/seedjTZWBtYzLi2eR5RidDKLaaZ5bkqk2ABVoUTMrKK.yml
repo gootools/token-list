@@ -1,0 +1,10 @@
+symbol: GSS
+name: Genesis Seed
+decimals: 0
+extensions:
+  description: Seed Society Genesis Collection
+  discord: https://discord.gg/tA8J3fM6pq
+  twitter: https://twitter.com/SeedSocietyNFT
+  website: https://seedsociety.xyz/
+tags:
+  - social-token

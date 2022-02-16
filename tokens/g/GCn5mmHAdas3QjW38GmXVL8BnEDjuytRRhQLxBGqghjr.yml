@@ -1,0 +1,11 @@
+symbol: SPDR
+name: SpiderMan Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/spiderman
+  website: https://www.marvel.com/characters/spider-man-peter-parker
+tags:
+  - community-token
+  - social-token
+  - spiderman-token
+  - utility-token

@@ -1,0 +1,19 @@
+symbol: FLNX
+name: Linux FX)
+decimals: 9
+extensions:
+  description: Tokens that are designed to be spent within a certain blockchain
+    ecosystem e.g. most of the SPL-Tokens, bridged from etherium,non-fungable
+    tokens,asset wrapped tokens and for linux os community tokens.
+  telegram: https://t.me/linuxtokens
+  twitter: https://twitter.com/linuxtokens
+tags:
+  - community-token
+  - development
+  - ethereum
+  - Non-fungible-token
+  - stablecoin
+  - social-token
+  - utility-token
+  - wrapped
+  - wrapped-sollet

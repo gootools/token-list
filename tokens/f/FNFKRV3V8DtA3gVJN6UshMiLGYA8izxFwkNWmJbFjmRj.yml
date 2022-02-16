@@ -2,6 +2,7 @@ symbol: TTT
 name: TabTrader Token
 decimals: 6
 extensions:
+  coingeckoId: tabtrader
   description: TabTrader allows users to trade anywhere and anytime from their
     mobile device with all the main crypto exchanges accessible through a
     unified interface.

@@ -1,0 +1,10 @@
+symbol: SOLP
+name: SOL Playground Coin
+decimals: 6
+extensions:
+  twitter: https://twitter.com/solplayground
+  website: https://solana-playground.com/
+tags:
+  - blockchain-developer
+  - social-token
+  - utility-token

@@ -1,5 +1,5 @@
-symbol: AAVE
-name: Wrapped Aave
+symbol: soAAVE
+name: Wrapped Aave (Sollet)
 decimals: 6
 extensions:
   coingeckoId: aave

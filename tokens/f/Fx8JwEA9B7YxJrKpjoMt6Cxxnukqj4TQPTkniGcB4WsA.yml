@@ -1,0 +1,7 @@
+symbol: LNR
+name: Lunar
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

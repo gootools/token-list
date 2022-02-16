@@ -1,0 +1,9 @@
+symbol: WHEY
+name: WHEY
+decimals: 6
+extensions:
+  coingeckoId: whey-token
+  twitter: https://twitter.com/shreddedapes
+  website: https://shreddedapes.io/
+tags:
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: DORA
+name: Doragon Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/PixelDoragon
+  website: https://pixelateddoragon.com
+tags:
+  - nft
+  - utility-token

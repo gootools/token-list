@@ -2,6 +2,10 @@ symbol: SAFU
 name: 1SAFU
 decimals: 6
 extensions:
+  coingeckoId: 1safu
+  discord: https://discord.gg/avdNF9s4CF
+  serumV3Usdc: H8sjxDJWVxC3kP5uZ3p9eZncc4Czn9pTWEA6bH2XX7rM
+  telegram: https://t.me/sol1safu
   twitter: https://twitter.com/1safu_sol
   website: https://www.1safu.com/
 tags:

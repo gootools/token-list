@@ -1,0 +1,8 @@
+symbol: OOGI/USDC
+name: Cropper LP token (OOGI/USDC)
+decimals: 8
+extensions:
+  twitter: https://twitter.com/CropperFinance
+  website: https://cropper.finance/
+tags:
+  - lp-token

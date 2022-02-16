@@ -1,0 +1,10 @@
+symbol: NEO
+name: Urban Coin
+decimals: 2
+extensions:
+  twitter: https://twitter.com/neobiIity
+  website: https://www.rideurbanair.com/
+tags:
+  - community-token
+  - mobility-token
+  - social-token

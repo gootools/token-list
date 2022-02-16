@@ -1,0 +1,8 @@
+symbol: AHWL
+name: Astral House Whitelist Token
+decimals: 0
+extensions:
+  description: Welcome Our Amazing House!
+  website: https://www.astralapes.com
+tags:
+  - whitelist-token

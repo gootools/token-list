@@ -1,0 +1,9 @@
+symbol: SCMK
+name: Citizens Mint Key
+decimals: 0
+extensions:
+  discord: https://discord.gg/wS932Vndrc
+  twitter: https://twitter.com/SolsteadsNFT
+  website: https://citizens.solsteads.com/
+tags:
+  - utility-token

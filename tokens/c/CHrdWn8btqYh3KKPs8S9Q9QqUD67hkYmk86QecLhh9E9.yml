@@ -1,0 +1,11 @@
+symbol: BETX
+name: Solana Betting EXchange
+decimals: 6
+extensions:
+  description: Solana Betting eXchange - bet with SOL, SAMO, SRM, RAY - fantast
+    token leagues and more
+  telegram: https://t.me/solbetx
+tags:
+  - community-token
+  - utility-token
+  - virtual-currency

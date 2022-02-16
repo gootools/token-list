@@ -1,0 +1,11 @@
+symbol: KRG
+name: Kirill (4Sf1)
+decimals: 4
+extensions:
+  website: https://devbeta.human.ag/address/7su4iG1W2qkQiaLS1MTZJs1SQzhoAM5HuhRrnH4unXHN?src=token-list
+tags:
+  - human
+  - social-token
+  - utility-token
+clusters:
+  - devnet

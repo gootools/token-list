@@ -1,0 +1,9 @@
+symbol: DASH
+name: Dashsnipe WL Token
+decimals: 0
+extensions:
+  website: https://twitter.com/DashsnipeSOL
+tags:
+  - community-token
+  - governance-token
+  - whitelist-token

@@ -4,7 +4,8 @@ decimals: 6
 extensions:
   address: uusd
   bridgeContract: https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf
-  coingeckoId: terra-usd
+  coingeckoId: terrausd
+  serumV3Usdc: 8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK
 tags:
   - wrapped
   - wormhole

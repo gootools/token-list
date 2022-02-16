@@ -1,0 +1,10 @@
+symbol: WWT
+name: Wizard World Token
+decimals: 9
+extensions:
+  discord: http://discord.gg/wizardworld
+  twitter: https://twitter.com/WizardWorldTH
+  website: https://wizardworld.online
+tags:
+  - community
+  - utility-token

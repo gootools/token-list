@@ -1,0 +1,9 @@
+symbol: 9LIVES-SOL
+name: 9LIVES-SOL LP Token
+decimals: 9
+extensions:
+  discord: http://discord.gg/cyberkatz
+  twitter: https://twitter.com/thecyberkatz
+  website: https://cyberkatz.space
+tags:
+  - lp-token

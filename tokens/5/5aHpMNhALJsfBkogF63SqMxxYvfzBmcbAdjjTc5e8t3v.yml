@@ -1,0 +1,6 @@
+symbol: FSTC
+name: FastCoin
+decimals: 9
+tags:
+  - asset
+  - stablecoin

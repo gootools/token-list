@@ -1,0 +1,8 @@
+symbol: HAMS/USDC
+name: Cropper LP token (HAMS/USDC)
+decimals: 8
+extensions:
+  twitter: https://twitter.com/CropperFinance
+  website: https://cropper.finance/
+tags:
+  - lp-token

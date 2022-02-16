@@ -1,0 +1,8 @@
+symbol: ARTZ
+name: Artozo
+decimals: 4
+extensions:
+  website: https://artozo.com
+tags:
+  - payment-token
+  - utility-token

@@ -1,5 +1,7 @@
 symbol: GMZA
 name: GMZREA
 decimals: 9
+extensions:
+  website: https://gmzrea.com/
 tags:
   - social-token

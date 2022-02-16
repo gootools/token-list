@@ -1,0 +1,14 @@
+symbol: SFC-BATTERY
+name: Solana Faction Cards Battery Pack
+decimals: 4
+extensions:
+  description: Solana Faction Cards enables staking, governance and cross-chain multiverse.
+  discord: https://discord.com/invite/Wkjp3DhJuZ
+  github: https://github.com/faction-cards
+  serumV3Usdc: 7uHeXXknyws9iazNGh5JZjfqFFCKeihAYcgzSW3AfqkN
+  twitter: https://twitter.com/faction_cards
+  website: https://faction.cards
+tags:
+  - community-token
+  - social-token
+  - utility-token

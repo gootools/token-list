@@ -1,0 +1,8 @@
+symbol: Dino
+name: Dino DAO
+decimals: 3
+extensions:
+  vault: https://fraktion.art/vault/Uzp4nRWuZozb36PbjepYJGM5Q44Bqiw1nYrDfQC1Hd1
+  vaultPubkey: Uzp4nRWuZozb36PbjepYJGM5Q44Bqiw1nYrDfQC1Hd1
+tags:
+  - fractionalized-nft

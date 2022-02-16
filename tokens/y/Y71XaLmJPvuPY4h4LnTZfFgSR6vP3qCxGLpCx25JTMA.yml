@@ -1,0 +1,10 @@
+symbol: STEAK
+name: STEAK
+decimals: 9
+extensions:
+  twitter: https://twitter.com/RoyalLionParty
+  website: https://royallionpartyclub.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

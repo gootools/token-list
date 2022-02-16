@@ -1,0 +1,14 @@
+symbol: SHIP
+name: SHIP
+decimals: 9
+extensions:
+  discord: https://discord.gg/cryptoshipsco
+  serumV3Usdc: 3tnNsMhZH5DVnY8bA95H1mQdSJpaA8spHBhsixnDsH2g
+  twitter: https://twitter.com/cryptoships_co
+  website: https://www.cryptoships.co/
+tags:
+  - game
+  - meta-verse
+  - NFT
+  - play2earn
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: EV1
+name: EveryOne Coin
+decimals: 9
+extensions:
+  facebook: https://facebook.com/everyonecoin
+  twitter: https://twitter.com/everyonecoin
+  website: https://everyonecoin.com/
+tags:
+  - currency

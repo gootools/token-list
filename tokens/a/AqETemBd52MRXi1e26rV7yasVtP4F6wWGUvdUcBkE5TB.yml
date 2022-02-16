@@ -1,0 +1,7 @@
+symbol: LIT
+name: Lion Token
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

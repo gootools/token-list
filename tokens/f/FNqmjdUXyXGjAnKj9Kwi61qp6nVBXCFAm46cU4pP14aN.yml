@@ -1,0 +1,7 @@
+symbol: MMACWL
+name: MMAC Whitelist token
+decimals: 0
+extensions:
+  website: https://www.miniapenft.com/
+tags:
+  - whitelist-token

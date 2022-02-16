@@ -1,0 +1,10 @@
+symbol: ADSL2EF
+name: Adsl2ef Token
+decimals: 9
+extensions:
+  facebook: https://www.facebook.com/adsl.formation.tg
+  instagram: https://www.instagram.com/adsl2ef
+  website: https://www.adsl2ef.com/
+  youtube: https://www.youtube.com/channel/UCJnZdPgPwI2rd8_-dfGWOng
+tags:
+  - utility-token

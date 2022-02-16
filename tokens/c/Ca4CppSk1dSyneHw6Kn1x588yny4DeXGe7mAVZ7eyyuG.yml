@@ -1,0 +1,7 @@
+symbol: TICKET
+name: Crypneyland Tickets
+decimals: 0
+extensions:
+  twitter: https://twitter.com/crypneyland
+tags:
+  - Currency

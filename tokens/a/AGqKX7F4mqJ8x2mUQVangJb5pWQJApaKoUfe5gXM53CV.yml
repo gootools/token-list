@@ -1,0 +1,11 @@
+symbol: USDCav
+name: USDCav (Wormhole from Avalanche)
+decimals: 8
+extensions:
+  address: "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+  assetContract: https://snowtrace.io/address/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664
+  bridgeContract: https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052
+  coingeckoId: usd-coin
+tags:
+  - wrapped
+  - wormhole

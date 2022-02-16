@@ -1,0 +1,9 @@
+symbol: CUSEGOVERNANCELP
+name: CuseTheJuice Governance Token Liquidity Pool
+decimals: 9
+extensions:
+  discord: https://discord.gg/xHpRcRKG
+  twitter: https://twitter.com/CuseTheJuice
+  website: https://linktr.ee/CuseTheJuice
+tags:
+  - social-token

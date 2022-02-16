@@ -1,0 +1,9 @@
+symbol: PRMD-USDC
+name: PRMD-USDC LP
+decimals: 9
+extensions:
+  twitter: https://twitter.com/Primordialsgame
+  website: https://primordialsgame.com/
+tags:
+  - primordials-coin
+  - PRMD

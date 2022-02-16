@@ -1,0 +1,13 @@
+symbol: CTUBE
+name: Carbon Tube Token
+decimals: 9
+extensions:
+  github: https://github.com/carbontube/ctube
+  reddit: https://www.reddit.com/u/carbontube_io
+  twitter: https://twitter.com/Carbontube_io
+  website: https://carbontube.io
+tags:
+  - carbon
+  - carbon-tube
+  - share-token
+  - utility-token

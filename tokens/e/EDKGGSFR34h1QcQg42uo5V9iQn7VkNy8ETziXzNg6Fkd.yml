@@ -1,0 +1,9 @@
+symbol: SFM1
+name: Cobro StrikeForce Initiate Medal
+decimals: 0
+extensions:
+  description: Awarded for successfully completing the StrikeForce Initiation Training
+  imageUrl: https://raw.githubusercontent.com/spacepriest/StrikeForce/main/medal/strikeforce%20initiate/logo.png
+  website: https://strikeforce-cobra.com/
+tags:
+  - nft

@@ -1,0 +1,5 @@
+symbol: APEs
+name: APEs
+decimals: 9
+clusters:
+  - testnet

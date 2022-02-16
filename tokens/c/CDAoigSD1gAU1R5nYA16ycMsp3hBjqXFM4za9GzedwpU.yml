@@ -1,0 +1,10 @@
+symbol: CoopDAO
+name: CoopDAO
+decimals: 6
+extensions:
+  facebook: https://facebook.com/Coopbit
+  instagram: https://www.instagram.com/CoopBits
+  twitter: https://twitter.com/Coopbitss
+  website: https://coopcrowd.com
+tags:
+  - governance-token

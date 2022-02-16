@@ -1,0 +1,11 @@
+symbol: MRVL
+name: Marvel Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/marvel
+  website: https://www.marvel.com/
+tags:
+  - community-token
+  - game-token
+  - meme-token
+  - social-token

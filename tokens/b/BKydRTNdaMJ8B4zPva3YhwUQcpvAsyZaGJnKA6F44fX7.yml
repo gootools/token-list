@@ -1,0 +1,11 @@
+symbol: FBZ
+name: FakeBiz
+decimals: 9
+extensions:
+  instagram: https://www.instagram.com/timjdillon
+  twitter: https://twitter.com/FakeBiz_FBZ
+  website: https://www.fakebiz.io/
+tags:
+  - social-token
+  - util-token
+  - web3

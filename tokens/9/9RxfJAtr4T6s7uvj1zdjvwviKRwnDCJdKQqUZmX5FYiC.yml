@@ -1,0 +1,8 @@
+symbol: SXMAS
+name: Sockmas
+decimals: 9
+extensions:
+  twitter: https://twitter.com/socksonsolana
+  website: https://www.solsocks.exchange/
+tags:
+  - utility

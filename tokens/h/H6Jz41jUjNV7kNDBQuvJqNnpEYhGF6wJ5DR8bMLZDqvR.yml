@@ -1,0 +1,5 @@
+symbol: PALM
+name: Palm Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/palmtok

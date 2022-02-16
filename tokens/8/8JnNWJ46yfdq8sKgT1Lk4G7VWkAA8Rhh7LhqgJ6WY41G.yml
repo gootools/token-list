@@ -1,0 +1,19 @@
+symbol: SOLI
+name: Solana Ecosystem Index
+decimals: 6
+extensions:
+  description: SOLI is an index of the Solana ecosystem. It delivers easy,
+    low-cost, diversified exposure to top Solana-native projects. By using
+    staked SOL (mSOL), the index also captures Solana's 6% staking yield. SOLI
+    rebalances monthly to catch trends in the ecosystem.
+  discord: https://discord.gg/amun
+  medium: https://medium.com/amun-tokens
+  telegram: https://t.me/AmunTokens
+  twitter: https://twitter.com/amun
+  website: https://amun.com/
+tags:
+  - defi-index
+  - defi
+  - index-token
+  - index
+  - solana-ecosystem

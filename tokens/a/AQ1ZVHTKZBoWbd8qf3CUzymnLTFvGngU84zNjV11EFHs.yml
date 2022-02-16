@@ -1,0 +1,7 @@
+symbol: MCHP
+name: Mint Chip Token
+decimals: 4
+extensions:
+  twitter: https://twitter.com/MintChipToken
+tags:
+  - social-token

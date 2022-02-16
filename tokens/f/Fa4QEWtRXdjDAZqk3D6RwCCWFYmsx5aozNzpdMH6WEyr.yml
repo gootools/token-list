@@ -1,0 +1,10 @@
+symbol: SIQUTA
+name: Siquta
+decimals: 0
+extensions:
+  github: https://github.com/defihq
+  website: https://defihq.org/
+tags:
+  - community-token
+  - social-token
+  - utility-token

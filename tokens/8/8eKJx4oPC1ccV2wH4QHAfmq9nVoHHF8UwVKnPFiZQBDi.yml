@@ -1,0 +1,10 @@
+symbol: GTFO
+name: GTFO Outfitters Coin
+decimals: 6
+extensions:
+  description: GTFO Outfitters Coin.
+  instagram: https://www.instagram.com/gtfocoolers/
+  twitter: https://twitter.com/gtfocoolers
+  website: https://www.gtfooutfitters.com
+tags:
+  - social-token

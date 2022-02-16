@@ -1,0 +1,10 @@
+symbol: ARK
+name: arkayde-monkey
+decimals: 0
+extensions:
+  website: https://www.arkayde.io/
+tags:
+  - nft
+clusters:
+  - devnet
+  - mainnet-beta

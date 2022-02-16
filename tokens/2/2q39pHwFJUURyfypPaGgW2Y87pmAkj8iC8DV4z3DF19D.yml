@@ -1,0 +1,11 @@
+symbol: CXC
+name: CommonXCoin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/CommonXCoin
+tags:
+  - community-token
+  - defi-token
+  - raydium
+  - social-token
+  - solana-blockchain

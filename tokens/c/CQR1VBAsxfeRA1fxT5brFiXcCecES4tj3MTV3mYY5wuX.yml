@@ -1,0 +1,9 @@
+symbol: KSHR
+name: Kosher
+decimals: 8
+extensions:
+  discord: https://discord.gg/BDe79UNaGq
+  twitter: https://twitter.com/kosher_token
+  website: https://koshertoken.com
+tags:
+  - currency-token

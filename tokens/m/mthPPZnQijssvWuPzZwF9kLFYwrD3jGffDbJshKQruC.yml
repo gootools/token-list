@@ -1,0 +1,11 @@
+symbol: JRSW
+name: Jim Raynor (mthP)
+decimals: 4
+extensions:
+  website: https://devbeta.human.ag/address/33psYCJC3ESZzhzEpxm8vgAVcsP2BJ6Wp4fQZ19kTrdH?src=token-list
+tags:
+  - human
+  - social-token
+  - utility-token
+clusters:
+  - devnet

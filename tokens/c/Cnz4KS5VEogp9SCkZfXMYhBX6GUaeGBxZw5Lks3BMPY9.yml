@@ -1,0 +1,12 @@
+symbol: BANZ
+name: Banz Bucks
+decimals: 4
+extensions:
+  description: Banz Carewear for Kids. Sensitive care. Sensible choice.
+  facebook: https://www.facebook.com/BANZCarewear
+  instagram: https://www.instagram.com/banzaustralia/
+  twitter: https://twitter.com/banzcarewear
+  website: https://www.banzworld.com
+tags:
+  - community-token
+  - social-token

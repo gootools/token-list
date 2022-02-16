@@ -1,0 +1,7 @@
+symbol: SUCT
+name: StandUpClubToken
+decimals: 0
+extensions:
+  website: https://standupclubnft.ru/
+tags:
+  - whitelist-token

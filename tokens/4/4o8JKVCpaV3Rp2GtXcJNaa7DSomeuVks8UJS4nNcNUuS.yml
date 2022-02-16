@@ -1,0 +1,9 @@
+symbol: CIRCLE
+name: Mr Circle
+decimals: 4
+extensions:
+  website: https://human.ag/coin/CIRCLE
+tags:
+  - human
+  - social-token
+  - utility-token

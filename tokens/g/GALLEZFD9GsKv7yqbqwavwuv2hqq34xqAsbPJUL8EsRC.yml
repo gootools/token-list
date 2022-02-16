@@ -1,0 +1,7 @@
+symbol: Galleon
+name: Galleon Token
+decimals: 9
+extensions:
+  website: https://mint.solanalysis.com/wiz
+tags:
+  - utility-token

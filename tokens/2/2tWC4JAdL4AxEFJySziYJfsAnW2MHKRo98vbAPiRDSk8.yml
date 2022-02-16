@@ -1,0 +1,10 @@
+symbol: USDC
+name: USD Coin (Saber Devnet)
+decimals: 6
+extensions:
+  coingeckoId: usd-coin
+  website: https://saber.so/
+tags:
+  - stablecoin
+clusters:
+  - devnet

@@ -1,0 +1,14 @@
+symbol: $LILY
+name: Lilypad Token
+decimals: 18
+extensions:
+  website: https://frog.party/
+tags:
+  - coin
+  - frogparty
+  - frog
+  - game
+  - game-coin
+  - game-currency
+  - game-token
+  - videogame

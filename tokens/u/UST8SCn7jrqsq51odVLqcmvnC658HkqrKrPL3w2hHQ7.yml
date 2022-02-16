@@ -1,0 +1,14 @@
+symbol: sUST-8
+name: Saber Wrapped UST (Wormhole) (8 decimals)
+decimals: 8
+extensions:
+  address: uusd
+  bridgeContract: https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf
+  coingeckoId: terra-usd
+  website: https://app.saber.so
+tags:
+  - saber-mkt-usd
+  - saber-dec-wrapped
+  - wrapped
+  - wormhole
+  - wormhole-v2

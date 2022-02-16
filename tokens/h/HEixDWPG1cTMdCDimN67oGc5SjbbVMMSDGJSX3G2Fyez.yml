@@ -1,0 +1,5 @@
+symbol: WORKS
+name: WorksToken
+decimals: 9
+clusters:
+  - testnet

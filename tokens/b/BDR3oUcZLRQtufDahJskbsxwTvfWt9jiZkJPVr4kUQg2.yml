@@ -1,0 +1,13 @@
+symbol: BDR
+name: Builder
+decimals: 6
+extensions:
+  description: BDR Token
+  discord: https://discord.gg/r4vNRUTXY9
+  twitter: https://twitter.com/TheBuilderDAO
+  website: https://learn.figment.io/
+tags:
+  - community-token
+  - governance-token
+clusters:
+  - devnet

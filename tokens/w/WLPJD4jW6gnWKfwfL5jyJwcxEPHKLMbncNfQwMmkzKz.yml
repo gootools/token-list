@@ -1,0 +1,9 @@
+symbol: acEUR-agEUR
+name: Saber acEUR-agEUR LP
+decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/aceur_ageur
+tags:
+  - saber-stableswap-lp
+  - saber-lp-allbridge
+  - saber-lp-wormhole-v2

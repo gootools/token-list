@@ -1,0 +1,8 @@
+symbol: FRAX-CASH
+name: Saber FRAX-CASH LP
+decimals: 8
+extensions:
+  website: https://app.saber.so/#/pools/frax_cash
+tags:
+  - saber-stableswap-lp
+  - saber-lp-cashio

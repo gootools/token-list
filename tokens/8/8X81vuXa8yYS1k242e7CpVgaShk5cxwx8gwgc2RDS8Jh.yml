@@ -1,0 +1,8 @@
+symbol: PSOL/USDC
+name: Cropper LP token (PSOL/USDC)
+decimals: 8
+extensions:
+  twitter: https://twitter.com/CropperFinance
+  website: https://cropper.finance/
+tags:
+  - lp-token

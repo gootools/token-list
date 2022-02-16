@@ -1,0 +1,16 @@
+symbol: ROL
+name: ROL
+decimals: 6
+extensions:
+  description: $ROL is the core gameplay token used in Blockstars, Solana's first
+    management simulation game.
+  discord: https://discord.gg/blockstars
+  facebook: https://www.facebook.com/blockstarsgame
+  instagram: https://instagram.com/blockstarsgame
+  medium: https://blog.blockstars.gg
+  reddit: https://www.reddit.com/r/blockstarsgame
+  twitter: https://twitter.com/blockstarsgame
+  website: https://blockstars.gg
+tags:
+  - game-token
+  - utility-token

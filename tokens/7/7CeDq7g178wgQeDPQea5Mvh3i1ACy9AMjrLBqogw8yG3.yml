@@ -1,0 +1,7 @@
+symbol: CHECKRED
+name: CHECKRED Coin
+decimals: 6
+extensions:
+  website: https://checkred.com
+tags:
+  - utily-token

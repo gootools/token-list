@@ -1,0 +1,11 @@
+symbol: NOS
+name: Nosana
+decimals: 6
+extensions:
+  coingeckoId: nosana
+  discord: https://discord.gg/nosana
+  github: https://github.com/nosana-ci
+  medium: https://nosana.medium.com/
+  telegram: https://t.me/NosanaCI
+  twitter: https://twitter.com/nosana_ci
+  website: https://nosana.io/

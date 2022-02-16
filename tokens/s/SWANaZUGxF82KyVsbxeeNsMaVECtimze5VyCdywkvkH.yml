@@ -2,4 +2,11 @@ symbol: SWAN
 name: Swanlana
 decimals: 9
 extensions:
+  coingeckoId: swanlana
+  discord: http://discord.gg/swanlanafinance
+  medium: https://medium.com/@swanlana23
+  serumV3Usdc: 8zPVSrun5AnePjXWjC4EgMdBaLdHtkSUtYbFNobzQHRN
+  twitter: https://twitter.com/swan_solana
   website: https://www.swanlana.com
+tags:
+  - utility-token

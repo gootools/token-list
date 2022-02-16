@@ -1,0 +1,7 @@
+symbol: CHBIG
+name: CHBIG
+decimals: 0
+extensions:
+  description: Token distribué par Chbig pour sa communauté de Chbigonaute
+tags:
+  - social-token

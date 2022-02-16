@@ -1,0 +1,12 @@
+symbol: HERO
+name: Solhero Finance
+decimals: 6
+extensions:
+  discord: https://discord.io/solhero-finance
+  telegram: https://t.me/SolheroFinance
+  twitter: https://twitter.com/SolheroFi
+  website: https://solhero.finance/
+tags:
+  - game-currency
+  - GameFi
+  - utility-token

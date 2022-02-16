@@ -1,0 +1,8 @@
+symbol: JNX
+name: Captain JiNX Coin
+decimals: 0
+extensions:
+  github: https://github.com/CaptainJiNX
+  twitter: https://twitter.com/captain_jinx
+tags:
+  - social-token

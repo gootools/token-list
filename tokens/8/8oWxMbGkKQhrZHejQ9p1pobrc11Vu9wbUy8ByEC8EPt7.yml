@@ -1,6 +1,11 @@
 symbol: XAR
 name: Xarible DAO
 decimals: 9
+extensions:
+  discord: https://discord.gg/kPqxFYJUsq
+  instagram: https://instagram.com/xarible
+  twitter: https://twitter.com/xarible
+  website: http://www.xarible.com/
 tags:
   - community-token
   - social-token

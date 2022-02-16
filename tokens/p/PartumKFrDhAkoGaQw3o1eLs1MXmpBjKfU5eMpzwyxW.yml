@@ -1,0 +1,16 @@
+symbol: PAR
+name: Partum
+decimals: 9
+extensions:
+  discord: https://discord.gg/ynCfkSMfwK
+  facebook: https://www.facebook.com/PartumNFT/
+  github: https://github.com/PartumNFT/
+  instagram: https://www.instagram.com/partumnft/
+  telegramAnnouncements: https://t.me/PartumRiseOfAGladiator
+  twitter: https://twitter.com/PartumNFT
+  website: https://riseofagladiator.com/
+  whitepaper: https://whitepaper.riseofagladiator.com/
+tags:
+  - governance-token
+  - nfts
+  - utility-token

@@ -2,6 +2,9 @@ symbol: CLASH
 name: Clash Of Cars
 decimals: 9
 extensions:
+  coingeckoId: clash-of-cars
+  discord: https://discord.gg/KP8pUYGc
+  twitter: https://twitter.com/ClashOfCars
   website: https://clashofcars.io
 tags:
   - community-token

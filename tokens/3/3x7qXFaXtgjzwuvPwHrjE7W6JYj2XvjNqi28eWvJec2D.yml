@@ -1,0 +1,8 @@
+symbol: LVT
+name: Leviat Token
+decimals: 9
+extensions:
+  website: https://leviatlegal.com/
+tags:
+  - community-token
+  - utility-token

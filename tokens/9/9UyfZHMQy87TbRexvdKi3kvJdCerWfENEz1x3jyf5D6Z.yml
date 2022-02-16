@@ -1,0 +1,10 @@
+symbol: DUMB
+name: Dumb Token
+decimals: 9
+extensions:
+  discord: https://dumb.digital/discord
+  website: https://dumb.digital
+tags:
+  - community-token
+  - social-token
+  - utility-token

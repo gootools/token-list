@@ -1,0 +1,9 @@
+symbol: DSNR
+name: Designer Coin
+decimals: 6
+extensions:
+  website: https://designerpunks.art
+tags:
+  - community-token
+  - social-token
+  - utility-token

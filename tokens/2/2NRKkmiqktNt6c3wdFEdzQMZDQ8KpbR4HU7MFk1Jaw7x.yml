@@ -1,0 +1,7 @@
+symbol: $BOIS
+name: Bois Coin
+decimals: 0
+extensions:
+  twitch: https://twitch.tv/gckluke
+tags:
+  - social-token

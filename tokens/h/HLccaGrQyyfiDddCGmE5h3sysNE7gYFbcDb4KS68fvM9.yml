@@ -1,0 +1,9 @@
+symbol: FUBAR
+name: Fubar Coin
+decimals: 9
+extensions:
+  description: The most F!@#'d up beyond all recognition crypto
+  website: https://coin.fubar.icu/
+tags:
+  - community-token
+  - social-token

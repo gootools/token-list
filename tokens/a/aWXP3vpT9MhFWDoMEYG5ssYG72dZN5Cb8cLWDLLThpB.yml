@@ -1,0 +1,9 @@
+symbol: CIGO
+name: Crypto IGO
+decimals: 9
+extensions:
+  twitter: https://twitter.com/CryptoIGO1
+  website: https://crypto-igo.com
+tags:
+  - community-token
+  - social-token

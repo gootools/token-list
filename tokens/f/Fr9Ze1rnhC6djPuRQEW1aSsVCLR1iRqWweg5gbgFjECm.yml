@@ -1,0 +1,9 @@
+symbol: SCHOOL
+name: School Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/youngmonksnft
+  website: https://youngmonksnft.com/
+tags:
+  - community-token
+  - social-token

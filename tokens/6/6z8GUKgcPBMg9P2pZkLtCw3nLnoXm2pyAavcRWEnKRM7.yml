@@ -1,0 +1,6 @@
+symbol: TSTTOKEN
+name: TSTTOKEN
+decimals: 9
+clusters:
+  - devnet
+  - mainnet-beta

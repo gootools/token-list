@@ -1,0 +1,13 @@
+symbol: ISL
+name: The Islanders
+decimals: 8
+extensions:
+  description: The Islanders Game coin
+  discord: https://discord.com/channels/937754422270885889/937754422270885892
+  facebook: https://www.facebook.com/ISLGame
+  instagram: https://www.instagram.com/theislandersgame/
+  twitter: https://twitter.com/ISLGame
+  website: https://theislandersgame.com/
+tags:
+  - game-token
+  - gaming

@@ -1,0 +1,10 @@
+symbol: NOIA
+name: NOIA
+decimals: 9
+extensions:
+  twitter: https://twitter.com/eunoianfts
+  website: https://eunoianfts.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

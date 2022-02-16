@@ -1,0 +1,9 @@
+symbol: ELM
+name: Elite World
+decimals: 9
+extensions:
+  facebook: https://www.facebook.com/EliteWorldMetaverse
+  telegram: https://t.me/EliteWorldMetaverse
+  twitter: https://twitter.com/EliteWorldMeta
+tags:
+  - social-token

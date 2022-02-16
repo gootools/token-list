@@ -1,0 +1,10 @@
+symbol: SPW
+name: SPW Whitelist Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/ssj
+  twitter: https://twitter.com/SolanaJourney
+  website: https://solpetwar.io/
+tags:
+  - utility-token
+  - whitelist-token

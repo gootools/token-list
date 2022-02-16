@@ -1,0 +1,9 @@
+symbol: DMON
+name: Demon Time Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/AD3wmAsT9g
+  twitter: https://twitter.com/DemonTimeNFT
+  website: https://demontime.co
+tags:
+  - utility-token

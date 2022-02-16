@@ -1,0 +1,10 @@
+symbol: GDT
+name: Gangster Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/gangsterducks
+  website: https://gangsterducks.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

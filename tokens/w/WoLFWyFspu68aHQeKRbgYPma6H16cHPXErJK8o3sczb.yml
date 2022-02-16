@@ -1,0 +1,9 @@
+symbol: DIRE
+name: DireWolf
+decimals: 9
+extensions:
+  twitter: https://twitter.com/direwolfsol
+tags:
+  - community-token
+  - stake-pool-token
+  - utility-token

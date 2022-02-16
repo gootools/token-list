@@ -1,0 +1,8 @@
+symbol: CLN
+name: Central Loyalty Network
+decimals: 6
+extensions:
+  twitter: https://twitter.com/Token_CLN
+  website: https://www.centralloyalty.com/
+tags:
+  - utility-token

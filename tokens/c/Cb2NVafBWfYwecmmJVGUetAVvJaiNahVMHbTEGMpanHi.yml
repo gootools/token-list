@@ -1,0 +1,7 @@
+symbol: PENNY
+name: Penny
+decimals: 9
+extensions:
+  website: https://itsthelabel.com
+tags:
+  - utility-token

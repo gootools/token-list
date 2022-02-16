@@ -1,0 +1,8 @@
+symbol: SHARE
+name: Project Shares
+decimals: 9
+extensions:
+  twitter: https://twitter.com/projectshares
+  website: https://www.projectshares.org
+tags:
+  - general-token

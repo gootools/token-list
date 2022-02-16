@@ -1,0 +1,11 @@
+symbol: BEER
+name: BEER Token
+decimals: 3
+extensions:
+  discord: https://discord.gg/Tn2CzcuD
+  twitter: https://twitter.com/thebeertoken
+  website: https://beertoken.com/
+tags:
+  - fun-token
+  - meme-token
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: TOYS
+name: Mekatoys
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/Mekatoys
+  twitter: https://twitter.com/mekatoysnft
+  website: https://www.mekatoys.io/
+tags:
+  - NFT
+  - utility-token

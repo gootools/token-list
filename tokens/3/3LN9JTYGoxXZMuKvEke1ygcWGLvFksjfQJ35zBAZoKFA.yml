@@ -1,0 +1,7 @@
+symbol: SHMRD
+name: Shmurda Coin
+decimals: 9
+tags:
+  - social-token
+clusters:
+  - devnet

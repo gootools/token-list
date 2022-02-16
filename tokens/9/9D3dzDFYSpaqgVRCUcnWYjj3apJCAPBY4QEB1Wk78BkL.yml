@@ -1,0 +1,7 @@
+symbol: AMT
+name: Amethyst
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

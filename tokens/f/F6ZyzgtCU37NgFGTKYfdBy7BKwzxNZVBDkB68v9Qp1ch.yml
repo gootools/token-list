@@ -1,0 +1,16 @@
+symbol: Crazy
+name: CrazyCoin
+decimals: 0
+extensions:
+  description: CrazyCOin is a Solana Token that can be used to pay for
+    CrazyBabyNFT sales and Tech Sales on the CrazyCoin Website
+  facebook: https://www.facebook.com/The-Crazy-Baby-NFT-111999381365589/
+  instagram: https://instagram.com/crazybabynft
+  twitter: https://twitter.com/crazybabynft
+  website: https://www.crazycoin.co.uk
+tags:
+  - community
+  - Crypto
+  - nft-token
+  - social-token
+  - utility-token

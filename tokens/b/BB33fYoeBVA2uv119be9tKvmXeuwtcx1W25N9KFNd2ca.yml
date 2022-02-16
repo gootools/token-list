@@ -1,0 +1,10 @@
+symbol: GODZ
+name: Godz Token
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/BGnCshGWgk
+  twitter: https://twitter.com/pocketgodz
+  website: https://www.pocketgodz.xyz/
+tags:
+  - nft-token
+  - utility-token

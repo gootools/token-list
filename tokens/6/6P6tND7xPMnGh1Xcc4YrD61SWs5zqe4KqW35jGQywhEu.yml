@@ -1,0 +1,5 @@
+symbol: TSW
+name: TokenStore World
+decimals: 6
+extensions:
+  website: https://tokenstore.world/

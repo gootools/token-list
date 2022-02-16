@@ -1,0 +1,11 @@
+symbol: DRIP
+name: 0xDRIP Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/0xdrip
+  twitter: https://twitter.com/0x_DRIP
+tags:
+  - altcoin
+  - community-token
+  - NFT
+  - utility-token

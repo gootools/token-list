@@ -1,0 +1,8 @@
+symbol: 1HRS
+name: Hronos
+decimals: 9
+extensions:
+  website: https://www.hronos.io/
+tags:
+  - social-token
+  - trading-token

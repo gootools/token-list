@@ -2,5 +2,6 @@ symbol: SCY
 name: Synchrony
 decimals: 9
 extensions:
+  serumV3Usdc: DR8V2wUCSFKCGjML6AZvUB2eYWDPVQ5xju3DeXGgpSaB
   twitter: https://twitter.com/SynchronyFi
   website: https://synchrony.fi

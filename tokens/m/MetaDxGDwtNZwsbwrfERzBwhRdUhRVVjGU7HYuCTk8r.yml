@@ -1,0 +1,9 @@
+symbol: MetaD
+name: Meta D Token
+decimals: 6
+extensions:
+  description: The Meta D token is a social token used to promote digital
+    technologies in modern BAS
+  website: https://www.johnsoncontrols.com/building-automation-and-controls/building-management/building-automation-systems-bas
+tags:
+  - social-token

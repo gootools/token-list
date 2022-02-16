@@ -1,0 +1,13 @@
+symbol: VIVAION
+name: Vivaion Token
+decimals: 9
+extensions:
+  coingeckoId: vivaion
+  discord: https://discord.gg/vivaion/
+  twitter: https://twitter.com/vivaion
+  website: https://vivaion.com
+tags:
+  - community-token
+  - metaverse-token
+  - social-token
+  - utility-token

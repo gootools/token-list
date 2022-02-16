@@ -1,0 +1,8 @@
+symbol: FRTN
+name: Fortune
+decimals: 9
+extensions:
+  coingeckoId: fortune-finance
+  discord: https://discord.gg/fortunefinance
+  twitter: https://twitter.com/fortunefinance_
+  website: https://fortune.finance/

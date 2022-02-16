@@ -1,0 +1,7 @@
+symbol: TBMP
+name: ToadBoys Mint Pass
+decimals: 9
+extensions:
+  website: https://www.toadboys.io/
+tags:
+  - utility-token

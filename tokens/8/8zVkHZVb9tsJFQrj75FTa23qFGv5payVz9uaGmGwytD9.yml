@@ -1,0 +1,8 @@
+symbol: FLAC
+name: FLATAM COIN
+decimals: 9
+tags:
+  - community-token
+clusters:
+  - devnet
+  - mainnet-beta

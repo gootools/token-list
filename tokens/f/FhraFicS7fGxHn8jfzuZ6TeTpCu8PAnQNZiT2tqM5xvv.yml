@@ -1,0 +1,9 @@
+symbol: pSBR
+name: Port Finance Saber
+decimals: 6
+extensions:
+  website: https://port.finance
+tags:
+  - collateral-tokens
+  - lending
+  - port

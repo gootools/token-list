@@ -1,0 +1,7 @@
+symbol: CLK
+name: Click Token
+decimals: 9
+extensions:
+  website: https://click.ilov.eu
+tags:
+  - utility-token

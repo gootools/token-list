@@ -1,0 +1,10 @@
+symbol: BIJU
+name: BIJU
+decimals: 9
+extensions:
+  twitter: https://twitter.com/KuramaFoxes
+  website: https://kuramafoxes.io/
+tags:
+  - community-token
+  - social-token
+  - utility-token

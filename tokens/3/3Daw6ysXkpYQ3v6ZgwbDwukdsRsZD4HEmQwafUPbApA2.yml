@@ -1,0 +1,8 @@
+symbol: NMC
+name: New Media Coin
+decimals: 0
+extensions:
+  website: https://newmediacoin.com
+tags:
+  - community-token
+  - social-token

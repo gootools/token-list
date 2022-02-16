@@ -5,3 +5,4 @@ tags:
   - utility-token
 clusters:
   - devnet
+  - mainnet-beta

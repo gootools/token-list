@@ -1,0 +1,10 @@
+symbol: GEEXO
+name: GEEXO Token
+decimals: 0
+extensions:
+  discord: https://discord.com/invite/NAvfaa3vJg
+  instagram: https://www.instagram.com/geexolotls/
+  twitter: https://twitter.com/geexolotls
+  website: https://www.geexolotls.com/
+tags:
+  - utility-token

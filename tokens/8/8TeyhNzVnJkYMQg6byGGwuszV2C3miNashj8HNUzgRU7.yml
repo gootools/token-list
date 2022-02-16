@@ -1,0 +1,8 @@
+symbol: GMGWH
+name: gm Groundhog Whitelist
+decimals: 0
+extensions:
+  description: gmgwh is a whitelist token for preminting the gmg nft collection
+tags:
+  - presale-token
+  - whitelist-token

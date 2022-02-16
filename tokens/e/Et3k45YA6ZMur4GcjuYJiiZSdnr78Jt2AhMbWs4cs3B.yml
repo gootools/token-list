@@ -1,0 +1,11 @@
+symbol: GNOM
+name: GnomToken
+decimals: 6
+extensions:
+  discord: https://discord.com/invite/CFgTvwDEHf
+  twitter: https://twitter.com/GnarlyGnomies
+  website: https://gnomiezgen2.fun/
+tags:
+  - community-token
+  - nft-token
+  - utility-token

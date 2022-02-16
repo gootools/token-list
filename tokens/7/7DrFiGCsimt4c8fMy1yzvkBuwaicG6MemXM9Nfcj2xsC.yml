@@ -1,0 +1,7 @@
+symbol: BBRY
+name: Blueberry Social
+decimals: 9
+extensions:
+  twitter: https://twitter.com/blueberrycoin
+tags:
+  - social-token

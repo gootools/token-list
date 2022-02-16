@@ -1,0 +1,6 @@
+symbol: CRYPTO
+name: Cryptocurrency Coin
+decimals: 8
+extensions:
+  twitter: https://twitter.com/cryptocoinio
+  website: http://cryptocurrencycoin.io

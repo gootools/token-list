@@ -1,0 +1,11 @@
+symbol: REMN
+name: Remnants Drop 3 Whitelist
+decimals: 9
+extensions:
+  description: Whitelist access to the Remnants drop 3 . Token is tradeable.
+  discord: https://discord.com/invite/remnantsnft
+  twitter: https://twitter.com/RemnantsNFT
+  website: https://www.theremnantsnft.com/
+tags:
+  - community-token
+  - utility-token

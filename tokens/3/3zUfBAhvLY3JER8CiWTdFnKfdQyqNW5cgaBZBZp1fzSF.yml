@@ -1,0 +1,9 @@
+symbol: GMW
+name: Giants Metawar
+decimals: 6
+extensions:
+  description: The Giants Metawar Game coin
+  twitter: https://twitter.com/giantsmetawar
+tags:
+  - game-token
+  - gaming

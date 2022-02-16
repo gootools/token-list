@@ -1,0 +1,8 @@
+symbol: TOOLS
+name: Tools Token
+decimals: 3
+extensions:
+  twitter: https://twitter.com/SolRobos
+  website: https://solrobos.com/
+tags:
+  - utility-token

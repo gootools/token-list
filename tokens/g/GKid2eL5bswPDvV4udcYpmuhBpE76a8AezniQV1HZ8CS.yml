@@ -1,0 +1,8 @@
+symbol: RAWR
+name: Rawr Coin
+decimals: 4
+extensions:
+  description: A crowdfunding token for potential startups.
+  website: https://cybertekk.com
+tags:
+  - social-token

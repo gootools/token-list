@@ -1,0 +1,7 @@
+symbol: UXD-3Pool
+name: Mercurial LP Token (UXD-3Pool)
+decimals: 12
+extensions:
+  website: https://www.mercurial.finance/
+tags:
+  - lp-token

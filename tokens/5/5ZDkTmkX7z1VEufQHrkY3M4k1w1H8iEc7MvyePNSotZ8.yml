@@ -1,0 +1,7 @@
+symbol: TCFT
+name: CFT Token
+decimals: 9
+extensions:
+  website: https://www.codesfortomorrow.com
+tags:
+  - social-token

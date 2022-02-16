@@ -1,0 +1,10 @@
+symbol: PC
+name: Pin Club
+decimals: 0
+extensions:
+  website: https://pinclub.io/
+tags:
+  - utility-token
+clusters:
+  - mainnet-beta
+  - testnet

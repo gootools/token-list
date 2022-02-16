@@ -1,0 +1,10 @@
+symbol: QMT
+name: Quantum Mob Token
+decimals: 9
+extensions:
+  linkedin: https://www.linkedin.com/company/quantum-mob/
+  twitter: https://twitter.com/quantummob
+  website: https://qmo.io
+tags:
+  - community-token
+  - social-token

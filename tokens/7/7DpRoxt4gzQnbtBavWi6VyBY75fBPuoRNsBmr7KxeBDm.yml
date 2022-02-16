@@ -1,0 +1,8 @@
+symbol: MHL
+name: Mahalo Token
+decimals: 0
+extensions:
+  website: https://github.com/blagoon
+tags:
+  - social-token
+  - tech-token

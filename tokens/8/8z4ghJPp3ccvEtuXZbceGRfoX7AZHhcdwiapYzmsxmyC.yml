@@ -2,6 +2,7 @@ symbol: TIGER
 name: TIGER COIN
 decimals: 9
 extensions:
+  coingeckoId: tiger-coin
   twitter: https://twitter.com/tigercoin_
   website: https://www.tigercoin.space
 tags:

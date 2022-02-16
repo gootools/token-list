@@ -1,0 +1,16 @@
+symbol: NILF
+name: NILF Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/nftme
+  telegram: https://t.me/nilfio
+  twitter: https://twitter.com/NILFToken
+  website: https://nilf.io
+tags:
+  - community-token
+  - multi-chain
+  - MetaVerse
+  - NFT
+  - play-to-earn
+  - stake-to-earn
+  - utility-token

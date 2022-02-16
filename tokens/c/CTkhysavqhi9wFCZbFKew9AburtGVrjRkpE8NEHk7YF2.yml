@@ -1,0 +1,13 @@
+symbol: MTN
+name: MTN Coin
+decimals: 0
+extensions:
+  description: The official currency of the MTN Outlaws.
+  discord: https://discord.gg/mnuca9F6
+  facebook: https://www.facebook.com/mtnoutlaw
+  instagram: https://www.instagram.com/mtnoutlaw
+  twitter: https://twitter.com/MTNoutlaws
+  website: https://www.mtnoutlaw.com
+tags:
+  - social-token
+  - utility-token

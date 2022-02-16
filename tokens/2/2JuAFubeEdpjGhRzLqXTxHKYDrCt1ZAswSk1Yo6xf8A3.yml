@@ -1,0 +1,5 @@
+symbol: DRNK
+name: Beer
+decimals: 9
+tags:
+  - social-token

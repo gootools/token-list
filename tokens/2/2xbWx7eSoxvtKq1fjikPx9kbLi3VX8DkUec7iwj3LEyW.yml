@@ -1,0 +1,13 @@
+symbol: IS
+name: Inustart
+decimals: 9
+extensions:
+  telegram: https://t.me/shibainusolana
+  twitter: https://twitter.com/inu_solana
+  website: https://inustart.com
+tags:
+  - IDO
+  - ICO
+  - Protocol
+  - Presale
+  - Platform

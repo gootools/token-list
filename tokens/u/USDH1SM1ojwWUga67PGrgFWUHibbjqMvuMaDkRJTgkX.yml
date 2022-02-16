@@ -1,0 +1,9 @@
+symbol: USDH
+name: USDH Hubble Stablecoin
+decimals: 6
+extensions:
+  discord: https://discord.gg/d44A8WvK
+  twitter: https://twitter.com/hubbleprotocol
+  website: https://hubbleprotocol.io/
+tags:
+  - stablecoin

@@ -1,0 +1,11 @@
+symbol: KRK
+name: KRK FINANCE
+decimals: 6
+extensions:
+  discord: https://discord.gg/jpWc7A6dcf
+  twitter: https://twitter.com/krkfinance
+  website: https://krk.finance
+tags:
+  - community-token
+  - social-token
+  - utility-token

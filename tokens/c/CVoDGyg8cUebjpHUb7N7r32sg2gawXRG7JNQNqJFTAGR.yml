@@ -1,0 +1,9 @@
+symbol: LAZY
+name: Lazy Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/LazyHeroesNFT
+  website: https://lazyheroes.io/
+tags:
+  - social-token
+  - utility-token

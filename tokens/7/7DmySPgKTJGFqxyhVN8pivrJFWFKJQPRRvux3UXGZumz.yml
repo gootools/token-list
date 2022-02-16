@@ -1,0 +1,7 @@
+symbol: SKOG
+name: Skog Token
+decimals: 0
+extensions:
+  website: https://skogdev.no/
+tags:
+  - social-token

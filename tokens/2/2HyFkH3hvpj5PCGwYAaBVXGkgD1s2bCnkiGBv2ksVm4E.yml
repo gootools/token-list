@@ -1,0 +1,12 @@
+symbol: IG
+name: Instagram Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/instagram
+  website: https://about.instagram.com
+tags:
+  - community-token
+  - instagram-token
+  - meme-token
+  - social-token
+  - utility-token

@@ -1,0 +1,6 @@
+symbol: sRLY
+name: Rally (Solana)
+decimals: 9
+extensions:
+  coingeckoId: rally-solana
+  website: https://rly.network

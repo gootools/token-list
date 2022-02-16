@@ -1,0 +1,8 @@
+symbol: AHMT
+name: Astral House Mint Ticket
+decimals: 0
+extensions:
+  description: Welcome Our Amazing House!
+  website: https://www.astralapes.com
+tags:
+  - whitelist-ticket

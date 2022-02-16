@@ -1,0 +1,9 @@
+symbol: DOPET
+name: Dope Token
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/dope-cats
+  twitter: https://twitter.com/dope_cats
+  website: https://www.dopecats.com/
+tags:
+  - social-token

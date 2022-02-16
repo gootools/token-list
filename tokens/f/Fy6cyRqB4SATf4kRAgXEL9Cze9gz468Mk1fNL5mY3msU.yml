@@ -1,0 +1,11 @@
+symbol: $Steak
+name: Steak token
+decimals: 9
+extensions:
+  discord: https://discord.gg/ekF24e5JEe
+  instagram: https://instagram.com/royallionclub
+  telegram: https://t.me/royallionclub
+  twitter: https://twitter.com/royallionclub
+  website: https://royallionpartyclub.com
+tags:
+  - utility-token

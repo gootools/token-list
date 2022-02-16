@@ -1,0 +1,13 @@
+symbol: PLAYA
+name: Playground
+decimals: 2
+extensions:
+  discord: https://discord.gg/bridgesplit
+  twitter: https://twitter.com/bridgesplit
+  vault: https://app.bridgesplit.com/pool/E6oCGvmSYW7qhy7oeDfiNZLX6hEmPCVxBC8AknwAj82B
+tags:
+  - bridgesplit-fraction
+  - curated-index
+  - curated-index
+  - fnft
+  - playground-dao

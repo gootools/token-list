@@ -1,0 +1,11 @@
+symbol: GEM
+name: Gemitaiz Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/thetruegemitaiz
+  website: https://tantarobastore.com
+tags:
+  - community-token
+  - gemitaiz-token
+  - social-token
+  - utility-token

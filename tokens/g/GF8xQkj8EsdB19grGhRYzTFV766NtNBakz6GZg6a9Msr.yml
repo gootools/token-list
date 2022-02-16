@@ -1,0 +1,5 @@
+symbol: DUCK
+name: Duck Token
+decimals: 9
+tags:
+  - utility-token

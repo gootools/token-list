@@ -1,0 +1,9 @@
+symbol: MERC
+name: Mercanti NFT Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/tradewithmarco
+tags:
+  - mercanti
+  - sale
+  - whitelist-token

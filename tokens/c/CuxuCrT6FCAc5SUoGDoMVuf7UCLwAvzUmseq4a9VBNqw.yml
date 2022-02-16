@@ -1,0 +1,5 @@
+symbol: DRT
+name: Digital Ranger Token
+decimals: 9
+clusters:
+  - devnet

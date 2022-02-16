@@ -1,0 +1,12 @@
+symbol: PRMD
+name: Primordials Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/zFDBEKSq
+  medium: https://medium.com/@primordialsgame
+  serumV3Usdc: 9wmsybKvBWKatj7FxkYhauna6z4mcMDXQrjNvdy2kdgE
+  twitter: https://twitter.com/Primordialsgame
+  website: https://primordialsgame.com/
+tags:
+  - gaming-token
+  - social-token

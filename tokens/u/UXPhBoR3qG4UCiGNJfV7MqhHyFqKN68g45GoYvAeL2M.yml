@@ -2,13 +2,10 @@ symbol: UXP
 name: UXP Governance Token
 decimals: 9
 extensions:
+  coingeckoId: uxd-protocol-token
+  coinmarketcap: https://coinmarketcap.com/currencies/uxd-protocol/
   discord: https://discord.com/invite/BHfpYmjsBM
   medium: https://uxdprotocol.medium.com/
+  serumV3Usdc: 7KQpsp914VYnh62yV6AGfoG9hprfA14SgzEyqr6u9NY1
   twitter: https://twitter.com/UXDProtocol
   website: https://uxd.fi/
-tags:
-  - DAO
-  - governance
-  - stablecoin
-  - UXD
-  - UXP

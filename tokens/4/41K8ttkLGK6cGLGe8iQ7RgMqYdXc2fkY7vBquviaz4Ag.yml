@@ -1,0 +1,10 @@
+symbol: MyEgg
+name: MyEgg
+decimals: 9
+extensions:
+  twitter: https://twitter.com/MyEggsNFT
+  website: https://myeggs.art
+tags:
+  - commodity-token
+  - social-token
+  - Utility-Token

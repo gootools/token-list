@@ -1,0 +1,10 @@
+symbol: MvrsWL
+name: Metaversol WL Token
+decimals: 0
+extensions:
+  description: Metaversol WL Tokens for Pass Mint
+  discord: https://discord.gg/metaversol
+  twitter: https://twitter.com/MxMetaversol
+  website: https://metaversol.com/
+tags:
+  - utility-token

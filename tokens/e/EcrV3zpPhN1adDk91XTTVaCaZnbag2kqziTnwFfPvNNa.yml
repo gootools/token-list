@@ -1,0 +1,7 @@
+symbol: MYSTIC
+name: Mystic Token for MysticVerse
+decimals: 8
+extensions:
+  website: https://www.mysticgirlsclub.com
+tags:
+  - utility-token

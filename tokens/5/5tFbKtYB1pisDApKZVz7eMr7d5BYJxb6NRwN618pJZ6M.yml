@@ -1,0 +1,13 @@
+symbol: TEXAS
+name: LoneStar
+decimals: 9
+extensions:
+  discord: https://discord.gg/mZJ8XZFjTs
+  twitter: https://twitter.com/LoneStarToken
+tags:
+  - commodity-token
+  - gaming-token
+  - meme-token
+  - payment-token
+  - social-token
+  - utility-token

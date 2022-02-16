@@ -1,0 +1,5 @@
+symbol: ZFE
+name: ZeroFees Exchange
+decimals: 6
+extensions:
+  website: https://zerofees.exchange/

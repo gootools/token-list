@@ -1,0 +1,15 @@
+symbol: CANIN
+name: DFLDAO
+decimals: 9
+extensions:
+  address: CaNiNGW7fasuC6Z3zGGuVt1j9WYX94KG7UN1SMY7gQqP
+  assetContract: https://solscan.io/token/CaNiNGW7fasuC6Z3zGGuVt1j9WYX94KG7UN1SMY7gQqP
+  description: CANIN is the initial currency for DreamFreely Labs, as orchestrated
+    by Culture Clap.
+  discord: https://discord.gg/bwMRRbs
+  twitter: https://twitter.com/CultureClap
+  website: https://www.cultureclap.com
+tags:
+  - community-token
+  - social-token
+  - utility-token

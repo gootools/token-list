@@ -1,0 +1,9 @@
+symbol: CAPRA
+name: CAPRA Token
+decimals: 0
+extensions:
+  website: https://spacegoatsonacid.com/
+tags:
+  - community-token
+  - governance-token
+  - whitelist-token

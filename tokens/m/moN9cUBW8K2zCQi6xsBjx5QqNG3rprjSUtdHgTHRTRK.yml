@@ -1,0 +1,8 @@
+symbol: ZIZ
+name: ZIZZY
+decimals: 9
+tags:
+  - Startup-token
+  - utility-token
+clusters:
+  - devnet

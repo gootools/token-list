@@ -1,0 +1,11 @@
+symbol: SB
+name: Skreetbird Token
+decimals: 0
+extensions:
+  description: Skreetbird Token
+  discord: https://discord.com/invite/9FYjjHsBWh
+  instagram: https://www.instagram.com/skreetbirds_nft
+  twitter: https://twitter.com/SkreetBirds_NFT
+  website: https://skreetbirds.io
+tags:
+  - whitelist-token

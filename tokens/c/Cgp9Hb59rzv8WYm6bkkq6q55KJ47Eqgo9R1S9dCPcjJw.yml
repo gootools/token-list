@@ -1,0 +1,11 @@
+symbol: MM
+name: MadMan Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/orangemadman
+  website: https://tantarobastore.com/madman
+tags:
+  - community-token
+  - madman-token
+  - social-token
+  - utility-token

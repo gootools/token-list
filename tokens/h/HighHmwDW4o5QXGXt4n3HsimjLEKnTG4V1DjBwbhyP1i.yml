@@ -1,0 +1,11 @@
+symbol: SOCIETY
+name: High Society Protocol
+decimals: 9
+extensions:
+  discord: http://discord.gg/highsociety
+  twitter: https://twitter.com/highsocietynfts
+  website: https://highsocietynft.io/high-society-protocol
+tags:
+  - community-token
+  - nft-token
+  - utility-token

@@ -1,0 +1,11 @@
+symbol: $PoSB
+name: PoSB Doubloon
+decimals: 9
+extensions:
+  description: Pirates of Sol Bay Crew Token
+  discord: https://discord.gg/wEXT6vFKBM
+  twitter: https://twitter.com/PiratesOfSolBay
+  website: https://www.piratesofsolbay.com/
+tags:
+  - doubloon
+  - posb-token

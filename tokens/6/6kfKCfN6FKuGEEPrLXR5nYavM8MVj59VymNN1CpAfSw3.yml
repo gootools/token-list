@@ -1,0 +1,10 @@
+symbol: HOOT
+name: Owlcoin
+decimals: 9
+extensions:
+  discord: https://discord.gg/ATRfazNAYY
+  twitter: https://twitter.com/0wlcoin
+  website: http://owlhoot.club/
+tags:
+  - social-token
+  - utility-token

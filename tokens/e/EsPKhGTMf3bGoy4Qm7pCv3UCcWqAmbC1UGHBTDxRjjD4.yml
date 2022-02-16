@@ -1,0 +1,5 @@
+symbol: FTM
+name: FTM (Allbridge from Fantom)
+decimals: 9
+extensions:
+  coingeckoId: fantom

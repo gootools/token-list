@@ -1,0 +1,12 @@
+symbol: OCEANTOKEN
+name: OCEANTOKEN
+decimals: 6
+extensions:
+  address: EimK4rPobJ6KosVq75pm3jSBB5waUiYATu4L38Up3hmZ
+  description: OCEANTOKEN is a tokenized donation asset that supports TEAMSEAS and
+    SeaChain projects
+  instagram: https://www.instagram.com/oceantokens_founder//
+  website: https://www.oceantokens.site/
+tags:
+  - social-token
+  - utility-token

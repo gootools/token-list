@@ -1,0 +1,12 @@
+symbol: rMMA
+name: redeemable MMA
+decimals: 9
+extensions:
+  description: Cross-chain Gaming SuperGuild building the tools of the future.
+    Redeemable token to be redeemed for $MMA upon closure of the upcoming IDO
+  discord: http://discord.gg/mmagaming
+  medium: https://medium.com/@MMAGaming
+  twitter: https://twitter.com/MetaverseMining
+  website: https://mmagaming.io/
+tags:
+  - utility-token

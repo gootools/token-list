@@ -1,0 +1,9 @@
+symbol: NHLT
+name: NorthLight
+decimals: 8
+extensions:
+  description: A completely new experience!
+  website: https://www.bfgs.net
+tags:
+  - community-token
+  - social-token

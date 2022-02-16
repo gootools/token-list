@@ -2,5 +2,8 @@ symbol: MILK
 name: Tiddy Juice Coin
 decimals: 9
 extensions:
+  discord: https://discord.gg/saPvZHEQm4
   twitter: https://twitter.com/tiddyjuicecoin
   website: https://tiddyjuice.com
+tags:
+  - meme-coin

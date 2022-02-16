@@ -1,0 +1,8 @@
+symbol: sBUD
+name: BunnyDucky Staking Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/BunnyDuckyHQ
+  website: https://bunnyducky.com/
+tags:
+  - utility-token

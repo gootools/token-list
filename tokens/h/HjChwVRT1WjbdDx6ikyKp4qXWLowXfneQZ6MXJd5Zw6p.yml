@@ -1,0 +1,9 @@
+symbol: PoSB
+name: PoSB Doubloon
+decimals: 9
+tags:
+  - doubloon
+  - posb-token
+  - test
+clusters:
+  - devnet

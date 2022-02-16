@@ -1,0 +1,10 @@
+symbol: ELK
+name: Wapiti Token
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/2AAEaYmQaV
+  reddit: https://www.reddit.com/r/WapitiToken/
+  website: https://token.wapiti.app/
+tags:
+  - community-token
+  - meme-token

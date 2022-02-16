@@ -1,0 +1,8 @@
+symbol: usdc
+name: usd coin
+decimals: 6
+extensions:
+  coingeckoId: usd-coin
+  website: https://www.centre.io/
+tags:
+  - stablecoin

@@ -1,0 +1,9 @@
+symbol: rayTICKET-SOL
+name: rayTICKET-SOL LP Token
+decimals: 8
+extensions:
+  telegram: https://t.me/theticketfinance
+  twitter: https://twitter.com/TheTicketSol
+  website: https://theticket.finance
+tags:
+  - lp-token

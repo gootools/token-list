@@ -1,0 +1,7 @@
+symbol: ROBOT
+name: ROBOT COIN
+decimals: 9
+extensions:
+  website: https://developrobots.com/
+tags:
+  - utility-token

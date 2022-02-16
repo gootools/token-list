@@ -1,0 +1,8 @@
+symbol: SDP
+name: San Diego Padres Token
+decimals: 2
+extensions:
+  twitter: https://twitter.com/SDP_Token
+tags:
+  - social-token
+  - sports-token

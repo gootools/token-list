@@ -1,0 +1,10 @@
+symbol: HONEYBEAR
+name: HONEYBEAR
+decimals: 9
+extensions:
+  twitter: https://twitter.com/LazyBearsNFT
+  website: http://lazybearsnft.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

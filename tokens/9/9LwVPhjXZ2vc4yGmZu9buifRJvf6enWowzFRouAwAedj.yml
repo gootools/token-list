@@ -1,0 +1,9 @@
+symbol: AQLA
+name: Aqualibre Project
+decimals: 4
+extensions:
+  twitter: https://twitter.com/LibreAqua
+  website: https://www.aqualibreproject.com
+tags:
+  - offset-token
+  - utility-token

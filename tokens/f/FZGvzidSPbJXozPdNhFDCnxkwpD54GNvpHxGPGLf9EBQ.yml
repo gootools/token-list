@@ -1,0 +1,10 @@
+symbol: LIGHT
+name: Celestial Light Token
+decimals: 6
+extensions:
+  website: https://celestialhoosters.com
+tags:
+  - community
+  - nft-token
+  - social-token
+  - utility-token

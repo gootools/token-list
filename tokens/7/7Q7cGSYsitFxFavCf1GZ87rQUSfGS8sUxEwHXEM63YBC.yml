@@ -1,0 +1,9 @@
+symbol: IRC
+name: IRC Coin
+decimals: 0
+extensions:
+  twitter: https://twitter.com/IRC_Coin
+  website: https://irc-chat.io
+tags:
+  - community-token
+  - social-token

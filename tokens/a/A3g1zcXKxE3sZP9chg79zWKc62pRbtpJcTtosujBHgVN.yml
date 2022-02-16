@@ -1,0 +1,11 @@
+symbol: NFLX
+name: Netflix Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/netflix
+tags:
+  - community-token
+  - meme-token
+  - netflix-token
+  - social-token
+  - utility-token

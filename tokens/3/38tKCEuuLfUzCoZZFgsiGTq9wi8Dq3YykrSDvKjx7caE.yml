@@ -1,0 +1,8 @@
+symbol: SGEM
+name: GemsLab
+decimals: 6
+extensions:
+  twitter: https://twitter.com/gemslab_space
+  website: https://gemslab.space
+tags:
+  - utility-token

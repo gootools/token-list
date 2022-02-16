@@ -1,0 +1,9 @@
+symbol: LOWTOKEN
+name: Low Token
+decimals: 0
+extensions:
+  instagram: https://www.instagram.com/low_sleazy
+  twitter: https://twitter.com/lowsleazy
+  website: https://lowsleazyakalowlife.bandzoogle.com/home
+tags:
+  - social-token

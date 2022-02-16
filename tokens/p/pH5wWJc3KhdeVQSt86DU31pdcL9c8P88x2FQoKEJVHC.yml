@@ -1,0 +1,13 @@
+symbol: BXS
+name: Bancambios AX
+decimals: 6
+extensions:
+  twitter: https://twitter.com/bancambios
+  website: https://bancambios.exchange/
+tags:
+  - bancambios-token
+  - defi-for-good
+  - impact-defi
+  - impact-dex
+  - multi-chain
+  - solana

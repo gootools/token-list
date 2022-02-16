@@ -1,0 +1,7 @@
+symbol: DVTK
+name: DevToken
+decimals: 0
+tags:
+  - utility-token
+clusters:
+  - devnet

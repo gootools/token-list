@@ -1,0 +1,9 @@
+symbol: TECH
+name: Technology Coin
+decimals: 9
+extensions:
+  website: https://www.1dsmedia.com
+tags:
+  - community-token
+  - social-token
+  - utility-token

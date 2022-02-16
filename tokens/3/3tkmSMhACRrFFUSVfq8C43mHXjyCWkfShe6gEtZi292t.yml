@@ -1,0 +1,8 @@
+symbol: CUPS
+name: Coffee
+decimals: 0
+extensions:
+  twitter: https://twitter.com/HaydenDevs
+tags:
+  - payment-protocol
+  - social-token

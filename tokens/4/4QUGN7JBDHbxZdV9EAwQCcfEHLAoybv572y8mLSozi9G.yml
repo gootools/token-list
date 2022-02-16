@@ -1,0 +1,10 @@
+symbol: STO
+name: Consentium
+decimals: 9
+extensions:
+  github: https://github.com/consentium-finance
+  telegram: https://t.me/consentium_fi
+  twitter: https://twitter.com/consentium_fi
+  website: https://consentium.fi
+tags:
+  - utility-token

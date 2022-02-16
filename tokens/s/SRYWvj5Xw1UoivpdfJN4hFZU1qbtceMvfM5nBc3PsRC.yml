@@ -1,0 +1,11 @@
+symbol: SUNNY
+name: Sunny IOU Token (Quarry Rewards)
+decimals: 6
+extensions:
+  coingeckoId: sunny-aggregator
+  discord: https://chat.sunny.ag
+  github: https://github.com/SunnyAggregator
+  medium: https://medium.com/sunny-aggregator
+  serumV3Usdc: Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc
+  twitter: https://twitter.com/SunnyAggregator
+  website: https://sunny.ag/

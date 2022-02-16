@@ -1,0 +1,11 @@
+symbol: KNKO
+name: Koneko Coin
+decimals: 9
+extensions:
+  discord: https://discord.gg/5bDQmVRUgS
+  twitter: https://twitter.com/KonekoCoin
+  website: https://konekocoin.com
+tags:
+  - community-token
+  - meme-token
+  - social-token

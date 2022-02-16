@@ -1,0 +1,11 @@
+symbol: GARI
+name: Gari
+decimals: 9
+extensions:
+  discord: https://discord.gg/garitoken
+  twitter: https://twitter.com/garitoken
+  website: https://gari.network
+tags:
+  - community-token
+  - social-token
+  - utility-token

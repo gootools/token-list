@@ -1,0 +1,5 @@
+symbol: SBICK
+name: SBI CK Token
+decimals: 8
+clusters:
+  - devnet

@@ -1,0 +1,9 @@
+symbol: USDC-CASH
+name: USDC-CASH LP
+decimals: 9
+extensions:
+  website: https://dev.ratio.finance/
+tags:
+  - ratio-token
+clusters:
+  - devnet

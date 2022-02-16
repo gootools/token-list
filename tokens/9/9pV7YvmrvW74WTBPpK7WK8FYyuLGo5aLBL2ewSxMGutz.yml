@@ -1,0 +1,10 @@
+symbol: LONCH
+name: Lonch Coin
+decimals: 0
+extensions:
+  twitter: https://twitter.com/lonchnow
+  website: https://lonch.io
+tags:
+  - community-token
+  - social-token
+  - utility-token

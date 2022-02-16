@@ -1,0 +1,8 @@
+symbol: JOWL
+name: Juvot Mint Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/sCSPajmTZu
+  twitter: https://twitter.com/JuvenileOtters
+tags:
+  - stake-pool-token

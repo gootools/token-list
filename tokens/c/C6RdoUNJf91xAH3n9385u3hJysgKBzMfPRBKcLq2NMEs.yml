@@ -1,0 +1,8 @@
+symbol: RZTR
+name: Thug Roozter Token
+decimals: 6
+extensions:
+  twitter: https://twitter.com/thugroozter
+  website: https://thugroozter.com
+tags:
+  - utility-token

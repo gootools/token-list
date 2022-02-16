@@ -1,0 +1,12 @@
+symbol: SIPA
+name: SIPA
+decimals: 9
+extensions:
+  description: Integrated foreign exchange payment system.
+  facebook: https://facebook.com/sipa_social
+  instagram: https://www.instagram.com/sipa_social/
+  telegram: https://t.me/sipa_social
+  twitter: https://twitter.com/sipa_social
+tags:
+  - foreign-exchange
+  - payment-token

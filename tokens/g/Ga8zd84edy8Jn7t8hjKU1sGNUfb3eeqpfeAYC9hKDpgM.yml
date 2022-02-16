@@ -1,0 +1,7 @@
+symbol: EMD
+name: Emerald
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

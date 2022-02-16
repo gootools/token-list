@@ -1,0 +1,11 @@
+symbol: JETC
+name: Jetcoin
+decimals: 0
+extensions:
+  facebook: https://facebook.com/jetdevs
+  linkedin: https://linkedin.com/company/jet-devs
+  website: https://jetdevs.com
+tags:
+  - community
+  - social-token
+  - utility-token

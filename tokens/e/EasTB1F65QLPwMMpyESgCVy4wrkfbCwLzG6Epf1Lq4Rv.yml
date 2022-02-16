@@ -1,0 +1,8 @@
+symbol: GDXC
+name: GDX Token
+decimals: 2
+extensions:
+  website: https://gdxc.greydotx.network
+tags:
+  - community
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: LCUBE
+name: LCube Coin
+decimals: 0
+extensions:
+  twitter: https://twitter.com/lcubestudios
+  website: https://lcubestudios.io
+tags:
+  - community-token
+  - social-token
+  - utility-token

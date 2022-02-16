@@ -1,0 +1,7 @@
+symbol: UST
+name: UST
+decimals: 6
+tags:
+  - UST
+clusters:
+  - devnet

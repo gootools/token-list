@@ -1,0 +1,7 @@
+symbol: DCOMPWL
+name: Degen Competitions Whitelist Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/DegenComp
+tags:
+  - whitelist-token

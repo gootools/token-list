@@ -1,0 +1,7 @@
+symbol: TOK
+name: Tok Coin
+decimals: 0
+extensions:
+  description: This is TOK Coin
+tags:
+  - social-token

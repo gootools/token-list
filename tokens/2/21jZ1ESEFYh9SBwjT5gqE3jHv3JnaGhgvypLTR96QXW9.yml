@@ -1,0 +1,12 @@
+symbol: sUSD
+name: Solcasino USD
+decimals: 6
+extensions:
+  twitter: https://twitter.com/Solcasinoio
+  website: https://www.solcasino.io/
+tags:
+  - bet
+  - casino
+  - lottery
+  - stablecoin
+  - web3

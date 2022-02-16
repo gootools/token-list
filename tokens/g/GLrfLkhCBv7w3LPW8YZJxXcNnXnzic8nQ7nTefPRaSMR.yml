@@ -1,0 +1,10 @@
+symbol: GLPRT
+name: GLPrototype
+decimals: 0
+extensions:
+  description: Goldlist token for PrototypeNFT.
+  discord: https://discord.com/invite/prototypenft
+  twitter: https://twitter.com/prototype5656
+  website: https://prototype-nft.com/
+tags:
+  - utility-token

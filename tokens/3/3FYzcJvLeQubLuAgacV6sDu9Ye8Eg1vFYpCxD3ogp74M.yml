@@ -1,0 +1,9 @@
+symbol: CCG
+name: Collectors Club Governance
+decimals: 9
+extensions:
+  discord: https://discord.gg/collectorsclub
+  medium: https://collectorsclub.medium.com
+  twitter: https://twitter.com/TheWatchersCC
+tags:
+  - utility-token

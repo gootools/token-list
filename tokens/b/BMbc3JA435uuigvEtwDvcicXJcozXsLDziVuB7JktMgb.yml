@@ -1,0 +1,9 @@
+symbol: Test
+name: Test listing
+decimals: 0
+extensions:
+  website: https://aiko.io/
+tags:
+  - utility-token
+clusters:
+  - devnet

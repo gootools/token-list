@@ -1,0 +1,10 @@
+symbol: RIL
+name: Rilum
+decimals: 0
+extensions:
+  description: Rilum is SPL telegram wallet for buy and sell products and currencies.
+  telegram: https://t.me/Rilum
+tags:
+  - payment
+  - Token
+  - wallet

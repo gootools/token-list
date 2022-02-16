@@ -1,0 +1,10 @@
+symbol: BIT
+name: BIT Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/bitmon
+  twitter: https://twitter.com/BitmonWorld
+  website: https://bitmon.io/
+tags:
+  - Game-Token
+  - utility-token

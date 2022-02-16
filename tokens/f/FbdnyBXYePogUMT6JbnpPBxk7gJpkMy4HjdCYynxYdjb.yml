@@ -1,0 +1,9 @@
+symbol: NSOLA
+name: Negativesolana
+decimals: 9
+extensions:
+  twitter: https://twitter.com/negative_solana
+  website: http://negativesolana.42web.io/
+tags:
+  - meme-token
+  - negative

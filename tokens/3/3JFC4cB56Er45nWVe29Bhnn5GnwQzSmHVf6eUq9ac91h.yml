@@ -1,0 +1,9 @@
+symbol: cmSOL
+name: Solend mSOL
+decimals: 9
+extensions:
+  website: https://solend.fi
+tags:
+  - collateral-tokens
+  - lending
+  - solend

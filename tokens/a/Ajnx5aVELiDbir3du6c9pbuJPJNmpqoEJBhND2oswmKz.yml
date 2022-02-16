@@ -1,0 +1,11 @@
+symbol: KMC
+name: KMC FINANCE
+decimals: 4
+extensions:
+  discord: https://discord.gg/cGaTmkCf
+  twitter: https://twitter.com/KMC_FINANCE
+  website: https://kmc.finance/
+tags:
+  - community-token
+  - nft-token
+  - utility-token

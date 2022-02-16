@@ -1,0 +1,10 @@
+symbol: NETG
+name: Net Gala
+decimals: 9
+extensions:
+  discord: https://discord.gg/NetGala
+  twitter: https://twitter.com/NetGalaNFT
+  website: https://netga.la/
+tags:
+  - community-token
+  - utility-token

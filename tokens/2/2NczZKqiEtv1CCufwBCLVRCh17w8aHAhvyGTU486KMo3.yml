@@ -1,0 +1,11 @@
+symbol: ST
+name: Solana Tiger
+decimals: 9
+extensions:
+  discord: https://discord.io/solanatiger_slt
+  telegram: https://t.me/solanatiger_slt
+  twitter: https://twitter.com/solanatiger_slt
+  website: https://solanatiger.com
+tags:
+  - community-token
+  - meme

@@ -3,10 +3,12 @@ name: GTA LIVE
 decimals: 8
 extensions:
   discord: https://discord.gta.live
-  telegram: https://t.me/gta_fiverp
+  medium: https://gtanft.medium.com/
+  reddit: https://reddit.com/user/gtanft
+  telegram: https://t.me/gtanft
+  twitter: https://twitter.com/gtanft
   website: https://gta.live
 tags:
-  - DeFi
-  - GameFi
-  - MetaVerse
-  - stablecoin
+  - game-fi
+  - meta-verse
+  - utility-token

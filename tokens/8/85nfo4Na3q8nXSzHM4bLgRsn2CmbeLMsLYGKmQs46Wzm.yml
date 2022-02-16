@@ -1,0 +1,9 @@
+symbol: FSWL
+name: Fellowship Whitelist Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/fellowshipdao
+  twitter: https://twitter.com/FellowshipDAO
+  website: https://fellowshipdao.com/
+tags:
+  - utility-token

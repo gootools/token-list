@@ -1,0 +1,9 @@
+symbol: SERPENT
+name: Serpent
+decimals: 9
+extensions:
+  twitter: https://twitter.com/SerpentAcademy
+  website: https://serpent.academy
+tags:
+  - community-token
+  - social-token

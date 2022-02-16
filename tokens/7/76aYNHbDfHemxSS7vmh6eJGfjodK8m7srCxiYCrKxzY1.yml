@@ -1,0 +1,10 @@
+symbol: ROLL
+name: HRHC Token
+decimals: 6
+extensions:
+  discord: https://discord.gg/rJjFqcJf
+  twitter: https://twitter.com/HighRollerHC
+  website: https://hrhc.io
+tags:
+  - community-token
+  - utility-token

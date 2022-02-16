@@ -1,0 +1,10 @@
+symbol: DUST
+name: DUST Protocol
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/degods
+  twitter: https://twitter.com/degodsnft
+  website: https://www.dustprotocol.com/
+tags:
+  - NFT
+  - utility-token

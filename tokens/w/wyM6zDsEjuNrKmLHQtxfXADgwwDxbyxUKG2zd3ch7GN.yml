@@ -1,0 +1,8 @@
+symbol: SHARES
+name: Zeeland Homes shares
+decimals: 0
+extensions:
+  website: https://explorer.solana.com/address/WNhMkZGcWM9WbzkLqWGJb6DdfCcCW2JwEHbPRPjTHfq
+tags:
+  - shares
+  - Zeeland-Homes-BV

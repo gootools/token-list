@@ -1,0 +1,7 @@
+symbol: LHGT
+name: LightCoin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/FrantisekPetru
+tags:
+  - social-token

@@ -1,0 +1,5 @@
+symbol: ETL
+name: eTolar
+decimals: 9
+extensions:
+  website: https://etolar.org/

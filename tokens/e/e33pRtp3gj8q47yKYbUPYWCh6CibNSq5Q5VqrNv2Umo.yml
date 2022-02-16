@@ -1,0 +1,10 @@
+symbol: MALL
+name: MetaMalls (Testnet)
+decimals: 9
+extensions:
+  telegram: https://t.me/aiLikeSpider
+  website: https://metamalls.io
+tags:
+  - social-token
+clusters:
+  - testnet

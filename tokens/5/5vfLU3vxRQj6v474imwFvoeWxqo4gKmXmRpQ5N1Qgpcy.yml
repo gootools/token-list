@@ -1,0 +1,10 @@
+symbol: SLACCMINT
+name: SLACC Mint Tokens
+decimals: 0
+extensions:
+  discord: https://discord.gg/slacc
+  twitter: https://twitter.com/SlaccSol
+  website: https://slacc.io
+tags:
+  - social-token
+  - utility-token

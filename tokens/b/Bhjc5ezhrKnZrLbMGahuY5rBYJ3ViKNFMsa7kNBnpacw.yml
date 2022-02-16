@@ -1,0 +1,5 @@
+symbol: ENUM
+name: Enum Coin
+decimals: 0
+tags:
+  - social-token

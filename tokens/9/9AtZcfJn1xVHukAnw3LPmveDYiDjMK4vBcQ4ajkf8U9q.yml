@@ -1,0 +1,15 @@
+symbol: MCOP
+name: Metacop Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/fucn68GYbH
+  github: https://github.com/whiterabbit-hub
+  twitter: https://twitter.com/cops_nft
+  website: https://metacopsnft.io
+tags:
+  - dao-token
+  - governance-token
+  - liquidity-pool-token
+  - nft
+  - nft-token
+  - utility-token

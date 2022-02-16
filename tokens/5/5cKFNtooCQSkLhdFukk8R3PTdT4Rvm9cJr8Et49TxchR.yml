@@ -1,0 +1,11 @@
+symbol: TSI
+name: Tesla Shiba Inu
+decimals: 9
+extensions:
+  discord: https://discord.io/tesla_shibainu
+  telegram: https://t.me/tesla_shibainu
+  twitter: https://twitter.com/tesla_shibainu
+  website: https://teslashibainu.dog
+tags:
+  - meme
+  - utility-token

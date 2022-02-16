@@ -1,0 +1,10 @@
+symbol: MWLT
+name: Mutant WL
+decimals: 2
+extensions:
+  discord: http://discord.gg/catcartel
+  twitter: https://twitter.com/SolanaCatCartel
+  website: https://catcartel.io/
+tags:
+  - community-token
+  - social-token

@@ -1,0 +1,7 @@
+symbol: GIG
+name: GIGNIOC
+decimals: 9
+extensions:
+  website: https://gignioc.com/
+tags:
+  - currency-token

@@ -1,0 +1,8 @@
+symbol: SPYX
+name: Schnitzel
+decimals: 69
+extensions:
+  description: Fun Token for the Schnitzel Server
+  discord: https://discord.gg/uN8UezwmRd
+tags:
+  - social-token

@@ -1,0 +1,10 @@
+symbol: PNPL
+name: Pineapple Express Coin
+decimals: 10
+extensions:
+  website: https://pineappleinc.com/coin/
+tags:
+  - pineapple-token
+  - pineapple-express
+  - social-token
+  - web3

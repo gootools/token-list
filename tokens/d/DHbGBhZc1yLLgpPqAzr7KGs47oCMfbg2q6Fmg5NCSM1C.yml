@@ -1,0 +1,10 @@
+symbol: BAMB
+name: BAMB
+decimals: 9
+extensions:
+  twitter: https://twitter.com/patrol_panda
+  website: https://panda-patrol.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

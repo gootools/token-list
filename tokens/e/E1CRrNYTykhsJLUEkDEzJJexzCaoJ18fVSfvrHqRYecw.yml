@@ -1,0 +1,7 @@
+symbol: DALM
+name: Dalmatian Coin
+decimals: 8
+extensions:
+  website: https://www.dalmatianfoundation.org
+tags:
+  - meme-token

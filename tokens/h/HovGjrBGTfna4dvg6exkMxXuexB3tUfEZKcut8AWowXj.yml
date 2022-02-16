@@ -1,0 +1,12 @@
+symbol: FCON
+name: Space Falcon
+decimals: 4
+extensions:
+  coingeckoId: spacefalcon
+  telegram: https://t.me/spacefalconIO
+  twitter: https://twitter.com/SpaceFalconIO
+  website: https://spacefalcon.io/
+tags:
+  - game-token
+  - trading-token
+  - utility-token

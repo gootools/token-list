@@ -1,0 +1,9 @@
+symbol: FHC
+name: Fady Hanna Coin
+decimals: 0
+extensions:
+  facebook: https://www.facebook.com/hanna.fady
+  linkedin: https://www.linkedin.com/in/fady-hanna/
+tags:
+  - personal-token
+  - social-token

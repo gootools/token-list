@@ -1,0 +1,12 @@
+symbol: HAPI
+name: HAPI
+decimals: 9
+extensions:
+  coingeckoId: hapi
+  github: https://github.com/HAPIprotocol/HAPI/
+  medium: https://medium.com/i-am-hapi
+  telegram: https://t.me/hapiHF
+  twitter: https://twitter.com/i_am_hapi_one
+  website: https://hapi.one
+tags:
+  - utility-token

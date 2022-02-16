@@ -2,6 +2,7 @@ symbol: NEKI
 name: Maneki-neko
 decimals: 9
 extensions:
+  coingeckoId: maneki-neko
   twitter: https://twitter.com/ManekiNekoLabs
 tags:
   - meme-token

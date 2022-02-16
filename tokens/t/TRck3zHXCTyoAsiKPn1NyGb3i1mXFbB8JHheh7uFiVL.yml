@@ -1,0 +1,7 @@
+symbol: TRCK
+name: BHSG Stake Tracker
+decimals: 9
+extensions:
+  website: https://bountyhunterspaceguild.com
+tags:
+  - utility-token

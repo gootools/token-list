@@ -1,0 +1,9 @@
+symbol: GCWL
+name: Galactikka Whitelist Token
+decimals: 0
+extensions:
+  discord: http://dsc.gg/galactikkaclub
+  twitter: https://twitter.com/galactikkaclub
+  website: https://galactikkaclub.com/
+tags:
+  - utility-token

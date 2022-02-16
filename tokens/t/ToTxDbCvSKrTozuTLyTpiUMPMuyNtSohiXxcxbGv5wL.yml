@@ -1,0 +1,8 @@
+symbol: HODLWhales
+name: HODL Whales White List Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/SolanaWhalesNFT
+  website: https://solanahodlwhales.io
+tags:
+  - NFT

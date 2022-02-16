@@ -1,0 +1,16 @@
+symbol: ALGO
+name: Algorand
+decimals: 9
+extensions:
+  coingeckoId: algorand
+  description: Algorand is a scalable, secure and decentralized digital currency
+    and transactions platform.
+  discord: https://discord.com/invite/QBYp7Y2
+  github: https://github.com/algorand
+  reddit: https://reddit.com/r/AlgorandOfficial
+  telegram: https://t.me/algorand
+  twitter: https://twitter.com/algorand
+  website: https://www.algorand.com/
+tags:
+  - utility-token
+  - wrapped

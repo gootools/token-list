@@ -1,0 +1,9 @@
+symbol: MANIAK
+name: Maniak NFT
+decimals: 9
+extensions:
+  twitter: https://twitter.com/ManiakNFT1
+  website: https://maniak-nft.space
+tags:
+  - NFT
+  - utility-token

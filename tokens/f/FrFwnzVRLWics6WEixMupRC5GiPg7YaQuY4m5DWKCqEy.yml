@@ -1,0 +1,12 @@
+symbol: BEEF
+name: Beefcoin
+decimals: 9
+extensions:
+  website: https://www.beefcoin.info/
+tags:
+  - community-token
+  - food-token
+  - meme-token
+  - nft-token
+  - social-token
+  - utility-token

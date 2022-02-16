@@ -1,0 +1,13 @@
+symbol: sCASH-8
+name: Saber Wrapped Cashio Dollar (8 decimals)
+decimals: 8
+extensions:
+  coingeckoId: usd-coin
+  discord: https://discord.com/invite/GmkRRKJkuh
+  medium: https://medium.com/@cashioapp
+  twitter: https://twitter.com/CashioApp
+  website: https://app.saber.so
+tags:
+  - stablecoin
+  - saber-mkt-usd
+  - saber-dec-wrapped

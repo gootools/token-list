@@ -1,0 +1,7 @@
+symbol: GENS
+name: GENS
+decimals: 8
+tags:
+  - stablecoin
+clusters:
+  - testnet

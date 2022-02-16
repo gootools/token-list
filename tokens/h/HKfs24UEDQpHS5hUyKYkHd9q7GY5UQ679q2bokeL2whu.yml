@@ -2,8 +2,11 @@ symbol: TINY
 name: TinyBits
 decimals: 6
 extensions:
+  coingeckoId: tiny-colony
+  description: An expansive pixelated ecosystem on the Solana Blockchain.
   discord: https://discord.gg/AT9caAbY
   github: https://github.com/TinyColonyGame
+  instagram: https://www.instagram.com/tinycolonygame
   medium: https://medium.com/@TinyColonyGame
   twitter: https://twitter.com/TinyColonyGame
   website: http://tinycolony.io/

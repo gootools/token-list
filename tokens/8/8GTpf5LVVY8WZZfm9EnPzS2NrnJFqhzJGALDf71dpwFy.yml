@@ -1,0 +1,5 @@
+symbol: WORKS
+name: WorksToken
+decimals: 0
+clusters:
+  - devnet

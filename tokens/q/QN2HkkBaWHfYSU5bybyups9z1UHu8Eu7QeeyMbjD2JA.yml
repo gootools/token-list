@@ -1,0 +1,9 @@
+symbol: pBTC
+name: Port Finance BTC
+decimals: 6
+extensions:
+  website: https://port.finance
+tags:
+  - collateral-tokens
+  - lending
+  - port

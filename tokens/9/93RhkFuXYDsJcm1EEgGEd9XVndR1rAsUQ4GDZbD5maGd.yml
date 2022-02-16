@@ -1,0 +1,8 @@
+symbol: BND
+name: BannerDesk
+decimals: 6
+extensions:
+  website: https://www.bannerdesk.com
+tags:
+  - payment-token
+  - utility-token

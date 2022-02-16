@@ -1,0 +1,13 @@
+symbol: LION
+name: CryptoLions Coin
+decimals: 7
+extensions:
+  address: 8U4GvLbQqVbgAQMpkEQKNtF2B37KuxCXiuG6g2mxo6oC
+  description: CryptoLions Metaverse Coin
+  discord: https://discord.gg/aUYVJjVzdj
+  facebook: https://facebook.com/CryptoLIONsCanada
+  medium: https://medium.com/@CryptoLionsCan
+  twitter: https://twitter.com/CryptoLionsCan
+  website: https://cryptolions.ca
+tags:
+  - social-token

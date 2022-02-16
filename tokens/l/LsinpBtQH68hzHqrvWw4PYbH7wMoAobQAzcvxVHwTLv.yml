@@ -1,0 +1,12 @@
+symbol: lsIN
+name: Locked Staked Sol Invictus
+decimals: 9
+extensions:
+  discord: https://discord.gg/invictusdao
+  twitter: https://twitter.com/InvictusDAO
+  website: https://invictusdao.fi/
+tags:
+  - community-token
+  - decentralizedreserve
+  - DeFi
+  - utility-token

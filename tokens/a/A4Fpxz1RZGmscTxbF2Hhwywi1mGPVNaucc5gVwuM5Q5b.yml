@@ -1,0 +1,10 @@
+symbol: KITCHEN
+name: Kitchen Token
+decimals: 9
+extensions:
+  website: https://seth.kitchen
+tags:
+  - game-token
+  - metaverse
+  - payment-token
+  - social-token

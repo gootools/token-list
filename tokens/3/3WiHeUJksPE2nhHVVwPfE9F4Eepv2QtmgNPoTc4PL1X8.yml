@@ -1,0 +1,10 @@
+symbol: PSFI
+name: Pug Shot Finance
+decimals: 6
+extensions:
+  discord: https://discord.gg/mF7mexhaE2
+  twitter: https://twitter.com/pugshotfinance
+  website: https://www.pugshotfinance.com/
+tags:
+  - meme
+  - utility

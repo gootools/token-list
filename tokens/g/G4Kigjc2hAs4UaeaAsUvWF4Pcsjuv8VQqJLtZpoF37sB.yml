@@ -1,0 +1,7 @@
+symbol: MRLN
+name: Merlin Coin
+decimals: 9
+extensions:
+  website: https://github.com/lewixlabs/merlin-solana-token
+tags:
+  - social-token

@@ -1,0 +1,7 @@
+symbol: RZC
+name: Razzlecoin
+decimals: 4
+extensions:
+  website: https://www.razzlecoin.xyz/
+tags:
+  - social-token

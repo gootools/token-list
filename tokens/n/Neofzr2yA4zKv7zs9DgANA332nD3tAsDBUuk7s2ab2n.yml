@@ -1,0 +1,10 @@
+symbol: NEO
+name: NEO Governance Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/y76VcXQrZq
+  twitter: https://twitter.com/neonexus_world
+  website: https://neonexus.io
+tags:
+  - governance-token
+  - neonexus

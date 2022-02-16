@@ -1,0 +1,5 @@
+symbol: HEAL
+name: Health
+decimals: 9
+tags:
+  - social-token

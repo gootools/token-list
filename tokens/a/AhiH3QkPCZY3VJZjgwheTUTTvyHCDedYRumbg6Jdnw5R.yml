@@ -1,0 +1,11 @@
+symbol: NIGHT
+name: Nightlife Coin
+decimals: 8
+extensions:
+  description: The NightLife premier token to be used with the Nightlife NFT platform.
+  website: http://www.nightlifecoins.com
+tags:
+  - community-token
+  - governance-token
+  - meme-token
+  - utility-token

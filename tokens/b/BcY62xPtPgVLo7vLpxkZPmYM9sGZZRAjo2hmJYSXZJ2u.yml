@@ -1,0 +1,17 @@
+symbol: IMPI
+name: Impi Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/YDY3brHm
+  facebook: https://www.facebook.com/impikisogloo
+  instagram: https://www.instagram.com/impi_token
+  telegram: https://t.me/traderstoolboxtm
+  twitter: https://twitter.com/impitoken
+  website: https://impi-nft.traderstoolbox.uk
+tags:
+  - community-token
+  - meme-token
+  - nft
+  - social-token
+  - trading-token
+  - utility-token

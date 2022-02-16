@@ -1,0 +1,9 @@
+symbol: $POT
+name: Simians Potion
+decimals: 9
+extensions:
+  discord: https://discord.gg/cmUJSVqK
+  twitter: https://twitter.com/SimiansNFT
+  website: https://simiansuniverse.com
+tags:
+  - utility-token

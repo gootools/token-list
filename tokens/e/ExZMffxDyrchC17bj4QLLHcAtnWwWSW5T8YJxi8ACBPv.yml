@@ -1,0 +1,11 @@
+symbol: BANG
+name: Bang Energy Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/bangenergy
+  website: https://bangenergy.com
+tags:
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

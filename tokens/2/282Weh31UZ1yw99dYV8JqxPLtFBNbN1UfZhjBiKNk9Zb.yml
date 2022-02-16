@@ -1,0 +1,9 @@
+symbol: UGA
+name: BAPC Native Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/XwQ5AtvsBU
+  twitter: https://twitter.com/BAPC_Solana
+  website: https://bapepixel.club/
+tags:
+  - utility-token

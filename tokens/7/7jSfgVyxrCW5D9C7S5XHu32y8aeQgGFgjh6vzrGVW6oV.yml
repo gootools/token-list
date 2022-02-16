@@ -1,0 +1,10 @@
+symbol: 3MUT
+name: Freedom Cash
+decimals: 6
+extensions:
+  discord: https://discord.gg/zzdZx5aMfx
+  twitter: https://twitter.com/FreedomDAO_
+  website: https://freedom-dao.com/
+tags:
+  - stablecoin
+  - utility-token

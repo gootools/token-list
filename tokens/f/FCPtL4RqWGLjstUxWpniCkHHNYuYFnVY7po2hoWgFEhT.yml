@@ -1,0 +1,9 @@
+symbol: FCP
+name: FC Porto Fan Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/PortoToken
+  website: https://www.fcporto.pt
+tags:
+  - community-token
+  - social-token

@@ -2,8 +2,10 @@ symbol: CMFI
 name: Compendium Finance
 decimals: 6
 extensions:
+  coingeckoId: compendium-fi
   discord: https://discord.gg/64r2xtqczs
   medium: https://compendiumfi.medium.com/
+  serumV3Usdc: 3Mf3bxVS2zLW3bbr9BNbqdiizaUwCGwoi3xhrAXfbFnW
   twitter: https://twitter.com/CompendiumFi
   website: https://compendium.finance/
   whitepaper: https://compendium.finance/litepaper

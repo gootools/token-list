@@ -1,0 +1,8 @@
+symbol: IT
+name: IT SOL Coin
+decimals: 9
+extensions:
+  website: https://blocksto.ne/itcoin/
+tags:
+  - guarantee-payments
+  - software-developers

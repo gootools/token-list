@@ -1,0 +1,8 @@
+symbol: BLOCKSTONE
+name: FUND
+decimals: 0
+extensions:
+  website: https://blocksto.ne/fund/
+tags:
+  - Blockstone-fund
+  - DeFi

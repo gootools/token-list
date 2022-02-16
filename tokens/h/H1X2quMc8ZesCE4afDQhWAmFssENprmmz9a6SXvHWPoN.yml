@@ -1,0 +1,9 @@
+symbol: $AMMO
+name: Solarmy AMMO
+decimals: 9
+extensions:
+  discord: https://discord.gg/solarmy
+  twitter: https://twitter.com/thesolarmy
+  website: https://solarmy.io/
+tags:
+  - utility-token

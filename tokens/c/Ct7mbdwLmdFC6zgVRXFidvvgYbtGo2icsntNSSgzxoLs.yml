@@ -1,0 +1,12 @@
+symbol: SXS
+name: SoldierXSolvivor Coin
+decimals: 6
+extensions:
+  discord: https://discord.gg/solxsol
+  twitter: https://twitter.com/soldiersolvivor
+  website: https://soldierxsolvivor.com
+tags:
+  - game-token
+  - game-currency
+  - nft
+  - utility-token

@@ -3,6 +3,7 @@ name: Solend
 decimals: 6
 extensions:
   coingeckoId: solend
+  serumV3Usdc: F9y9NM83kBMzBmMvNT18mkcFuNAPhNRhx7pnz9EDWwfv
   twitter: https://twitter.com/solendprotocol
   website: https://solend.fi
 tags:

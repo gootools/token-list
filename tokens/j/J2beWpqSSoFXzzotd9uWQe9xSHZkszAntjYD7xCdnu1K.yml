@@ -1,0 +1,11 @@
+symbol: TENU
+name: Tesla Inu
+decimals: 9
+extensions:
+  discord: https://discord.io/teslainu_coin
+  telegram: https://t.me/teslainu_coin
+  twitter: https://twitter.com/teslainu_coin
+  website: https://teslainu.net
+tags:
+  - meme-token
+  - utility-token

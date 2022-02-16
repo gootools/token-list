@@ -1,0 +1,18 @@
+symbol: FFS
+name: Future Finance Systems Token - FFSYST
+decimals: 9
+extensions:
+  description: FFS is a governance and utility token for an ethical financial
+    protocol, supporting non-derivative, trade-based financial instruments.
+  facebook: https://www.facebook.com/fexobit
+  imageUrl: https://raw.githubusercontent.com/codefuturance/ffsyst/main/logo.png
+  reddit: https://www.reddit.com/u/fexobit
+  twitter: https://twitter.com/fexobit
+  website: https://www.fexobit.com
+tags:
+  - DAO
+  - DeFi
+  - exchange-token
+  - Fexobit
+  - governance-token
+  - utility-token

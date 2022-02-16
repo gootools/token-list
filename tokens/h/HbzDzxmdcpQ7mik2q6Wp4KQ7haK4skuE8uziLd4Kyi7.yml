@@ -1,0 +1,8 @@
+symbol: POLY
+name: Solana Poly
+decimals: 8
+extensions:
+  discord: https://discord.gg/6J2RZb63By
+  website: https://www.metaland.place
+tags:
+  - utility-token

@@ -1,0 +1,11 @@
+symbol: cPANZR
+name: PANZR Credits Token
+decimals: 5
+extensions:
+  discord: https://discord.gg/dSbEq6fBA2
+  twitter: https://twitter.com/panzerdogs
+  website: https://www.panzerdogs.io/
+tags:
+  - game-token
+  - staking
+  - utility-token

@@ -1,0 +1,13 @@
+symbol: VELORUM
+name: Singularity DAO
+decimals: 9
+extensions:
+  blog: https://blog.singularityonline.app
+  description: Singularity Online DAO Token
+  twitter: https://twitter.com/SingularityMeta
+  website: https://singularityonline.app
+  whitepaper: https://whitepaper.singularityonline.app
+tags:
+  - utility-token
+clusters:
+  - testnet

@@ -1,0 +1,7 @@
+symbol: DICKTOX
+name: Dicktox Token
+decimals: 0
+extensions:
+  website: https://dicktox.com/
+tags:
+  - social-token

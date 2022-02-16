@@ -1,0 +1,10 @@
+symbol: SHINU
+name: Shiba Infinity Token
+decimals: 9
+extensions:
+  telegram: https://t.me/shibainfinitygroup
+  twitter: https://twitter.com/shibainfinity_
+  website: https://shibainfinity.org
+tags:
+  - Shiba-Infinity-token
+  - utility-token

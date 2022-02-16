@@ -1,0 +1,8 @@
+symbol: TUSD
+name: TOP USD
+decimals: 0
+extensions:
+  description: Digital coin for making payments on https://topnfts.cc/
+tags:
+  - payment
+  - stablecoin

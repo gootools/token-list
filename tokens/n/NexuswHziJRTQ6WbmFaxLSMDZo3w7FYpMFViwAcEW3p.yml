@@ -1,0 +1,10 @@
+symbol: NEXUS
+name: NEXUS Utility Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/y76VcXQrZq
+  twitter: https://twitter.com/neonexus_world
+  website: https://neonexus.io
+tags:
+  - neonexus
+  - utility-token

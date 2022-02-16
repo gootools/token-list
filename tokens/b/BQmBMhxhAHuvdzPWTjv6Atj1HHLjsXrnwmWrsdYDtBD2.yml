@@ -1,0 +1,9 @@
+symbol: SURV
+name: Under
+decimals: 9
+extensions:
+  description: Undersurvival Token
+  website: https://linktr.ee/tacline_undersurvival
+tags:
+  - community-token
+  - social-token

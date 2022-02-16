@@ -1,0 +1,10 @@
+symbol: AMMO
+name: Ammo
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/cryptostraps
+  twitter: https://twitter.com/CryptoStraps
+  website: https://cryptostraps.io
+tags:
+  - nft-token
+  - staking

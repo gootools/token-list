@@ -1,0 +1,8 @@
+symbol: VWT
+name: Vivendell Whitelist Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/vivendell
+  website: https://www.vivendell.com/
+tags:
+  - utility-token

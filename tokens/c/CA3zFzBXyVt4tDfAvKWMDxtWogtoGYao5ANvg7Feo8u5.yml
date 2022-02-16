@@ -1,0 +1,7 @@
+symbol: WEED
+name: Weed Coin
+decimals: 0
+extensions:
+  website: http://weedcoin.store
+tags:
+  - social-token

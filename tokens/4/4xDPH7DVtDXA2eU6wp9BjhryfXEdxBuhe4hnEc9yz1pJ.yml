@@ -1,0 +1,9 @@
+symbol: BOLT
+name: Bolt Token
+decimals: 2
+extensions:
+  discord: https://discord.gg/skullbots
+  twitter: https://twitter.com/SKULLBOTS
+  website: https://www.skullbots.io/
+tags:
+  - utility-token

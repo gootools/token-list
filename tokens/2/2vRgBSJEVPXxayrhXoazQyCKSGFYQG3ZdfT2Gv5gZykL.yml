@@ -2,6 +2,8 @@ symbol: SHROOMZ
 name: Crypto Mushroomz
 decimals: 6
 extensions:
+  coingeckoId: crypto-mushroomz
+  coinmarketcap: https://coinmarketcap.com/currencies/crypto-mushroomz/
   serumV3Usdc: E9XAtU18PXeSMcz5gkAkZ6yfj1E5nzY21x576ZvEg9VA
   twitter: https://twitter.com/cryptomushroomz
   website: https://www.cryptomushroomz.io

@@ -1,0 +1,13 @@
+symbol: bATS
+name: Bonded ATS
+decimals: 9
+extensions:
+  coingeckoId: atlas-dex
+  coinmarketcap: https://coinmarketcap.com/currencies/atlas-dex/
+  medium: https://atlasdex.medium.com/
+  twitter: https://twitter.com/atlas_dex
+  website: https://atlasdex.finance/
+tags:
+  - dex
+  - swap
+  - utility-token

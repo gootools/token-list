@@ -1,0 +1,10 @@
+symbol: STIMMY
+name: STIMMY
+decimals: 9
+extensions:
+  discord: https://discord.gg/IRS
+  twitter: https://twitter.com/irsnft
+  website: https://sers.io/
+tags:
+  - community-token
+  - utility-token

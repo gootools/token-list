@@ -1,0 +1,8 @@
+symbol: HBX
+name: HUBEX
+decimals: 9
+extensions:
+  telegram: https://t.me/hubexnetwork
+  website: https://hubex.org
+tags:
+  - utility-token

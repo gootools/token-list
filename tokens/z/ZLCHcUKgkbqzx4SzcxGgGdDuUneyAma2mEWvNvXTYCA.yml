@@ -1,0 +1,7 @@
+symbol: ZILCH
+name: The Nothing
+decimals: 6
+extensions:
+  description: This token is about nothing
+tags:
+  - social-token

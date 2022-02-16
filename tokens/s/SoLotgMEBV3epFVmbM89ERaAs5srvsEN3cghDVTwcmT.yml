@@ -1,0 +1,11 @@
+symbol: SOLO
+name: SoLoteria Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/SoLoteria
+  twitter: https://twitter.com/SoLoteriaNFT
+  website: https://soloterianft.com/
+tags:
+  - community-token
+  - nft-token
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: CLIP
+name: Clip Finance
+decimals: 9
+extensions:
+  twitter: https://twitter.com/ClipFinance
+  website: https://www.clip.finance
+tags:
+  - DeFi
+  - Lending-Protocol

@@ -1,0 +1,8 @@
+symbol: BARTER
+name: Barter Coin
+decimals: 2
+extensions:
+  website: https://blocksto.ne/barter/
+tags:
+  - Barter-trade
+  - community-token

@@ -1,0 +1,7 @@
+symbol: $wheat
+name: BCBY wheat
+decimals: 9
+extensions:
+  website: https://www.bcbarnyard.info/
+tags:
+  - utility-token

@@ -1,0 +1,7 @@
+symbol: JSOL-SOL
+name: Saber JSOL-SOL LP
+decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/jsol
+tags:
+  - saber-stableswap-lp

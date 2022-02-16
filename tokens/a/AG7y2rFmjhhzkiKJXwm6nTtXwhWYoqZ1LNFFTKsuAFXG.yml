@@ -1,0 +1,7 @@
+symbol: MCOIN
+name: Moon Coin
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

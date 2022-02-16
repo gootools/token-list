@@ -1,0 +1,5 @@
+symbol: CELO
+name: CELO (Allbridge from Celo)
+decimals: 9
+extensions:
+  coingeckoId: celo

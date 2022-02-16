@@ -1,0 +1,12 @@
+symbol: CMPT
+name: Campetta Token
+decimals: 0
+extensions:
+  description: Token for the Campetta family, to be dispensed as a reward for
+    successful completion of games and tasks.
+  github: https://github.com/mcampetta
+tags:
+  - family-token
+  - learning-token
+  - social-token
+  - training-token

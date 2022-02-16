@@ -2,16 +2,18 @@ symbol: PHY
 name: Physis
 decimals: 9
 extensions:
-  discord: https://discord.gg/U9YyKgjH5x
+  coingeckoId: physis
+  discord: https://discord.gg/jQ4fXyD6cz
   telegram: https://t.me/PhysisVerse
   twitter: https://twitter.com/PhysisVerse
-  website: https://www.phys.is/
+  website: https://phys.is/
 tags:
-  - fitness
-  - health
+  - augmented-reality
+  - extended-reality
   - metaverse
-  - marketplace
-  - nft
+  - multiverse
+  - mixed-reality
   - physis
   - utility-token
+  - virtual-reality
   - wellness

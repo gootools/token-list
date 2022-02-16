@@ -1,0 +1,10 @@
+symbol: LZRD
+name: Lizard Coin
+decimals: 9
+extensions:
+  discord: https://discord.gg/x8XmhEJxbg
+  twitter: https://twitter.com/MasonicLizards
+  website: https://www.masoniclizards.com/
+tags:
+  - community
+  - utility-token

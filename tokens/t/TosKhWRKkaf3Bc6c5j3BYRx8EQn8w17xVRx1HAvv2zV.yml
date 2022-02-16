@@ -1,0 +1,10 @@
+symbol: PD
+name: Pixel Drugs Whitelist
+decimals: 0
+extensions:
+  discord: https://discord.gg/Hd97U9z3eg
+  twitter: https://twitter.com/PixelDrugs
+  website: https://www.pixeldrugs.com
+tags:
+  - community-token
+  - utility-token

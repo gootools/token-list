@@ -1,0 +1,11 @@
+symbol: MMT
+name: Moon Money Token
+decimals: 5
+extensions:
+  website: http://moonmoneybank.com
+tags:
+  - community-token
+  - NFT
+  - payment-token
+  - social-token
+  - Utility-token

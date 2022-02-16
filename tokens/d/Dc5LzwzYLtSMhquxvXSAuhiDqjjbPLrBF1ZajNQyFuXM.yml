@@ -1,0 +1,11 @@
+symbol: WTLBC
+name: TLBC Whitelist
+decimals: 0
+extensions:
+  discord: https://discord.gg/theloftbusinessclub
+  instagram: https://www.instagram.com/the_lofts_business_club/
+  twitter: https://twitter.com/lofts_club
+  website: https://loftsclub.com/
+tags:
+  - NFT
+  - utility-token

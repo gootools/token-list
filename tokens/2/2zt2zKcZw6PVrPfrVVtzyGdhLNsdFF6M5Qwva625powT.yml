@@ -1,0 +1,11 @@
+symbol: BONES
+name: BONES Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/souldogs
+  instagram: https://www.instagram.com/souldogscity/
+  medium: https://medium.com/@souldogscity
+  twitter: https://twitter.com/SoulDogsNFT
+  website: https://souldogs.city/
+tags:
+  - utility-token

@@ -1,0 +1,10 @@
+symbol: USDC
+name: USD Coin
+decimals: 6
+extensions:
+  coingeckoId: usd-coin
+  website: https://www.centre.io/
+tags:
+  - stablecoin
+clusters:
+  - devnet

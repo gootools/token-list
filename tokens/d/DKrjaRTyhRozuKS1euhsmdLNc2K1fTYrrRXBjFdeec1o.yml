@@ -1,0 +1,11 @@
+symbol: KINY
+name: KinnyCoin
+decimals: 5
+extensions:
+  twitter: https://twitter.com/kinnycoin
+tags:
+  - media
+  - payments
+  - social-token
+  - solana-ecosystem
+  - web3

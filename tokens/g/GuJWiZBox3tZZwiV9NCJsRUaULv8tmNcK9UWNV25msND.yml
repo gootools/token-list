@@ -1,0 +1,10 @@
+symbol: FROGZ
+name: FROGZ
+decimals: 9
+extensions:
+  twitter: https://twitter.com/HokkaidoFrogz
+  website: https://www.hokkaidofrogz.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

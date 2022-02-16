@@ -1,0 +1,13 @@
+symbol: ARTE
+name: ARTE
+decimals: 6
+extensions:
+  coingeckoId: arte
+  description: Utility token which is the fuel of the blockchain-art ARTE ecosystem.
+  discord: http://discord.gg/artpunks
+  medium: https://medium.com/@artpunknft
+  serumV3Usdc: 4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9
+  twitter: https://twitter.com/ArtPunksNFT
+  website: http://artpunks.fun/
+tags:
+  - utility-token

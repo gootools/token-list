@@ -1,0 +1,8 @@
+symbol: THESIS
+name: Thesis Token
+decimals: 9
+extensions:
+  description: Varkalai Official Token
+  website: https://www.varkalai.com
+tags:
+  - utility-token

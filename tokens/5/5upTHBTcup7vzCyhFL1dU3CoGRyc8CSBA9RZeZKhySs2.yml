@@ -1,0 +1,7 @@
+symbol: LEM
+name: Lemon
+decimals: 10
+extensions:
+  telegram: https://t.me/lemonspl
+tags:
+  - utility-token

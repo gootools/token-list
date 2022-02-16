@@ -1,0 +1,14 @@
+symbol: LTC
+name: Litecoin
+decimals: 9
+extensions:
+  coingeckoId: litecoin
+  description: The cryptocurrency for payments
+  github: https://github.com/litecoin-project
+  reddit: https://www.reddit.com/r/litecoin
+  telegram: https://t.me/Litecoin
+  twitter: https://twitter.com/LitecoinProject
+  website: https://litecoin.org/
+tags:
+  - utility-token
+  - wrapped

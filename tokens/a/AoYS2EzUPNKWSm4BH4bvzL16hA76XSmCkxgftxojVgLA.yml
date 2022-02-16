@@ -1,0 +1,13 @@
+symbol: SFC-PRESALE
+name: Solana Faction Cards Pre-Sale Token
+decimals: 0
+extensions:
+  description: Solana Faction Cards enables staking, governance and cross-chain multiverse.
+  discord: https://discord.com/invite/Wkjp3DhJuZ
+  github: https://github.com/faction-cards
+  twitter: https://twitter.com/faction_cards
+  website: https://faction.cards
+tags:
+  - community-token
+  - social-token
+  - utility-token

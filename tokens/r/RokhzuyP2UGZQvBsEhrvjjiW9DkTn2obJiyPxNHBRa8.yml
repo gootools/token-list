@@ -1,0 +1,10 @@
+symbol: DSRUPT
+name: MoonRocks Mint Token
+decimals: 0
+extensions:
+  description: Mint your base moonrocks at https://get.basemoonrock.store
+  discord: https://discord.gg/WF5XWfJQ
+  twitter: https://twitter.com/MoonrocksMeta
+  website: https://moonrocksofficial.io
+tags:
+  - utility-token

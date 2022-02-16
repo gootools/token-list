@@ -1,0 +1,22 @@
+symbol: MATIC
+name: Polygon
+decimals: 9
+extensions:
+  coingeckoId: polygon
+  description: Polygon believes in Web3 for all. Polygon is a decentralised
+    Ethereum scaling platform that enables developers to build scalable
+    user-friendly dApps with low transaction fees without ever sacrificing on
+    security.
+  discord: https://discord.com/invite/polygon
+  facebook: https://facebook.com/0xPolygon.Technology
+  github: https://github.com/maticnetwork
+  instagram: https://instagram.com/0xpolygon
+  linkedin: https://linkedin.com/company/0xpolygon
+  reddit: https://reddit.com/r/0xPolygon
+  telegram: https://t.me/maticnetwork
+  twitter: https://twitter.com/0xPolygon
+  website: https://polygon.technology/
+  youtube: https://youtube.com/c/PolygonTV
+tags:
+  - utility-token
+  - wrapped

@@ -1,0 +1,11 @@
+symbol: TNT
+name: Top NFTs Ticket
+decimals: 0
+extensions:
+  description: Each ticket gives you access to buy one NFT on https://topnfts.cc/
+  discord: https://discord.gg/topnfts
+  telegram: https://t.me/topnftscc
+  twitter: https://twitter.com/topnfts_cc
+  website: https://topnfts.cc/
+tags:
+  - whitelist-ticket

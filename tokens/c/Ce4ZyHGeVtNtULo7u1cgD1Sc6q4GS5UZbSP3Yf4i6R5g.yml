@@ -1,0 +1,7 @@
+symbol: DIN
+name: E-Dinar
+decimals: 9
+extensions:
+  website: https://edinar.org
+tags:
+  - utility-token

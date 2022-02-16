@@ -1,0 +1,5 @@
+symbol: GLD
+name: Global Dollar
+decimals: 6
+extensions:
+  website: https://globaldollar.world/

@@ -1,0 +1,12 @@
+symbol: LOCO
+name: ANYBODIES Fashion Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/anybodies
+  twitter: https://twitter.com/anybodiesNFT
+  website: https://anybodies.io/
+tags:
+  - fashion
+  - utility-token
+  - wte
+  - wear-to-earn

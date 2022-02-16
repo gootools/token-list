@@ -1,0 +1,10 @@
+symbol: LAVA
+name: LAVA Token
+decimals: 6
+extensions:
+  description: Phenom Phoenixes Utility Token
+  discord: https://discord.gg/nkR4RcPSqJ
+  twitter: https://twitter.com/phenomphoenixes
+  website: https://phenomphoenixes.com/
+tags:
+  - utility-token

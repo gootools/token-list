@@ -1,0 +1,10 @@
+symbol: CHIMP
+name: Chimp
+decimals: 0
+extensions:
+  description: "The #1 Decentralized meme token in Solana ecosystem."
+  website: https://chimpd.com
+tags:
+  - community-token
+  - meme-token
+  - social-token

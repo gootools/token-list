@@ -1,0 +1,9 @@
+symbol: ROAR
+name: ROAR Token
+decimals: 4
+extensions:
+  discord: https://discord.gg/cuYdr7F33g
+  twitter: https://twitter.com/CubsClubNFT
+  website: https://cubsclub.io
+tags:
+  - nft

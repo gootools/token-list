@@ -1,0 +1,7 @@
+symbol: MESSI
+name: Messi Token
+decimals: 9
+extensions:
+  website: https://messi.ilov.eu/
+tags:
+  - social-token

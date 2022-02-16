@@ -1,0 +1,9 @@
+symbol: DT
+name: Dev Token
+decimals: 6
+extensions:
+  discord: https://discord.gg/Z2vY77ejH6
+  twitter: https://twitter.com/BoredDevClub
+tags:
+  - community-token
+  - utility-token

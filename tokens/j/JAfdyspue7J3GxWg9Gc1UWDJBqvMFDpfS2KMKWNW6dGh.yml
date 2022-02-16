@@ -1,0 +1,11 @@
+symbol: NASA
+name: Nasa Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/nasa
+tags:
+  - community-token
+  - meme-token
+  - nasa-token
+  - social-token
+  - utility-token

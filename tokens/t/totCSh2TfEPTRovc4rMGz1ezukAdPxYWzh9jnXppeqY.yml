@@ -1,0 +1,8 @@
+symbol: GMT
+name: Greenman Token
+decimals: 8
+extensions:
+  twitter: https://twitter.com/TheGreenmanShow
+  website: https://greenmanhouseparty.io
+tags:
+  - utility-token

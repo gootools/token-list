@@ -1,0 +1,11 @@
+symbol: SOLALAND
+name: SOLALAND
+decimals: 9
+extensions:
+  discord: https://discord.com/invite/GybWAj3bSF
+  serumV3Usdc: 5eFBFqATo93NZd1FGVFv59ewDPEqeGoEgFipB2kGmJVP
+  twitter: https://twitter.com/solalandhq
+  website: https://www.solalandhq.com/
+tags:
+  - NFT
+  - utility-token

@@ -1,0 +1,7 @@
+symbol: THGZ
+name: Thugbirdz Loyalty Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/soldit_
+tags:
+  - utility-token

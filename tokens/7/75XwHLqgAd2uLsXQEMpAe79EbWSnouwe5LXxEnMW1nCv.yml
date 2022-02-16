@@ -1,0 +1,9 @@
+symbol: NOSE-WL
+name: Nose Age NFT Whitelist Token
+decimals: 6
+extensions:
+  discord: https://discord.gg/jgTh4tyyAJ
+  twitter: https://twitter.com/noseagenft
+tags:
+  - nfts
+  - whitelist-token

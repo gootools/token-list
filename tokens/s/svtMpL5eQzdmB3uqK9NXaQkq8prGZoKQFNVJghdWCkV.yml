@@ -1,0 +1,14 @@
+symbol: SVT
+name: Solvent
+decimals: 6
+extensions:
+  coingeckoId: solvent
+  discord: https://discord.gg/thK8BCtQbM
+  github: https://github.com/solventprotocol
+  medium: https://medium.com/@solventprotocol
+  serumV3Usdc: HuFKVQNyB177c9DiocQksYzBCtHMRUP5bBXZJzuLvYQm
+  telegram: https://t.me/solventprotocol
+  twitter: https://twitter.com/solventprotocol
+  website: https://solvent.xyz
+tags:
+  - utility-token

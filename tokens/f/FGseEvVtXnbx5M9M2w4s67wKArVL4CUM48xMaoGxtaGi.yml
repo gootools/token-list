@@ -1,0 +1,9 @@
+symbol: CTWL
+name: Cyber Tribe Whitelist Token
+decimals: 0
+extensions:
+  discord: http://discord.gg/cybertribe
+  twitter: https://twitter.com/CyberTribeNFT
+  website: https://cybertribe.gg
+tags:
+  - community

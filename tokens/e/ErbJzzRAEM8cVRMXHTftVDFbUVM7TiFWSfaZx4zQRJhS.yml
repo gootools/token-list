@@ -1,0 +1,9 @@
+symbol: NFTABSWL
+name: NFTABS Whitelist Token
+decimals: 0
+extensions:
+  discord: https://discord.com/invite/nftabs
+  twitter: https://twitter.com/nonfungibletabs
+  website: https://www.nftabs.io
+tags:
+  - whitelist-token

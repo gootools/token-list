@@ -1,0 +1,9 @@
+symbol: ALIEN
+name: AlienUniverse Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/AlienUniversNFT
+  website: https://alienuniverse.io/
+tags:
+  - community-token
+  - game-token

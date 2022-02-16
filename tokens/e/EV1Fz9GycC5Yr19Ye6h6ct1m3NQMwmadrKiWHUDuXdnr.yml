@@ -1,0 +1,9 @@
+symbol: SCAPESWL
+name: Scapes Whitelist
+decimals: 9
+extensions:
+  discord: https://discord.gg/scapes
+  medium: https://scapesnft.medium.com
+  twitter: https://twitter.com/scapesnft
+tags:
+  - scapes-whitelist

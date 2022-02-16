@@ -1,0 +1,7 @@
+symbol: daoSOL-SOL
+name: Saber daoSOL-SOL LP
+decimals: 9
+extensions:
+  website: https://app.saber.so/#/pools/monkedao
+tags:
+  - saber-stableswap-lp

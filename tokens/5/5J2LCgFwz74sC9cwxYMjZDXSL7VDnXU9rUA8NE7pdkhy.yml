@@ -1,0 +1,5 @@
+symbol: VIN
+name: VIN Token
+decimals: 6
+tags:
+  - social-token

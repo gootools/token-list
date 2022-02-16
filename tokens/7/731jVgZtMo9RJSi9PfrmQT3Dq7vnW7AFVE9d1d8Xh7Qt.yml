@@ -1,0 +1,9 @@
+symbol: $SMGL
+name: Smeagol token
+decimals: 0
+extensions:
+  description: Smeagol token
+  website: https://smeagoltoken.mziesel.com/
+tags:
+  - meme-token
+  - social-token

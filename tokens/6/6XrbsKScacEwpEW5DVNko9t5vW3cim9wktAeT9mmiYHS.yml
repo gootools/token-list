@@ -1,0 +1,9 @@
+symbol: cUSDT-USDC
+name: Solend USDT-USDC
+decimals: 6
+extensions:
+  website: https://solend.fi
+tags:
+  - collateral-tokens
+  - lending
+  - solend

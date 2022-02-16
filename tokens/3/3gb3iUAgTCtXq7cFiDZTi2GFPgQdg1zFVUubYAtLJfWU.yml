@@ -1,0 +1,7 @@
+symbol: LUX
+name: LUX Token
+decimals: 9
+extensions:
+  website: https://wearelux.space/
+tags:
+  - utility-token

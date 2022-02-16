@@ -1,0 +1,12 @@
+symbol: GCC
+name: Gatsby Club Currency
+decimals: 9
+extensions:
+  description: "Gatsby Club members earn GCC Tokens to access exclusives
+    advantages : VIP NFT's, Metaverse, P2E. "
+  discord: https://discord.com/invite/tvaFSXw4uV
+  twitter: https://twitter.com/gatsbyclubnft
+  website: https://www.gatsbyclub.net/
+tags:
+  - community-token
+  - utility-token

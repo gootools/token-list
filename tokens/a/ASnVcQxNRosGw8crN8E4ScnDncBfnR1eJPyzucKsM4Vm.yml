@@ -1,0 +1,9 @@
+symbol: wUST-USDC-USDT
+name: wUST_v1-USDC-USDT LP
+decimals: 9
+extensions:
+  website: https://dev.ratio.finance/
+tags:
+  - ratio-token
+clusters:
+  - devnet

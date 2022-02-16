@@ -1,3 +1,10 @@
 symbol: CHP
 name: Crypto Health Plus
 decimals: 9
+extensions:
+  facebook: https://www.facebook.com/Crypto-Health-Plus-226283872703673/
+  twitter: https://twitter.com/CryptoHealthPls
+  website: https://cryptohealthplus.com/
+tags:
+  - health
+  - utility-token

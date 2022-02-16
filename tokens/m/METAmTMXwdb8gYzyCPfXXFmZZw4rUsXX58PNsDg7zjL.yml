@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   coingeckoId: solice
   discord: https://discord.gg/solice
+  serumV3Usdc: DvmDTjsdnN77q7SST7gngLydP1ASNNpUVi4cNfU95oCr
   telegram: https://t.me/solice_io
   twitter: https://twitter.com/solice_io
   website: https://www.solice.io/

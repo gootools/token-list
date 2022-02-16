@@ -1,0 +1,9 @@
+symbol: PMWL
+name: Pixelmon WL Token
+decimals: 0
+extensions:
+  discord: https://discord.com/invite/pixelmonnft
+  twitter: https://twitter.com/PixelmonTM
+  website: https://www.pixelmonnft.com/
+tags:
+  - whitelist-token

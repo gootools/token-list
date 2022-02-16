@@ -1,12 +1,13 @@
 symbol: SBR
-name: Saber Protocol Token
+name: Saber Protocol Token (Devnet)
 decimals: 6
 extensions:
   coingeckoId: saber
   discord: https://chat.saber.so
   github: https://github.com/saber-hq
   medium: https://blog.saber.so
-  serumV3Usdc: HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs
   twitter: https://twitter.com/saber_hq
-  waterfallbot: https://bit.ly/SBRwaterfall
   website: https://saber.so
+clusters:
+  - mainnet-beta
+  - testnet

@@ -1,0 +1,7 @@
+symbol: ALBINO
+name: ApesAgainst WL Token
+decimals: 0
+extensions:
+  website: http://apesagainst.io/
+clusters:
+  - devnet

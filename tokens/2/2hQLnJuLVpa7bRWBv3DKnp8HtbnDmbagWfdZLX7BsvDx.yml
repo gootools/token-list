@@ -1,0 +1,7 @@
+symbol: HEALTH
+name: Swiss Health Coin
+decimals: 2
+extensions:
+  website: http://healthyswiss.ch
+tags:
+  - Health

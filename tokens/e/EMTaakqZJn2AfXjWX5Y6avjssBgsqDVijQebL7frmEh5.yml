@@ -1,0 +1,5 @@
+symbol: RUNI
+name: Runi Coin
+decimals: 9
+clusters:
+  - devnet

@@ -1,0 +1,11 @@
+symbol: NCR
+name: Necro Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/necro_is_god
+  website: https://www.necrohiphop.com/
+tags:
+  - community-token
+  - necro-token
+  - social-token
+  - utility-token

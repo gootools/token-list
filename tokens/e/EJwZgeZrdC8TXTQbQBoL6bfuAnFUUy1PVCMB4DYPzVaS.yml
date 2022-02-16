@@ -1,0 +1,10 @@
+symbol: USDT
+name: USDT (Saber Devnet)
+decimals: 6
+extensions:
+  coingeckoId: tether
+  website: https://saber.so/
+tags:
+  - stablecoin
+clusters:
+  - devnet

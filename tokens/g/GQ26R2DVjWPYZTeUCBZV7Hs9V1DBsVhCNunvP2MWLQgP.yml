@@ -1,0 +1,8 @@
+symbol: LOBO
+name: Lobo Coin
+decimals: 8
+extensions:
+  twitter: https://twitter.com/lostaliensnft
+tags:
+  - community-token
+  - utility-token

@@ -1,0 +1,7 @@
+symbol: HKM
+name: Haknem Token
+decimals: 9
+extensions:
+  website: https://haknem.com
+tags:
+  - community-token

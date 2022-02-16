@@ -1,0 +1,14 @@
+symbol: GOSHT
+name: Gosht Coin
+decimals: 9
+extensions:
+  facebook: https://www.facebook.com/goshnft
+  instagram: https://www.instagram.com/goshnft/
+  linkedin: https://www.linkedin.com/company/goshnft
+  telegram: https://t.me/GoshNFT
+  twitter: https://twitter.com/GoshNft
+  website: https://www.goshnft.com/
+tags:
+  - game
+  - nft
+  - social-token

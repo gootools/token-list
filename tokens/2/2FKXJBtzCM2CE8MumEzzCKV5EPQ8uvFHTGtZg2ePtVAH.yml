@@ -1,0 +1,9 @@
+symbol: JIGX
+name: Jigx Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/jigx_official
+  website: https://jigx.com/
+tags:
+  - nft
+  - utility-token

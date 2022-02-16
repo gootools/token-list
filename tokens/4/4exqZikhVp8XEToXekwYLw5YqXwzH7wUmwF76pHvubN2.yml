@@ -1,0 +1,9 @@
+symbol: GBL
+name: GLOBAL INV CORP
+decimals: 9
+extensions:
+  telegram: https://t.me/GLOBALINVC
+  twitter: https://twitter.com/globalinvcorp
+  website: https://en.globalinvcorp.com/ginvtoken
+tags:
+  - utility-token

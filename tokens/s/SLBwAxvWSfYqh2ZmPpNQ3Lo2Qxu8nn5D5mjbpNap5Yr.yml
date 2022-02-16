@@ -1,0 +1,9 @@
+symbol: SLB
+name: Benfica Fan Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/BenficaToken
+  website: https://www.slbenfica.pt
+tags:
+  - community-token
+  - social-token

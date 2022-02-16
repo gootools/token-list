@@ -1,0 +1,7 @@
+symbol: BRUSPAL
+name: Bruspal Copper
+decimals: 6
+extensions:
+  website: http://www.bruspal.net
+tags:
+  - social-token

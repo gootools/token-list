@@ -1,0 +1,10 @@
+symbol: FWF
+name: Framework Fortune Coin
+decimals: 4
+extensions:
+  twitter: https://twitter.com/FramewkFortune
+  website: https://www.frameworkfortune.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

@@ -1,0 +1,14 @@
+symbol: NRC
+name: Nearcoin
+decimals: 2
+extensions:
+  facebook: https://www.facebook.com/NearcastHQ
+  instagram: https://www.instagram.com/NearcastHQ/
+  linkedin: https://www.linkedin.com/company/nearcast
+  twitter: https://twitter.com/NearcastHQ
+  website: https://www.nearcoin.com/
+  youtube: https://www.youtube.com/channel/UCqvbKHoV0xaReGts8oedmnQ
+tags:
+  - currency-token
+  - social-token
+  - utility-token

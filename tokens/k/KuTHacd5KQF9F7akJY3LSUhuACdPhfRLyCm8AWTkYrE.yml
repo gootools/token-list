@@ -1,0 +1,9 @@
+symbol: KWT
+name: Kuroda Whitelist Tokens
+decimals: 0
+extensions:
+  description: KWT is a whitelist token for preminting the Kuroda genisys collection
+  website: https://kurodaclub.com/
+tags:
+  - kuroda-tokens
+  - whitelist

@@ -1,0 +1,7 @@
+symbol: ZED
+name: SEED Weapon Token
+decimals: 0
+tags:
+  - social-token
+clusters:
+  - devnet

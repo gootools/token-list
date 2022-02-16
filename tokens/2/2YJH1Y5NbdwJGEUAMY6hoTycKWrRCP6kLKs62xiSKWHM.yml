@@ -1,0 +1,7 @@
+symbol: dSOL
+name: DuckSol
+decimals: 9
+extensions:
+  website: https://dazedducks.com
+tags:
+  - social-token

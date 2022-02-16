@@ -1,0 +1,11 @@
+symbol: AP
+name: Ape Power
+decimals: 9
+extensions:
+  discord: http://discord.gg/degenapesociety
+  twitter: https://twitter.com/DegenApeSociety
+  website: https://degenapesociety.com/
+tags:
+  - gaming-token
+  - social-token
+  - utility-token

@@ -1,0 +1,13 @@
+symbol: $BRUSH
+name: BrushToken
+decimals: 9
+extensions:
+  description: NFT token ecosystem built on the Solana Blockchain
+  discord: https://discord.gg/JJpt9rseMn
+  twitter: https://twitter.com/brushtoken
+  website: https://brushtoken.com/
+tags:
+  - community-token
+  - game-token
+  - nft-token
+  - utility-token

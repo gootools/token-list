@@ -1,0 +1,11 @@
+symbol: XPPI
+name: XppiCoin
+decimals: 9
+extensions:
+  discord: https://discord.gg/HukFryQmr8
+  twitter: https://twitter.com/xppipr0
+tags:
+  - nft
+  - social-token
+  - stake
+  - utility-token

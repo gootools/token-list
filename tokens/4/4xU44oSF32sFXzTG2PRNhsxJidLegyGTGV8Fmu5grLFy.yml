@@ -1,0 +1,10 @@
+symbol: BRIDGE
+name: Bridge Network
+decimals: 9
+extensions:
+  twitter: https://twitter.com/bridgenetwork0x
+  website: https://www.bridgenetwork.com
+tags:
+  - Bridge
+  - Cross-Chain
+  - NFT

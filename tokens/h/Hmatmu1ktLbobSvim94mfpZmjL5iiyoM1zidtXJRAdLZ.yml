@@ -2,7 +2,13 @@ symbol: PSOL
 name: Parasol
 decimals: 7
 extensions:
+  coingeckoId: parasol-finance
   discord: https://discord.gg/WTwm2V45UZ
-  website: https://parasol-labs.org
+  github: https://github.com/parasol-finance
+  medium: https://medium.com/@parasol.finance
+  serumV3Usdc: DukWnNjNS1qQYUNGYj5NJViEfQW793mHwxij3wi9dazM
+  telegram: https://t.me/parasolfinance
+  twitter: https://twitter.com/parasol_finance
+  website: https://parasol.finance
 tags:
   - utility-token

@@ -1,0 +1,10 @@
+symbol: EWS
+name: Enterprise Web Service
+decimals: 0
+extensions:
+  twitter: https://twitter.com/enterprisewsrvc
+  website: https://enterprisewebservice.com/
+  youtube: https://www.youtube.com/channel/UCiOimz60fahnbGEdTkN-fpQ
+tags:
+  - community-token
+  - social-token

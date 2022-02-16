@@ -1,0 +1,16 @@
+symbol: ARTEM
+name: ARTEM Coin
+decimals: 8
+extensions:
+  description: ARTEM is a fungible cross-chain digital token created by Simonida
+    Pavicevic and Elio D'Anna (founders of The House of Fine Art, Kreation,
+    House of Luxury, and Artcels) made especially for the fine art, digital art,
+    and luxury collectables marketplace and global artist communities.
+  medium: https://medium.com/@ArtemCoin
+  telegram: https://t.me/ARTEMCoinOfficial
+  twitter: https://twitter.com/Artem_Coin
+  website: https://artemcoin.com
+tags:
+  - ARTEM
+  - ART
+  - NFT

@@ -1,0 +1,12 @@
+symbol: SNK
+name: SolSnake
+decimals: 9
+extensions:
+  discord: https://discord.io/solsnake_solana
+  telegram: https://t.me/solsnake_solana
+  twitter: https://twitter.com/solsnake_solana
+  website: https://solsnake.net
+tags:
+  - dex
+  - meme-token
+  - utility-token

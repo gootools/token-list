@@ -1,0 +1,9 @@
+symbol: FAM
+name: Family Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/SolSavages
+  website: https://www.solsavages.com
+tags:
+  - community-token
+  - utility-token

@@ -1,0 +1,12 @@
+symbol: $PACHA
+name: Pacha DAO Token
+decimals: 8
+extensions:
+  website: https://pachaverse.io/
+tags:
+  - animation
+  - coin
+  - dao
+  - game-token
+  - nft
+  - p2e

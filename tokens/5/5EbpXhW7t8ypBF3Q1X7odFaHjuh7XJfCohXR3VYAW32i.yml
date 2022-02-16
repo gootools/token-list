@@ -1,0 +1,7 @@
+symbol: MALL
+name: MetaMall
+decimals: 3
+extensions:
+  website: https://metamalls.io
+tags:
+  - social-token

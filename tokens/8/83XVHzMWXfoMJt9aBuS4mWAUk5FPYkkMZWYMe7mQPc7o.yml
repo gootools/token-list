@@ -1,0 +1,10 @@
+symbol: OMEN
+name: Omens of Olympus WL
+decimals: 0
+extensions:
+  description: Whitelist token for a single Omen of Olympus.
+  discord: https://discord.gg/omensofolympus
+  twitter: https://twitter.com/omensofolympus
+  website: https://omensofolympus.com
+tags:
+  - utility-token

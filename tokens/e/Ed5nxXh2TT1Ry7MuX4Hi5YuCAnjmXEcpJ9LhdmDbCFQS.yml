@@ -1,0 +1,10 @@
+symbol: FUM
+name: FUM
+decimals: 9
+extensions:
+  twitter: https://twitter.com/SolSquatchNFT
+  website: https://solsquatch.io/
+tags:
+  - community-token
+  - social-token
+  - utility-token

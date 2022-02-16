@@ -1,0 +1,7 @@
+symbol: VAMP
+name: Vamp Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/Vampo__
+tags:
+  - social-token

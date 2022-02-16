@@ -1,0 +1,8 @@
+symbol: FANS
+name: FANALYST
+decimals: 9
+extensions:
+  twitter: https://twitter.com/fanalystUS
+  website: https://fanalyst.co/
+tags:
+  - utility-token

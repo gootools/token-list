@@ -1,0 +1,7 @@
+symbol: eSOL
+name: EverSOL staked SOL (eSOL)
+decimals: 9
+extensions:
+  medium: https://medium.com/everstake
+  twitter: https://twitter.com/everstake_pool
+  website: https://everstake.one

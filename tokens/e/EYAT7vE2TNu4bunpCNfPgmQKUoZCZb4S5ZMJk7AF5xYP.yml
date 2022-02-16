@@ -1,0 +1,7 @@
+symbol: ROVE
+name: Rove Token
+decimals: 0
+extensions:
+  website: https://rove.live
+tags:
+  - utility-token

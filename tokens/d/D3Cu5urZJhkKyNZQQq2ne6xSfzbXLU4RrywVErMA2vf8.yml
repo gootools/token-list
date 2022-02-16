@@ -1,0 +1,9 @@
+symbol: cSLND
+name: Solend SLND
+decimals: 6
+extensions:
+  website: https://solend.fi
+tags:
+  - collateral-tokens
+  - lending
+  - solend

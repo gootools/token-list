@@ -1,0 +1,8 @@
+symbol: SOLBASE
+name: SolBase
+decimals: 0
+extensions:
+  description: Easily build apps on Solana.
+  website: https://solbase.io
+tags:
+  - utility-token

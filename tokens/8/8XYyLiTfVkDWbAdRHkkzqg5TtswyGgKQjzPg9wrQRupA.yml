@@ -1,0 +1,9 @@
+symbol: WHDT
+name: Weedheads Discount Token
+decimals: 0
+extensions:
+  description: Weedheads Discount Token
+  twitter: https://twitter.com/weedheadsNFT
+  website: https://weedheads.art
+tags:
+  - utility-token

@@ -1,0 +1,9 @@
+symbol: IMBA
+name: The Lion Cats Token
+decimals: 0
+extensions:
+  discord: https://discord.com/invite/thelioncats
+  twitter: https://twitter.com/TheLionCatsNFT
+  website: https://thelioncats.com/
+tags:
+  - utility-token

@@ -2,6 +2,7 @@ symbol: REAL
 name: Realy Token
 decimals: 9
 extensions:
+  serumV3Usdc: AU8VGwd4NGRbcMz9LT6Fu2LP69LPAbWUJ6gEfEgeYM33
   telegram: https://t.me/realyofficial
   twitter: https://twitter.com/RealyOfficial
   website: https://realy.pro/

@@ -1,0 +1,8 @@
+symbol: LHMINT
+name: Loot Heroes' Mint Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/lootheroesnft
+  website: https://lootheroes.io
+clusters:
+  - devnet

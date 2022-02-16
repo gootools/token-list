@@ -1,0 +1,11 @@
+symbol: TFT
+name: Techforce Token
+decimals: 9
+extensions:
+  website: https://techforceglobal.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token
+clusters:
+  - devnet

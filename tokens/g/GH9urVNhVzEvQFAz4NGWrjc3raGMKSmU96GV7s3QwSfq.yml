@@ -1,0 +1,10 @@
+symbol: SD
+name: DoughDAO Token
+decimals: 9
+extensions:
+  description: DoughDAO Token
+  discord: https://discord.gg/soldough
+  twitter: https://twitter.com/SolDough
+  website: https://soldough.com
+tags:
+  - utility-token

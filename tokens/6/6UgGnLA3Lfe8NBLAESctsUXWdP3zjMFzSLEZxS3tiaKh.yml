@@ -1,0 +1,9 @@
+symbol: pMER
+name: Port Finance Mercurial
+decimals: 6
+extensions:
+  website: https://port.finance
+tags:
+  - collateral-tokens
+  - lending
+  - port

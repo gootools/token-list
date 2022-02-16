@@ -1,0 +1,15 @@
+symbol: TON
+name: The Open Network
+decimals: 9
+extensions:
+  coingeckoId: the-open-network
+  description: TON is a third-generation proof-of-stake blockchain designed in
+    2018 by the Durov brothers, the founders of Telegram Messenger. Later, it
+    was handed over to our open TON Community, which has been supporting and
+    developing it ever since.
+  github: https://github.com/newton-blockchain
+  telegram: https://t.me/tonblockchain
+  website: https://ton.org
+tags:
+  - general-token
+  - wrapped

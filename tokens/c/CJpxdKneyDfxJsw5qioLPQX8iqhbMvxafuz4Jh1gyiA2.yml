@@ -1,0 +1,11 @@
+symbol: LFC
+name: Ledger Figure Coin
+decimals: 9
+extensions:
+  description: Ledger Figure Token was created with the aim of helping people in
+    financial difficulty, we are committed to making donations to people in
+    precarious situations.
+  website: https://ledgerfigurecoin.com/
+tags:
+  - community-token
+  - social-token

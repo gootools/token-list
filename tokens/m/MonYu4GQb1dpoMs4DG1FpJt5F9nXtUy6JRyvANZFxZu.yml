@@ -1,0 +1,10 @@
+symbol: MONY
+name: Mooney Token
+decimals: 6
+extensions:
+  discord: https://discord.com/invite/moondusa
+  telegram: https://t.me/MoondusaTheNFT
+  twitter: https://twitter.com/Moondusa
+  website: https://moondusanft.io
+tags:
+  - social-token

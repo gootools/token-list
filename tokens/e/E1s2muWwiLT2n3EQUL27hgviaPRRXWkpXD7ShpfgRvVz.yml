@@ -2,5 +2,6 @@ symbol: CAC
 name: Cosmic Ape Coin
 decimals: 6
 extensions:
+  coingeckoId: cosmic-ape-coin
   twitter: https://twitter.com/cosmicapesnft
   website: https://cosmicapes.xyz

@@ -1,0 +1,9 @@
+symbol: INV
+name: Invoke
+decimals: 9
+extensions:
+  discord: https://discord.gg/invokers
+  twitter: https://twitter.com/invokersnft
+  website: https://www.invokersnft.com
+tags:
+  - utility-token

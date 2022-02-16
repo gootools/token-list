@@ -1,0 +1,9 @@
+symbol: POZZ
+name: PozzCoin
+decimals: 0
+extensions:
+  twitter: https://twitter.com/pozzcoin
+  website: https://pozzco.in
+tags:
+  - meme-token
+  - social-token

@@ -3,5 +3,6 @@ name: Synthetify
 decimals: 6
 extensions:
   coingeckoId: synthetify-token
+  serumV3Usdc: DPfj2jYwPaezkCmUNm5SSYfkrkz8WFqwGLcxDDUsN3gA
   twitter: https://twitter.com/synthetify
   website: https://synthetify.io/

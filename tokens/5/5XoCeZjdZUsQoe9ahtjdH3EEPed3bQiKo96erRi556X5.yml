@@ -1,0 +1,5 @@
+symbol: USDE
+name: USD Equivalent
+decimals: 6
+extensions:
+  website: https://usde.world/

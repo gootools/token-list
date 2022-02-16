@@ -1,0 +1,9 @@
+symbol: FRONK
+name: Fronk
+decimals: 9
+extensions:
+  discord: https://discord.gg/friendlyfrogs
+  twitter: https://twitter.com/FriendlyFrogSC
+  website: https://ffsc.io/
+tags:
+  - utility-token

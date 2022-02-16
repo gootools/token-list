@@ -3,5 +3,6 @@ name: FABRIC
 decimals: 9
 extensions:
   coingeckoId: fabric
+  serumV3Usdc: Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt
   twitter: https://twitter.com/official_fabric
   website: https://fsynth.io/

@@ -1,0 +1,8 @@
+symbol: RAMT
+name: Rich Apes Mint Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/TheRichApes
+  website: https://therichapes.com
+tags:
+  - social-token

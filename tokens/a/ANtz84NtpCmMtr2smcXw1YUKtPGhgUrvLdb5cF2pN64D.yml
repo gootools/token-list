@@ -1,0 +1,12 @@
+symbol: BAT
+name: Batman Coin
+decimals: 9
+extensions:
+  twitter: https://twitter.com/dcbatman
+  website: https://www.thebatman.com
+tags:
+  - batman-token
+  - community-token
+  - meme-token
+  - social-token
+  - utility-token

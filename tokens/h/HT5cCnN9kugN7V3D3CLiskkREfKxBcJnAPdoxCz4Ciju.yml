@@ -1,0 +1,7 @@
+symbol: NWFP
+name: New World Federation Pound
+decimals: 12
+extensions:
+  website: https://nwf.earth/
+tags:
+  - community-token

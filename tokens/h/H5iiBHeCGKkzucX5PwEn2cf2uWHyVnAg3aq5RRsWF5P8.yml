@@ -1,0 +1,12 @@
+symbol: TIKI
+name: Tiki Coin
+decimals: 2
+extensions:
+  description: $TIKI is utility token that powers Tiki DAO, a sub community of The
+    Chimpions.
+  discord: https://discord.gg/thechimpions
+  twitter: https://twitter.com/TikiDAO_
+tags:
+  - community-token
+  - social-token
+  - utility-token

@@ -1,11 +1,13 @@
 symbol: KITTY
 name: Kitty Coin
-decimals: 6
+decimals: 9
 extensions:
   coingeckoId: kitty-coin-solana
+  coinmarketcap: https://coinmarketcap.com/currencies/kitty-coin-solana/
   discord: https://discord.gg/kittycoinsolana
   serumV3Usdc: FAHa34qbNbvtEBHgjuALk4WLJMwxJTtV6Z3V3p79XLWG
   serumV3Usdt: H8VLs7VYaBg3rg1NvVNJKb1QWMf3kzieTPkgPmVffXTx
+  telegram: https://t.me/kittycoinsolana_off
   twitter: https://twitter.com/KittyCoinSolana
   website: https://kittycoinsolana.com/
 tags:

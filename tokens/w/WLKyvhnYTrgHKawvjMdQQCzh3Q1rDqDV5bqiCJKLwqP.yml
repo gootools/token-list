@@ -1,0 +1,5 @@
+symbol: KART
+name: Kart WL Token
+decimals: 0
+clusters:
+  - devnet

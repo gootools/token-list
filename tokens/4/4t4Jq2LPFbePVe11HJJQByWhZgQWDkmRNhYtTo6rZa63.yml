@@ -1,0 +1,8 @@
+symbol: CREDITCARD
+name: CREDIT CARD SOL
+decimals: 9
+extensions:
+  website: https://blocksto.ne/credit-card/
+tags:
+  - credit-card
+  - solana

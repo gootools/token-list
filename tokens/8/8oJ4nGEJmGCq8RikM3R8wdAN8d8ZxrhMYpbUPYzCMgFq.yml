@@ -1,0 +1,9 @@
+symbol: RPC
+name: RED PANDA COIN
+decimals: 9
+extensions:
+  discord: https://discord.gg/7av9SK7nZq
+  twitter: https://twitter.com/Redpandacoin
+  website: https://redpandacoin.com
+tags:
+  - meme-coin

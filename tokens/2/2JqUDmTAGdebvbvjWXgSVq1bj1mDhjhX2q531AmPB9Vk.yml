@@ -1,0 +1,9 @@
+symbol: SMR
+name: Solana Monke Rejects Whitelist Token
+decimals: 0
+extensions:
+  discord: https://discord.com/invite/MonkeRejects
+  twitter: https://twitter.com/MonkeRejects
+  website: https://solmonkerejects.com
+tags:
+  - utility-token

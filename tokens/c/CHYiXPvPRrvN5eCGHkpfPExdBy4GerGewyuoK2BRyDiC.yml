@@ -1,0 +1,8 @@
+symbol: NOOFT
+name: Nooft Token
+decimals: 9
+extensions:
+  twitter: https://twitter.com/NooftProject
+  website: https://nooft.io/
+tags:
+  - utility-token

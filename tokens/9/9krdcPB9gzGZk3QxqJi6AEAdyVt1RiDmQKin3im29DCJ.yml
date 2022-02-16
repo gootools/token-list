@@ -1,0 +1,8 @@
+symbol: CHILL
+name: Chilled Apes Token
+decimals: 0
+extensions:
+  twitter: https://twitter.com/ChilledApes
+  website: https://www.chilledapes.com/
+tags:
+  - utility-token

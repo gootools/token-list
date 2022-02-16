@@ -1,0 +1,7 @@
+symbol: CHERRY
+name: CHERRY (devnet)
+decimals: 9
+tags:
+  - CHERRY
+clusters:
+  - devnet

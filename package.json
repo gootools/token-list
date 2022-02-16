@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync": "rm -rf tokens tags.json && node scripts/sync.js",
     "test": "node scripts/test.js",
-    "sync": "node scripts/sync.js",
     "build": "node scripts/build.js"
   },
   "dependencies": {

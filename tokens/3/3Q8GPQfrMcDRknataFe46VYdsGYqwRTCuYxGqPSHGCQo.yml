@@ -1,0 +1,13 @@
+symbol: TAG
+name: totag
+decimals: 9
+extensions:
+  description: TAG Token are used by the world's first digireal Platform, totag.io
+    TAP it, get it!
+  instagram: https://www.instagram.com/totag.io
+  medium: https://totag.medium.com
+  telegram: https://t.me/totag_io
+  twitter: https://twitter.com/totag_io
+  website: https://totag.io
+tags:
+  - digireal-platform

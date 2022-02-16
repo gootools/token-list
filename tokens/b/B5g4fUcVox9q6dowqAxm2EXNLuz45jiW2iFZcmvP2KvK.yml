@@ -1,0 +1,11 @@
+symbol: PQT
+name: Pixel Quest Token
+decimals: 0
+extensions:
+  description: The Solana Pixel Quest token
+  twitter: https://twitter.com/SolPixelQuest
+  website: https://solanapixelquest.xyz
+tags:
+  - community-token
+  - social-token
+  - utility-token

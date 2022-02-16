@@ -1,0 +1,11 @@
+symbol: PRTV
+name: PRTV Token
+decimals: 9
+extensions:
+  discord: https://discord.gg/ztqYqdVxhW
+  medium: https://medium.com/@PRTV
+  twitter: https://twitter.com/PRTV_SOL
+tags:
+  - community-token
+  - PR
+  - utility-token

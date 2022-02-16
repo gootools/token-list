@@ -1,0 +1,9 @@
+symbol: PAYCHECK
+name: PAYCHECK
+decimals: 0
+extensions:
+  twitter: https://twitter.com/MarkSackerberg
+tags:
+  - community-token
+  - meme-token
+  - social-token

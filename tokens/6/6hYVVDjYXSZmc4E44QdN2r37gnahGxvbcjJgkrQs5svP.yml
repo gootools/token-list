@@ -1,0 +1,7 @@
+symbol: CHERRY
+name: Cherry Token
+decimals: 9
+extensions:
+  website: https://cherry.charity/
+tags:
+  - charity-token

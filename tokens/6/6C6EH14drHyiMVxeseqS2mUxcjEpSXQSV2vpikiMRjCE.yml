@@ -1,0 +1,9 @@
+symbol: AVIANI
+name: AVIANI_Test
+decimals: 0
+extensions:
+  website: https://www.aviani.com/
+tags:
+  - test-token
+clusters:
+  - devnet

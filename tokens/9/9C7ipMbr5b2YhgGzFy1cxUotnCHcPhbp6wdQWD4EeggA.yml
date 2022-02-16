@@ -1,0 +1,10 @@
+symbol: HIST
+name: Historians WL
+decimals: 0
+extensions:
+  description: "WL Mint Token for Boopieveres: Historians"
+  discord: https://discord.gg/boopie
+  twitter: https://twitter.com/boopieverse
+  website: https://boopieverse.com/boopie-historians
+tags:
+  - mint-token

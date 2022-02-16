@@ -1,0 +1,7 @@
+symbol: SNOO
+name: SNOO TOKEN
+decimals: 3
+extensions:
+  twitter: https://twitter.com/snootoken
+tags:
+  - token

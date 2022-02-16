@@ -1,0 +1,11 @@
+symbol: WSDM
+name: Wisdom Token
+decimals: 0
+extensions:
+  description: Laughing Buddha Wisdom Token
+  discord: https://discord.gg/Hv5fScpArr
+  twitter: https://twitter.com/BuddhasNFT
+  website: https://laughingbuddhas.io
+tags:
+  - social-token
+  - utility-token

@@ -1,0 +1,6 @@
+symbol: BETYAR
+name: Betyár Whitelist Token
+decimals: 0
+clusters:
+  - devnet
+  - mainnet-beta

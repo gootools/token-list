@@ -1,0 +1,6 @@
+symbol: $SMLY
+name: SmileyToken
+decimals: 0
+tags:
+  - dev-token
+  - social-token

@@ -1,0 +1,12 @@
+symbol: $OBL
+name: OBL (Oblivion City Token)
+decimals: 9
+extensions:
+  discord: https://discord.gg/PCxN8rNXCx
+  twitter: https://twitter.com/OblivionCityNFT
+  website: https://oblivion.city
+tags:
+  - community-token
+  - game
+  - nft
+  - utility-token

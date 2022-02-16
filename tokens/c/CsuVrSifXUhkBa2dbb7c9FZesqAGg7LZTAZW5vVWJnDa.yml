@@ -1,0 +1,12 @@
+symbol: EROSA
+name: Erosa Coin
+decimals: 0
+extensions:
+  github: https://github.com/ErosaCoin
+  website: https://erosa.io/
+tags:
+  - company-token
+  - meta-token
+  - nft-token
+  - social-token
+  - utility-token

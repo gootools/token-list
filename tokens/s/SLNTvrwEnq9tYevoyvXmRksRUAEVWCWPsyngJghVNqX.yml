@@ -1,0 +1,8 @@
+symbol: SLNT
+name: Solanite
+decimals: 18
+extensions:
+  description: Solantasy Token
+  website: https://solantasy.com
+tags:
+  - utility-token

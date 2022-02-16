@@ -1,0 +1,12 @@
+symbol: BOTX
+name: botXcoin
+decimals: 8
+extensions:
+  coingeckoId: botxcoin
+  coinmarketcap: https://coinmarketcap.com/currencies/botxcoin/
+  instagram: https://www.instagram.com/botxofficial/
+  website: https://www.botx.network
+tags:
+  - ethereum
+  - wrapped
+  - wormhole-v2

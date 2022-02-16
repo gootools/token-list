@@ -1,0 +1,11 @@
+symbol: HUMAN
+name: HUMAN
+decimals: 9
+extensions:
+  coingeckoId: human
+  coinmarketcap: https://coinmarketcap.com/currencies/human-coin/
+  discord: http://discord.gg/5m6cBdry6y
+  twitter: https://twitter.com/thecyberkatz
+  website: https://cyberkatz.space
+tags:
+  - utility-token

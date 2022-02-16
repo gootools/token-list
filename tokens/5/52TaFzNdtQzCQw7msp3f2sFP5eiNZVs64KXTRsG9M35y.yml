@@ -1,0 +1,6 @@
+symbol: LAND
+name: CommonLand
+decimals: 6
+tags:
+  - financial-token
+  - real-estate

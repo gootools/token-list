@@ -1,0 +1,7 @@
+symbol: BCAT
+name: Bouncing Cat Token
+decimals: 0
+tags:
+  - utility-token
+clusters:
+  - testnet

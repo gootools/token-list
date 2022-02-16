@@ -1,0 +1,9 @@
+symbol: RCT
+name: RB Dev Token
+decimals: 0
+extensions:
+  website: https://robocock.io
+tags:
+  - RCT
+clusters:
+  - devnet

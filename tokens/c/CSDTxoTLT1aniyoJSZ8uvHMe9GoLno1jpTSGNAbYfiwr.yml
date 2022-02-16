@@ -1,0 +1,10 @@
+symbol: CSDT
+name: CryptoShards Discount Token
+decimals: 0
+extensions:
+  discord: https://discord.gg/VJUtHVJWyv
+  twitter: https://twitter.com/CryptoShardsNFT
+  website: https://cryptoshards.art/
+tags:
+  - discount-token
+  - sweepstakes

@@ -1,0 +1,12 @@
+symbol: KAIJU
+name: KaijuVerse
+decimals: 9
+extensions:
+  description: 1313 Kaijus Wreaking Havoc On Solana
+  discord: https://discord.gg/kaijuverse
+  twitter: https://twitter.com/KaijuVerseNFT
+  website: https://kaijuversenft.com
+tags:
+  - community-token
+  - NFT
+  - utility-token

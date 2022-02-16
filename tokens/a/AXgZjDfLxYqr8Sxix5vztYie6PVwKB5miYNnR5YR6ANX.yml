@@ -1,0 +1,7 @@
+symbol: PMCOIN
+name: Perky Mint Coin
+decimals: 0
+extensions:
+  website: https://perkypikas.com
+tags:
+  - utility-token

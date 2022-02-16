@@ -1,0 +1,11 @@
+symbol: rBASIS
+name: rBasis
+decimals: 6
+extensions:
+  description: Redeemable BASIS token.
+  discord: https://discord.gg/basismarkets
+  medium: https://basismarkets.medium.com/
+  twitter: https://twitter.com/basismarkets
+  website: https://staking.basis.markets
+tags:
+  - utility-token

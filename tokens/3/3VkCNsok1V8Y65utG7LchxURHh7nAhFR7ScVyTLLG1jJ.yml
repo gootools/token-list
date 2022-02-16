@@ -1,0 +1,9 @@
+symbol: HGEN
+name: HGEN
+decimals: 8
+tags:
+  - community-token
+  - governance-token
+  - utility-token
+clusters:
+  - testnet

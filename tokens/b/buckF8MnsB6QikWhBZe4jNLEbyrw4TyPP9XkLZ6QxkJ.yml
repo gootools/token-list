@@ -1,0 +1,10 @@
+symbol: RBUCKS
+name: Rbucks
+decimals: 9
+extensions:
+  twitter: https://twitter.com/rbucks
+  website: https://rbucks.com/
+tags:
+  - community-token
+  - social-token
+  - utility-token

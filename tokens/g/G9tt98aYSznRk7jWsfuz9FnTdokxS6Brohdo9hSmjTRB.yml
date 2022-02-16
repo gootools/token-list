@@ -2,7 +2,9 @@ symbol: PUFF
 name: PUFF
 decimals: 9
 extensions:
+  coingeckoId: puff
   discord: https://discord.gg/stonedapecrew
+  serumV3Usdc: FjkwTi1nxCa1S2LtgDwCU8QjrbGuiqpJvYWu3SWUHdrV
   twitter: https://twitter.com/stonedapecrew
   website: https://www.stonedapecrew.com/
 tags:

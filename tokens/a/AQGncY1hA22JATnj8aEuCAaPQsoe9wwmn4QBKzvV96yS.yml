@@ -1,0 +1,13 @@
+symbol: BACK
+name: Backistan BACK
+decimals: 0
+extensions:
+  twitter: https://twitter.com/backDAO
+  vault: https://www.fraktion.art/vault/DLRCcdmBJvoR6nHTpKRKvRBE9n8TN1443rN3VrtiXzqp
+  vaultPubkey: DLRCcdmBJvoR6nHTpKRKvRBE9n8TN1443rN3VrtiXzqp
+  website: https://back2back.io/
+tags:
+  - community-token
+  - nft-backed-currency
+  - nft-basket
+  - social-token
