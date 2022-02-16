@@ -1,6 +1,7 @@
 symbol: REICH
 name: ReichCoin
 decimals: 0
+img: https://raw.githubusercontent.com/ReichCorp/Reich/main/REICHCOIN-TRNSP.png
 tags:
   - Crypto-Token
   - social-token

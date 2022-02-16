@@ -3,6 +3,7 @@ name: Pre-Sale Mercanti NFT 1
 decimals: 0
 extensions:
   twitter: https://twitter.com/tradewithmarco
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G49gd8dLmqedK3DNdgUkd2chVMZieRgqZVMnnrsnsF5V/logo.png
 tags:
   - mercanti
   - pre-sale

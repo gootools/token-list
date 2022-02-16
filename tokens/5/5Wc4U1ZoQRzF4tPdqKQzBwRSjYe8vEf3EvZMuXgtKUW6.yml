@@ -8,6 +8,7 @@ extensions:
   coingeckoId: luaswap
   serumV3Usdc: J9imTcEeahZqKuaoQaPcCeSGCMWL8qSACpK4B7bC8NN4
   serumV3Usdt: BMJ3CvQZ57cNnuc3Lz5Pb6cW6Sr9kZGz3qz2bJQTE24A
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6/logo.png
 tags:
   - ethereum
   - wrapped

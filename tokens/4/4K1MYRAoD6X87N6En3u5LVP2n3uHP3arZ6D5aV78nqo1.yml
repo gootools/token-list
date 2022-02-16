@@ -1,5 +1,6 @@
 symbol: SHRIMPO
 name: Shrimpo Token
 decimals: 9
+img: https://raw.githubusercontent.com/shrimpotoken/logo/main/logo.jpg
 tags:
   - social-token

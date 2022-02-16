@@ -1,5 +1,6 @@
 symbol: WAR
 name: GameOfWar
 decimals: 0
+img: https://raw.githubusercontent.com/moonwalk103/crypto/main/war.png
 tags:
   - game-token

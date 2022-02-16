@@ -3,6 +3,7 @@ name: Solana Loop
 decimals: 9
 extensions:
   twitter: https://twitter.com/SolanaLoops
+img: https://i.ibb.co/vQX1smT/logo-loop.png
 tags:
   - DeFi
   - Utility-token

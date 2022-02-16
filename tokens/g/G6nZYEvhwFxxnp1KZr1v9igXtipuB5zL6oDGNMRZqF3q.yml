@@ -3,6 +3,7 @@ name: EA Bad
 decimals: 9
 extensions:
   twitter: https://twitter.com/EABadtoken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G6nZYEvhwFxxnp1KZr1v9igXtipuB5zL6oDGNMRZqF3q/EABadlogo.PNG
 tags:
   - community-token
   - meme-token

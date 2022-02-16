@@ -1,5 +1,6 @@
 symbol: ZENY
 name: ZenCoin
 decimals: 9
+img: https://raw.githubusercontent.com/badeafrost/crypto/main/logo.png
 tags:
   - social-token

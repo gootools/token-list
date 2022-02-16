@@ -1,5 +1,6 @@
 symbol: LYIT
 name: LYIToken
 decimals: 9
+img: https://raw.githubusercontent.com/JoeTheGilbert/crypto/main/logo.jpg
 tags:
   - utility-token

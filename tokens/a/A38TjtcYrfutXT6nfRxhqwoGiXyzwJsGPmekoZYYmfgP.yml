@@ -3,6 +3,7 @@ name: Solend FTT
 decimals: 6
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP/logo.png
 tags:
   - collateral-tokens
   - lending

@@ -1,5 +1,6 @@
 symbol: SNARF
 name: Snarf Coin
 decimals: 0
+img: https://raw.githubusercontent.com/iamsnarf/SnarfCoin/main/SnarfCoin.png
 tags:
   - social-token

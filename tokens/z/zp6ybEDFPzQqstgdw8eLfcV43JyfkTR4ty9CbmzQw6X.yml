@@ -1,6 +1,7 @@
 symbol: LARA
 name: LARA Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zp6ybEDFPzQqstgdw8eLfcV43JyfkTR4ty9CbmzQw6X/logo.png
 tags:
   - LARA
   - utility-token

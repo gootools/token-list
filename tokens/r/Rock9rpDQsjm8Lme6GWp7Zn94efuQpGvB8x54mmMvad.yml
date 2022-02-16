@@ -1,6 +1,7 @@
 symbol: ROCK
 name: Rockstar
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Rock9rpDQsjm8Lme6GWp7Zn94efuQpGvB8x54mmMvad/logo.png
 tags:
   - concert-token
   - fan-token

@@ -4,5 +4,6 @@ decimals: 4
 extensions:
   twitter: https://twitter.com/letterbanking
   website: https://letter.co
+img: https://github.com/letter/brand/raw/main/Normal.jpg
 tags:
   - utility-token

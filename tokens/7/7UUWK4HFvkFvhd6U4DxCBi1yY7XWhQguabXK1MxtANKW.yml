@@ -4,6 +4,7 @@ decimals: 4
 extensions:
   twitter: https://twitter.com/KyoudaiAcademy
   website: https://www.kyoudai.academy/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7UUWK4HFvkFvhd6U4DxCBi1yY7XWhQguabXK1MxtANKW/logo.png
 tags:
   - academy
   - kyoudai

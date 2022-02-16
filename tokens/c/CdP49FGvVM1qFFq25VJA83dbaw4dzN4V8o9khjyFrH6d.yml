@@ -1,6 +1,7 @@
 symbol: GIFTY
 name: GIFTY - Gift token for everyone
 decimals: 9
+img: https://raw.githubusercontent.com/giftytoken/solanamerge/main/gifty.png
 tags:
   - gifty-token
   - gift-token

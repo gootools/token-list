@@ -3,6 +3,7 @@ name: Auburn Coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/dpd696
+img: https://raw.githubusercontent.com/dpd696/crypto/main/logo.png
 tags:
   - community-token
   - social-token

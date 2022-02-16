@@ -1,5 +1,6 @@
 symbol: DDCTK
 name: DopeDolphinCoin
 decimals: 0
+img: https://raw.githubusercontent.com/mbc241/DopeDolphinToken/main/dolphin.png
 tags:
   - social-token

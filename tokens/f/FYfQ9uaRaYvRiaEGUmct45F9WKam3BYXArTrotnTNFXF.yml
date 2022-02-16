@@ -7,5 +7,6 @@ extensions:
   telegram: https://t.me/solatokennet
   twitter: https://twitter.com/EcoSolana
   website: https://solatoken.net/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF/logo.png
 tags:
   - community-token

@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/WavemStudios
   website: https://cryptogoldrush.xyz
+img: https://cryptogoldrush.xyz/cgoldr.png
 tags:
   - community-token
   - lp-token

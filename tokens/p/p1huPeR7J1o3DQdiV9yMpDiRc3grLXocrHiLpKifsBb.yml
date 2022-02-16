@@ -3,6 +3,7 @@ name: HipsterCoin
 decimals: 9
 extensions:
   website: https://www.sunnybeach24.com
+img: https://cdn.jsdelivr.net/gh/sunnybeach24/HIPSTER/hipp-logo.png
 tags:
   - community
   - innovation

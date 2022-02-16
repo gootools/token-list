@@ -1,5 +1,6 @@
 symbol: HML
 name: HamalCoin
 decimals: 0
+img: https://raw.githubusercontent.com/florianHamal/coin/main/pic.png
 tags:
   - social-token

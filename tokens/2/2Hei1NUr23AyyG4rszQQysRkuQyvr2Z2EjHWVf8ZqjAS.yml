@@ -3,6 +3,7 @@ name: "PEACE COIN "
 decimals: 0
 extensions:
   description: PEACE
+img: https://arweave.net/2X3Xh19ThGDQbQ6F9OULg5uO35N1dNI3rvxDFtCFWTc
 tags:
   - collectible-token
   - fractionalized-nft

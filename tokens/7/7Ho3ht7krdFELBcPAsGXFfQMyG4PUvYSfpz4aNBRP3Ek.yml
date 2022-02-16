@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (KIN/SOL)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Ho3ht7krdFELBcPAsGXFfQMyG4PUvYSfpz4aNBRP3Ek/logo.svg
 tags:
   - lp-token

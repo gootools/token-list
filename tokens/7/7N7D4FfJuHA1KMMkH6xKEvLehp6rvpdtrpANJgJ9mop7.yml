@@ -1,5 +1,6 @@
 symbol: PITCOIN
 name: PitCoin
 decimals: 0
+img: https://raw.githubusercontent.com/psugasti/pitcoin/main/pitcoin.png
 tags:
   - social-token

@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   discord: https://codecatch.net/discord
   website: https://codecatch.net
+img: https://raw.githubusercontent.com/codecatchorg/codecatchcoin/main/logo.png
 tags:
   - community-token
   - social-token

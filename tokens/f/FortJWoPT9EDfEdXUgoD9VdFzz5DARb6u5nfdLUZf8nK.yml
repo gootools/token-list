@@ -1,6 +1,7 @@
 symbol: FORT
 name: Fortnite
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FortJWoPT9EDfEdXUgoD9VdFzz5DARb6u5nfdLUZf8nK/logo.png
 tags:
   - buy-sell
   - game-token

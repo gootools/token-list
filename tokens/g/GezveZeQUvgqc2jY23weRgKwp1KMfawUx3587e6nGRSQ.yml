@@ -3,6 +3,7 @@ name: FPGALover
 decimals: 0
 extensions:
   website: https://fpgalover.com
+img: https://raw.githubusercontent.com/Adrizcorp/SolFPGA/main/fpgaloverToken.png
 tags:
   - nft-token
   - social-token

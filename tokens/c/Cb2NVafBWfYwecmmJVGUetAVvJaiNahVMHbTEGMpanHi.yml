@@ -3,5 +3,6 @@ name: Penny
 decimals: 9
 extensions:
   website: https://itsthelabel.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cb2NVafBWfYwecmmJVGUetAVvJaiNahVMHbTEGMpanHi/logo.png
 tags:
   - utility-token

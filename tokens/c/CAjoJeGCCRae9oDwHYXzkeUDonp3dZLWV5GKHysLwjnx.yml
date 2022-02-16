@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   serumV3Usdc: 4jN1R453Acv9egnr7Dry3x9Xe3jqh1tqz5RokniaeVhy
   website: https://www.staratlas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAjoJeGCCRae9oDwHYXzkeUDonp3dZLWV5GKHysLwjnx/logo.png
 tags:
   - nft

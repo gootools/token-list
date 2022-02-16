@@ -1,5 +1,6 @@
 symbol: STONKIS
 name: Stonkis coin
 decimals: 0
+img: https://raw.githubusercontent.com/saltvatten/crypto/main/logo.png
 tags:
   - social-token

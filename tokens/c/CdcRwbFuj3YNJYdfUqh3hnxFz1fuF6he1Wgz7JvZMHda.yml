@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/LazyBearsNFT
   website: http://lazybearsnft.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CdcRwbFuj3YNJYdfUqh3hnxFz1fuF6he1Wgz7JvZMHda/logo.png
 tags:
   - community-token
   - social-token

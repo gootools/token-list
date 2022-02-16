@@ -1,6 +1,7 @@
 symbol: WFX
 name: WhaleFlex
 decimals: 0
+img: https://raw.githubusercontent.com/WhaleFlex/octopus/main/whaleflex_logo.png
 tags:
   - community-token
   - social-token

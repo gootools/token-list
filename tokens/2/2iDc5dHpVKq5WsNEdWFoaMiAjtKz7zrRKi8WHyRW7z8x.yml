@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/noyzofficial
   website: https://www.propagandaclothing.it
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Noyz-Coin/main/logo.png
 tags:
   - community-token
   - noyz-token

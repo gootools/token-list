@@ -5,6 +5,7 @@ extensions:
   telegram: https://t.me/metashells
   twitter: https://twitter.com/metashells
   website: https://metashells.io
+img: https://cdn.jsdelivr.net/gh/metashells/main/metashellslogo.png
 tags:
   - metaverse
   - social-token

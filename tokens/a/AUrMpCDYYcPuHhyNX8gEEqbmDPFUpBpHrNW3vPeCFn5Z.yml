@@ -3,3 +3,4 @@ name: AVAX (Allbridge from Avalanche)
 decimals: 9
 extensions:
   coingeckoId: avalanche
+img: https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png

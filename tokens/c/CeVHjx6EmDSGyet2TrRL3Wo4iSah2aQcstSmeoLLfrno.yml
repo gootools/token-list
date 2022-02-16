@@ -3,6 +3,7 @@ name: Simoleon
 decimals: 9
 extensions:
   website: https://livingfreely.on.fleek.co
+img: https://raw.githubusercontent.com/alex-dp/simoleon/main/simoleon.svg
 tags:
   - community-token
   - utility-token

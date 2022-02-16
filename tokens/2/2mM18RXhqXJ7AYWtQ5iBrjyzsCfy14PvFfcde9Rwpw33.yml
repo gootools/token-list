@@ -3,6 +3,7 @@ name: Sol Lizard
 decimals: 0
 extensions:
   twitter: https://twitter.com/SolanaLizard
+img: https://raw.githubusercontent.com/WAHYU1236/logoorang/main/logo.png
 tags:
   - community-token
   - meme-token

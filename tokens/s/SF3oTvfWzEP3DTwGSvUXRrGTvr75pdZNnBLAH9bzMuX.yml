@@ -6,6 +6,7 @@ extensions:
   coingeckoId: swipe
   serumV3Usdc: 4LUro5jaPaTurXK737QAxgJywdhABnFAMQkXX4ZyqqaZ
   serumV3Usdt: 8afKwzHR3wJE7W7Y5hvQkngXh6iTepSZuutRMMy96MjR
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX/logo.png
 tags:
   - ethereum
   - wrapped-sollet

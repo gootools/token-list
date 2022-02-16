@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/mickeycoin_official
   twitter: https://twitter.com/mickeycoin_sol
   website: https://mickeycoins.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiDHbwzXqKC2gchuiwbkP36ktHSJV8QHAoJ5FTa8s6QS/logo.png
 tags:
   - amm
   - dex

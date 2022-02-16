@@ -5,6 +5,7 @@ extensions:
   telegram: https://t.me/SolanaGAP
   twitter: https://twitter.com/SolanaGAP
   website: https://solanagap.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9sQtcMxC7zwoVm9vsbZD6XkbZMik5882sA22oc6kb6bU/logo.png
 tags:
   - community-token
   - stake-pool-token

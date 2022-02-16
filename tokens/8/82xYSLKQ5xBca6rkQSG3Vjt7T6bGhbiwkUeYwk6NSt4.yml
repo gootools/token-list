@@ -5,6 +5,7 @@ extensions:
   description: Sorted is Australia’s first all-in-one home services marketplace –
     allowing you to connect everything you need for your home, all in one place.
   website: https://www.sortedservices.com/
+img: https://raw.githubusercontent.com/minopop/sorted/master/sortedicon.png
 tags:
   - community
   - Crypto

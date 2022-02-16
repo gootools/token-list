@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/NFTDevilz
   website: https://nftdevilz.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AHdENcRMAo63LYQiMQN53e3KzXXChw5YPHsqrtRDTZza/logo.png
 tags:
   - social-token
   - utility-token

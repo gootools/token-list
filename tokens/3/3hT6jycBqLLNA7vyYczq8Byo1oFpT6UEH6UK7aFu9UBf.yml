@@ -3,5 +3,6 @@ name: LCD-SOL
 decimals: 9
 extensions:
   website: https://www.crazydice.app
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hT6jycBqLLNA7vyYczq8Byo1oFpT6UEH6UK7aFu9UBf/logo.svg
 tags:
   - utility-token

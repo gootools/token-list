@@ -3,5 +3,6 @@ name: War Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/WarCoin_
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/74zkWmfyLSvu4mWEYRNEmcjrZkgPG3yhJDY1TX684VeK/logo.png
 tags:
   - utility-token

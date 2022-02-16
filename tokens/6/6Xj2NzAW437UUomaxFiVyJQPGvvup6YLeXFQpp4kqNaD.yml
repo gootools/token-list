@@ -3,5 +3,6 @@ name: iShares MSCI EAFE ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?EFA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Xj2NzAW437UUomaxFiVyJQPGvvup6YLeXFQpp4kqNaD/logo.svg
 tags:
   - tokenized-stock

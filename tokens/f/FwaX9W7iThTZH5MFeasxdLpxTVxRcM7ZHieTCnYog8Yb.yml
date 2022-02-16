@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (OXY-RAY)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FwaX9W7iThTZH5MFeasxdLpxTVxRcM7ZHieTCnYog8Yb/logo.png
 tags:
   - lp-token

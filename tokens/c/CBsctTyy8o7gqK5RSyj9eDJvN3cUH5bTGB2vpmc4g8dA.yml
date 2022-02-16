@@ -3,6 +3,7 @@ name: Kobra Coin
 decimals: 0
 extensions:
   github: https://github.com/ATLTuck
+img: https://raw.githubusercontent.com/ATLTuck/KobraCoin/main/logo.png
 tags:
   - company-token
   - community-token

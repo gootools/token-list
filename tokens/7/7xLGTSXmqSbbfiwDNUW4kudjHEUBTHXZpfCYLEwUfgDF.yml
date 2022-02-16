@@ -1,6 +1,7 @@
 symbol: FEES
 name: FEES Coin
 decimals: 0
+img: https://raw.githubusercontent.com/HawkOne/Crypto/main/logo.png
 tags:
   - fan-token
   - social-token

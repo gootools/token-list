@@ -3,5 +3,6 @@ name: New Zoolana Whitelist Token
 decimals: 0
 extensions:
   website: https://www.zoolana.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoAwpsL4SjGMd7BAMq2QKbHvEjgPcbmAwAjg1wpT7UDv/logo.png
 tags:
   - Zoolana

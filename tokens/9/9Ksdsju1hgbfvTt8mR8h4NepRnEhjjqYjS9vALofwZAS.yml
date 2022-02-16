@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/robotoio
   website: http://www.roboto.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Ksdsju1hgbfvTt8mR8h4NepRnEhjjqYjS9vALofwZAS/logo.png
 tags:
   - community-token
   - utility-token

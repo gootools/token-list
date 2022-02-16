@@ -1,6 +1,7 @@
 symbol: USTK
 name: Ultra Scarce Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/88govxpekHhHv4hF2bgi8UDveP9LnxofhdREmrxLffy8/logo.png
 tags:
   - utility-token
   - wrapped

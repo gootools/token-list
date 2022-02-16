@@ -3,5 +3,6 @@ name: Wrapped BRZ
 decimals: 6
 extensions:
   website: https://www.brztoken.io/
+img: https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B/logo.png
 tags:
   - exchange-token

@@ -1,5 +1,6 @@
 symbol: XMB
 name: XMBCoin
 decimals: 0
+img: https://raw.githubusercontent.com/XMBCreator/crypto/main/xmbcoin.png
 tags:
   - social-token

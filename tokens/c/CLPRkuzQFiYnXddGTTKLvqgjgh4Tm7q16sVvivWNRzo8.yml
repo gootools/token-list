@@ -3,6 +3,7 @@ name: Saber wUST-CASH LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/ust_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio

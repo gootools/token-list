@@ -3,5 +3,6 @@ name: Saber CASH-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png
 tags:
   - saber-stableswap-lp

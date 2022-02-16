@@ -3,5 +3,6 @@ name: Agrinix Carbon Credit Token
 decimals: 9
 extensions:
   website: https://acct.agrinix.com.br
+img: https://cdn.jsdelivr.net/gh/brunofaczz/acct-image/logo.jpeg
 tags:
   - utility-token

@@ -8,6 +8,7 @@ extensions:
   coingeckoId: trust-wallet-token
   twitter: https://twitter.com/trustwallet
   website: https://trustwallet.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD/logo.png
 tags:
   - wrapped
   - wormhole

@@ -5,5 +5,6 @@ extensions:
   coingeckoId: solid-protocol
   twitter: https://twitter.com/ProtocolSolid
   website: https://solidprotocol.tech/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A5UevXJdphkzXhRtTXj8JyoYYrWnkCLHVS986JHtRLyj/logo.png
 tags:
   - utility-token

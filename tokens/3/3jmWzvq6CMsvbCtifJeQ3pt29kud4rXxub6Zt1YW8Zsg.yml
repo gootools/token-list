@@ -3,5 +3,6 @@ name: BNFT
 decimals: 6
 extensions:
   website: https://www.reddit.com/r/btcnftcoin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3jmWzvq6CMsvbCtifJeQ3pt29kud4rXxub6Zt1YW8Zsg/logo.png
 tags:
   - solmergeaicom

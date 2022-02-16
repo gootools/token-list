@@ -5,6 +5,7 @@ extensions:
   discord: https://discord.gg/catpunk
   twitter: https://twitter.com/ZodiLabOfficial
   website: https://catpunk.net
+img: https://raw.githubusercontent.com/minh-git/docusaurus-2/main/catpunk.png
 tags:
   - dao
   - governance

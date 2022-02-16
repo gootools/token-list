@@ -3,6 +3,7 @@ name: Solend RAY
 decimals: 6
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2d95ZC8L5XP6xCnaKx8D5U5eX6rKbboBBAwuBLxaFmmJ/logo.png
 tags:
   - collateral-tokens
   - lending

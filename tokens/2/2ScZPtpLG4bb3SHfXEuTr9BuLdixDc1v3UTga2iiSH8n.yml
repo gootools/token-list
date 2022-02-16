@@ -3,6 +3,7 @@ name: CHONKERS
 decimals: 5
 extensions:
   twitter: https://twitter.com/ChonkersSolana
+img: https://raw.githubusercontent.com/megachonk/chonk/main/Chonkers.png
 tags:
   - community-token
   - meme-token

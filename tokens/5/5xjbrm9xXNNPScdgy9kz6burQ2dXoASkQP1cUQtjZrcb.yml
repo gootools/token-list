@@ -1,6 +1,7 @@
 symbol: TOKE
 name: TOKE TOKE'N
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xjbrm9xXNNPScdgy9kz6burQ2dXoASkQP1cUQtjZrcb/logo.png
 tags:
   - toke-token
   - utility-token

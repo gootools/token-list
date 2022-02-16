@@ -3,6 +3,7 @@ name: JPY Coin(Sollet)(Deprecated)
 decimals: 6
 extensions:
   website: https://jpyc.jp/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png
 tags:
   - ethereum
   - stablecoin

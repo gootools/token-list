@@ -1,5 +1,6 @@
 symbol: BROC
 name: BROCoin
 decimals: 0
+img: https://raw.githubusercontent.com/echo5even/crypto/main/bro.png
 tags:
   - social-token

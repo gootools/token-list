@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolJordanLabs
   website: http://heirjordan.live/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/94LtmZUdKfJWJd9Q2eXhWVpdA92WTteoPJ6arw5HWFjf/logo.png
 tags:
   - utility-token

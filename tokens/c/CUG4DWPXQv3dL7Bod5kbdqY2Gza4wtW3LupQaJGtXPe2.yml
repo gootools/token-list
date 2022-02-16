@@ -1,6 +1,7 @@
 symbol: MEDI
 name: Medical
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Medical.png
 tags:
   - community
   - Medical

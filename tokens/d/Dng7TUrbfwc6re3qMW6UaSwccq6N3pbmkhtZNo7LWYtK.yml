@@ -1,6 +1,7 @@
 symbol: KINGS
 name: Kings Coin
 decimals: 9
+img: https://github.com/robwesselskw1c/kingscoinlogo/blob/main/kings_coin_bald.png
 tags:
   - community-token
   - meme-token

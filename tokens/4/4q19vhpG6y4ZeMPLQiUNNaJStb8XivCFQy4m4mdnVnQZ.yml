@@ -3,5 +3,6 @@ name: Mercurial LP Token (stSOL-2Pool)
 decimals: 12
 extensions:
   website: https://www.mercurial.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4q19vhpG6y4ZeMPLQiUNNaJStb8XivCFQy4m4mdnVnQZ/logo.png
 tags:
   - lp-token

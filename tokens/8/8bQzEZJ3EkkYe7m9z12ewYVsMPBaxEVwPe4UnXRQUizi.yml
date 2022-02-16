@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/fwbtoken
   website: https://www.fwb.mobi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bQzEZJ3EkkYe7m9z12ewYVsMPBaxEVwPe4UnXRQUizi/logo.png
 tags:
   - Dating
   - FWB

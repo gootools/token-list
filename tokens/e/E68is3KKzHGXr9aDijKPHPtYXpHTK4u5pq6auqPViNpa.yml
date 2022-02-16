@@ -3,6 +3,7 @@ name: Timofey from macbook (E68i)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/F9xvUGCZa5oSxXDvzyDHp2r3ZqrBQMg8GYF5uDxBMbbB?src=token-list
+img: https://devbeta.human.ag/api/profile/F9xvUGCZa5oSxXDvzyDHp2r3ZqrBQMg8GYF5uDxBMbbB/picture?src=token-list
 tags:
   - human
   - social-token

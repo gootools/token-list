@@ -3,5 +3,6 @@ name: Cactus Seed Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/CactusWorldNFT
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DexkjiHEdyA5wLJeKVNztnms1BFKKiEKFJQo2YmcUoEd/logo.png
 tags:
   - CactusWorldNFT

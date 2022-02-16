@@ -1,6 +1,7 @@
 symbol: VOID
 name: TheVoidCoin
 decimals: 9
+img: https://cdn.jsdelivr.net/gh/dev-red07/solanavoid/void.png
 tags:
   - social-token
   - web3

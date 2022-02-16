@@ -1,6 +1,7 @@
 symbol: POCH
 name: Poochu Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9yYvSXrtMV749XAbcFeMFpeY4AFwkFq9WpNDmmfV81Q/logo.png
 tags:
   - community-token
   - meme-token

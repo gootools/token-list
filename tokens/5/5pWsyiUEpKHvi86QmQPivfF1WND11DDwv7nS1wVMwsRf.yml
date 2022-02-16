@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/Solameleon
   website: https://www.solameleon.com
+img: https://raw.githubusercontent.com/solanadevv/token-list/03d369be7f3f9fc2f1c6cd37b71ada2d9b1708d2/assets/mainnet/5pWsyiUEpKHvi86QmQPivfF1WND11DDwv7nS1wVMwsRf/logo.png
 tags:
   - nft
   - utility-token

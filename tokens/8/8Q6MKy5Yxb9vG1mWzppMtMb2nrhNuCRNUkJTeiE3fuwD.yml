@@ -3,5 +3,6 @@ name: Raydium Legacy LP Token V3 (RAY-ETH)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Q6MKy5Yxb9vG1mWzppMtMb2nrhNuCRNUkJTeiE3fuwD/logo.png
 tags:
   - lp-token

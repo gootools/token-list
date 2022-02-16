@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/charactbit
   website: https://www.charactbit.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6D4aGWykMymkFaeVzDS6MiH6QEujsHUze2pPGbJEyh7y/logo.png
 tags:
   - MetaVerse
   - nft-token

@@ -3,6 +3,7 @@ name: Spirit
 decimals: 0
 extensions:
   twitter: https://twitter.com/Cyber_Gothica
+img: https://raw.githubusercontent.com/Yuriy-Ihor/CyberGothicaAssets/main/Token/logo.png
 tags:
   - game-token
   - game-currency

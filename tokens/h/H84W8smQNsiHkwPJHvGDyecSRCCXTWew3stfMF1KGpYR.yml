@@ -5,5 +5,6 @@ extensions:
   address: "0x897f505d9637622219e4687eC1A71b4Acf204816"
   assetContract: https://etherscan.io/address/0x897f505d9637622219e4687eC1A71b4Acf204816
   website: https://lode.one
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H84W8smQNsiHkwPJHvGDyecSRCCXTWew3stfMF1KGpYR/logo.png
 tags:
   - dividend

@@ -3,6 +3,7 @@ name: Pook
 decimals: 9
 extensions:
   discord: https://discord.gg/uxKXY5GEN3
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEya3zocofJYvAN8oSsoNgxkXQN9HwL1ShU4tdHjRsqL/logo.png
 tags:
   - community-token
   - meme-token

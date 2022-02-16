@@ -8,6 +8,7 @@ extensions:
   coingeckoId: chainlink
   serumV3Usdc: FJMjxMCiDKn16TLhXUdEbVDH5wC6k9EHYJTcrH6NcbDE
   serumV3Usdt: Gr2KmhK7Upr4uW56B1QQrJuhhgmot6zAHJeZALTMStiX
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png
 tags:
   - wrapped
   - wormhole

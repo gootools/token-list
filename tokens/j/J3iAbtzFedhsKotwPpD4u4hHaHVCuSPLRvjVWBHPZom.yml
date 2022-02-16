@@ -1,6 +1,7 @@
 symbol: ANOM
 name: Anomio
 decimals: 0
+img: https://raw.githubusercontent.com/anom-io/anomio/main/anomio.png
 tags:
   - social-token
   - utility-token

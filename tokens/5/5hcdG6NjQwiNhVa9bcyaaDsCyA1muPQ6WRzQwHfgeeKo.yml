@@ -8,6 +8,7 @@ extensions:
   coingeckoId: swag-finance
   serumV3Usdc: wSkeLMv3ktJyLm51bvQWxY2saGKqGxbnUFimPxbgEvQ
   serumV3Usdt: 6URQ4zFWvPm1fhJCKKWorrh8X3mmTFiDDyXEUmSf8Rb2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo/logo.png
 tags:
   - ethereum
   - wrapped

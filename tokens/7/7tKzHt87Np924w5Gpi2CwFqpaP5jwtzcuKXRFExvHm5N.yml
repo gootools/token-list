@@ -1,6 +1,7 @@
 symbol: CASH
 name: Loans
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Loan.png
 tags:
   - community
   - cash

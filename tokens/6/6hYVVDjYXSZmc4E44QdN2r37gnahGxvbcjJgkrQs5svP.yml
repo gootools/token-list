@@ -3,5 +3,6 @@ name: Cherry Token
 decimals: 9
 extensions:
   website: https://cherry.charity/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6hYVVDjYXSZmc4E44QdN2r37gnahGxvbcjJgkrQs5svP/logo.png
 tags:
   - charity-token

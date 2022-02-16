@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/HydraSwap_io
   website: https://www.hydraswap.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk/logo.png
 tags:
   - lp-token

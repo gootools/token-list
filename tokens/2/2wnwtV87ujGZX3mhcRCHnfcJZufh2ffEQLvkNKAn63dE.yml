@@ -3,6 +3,7 @@ name: URA
 decimals: 9
 extensions:
   website: https://uranusx.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wnwtV87ujGZX3mhcRCHnfcJZufh2ffEQLvkNKAn63dE/logo.png
 tags:
   - dao
   - gaming

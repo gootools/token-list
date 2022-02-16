@@ -8,6 +8,7 @@ extensions:
   coingeckoId: akropolis
   serumV3Usdc: G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk
   serumV3Usdt: DvbiPxKzuXZPcmUcYDqBz1tvUrXYPsNrRAjSeuwHtmEA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG/logo.png
 tags:
   - ethereum
   - wrapped

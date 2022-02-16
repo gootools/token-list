@@ -9,5 +9,6 @@ extensions:
   medium: https://medium.com/@CryptoLionsCan
   twitter: https://twitter.com/CryptoLionsCan
   website: https://cryptolions.ca
+img: https://raw.githubusercontent.com/jrwesty23/CryptoLions/main/CryptoLionToken.jpg
 tags:
   - social-token

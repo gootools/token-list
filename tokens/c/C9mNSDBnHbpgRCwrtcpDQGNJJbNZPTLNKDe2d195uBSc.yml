@@ -3,5 +3,6 @@ name: MetaHedge
 decimals: 9
 extensions:
   website: https://metahedge.site/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9mNSDBnHbpgRCwrtcpDQGNJJbNZPTLNKDe2d195uBSc/logo.png
 tags:
   - metahedge

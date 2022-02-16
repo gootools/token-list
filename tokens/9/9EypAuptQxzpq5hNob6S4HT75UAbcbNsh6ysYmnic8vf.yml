@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/medcointech
   website: https://medcoin.tech/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9EypAuptQxzpq5hNob6S4HT75UAbcbNsh6ysYmnic8vf/logo.png
 tags:
   - Community-token

@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (ALEPH-USDC)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iUDasAP2nXm5wvTukAHEKSdSXn8vQkRtaiShs9ceGB7/logo.png
 tags:
   - lp-token

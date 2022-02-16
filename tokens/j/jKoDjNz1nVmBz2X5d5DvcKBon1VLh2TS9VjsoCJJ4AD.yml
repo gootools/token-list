@@ -3,6 +3,7 @@ name: NiB Token
 decimals: 9
 extensions:
   discord: https://discord.com/invite/EtRQ4gs73c
+img: https://cdn.jsdelivr.net/gh/devbaze/looptoken/logo.png
 tags:
   - loop
   - social-token

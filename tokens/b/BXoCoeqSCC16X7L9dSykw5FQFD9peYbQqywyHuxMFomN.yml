@@ -1,5 +1,6 @@
 symbol: CCOIN
 name: Course Coin
 decimals: 0
+img: https://raw.githubusercontent.com/aGurysh/courseCoin/main/logo.png
 tags:
   - social-token

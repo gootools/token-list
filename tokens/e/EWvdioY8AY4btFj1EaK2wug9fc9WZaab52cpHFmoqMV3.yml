@@ -3,5 +3,6 @@ name: Starlight
 decimals: 9
 extensions:
   website: https://starlight.ooo
+img: https://ipfs.io/ipfs/Qme78a6ciPwSia6znyZzNaoe1NC3e8Cmo7xbSTgVU1Nren
 tags:
   - utility-token

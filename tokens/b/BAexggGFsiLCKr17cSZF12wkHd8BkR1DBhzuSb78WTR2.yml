@@ -3,3 +3,4 @@ name: Wrapped FEI (Allbridge from Ethereum)
 decimals: 9
 extensions:
   coingeckoId: fei-usd
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2/logo.png

@@ -3,6 +3,7 @@ name: Instagram NFT SPINZHOODRICH 1
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/5oZ4GKDJyCGbrjji1u1Q4UUEgfzC7szVv4S47KTKDVCX
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oZ4GKDJyCGbrjji1u1Q4UUEgfzC7szVv4S47KTKDVCX/logo.png
 tags:
   - instagram
   - nft

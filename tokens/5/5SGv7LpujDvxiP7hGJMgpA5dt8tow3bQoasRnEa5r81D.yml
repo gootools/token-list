@@ -3,6 +3,7 @@ name: HackA Token
 decimals: 2
 extensions:
   website: https://website.hackatalk.dev
+img: https://user-images.githubusercontent.com/27461460/148633297-9b4ee8e7-b1da-46a9-a156-7f13e5b808be.png
 tags:
   - community-token
   - hacka-token

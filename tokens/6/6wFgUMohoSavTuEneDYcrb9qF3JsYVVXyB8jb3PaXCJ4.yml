@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/ShibamoonNFT
   website: https://www.shibamoon.info/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6wFgUMohoSavTuEneDYcrb9qF3JsYVVXyB8jb3PaXCJ4/logo.png
 tags:
   - community-token
   - doge

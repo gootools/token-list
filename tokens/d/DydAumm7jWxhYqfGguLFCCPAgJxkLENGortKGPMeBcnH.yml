@@ -1,6 +1,7 @@
 symbol: SKRYL
 name: SkrylniCoin
 decimals: 5
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DydAumm7jWxhYqfGguLFCCPAgJxkLENGortKGPMeBcnH/logo.png
 tags:
   - community-token
   - meme-token

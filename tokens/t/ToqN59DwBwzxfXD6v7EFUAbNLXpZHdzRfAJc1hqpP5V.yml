@@ -1,5 +1,6 @@
 symbol: CNFT
 name: Cool TokenNFT
 decimals: 0
+img: https://raw.githubusercontent.com/Yash094/Testing-App/main/logo512.png
 tags:
   - cools

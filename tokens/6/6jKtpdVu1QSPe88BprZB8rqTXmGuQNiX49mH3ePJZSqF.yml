@@ -5,5 +5,6 @@ extensions:
   github: https://github.com/lend2-us
   twitter: https://twitter.com/Lend2Us
   website: https://lend2.us/
+img: https://raw.githubusercontent.com/lend2-us/resources/main/images/logo.svg
 tags:
   - utility-token

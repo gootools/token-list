@@ -3,5 +3,6 @@ name: Solana Breakpoint
 decimals: 9
 extensions:
   discord: https://discord.gg/8jSUfzjjDG
+img: https://raw.githubusercontent.com/tribeland/token-list/main/assets/mainnet/7mNihWEjzWv9yCZc8capE4mS8v5Xvp5YH2yQhtZrQV5B/logo.png
 tags:
   - meme-token

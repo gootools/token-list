@@ -6,5 +6,6 @@ extensions:
   coinmarketcap: https://coinmarketcap.com/currencies/frakt-token/
   twitter: https://twitter.com/FraktArt
   website: https://frakt.art
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj/logo.png
 tags:
   - utility-token

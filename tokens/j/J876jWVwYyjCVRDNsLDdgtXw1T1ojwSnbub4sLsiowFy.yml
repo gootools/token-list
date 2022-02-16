@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/HoundsOfZeusNFT
   website: https://www.houndsofzeus.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J876jWVwYyjCVRDNsLDdgtXw1T1ojwSnbub4sLsiowFy/logo.png
 tags:
   - community-token
   - social-token

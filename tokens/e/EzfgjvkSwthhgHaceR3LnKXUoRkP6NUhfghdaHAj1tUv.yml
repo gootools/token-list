@@ -8,6 +8,7 @@ extensions:
   coingeckoId: ftx-token
   serumV3Usdc: 2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r
   serumV3Usdt: BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png
 tags:
   - wrapped
   - wormhole

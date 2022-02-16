@@ -3,5 +3,6 @@ name: Absolut Burning Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/Benji_in_Crypto
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Y8Je5kBiTj2kN4T8gFMwSfcQLDfUVdYaUWeR2LvkRsA/logo.jpg
 tags:
   - memes-token

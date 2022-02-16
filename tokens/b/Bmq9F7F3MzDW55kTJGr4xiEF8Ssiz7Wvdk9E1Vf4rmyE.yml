@@ -1,6 +1,7 @@
 symbol: SCOUSE
 name: Scouse Token
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bmq9F7F3MzDW55kTJGr4xiEF8Ssiz7Wvdk9E1Vf4rmyE/logo.svg
 tags:
   - meme-token
   - social-token

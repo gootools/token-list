@@ -1,6 +1,7 @@
 symbol: DRAP
 name: Drap Coin
 decimals: 0
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Drap-Coin/main/logo.png
 tags:
   - community-token
   - drap-token

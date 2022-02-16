@@ -3,3 +3,4 @@ name: FTM (Allbridge from Fantom)
 decimals: 9
 extensions:
   coingeckoId: fantom
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EsPKhGTMf3bGoy4Qm7pCv3UCcWqAmbC1UGHBTDxRjjD4/logo.png

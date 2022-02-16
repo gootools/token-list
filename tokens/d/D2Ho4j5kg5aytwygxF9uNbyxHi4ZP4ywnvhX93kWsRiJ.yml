@@ -1,5 +1,6 @@
 symbol: SIMP
 name: Simple Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Waking-Reality/Simple_Coin/main/Simple_Coin.jpg
 tags:
   - social-token

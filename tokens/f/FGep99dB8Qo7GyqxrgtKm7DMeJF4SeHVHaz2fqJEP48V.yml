@@ -1,6 +1,7 @@
 symbol: FANDB
 name: FoodAndBeverage
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGep99dB8Qo7GyqxrgtKm7DMeJF4SeHVHaz2fqJEP48V/logo.png
 tags:
   - MetaVerse
   - social-token

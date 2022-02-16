@@ -3,5 +3,6 @@ name: Kevin Token
 decimals: 3
 extensions:
   twitter: https://twitter.com/kevarifin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9SLCSSkEYL9YbKtAvw39xNzMEV4a7oLisGXhSJt73UCu/logo.png
 tags:
   - utility-token

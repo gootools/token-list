@@ -6,6 +6,7 @@ extensions:
   coingeckoId: yearn-finance
   serumV3Usdc: 7qcCo8jqepnjjvB5swP4Afsr3keVBs6gNpBTNubd1Kr2
   serumV3Usdt: 3Xg9Q4VtZhD4bVYJbTfgGWFV5zjE3U7ztSHa938zizte
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png
 tags:
   - ethereum
   - wrapped-sollet

@@ -3,5 +3,6 @@ name: Nick Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/nickchua5
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BZopZtZHqUY7ApiYTLjztQSgBoAsqQsJU3kFqHW27qEK/logo.png
 tags:
   - utility-token

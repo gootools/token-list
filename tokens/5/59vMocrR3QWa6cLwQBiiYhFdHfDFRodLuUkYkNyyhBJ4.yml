@@ -3,6 +3,7 @@ name: INR Coin
 decimals: 0
 extensions:
   description: Indian Rupee Coin, Stable Coin
+img: https://raw.githubusercontent.com/gsingh72/coin/main/inr-coin-inrc-logo.png
 tags:
   - general-token
   - social-token

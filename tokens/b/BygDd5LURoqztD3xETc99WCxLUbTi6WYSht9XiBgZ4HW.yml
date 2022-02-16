@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   coingeckoId: whalemap
   website: https://whalemap.io/
+img: https://raw.githubusercontent.com/ssi91/crypto/main/logo.svg
 tags:
   - social-token

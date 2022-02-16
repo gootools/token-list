@@ -3,6 +3,7 @@ name: OSINT-Research coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/osint_research
+img: https://raw.githubusercontent.com/OSINTResearch/OSINTResearch-coin/main/logo.png
 tags:
   - community-token
   - social-token

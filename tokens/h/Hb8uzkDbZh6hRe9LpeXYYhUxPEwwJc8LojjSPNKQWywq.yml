@@ -3,6 +3,7 @@ name: Nirad
 decimals: 0
 extensions:
   website: https://datchat.com/app1/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hb8uzkDbZh6hRe9LpeXYYhUxPEwwJc8LojjSPNKQWywq/logo.png
 tags:
   - currency
   - community-token

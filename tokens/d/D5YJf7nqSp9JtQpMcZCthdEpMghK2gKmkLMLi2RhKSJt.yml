@@ -3,5 +3,6 @@ name: Kaidos Token
 decimals: 9
 extensions:
   website: https://kaidostempest.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5YJf7nqSp9JtQpMcZCthdEpMghK2gKmkLMLi2RhKSJt/Kaido.jpg
 tags:
   - utility-token

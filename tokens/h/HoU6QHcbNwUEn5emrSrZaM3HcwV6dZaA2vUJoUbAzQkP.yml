@@ -3,6 +3,7 @@ name: Instagram NFT HOU
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/HoU6QHcbNwUEn5emrSrZaM3HcwV6dZaA2vUJoUbAzQkP
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HoU6QHcbNwUEn5emrSrZaM3HcwV6dZaA2vUJoUbAzQkP/logo.jpg
 tags:
   - instagram
   - nft

@@ -11,6 +11,7 @@ extensions:
   telegram: https://t.me/solrockersnft
   twitter: https://twitter.com/solrockersnft
   website: https://solrockers.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRwhxeZEKPR66i6RyTqMLQHhAxBpfNdFkXcEd1q4dUz/logo.png
 tags:
   - game-token
   - game-currency

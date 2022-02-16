@@ -3,5 +3,6 @@ name: Intel Corp
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?INTC
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CuCUCYovcLxwaKuxWm8uTquVKGWaAydcFEU3NrtvxGZ/logo.svg
 tags:
   - tokenized-stock

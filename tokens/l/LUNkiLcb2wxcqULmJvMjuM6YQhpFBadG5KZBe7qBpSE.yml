@@ -3,6 +3,7 @@ name: Saber wLUNA_V1-renLUNA LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/luna
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1

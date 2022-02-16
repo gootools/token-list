@@ -1,5 +1,6 @@
 symbol: MSTO
 name: MySoTo
 decimals: 9
+img: https://raw.githubusercontent.com/mysoto/soltoken/main/mysoto_logo.png
 tags:
   - social-token

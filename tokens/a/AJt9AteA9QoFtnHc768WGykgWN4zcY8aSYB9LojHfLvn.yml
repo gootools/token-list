@@ -1,6 +1,7 @@
 symbol: GAME
 name: Game Coin
 decimals: 8
+img: https://gameficoin.com/game/gamelogo.png
 tags:
   - gamefi
   - meme

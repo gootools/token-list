@@ -3,5 +3,6 @@ name: POLLO
 decimals: 9
 extensions:
   website: https://twitter.com/pollo_thumbs_up
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BhNHLeVEJocDsQUMsjGSkzVeuGgrTFsucCXbNC2u22pM/logo.png
 tags:
   - social-token

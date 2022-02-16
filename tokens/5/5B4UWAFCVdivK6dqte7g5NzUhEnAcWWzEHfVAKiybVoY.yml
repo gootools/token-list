@@ -1,5 +1,6 @@
 symbol: MINE
 name: FullMoonMiningCompany
 decimals: 5
+img: https://raw.githubusercontent.com/FullMoonMiningCo/crypto/main/mine-logo.png
 tags:
   - social-token

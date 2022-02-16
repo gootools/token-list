@@ -3,5 +3,6 @@ name: Crabs
 decimals: 0
 extensions:
   website: https://www.crabs.cash/
+img: https://raw.githubusercontent.com/vsilent/crabs/main/crabs.png
 tags:
   - social-token

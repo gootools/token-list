@@ -1,5 +1,6 @@
 symbol: DGC
 name: DigiCoin
 decimals: 0
+img: https://raw.githubusercontent.com/digijustin/crypto/main/logo.png
 tags:
   - social-token

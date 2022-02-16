@@ -11,6 +11,7 @@ extensions:
   telegram: https://t.me/algorand
   twitter: https://twitter.com/algorand
   website: https://www.algorand.com/
+img: https://raw.githubusercontent.com/unimintco/token-logos/main/ALGO/logo.png
 tags:
   - utility-token
   - wrapped

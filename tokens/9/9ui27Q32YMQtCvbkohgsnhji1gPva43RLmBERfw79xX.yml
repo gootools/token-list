@@ -3,6 +3,7 @@ name: Solarna Token
 decimals: 6
 extensions:
   website: https://solarna.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ui27Q32YMQtCvbkohgsnhji1gPva43RLmBERfw79xX/logo.png
 tags:
   - cross-swap
   - dex

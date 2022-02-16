@@ -3,5 +3,6 @@ name: ARK Innovation ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ARKK
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GPoBx2hycDs3t4Q8DeBme9RHb9nQpzH3a36iUoojHe16/logo.png
 tags:
   - tokenized-stock

@@ -1,5 +1,6 @@
 symbol: UKGP
 name: ukg-private-token
 decimals: 0
+img: https://raw.githubusercontent.com/Tief-Flieger/Crypto/main/ukg-Logo.png
 tags:
   - social-token

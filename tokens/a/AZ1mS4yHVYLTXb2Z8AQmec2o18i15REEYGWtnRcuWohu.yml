@@ -6,6 +6,7 @@ extensions:
   reddit: https://www.reddit.com/r/AikoNFT/
   twitter: https://twitter.com/aikonft
   website: https://aiko.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2/logo.png
 tags:
   - utility-token
 clusters:

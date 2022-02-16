@@ -3,5 +3,6 @@ name: Uber
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?UBER
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4kmVbBDCzYam3S4e9XqKQkLCEz16gu3dTTo65KbhShuv/logo.svg
 tags:
   - tokenized-stock

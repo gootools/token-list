@@ -3,6 +3,7 @@ name: IT SOL COIN
 decimals: 0
 extensions:
   website: https://www.blocksto.ne/it-sol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gic1MQRVSqpY4pT8to55CtMammzpthQwDgij7wZEvyo2/Coinlogo.png
 tags:
   - coin
   - software-developer

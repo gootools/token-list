@@ -5,6 +5,7 @@ extensions:
   description: The funniest decentralized meme token for joy, profits and charity
     | NFT & Gaming
   website: https://angrykittytoken.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2vW8WkXdDWST6JSAerZTsqRCAJKFsAkGTkYZx1gNDcGD/logo.png
 tags:
   - game-token
   - gaming

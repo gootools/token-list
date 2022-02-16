@@ -3,5 +3,6 @@ name: ORKA Climate Solutions
 decimals: 4
 extensions:
   website: https://orkacoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FXSrKsQ34jMmMtciuzhr3KSTG5UMZQfXBJKGqYYUTxg1/orka-logo.png
 tags:
   - utility-token

@@ -1,6 +1,7 @@
 symbol: PEPSI
 name: Pepsi tokens
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PEPSiFsZx6vvZvSqycBgCrqvGyhu31M1ytPc4gSsgYG/logo.png
 tags:
   - hunger
   - obesity

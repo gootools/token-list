@@ -3,5 +3,6 @@ name: Djib Decentralized Storage On Solana
 decimals: 9
 extensions:
   website: https://djib.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png
 tags:
   - utility-token

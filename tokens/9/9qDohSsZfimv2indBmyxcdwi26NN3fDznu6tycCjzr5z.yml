@@ -3,5 +3,6 @@ name: Fotsbeats
 decimals: 0
 extensions:
   website: https://www.fotsbeats.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qDohSsZfimv2indBmyxcdwi26NN3fDznu6tycCjzr5z/logo.png
 tags:
   - utility-token

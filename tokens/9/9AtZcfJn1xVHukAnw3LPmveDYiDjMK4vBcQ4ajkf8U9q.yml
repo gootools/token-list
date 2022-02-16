@@ -6,6 +6,7 @@ extensions:
   github: https://github.com/whiterabbit-hub
   twitter: https://twitter.com/cops_nft
   website: https://metacopsnft.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9AtZcfJn1xVHukAnw3LPmveDYiDjMK4vBcQ4ajkf8U9q/logo.png
 tags:
   - dao-token
   - governance-token

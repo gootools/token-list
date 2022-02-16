@@ -1,6 +1,7 @@
 symbol: SXD
 name: SXD Whitelist Token
 decimals: 0
+img: https://raw.githubusercontent.com/SaintxDmon/WL-sxd/main/logo.jpg
 tags:
   - mint-token
   - social-token

@@ -3,5 +3,6 @@ name: VanEck Vectors Gold Miners Etf
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?GDX
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FYk6a91TiFWigBvCf8KbuEMyyfpqET5QHFkRtiD2XxF/logo.svg
 tags:
   - tokenized-stock

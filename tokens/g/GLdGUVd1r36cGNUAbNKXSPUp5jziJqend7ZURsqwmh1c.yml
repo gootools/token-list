@@ -3,5 +3,6 @@ name: Jinx Mainecoon Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/drenieri
+img: https://raw.githubusercontent.com/drenieri/crypto/main/Jinx.png
 tags:
   - social-token

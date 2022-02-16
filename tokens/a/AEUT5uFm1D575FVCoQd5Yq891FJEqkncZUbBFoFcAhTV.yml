@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   coingeckoId: tether
   website: https://app.saber.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV/icon.png
 tags:
   - stablecoin
   - saber-market-usd

@@ -3,6 +3,7 @@ name: Instagram NFT WSD
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/75w8S3Du1Rd4KphUYiusWavqt1EUoeVKTphhrfgqPCeU
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75w8S3Du1Rd4KphUYiusWavqt1EUoeVKTphhrfgqPCeU/logo.jpg
 tags:
   - instagram
   - nft

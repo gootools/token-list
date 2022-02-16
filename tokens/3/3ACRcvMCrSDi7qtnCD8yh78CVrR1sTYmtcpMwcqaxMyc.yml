@@ -1,5 +1,6 @@
 symbol: VAMP
 name: Vampire Coin
 decimals: 0
+img: https://raw.githubusercontent.com/templeofnight/VampireCoin/main/VampireCoin.png
 tags:
   - social-token

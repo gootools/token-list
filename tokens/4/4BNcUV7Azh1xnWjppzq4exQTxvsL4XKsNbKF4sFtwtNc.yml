@@ -1,6 +1,7 @@
 symbol: KISSES
 name: Kiss Coin
 decimals: 5
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4BNcUV7Azh1xnWjppzq4exQTxvsL4XKsNbKF4sFtwtNc/logo.png
 tags:
   - social-token
   - utility-token

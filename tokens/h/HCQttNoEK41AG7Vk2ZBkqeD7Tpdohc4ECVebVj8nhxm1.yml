@@ -3,5 +3,6 @@ name: PHR Block
 decimals: 8
 extensions:
   website: https://www.phrblock.com
+img: https://raw.githubusercontent.com/bdeepakreddy/img-repo/d359d9f2d09689e9b57fc709337d6fda8b531455/logo.png
 tags:
   - utility-token

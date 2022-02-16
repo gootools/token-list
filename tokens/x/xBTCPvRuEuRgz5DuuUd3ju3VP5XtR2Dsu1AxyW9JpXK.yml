@@ -3,6 +3,7 @@ name: Saber xBTC-renBTC LP
 decimals: 10
 extensions:
   website: https://app.saber.so/#/pools/xbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify

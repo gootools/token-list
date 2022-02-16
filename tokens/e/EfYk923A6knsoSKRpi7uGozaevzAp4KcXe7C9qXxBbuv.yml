@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/monkegodcoin
   website: https://monkegodcoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EfYk923A6knsoSKRpi7uGozaevzAp4KcXe7C9qXxBbuv/logo.png
 tags:
   - community-token
   - meme-token

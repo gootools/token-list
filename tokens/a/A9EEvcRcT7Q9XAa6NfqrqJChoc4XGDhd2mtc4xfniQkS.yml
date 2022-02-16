@@ -3,5 +3,6 @@ name: Bilby Finance
 decimals: 9
 extensions:
   website: https://bilby.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9EEvcRcT7Q9XAa6NfqrqJChoc4XGDhd2mtc4xfniQkS/logo.png
 tags:
   - utility-token

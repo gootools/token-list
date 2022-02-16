@@ -3,6 +3,7 @@ name: NCoin
 decimals: 9
 extensions:
   website: https://ncoinchain.com
+img: http://content.ncoinchain.com/ncoinlogo.png
 tags:
   - multi-chain
   - payment-token

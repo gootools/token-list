@@ -1,5 +1,6 @@
 symbol: NPT
 name: PolarToken
 decimals: 0
+img: https://raw.githubusercontent.com/Nicolas-Gatien/PolarToken/main/logo.png
 tags:
   - social-token

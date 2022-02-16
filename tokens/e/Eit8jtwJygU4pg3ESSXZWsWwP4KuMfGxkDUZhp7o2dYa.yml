@@ -1,5 +1,6 @@
 symbol: PEZOS
 name: pezos
 decimals: 0
+img: https://raw.githubusercontent.com/lecroquemonsieur/pezos/main/pezos-logo.png
 tags:
   - meme-token

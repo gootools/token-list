@@ -15,6 +15,7 @@ extensions:
   medium: https://konstellation.medium.com/
   telegram: https://t.me/Konstellation
   website: https://konstellation.tech/
+img: https://raw.githubusercontent.com/Konstellation/DARC_token/main/256darctoken.png
 tags:
   - utility-token
   - wrapped

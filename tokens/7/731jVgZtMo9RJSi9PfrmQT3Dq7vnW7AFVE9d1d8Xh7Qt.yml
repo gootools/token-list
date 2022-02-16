@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Smeagol token
   website: https://smeagoltoken.mziesel.com/
+img: https://raw.githubusercontent.com/mansziesel/token/main/logo.png
 tags:
   - meme-token
   - social-token

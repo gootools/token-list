@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   description: Varkalai Official DAO Token
   website: https://www.varkalai.com
+img: https://raw.githubusercontent.com/DekreedStudios/varkalai/main/varkalai-founder.png
 tags:
   - utility-token

@@ -3,6 +3,7 @@ name: EXPOSURE
 decimals: 8
 extensions:
   website: http://arts.digital
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BXRYnEftT8aRnPBjPkz2nsXX6muFUUTanx78GN42qKQ/logo.png
 tags:
   - artsdigital-token
   - utility-token

@@ -1,5 +1,6 @@
 symbol: CC
 name: Cloud Coin
 decimals: 0
+img: https://raw.githubusercontent.com/cloud-corp/cloucroin-resources/main/CloudCoin.png
 tags:
   - social-token

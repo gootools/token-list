@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   description: WAMO is the utility token for SolSamos.
   twitter: https://twitter.com/solsamosnft
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nQqJkBx3Dnovc6ueEdkJfFr2zi2fc77834czmoymR1b/symbol.png
 tags:
   - community-token
   - social-token

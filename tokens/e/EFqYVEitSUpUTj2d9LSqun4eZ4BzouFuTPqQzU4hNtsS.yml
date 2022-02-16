@@ -3,6 +3,7 @@ name: MapMetrics
 decimals: 6
 extensions:
   website: https://mapmetrics.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EFqYVEitSUpUTj2d9LSqun4eZ4BzouFuTPqQzU4hNtsS/logo.png
 tags:
   - Community
   - NFT

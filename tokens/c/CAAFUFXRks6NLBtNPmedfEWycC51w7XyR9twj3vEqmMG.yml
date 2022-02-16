@@ -3,6 +3,7 @@ name: Maine Coon
 decimals: 9
 extensions:
   website: https://www.mainecooncrypto.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAAFUFXRks6NLBtNPmedfEWycC51w7XyR9twj3vEqmMG/logo.svg
 tags:
   - cat
   - meme

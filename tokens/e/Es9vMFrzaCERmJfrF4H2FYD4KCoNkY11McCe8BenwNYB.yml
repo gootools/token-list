@@ -5,5 +5,6 @@ extensions:
   coingeckoId: tether
   serumV3Usdc: 77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS
   website: https://tether.to/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg
 tags:
   - stablecoin

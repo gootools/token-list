@@ -3,6 +3,7 @@ name: Instagram NFT LIONLEGACY7 4
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/JCBDs3fmrYUVctDfv1o56wN8pr3CAhf4ERHgjyvTrC9C
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JCBDs3fmrYUVctDfv1o56wN8pr3CAhf4ERHgjyvTrC9C/logo.png
 tags:
   - instagram
   - nft

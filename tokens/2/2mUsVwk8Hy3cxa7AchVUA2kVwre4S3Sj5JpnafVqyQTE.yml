@@ -3,6 +3,7 @@ name: CLAIM Coin
 decimals: 2
 extensions:
   website: https://blocksto.ne/claim-coin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mUsVwk8Hy3cxa7AchVUA2kVwre4S3Sj5JpnafVqyQTE/Coinlogo.png
 tags:
   - claims
   - invest

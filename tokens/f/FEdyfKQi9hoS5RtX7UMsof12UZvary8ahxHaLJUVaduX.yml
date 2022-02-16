@@ -3,5 +3,6 @@ name: YIICoin
 decimals: 0
 extensions:
   website: https://dockcoin.me/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FEdyfKQi9hoS5RtX7UMsof12UZvary8ahxHaLJUVaduX/logo.png
 tags:
   - meme-token

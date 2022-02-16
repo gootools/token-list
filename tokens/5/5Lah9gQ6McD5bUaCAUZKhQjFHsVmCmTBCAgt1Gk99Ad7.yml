@@ -1,5 +1,6 @@
 symbol: PAP
 name: WhiteList Coin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Lah9gQ6McD5bUaCAUZKhQjFHsVmCmTBCAgt1Gk99Ad7/logo.png
 tags:
   - utility-token

@@ -3,6 +3,7 @@ name: FUND
 decimals: 0
 extensions:
   website: https://blocksto.ne/fund/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FjmhkS8tD9LzqU7nNNZKEjbZjQJFi8GuK3zSj7xBkTRE/blockstonePNG.png
 tags:
   - Blockstone-fund
   - DeFi

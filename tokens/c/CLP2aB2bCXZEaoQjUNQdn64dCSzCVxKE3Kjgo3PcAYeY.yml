@@ -3,6 +3,7 @@ name: Saber PAI-CASH LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/pai_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio

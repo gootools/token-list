@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/instagram
   website: https://about.instagram.com
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Instagram-Coin/main/logo.png
 tags:
   - community-token
   - instagram-token

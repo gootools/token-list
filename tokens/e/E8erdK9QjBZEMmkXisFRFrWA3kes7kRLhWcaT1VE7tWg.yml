@@ -3,6 +3,7 @@ name: Zeeland Homes
 decimals: 2
 extensions:
   website: https://blocksto.ne/zeeland-homes/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E8erdK9QjBZEMmkXisFRFrWA3kes7kRLhWcaT1VE7tWg/Coinlogo.png
 tags:
   - community-token
   - De-Fi

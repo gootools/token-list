@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (LIQ/USDC)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/57vGdcMZLnbNr4TZ4hgrpGJZGR9vTPhu8L9bNKDrqxKT/logo.svg
 tags:
   - lp-token

@@ -3,6 +3,7 @@ name: ROFLSTOMP TOKEN
 decimals: 9
 extensions:
   twitter: https://twitter.com/MW_ROFLSTOMPERS
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo/teamROFLtwitter.png
 tags:
   - roflstompers
   - team-token

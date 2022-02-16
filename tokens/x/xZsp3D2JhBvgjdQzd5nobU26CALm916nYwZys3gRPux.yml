@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/solacetoken
   website: https://www.solacetoken.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xZsp3D2JhBvgjdQzd5nobU26CALm916nYwZys3gRPux/logo.png
 tags:
   - solmergeaicom

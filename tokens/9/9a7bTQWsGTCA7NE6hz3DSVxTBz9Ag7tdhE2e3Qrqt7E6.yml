@@ -3,6 +3,7 @@ name: Alpaca Coin
 decimals: 0
 extensions:
   description: Alpaca Bi's Cryptocurrency
+img: https://raw.githubusercontent.com/AlpacaBi/AlpacaCoin/main/logo.png
 tags:
   - community-token
   - social-token

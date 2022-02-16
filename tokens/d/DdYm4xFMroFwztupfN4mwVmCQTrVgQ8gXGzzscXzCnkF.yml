@@ -1,5 +1,6 @@
 symbol: CCT
 name: CC Token
 decimals: 9
+img: https://raw.githubusercontent.com/dmontaldo/static-content/main/cct-token.png
 tags:
   - utility-token

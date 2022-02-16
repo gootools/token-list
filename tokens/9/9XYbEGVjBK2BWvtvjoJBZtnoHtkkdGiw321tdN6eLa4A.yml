@@ -1,6 +1,7 @@
 symbol: SPORE
 name: Flower View
 decimals: 3
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9XYbEGVjBK2BWvtvjoJBZtnoHtkkdGiw321tdN6eLa4A/logo.png
 tags:
   - community-token
   - utility-token

@@ -6,5 +6,6 @@ extensions:
   telegram: https://t.me/pandacoin_announcements
   twitter: https://twitter.com/pandacoin_fi
   website: https://pandacrypto.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYvRESCxiFvzz2yTckNB6wi8yuYiobQU7NHMUbVE7Wu5/logo.png
 tags:
   - nft

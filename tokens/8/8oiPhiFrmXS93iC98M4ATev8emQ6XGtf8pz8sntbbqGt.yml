@@ -3,6 +3,7 @@ name: Oasis
 decimals: 6
 extensions:
   website: https://wonderwall.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8oiPhiFrmXS93iC98M4ATev8emQ6XGtf8pz8sntbbqGt/logo.png
 tags:
   - game
   - NFTs

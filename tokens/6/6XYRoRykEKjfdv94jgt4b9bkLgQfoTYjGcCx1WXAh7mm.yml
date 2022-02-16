@@ -3,5 +3,6 @@ name: OBOL Token
 decimals: 0
 extensions:
   website: https://kharonprotocol.com
+img: https://github.com/altaga/Kharon-Protocol/blob/main/ObolLogo.png
 tags:
   - IoT-token

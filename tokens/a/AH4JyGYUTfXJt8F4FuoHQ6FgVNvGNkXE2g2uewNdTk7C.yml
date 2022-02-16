@@ -1,5 +1,6 @@
 symbol: BITCOIN
 name: BITCOIN
 decimals: 2
+img: https://raw.githubusercontent.com/BitcoinSimone/Bitcoin/main/borrowPNG.png
 tags:
   - Shopping

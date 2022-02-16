@@ -3,6 +3,7 @@ name: Elumia Crowns
 decimals: 9
 extensions:
   twitter: https://twitter.com/PlayElumia
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tJZhSdGePuMEfZQ3h5LaHjTPsw1iWTRFTojnZcwsAU6/logo.png
 tags:
   - elumia
   - elumia-crowns

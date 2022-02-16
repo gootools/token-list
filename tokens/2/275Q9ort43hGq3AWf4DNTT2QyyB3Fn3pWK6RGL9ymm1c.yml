@@ -1,5 +1,6 @@
 symbol: MYT
 name: MayoToken
 decimals: 0
+img: https://raw.githubusercontent.com/coderus909/crypto/main/logo.png
 tags:
   - social-token

@@ -3,6 +3,7 @@ name: Saber abBTCB-renBTC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/abbtcb
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

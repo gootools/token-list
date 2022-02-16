@@ -3,5 +3,6 @@ name: Black Pearl Society Token
 decimals: 2
 extensions:
   twitter: https://twitter.com/cptblackseazar
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UMpAaqxAVEkkXCnoMu2rbGiP8B3QfX4P9XqDtT9k5G7/logo.png
 tags:
   - community-token

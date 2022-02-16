@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/Flamingos_nft
   website: https://flamingoparty.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4AHDENUSystAUR3VEgcUFLYAVL4BGNhLgq8uaAaKoQKq/logo.png
 tags:
   - community-token
   - flamingo-party

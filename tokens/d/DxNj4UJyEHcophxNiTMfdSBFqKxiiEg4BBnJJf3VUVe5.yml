@@ -1,5 +1,6 @@
 symbol: MGCN
 name: MagiCoin
 decimals: 6
+img: https://raw.githubusercontent.com/leonelafonsoe/magicoin/main/logo.png
 tags:
   - social-token

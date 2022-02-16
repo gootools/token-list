@@ -5,6 +5,7 @@ extensions:
   coingeckoId: cope
   serumV3Usdc: 7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2
   website: https://www.unlimitedcope.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.png
 tags:
   - Algos
   - index

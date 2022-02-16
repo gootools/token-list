@@ -1,6 +1,7 @@
 symbol: $SMLY
 name: SmileyToken
 decimals: 0
+img: https://raw.githubusercontent.com/TSKsmiley/Smiley.sol/master/logo.png
 tags:
   - dev-token
   - social-token

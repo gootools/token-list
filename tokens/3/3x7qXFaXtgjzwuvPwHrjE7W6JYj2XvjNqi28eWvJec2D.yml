@@ -3,6 +3,7 @@ name: Leviat Token
 decimals: 9
 extensions:
   website: https://leviatlegal.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3x7qXFaXtgjzwuvPwHrjE7W6JYj2XvjNqi28eWvJec2D/logo.png
 tags:
   - community-token
   - utility-token

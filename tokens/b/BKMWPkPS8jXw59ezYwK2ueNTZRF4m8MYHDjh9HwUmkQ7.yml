@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SandDollar_BS
   website: https://sanddollar.bs
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKMWPkPS8jXw59ezYwK2ueNTZRF4m8MYHDjh9HwUmkQ7/logo.png
 tags:
   - utility-token

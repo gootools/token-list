@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/floppacoincommunity
   website: https://www.floppamemecoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FidMgPpM9CBVLqYtpBUCBLfCsth5sbVKA5haetJdZ82R/logo.png
 tags:
   - meme-token

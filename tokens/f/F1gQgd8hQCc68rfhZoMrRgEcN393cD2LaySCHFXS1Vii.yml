@@ -1,6 +1,7 @@
 symbol: RIDE
 name: chain RIDE token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F1gQgd8hQCc68rfhZoMrRgEcN393cD2LaySCHFXS1Vii/logo.png
 tags:
   - social-token
   - utility-token

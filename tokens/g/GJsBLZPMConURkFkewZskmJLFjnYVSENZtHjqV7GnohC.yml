@@ -5,6 +5,7 @@ extensions:
   telegram: https://t.me/emontoken
   twitter: https://twitter.com/emontoken
   website: https://doraemon.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJsBLZPMConURkFkewZskmJLFjnYVSENZtHjqV7GnohC/logo.png
 tags:
   - DEX
   - MEMES-TOKEN

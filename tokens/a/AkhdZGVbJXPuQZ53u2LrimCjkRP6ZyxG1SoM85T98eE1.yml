@@ -5,6 +5,7 @@ extensions:
   coingeckoId: starbots
   twitter: https://twitter.com/Starbots_game
   website: https://starbots.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1/logo.png
 tags:
   - governance-token
   - game-token

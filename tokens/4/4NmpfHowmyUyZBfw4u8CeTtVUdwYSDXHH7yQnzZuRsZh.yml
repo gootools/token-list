@@ -3,6 +3,7 @@ name: DEV TOKEN
 decimals: 9
 extensions:
   website: https://www.soldev.app/
+img: https://raw.githubusercontent.com/stakeAAA/token-list/main/assets/mainnet/4NmpfHowmyUyZBfw4u8CeTtVUdwYSDXHH7yQnzZuRsZh/logo.png
 tags:
   - DEV
   - DApp

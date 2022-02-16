@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://dumb.digital/discord
   website: https://dumb.digital
+img: https://raw.githubusercontent.com/dumbtokenorg/dumbtoken/main/logo.png
 tags:
   - community-token
   - social-token

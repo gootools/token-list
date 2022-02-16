@@ -3,6 +3,7 @@ name: I am human (rHPj)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/Fzmkp2zp3kN4BqAkExhqBgngQKX7ix3vYxp8im9dPh6t?src=token-list
+img: https://devbeta.human.ag/api/profile/Fzmkp2zp3kN4BqAkExhqBgngQKX7ix3vYxp8im9dPh6t/picture?src=token-list
 tags:
   - human
   - social-token

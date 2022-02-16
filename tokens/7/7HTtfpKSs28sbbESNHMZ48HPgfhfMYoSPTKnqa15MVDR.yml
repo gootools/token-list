@@ -1,5 +1,6 @@
 symbol: NAD
 name: NaDcoin
 decimals: 0
+img: https://raw.githubusercontent.com/grachenova/crypto/main/coin_pic.jpg
 tags:
   - token

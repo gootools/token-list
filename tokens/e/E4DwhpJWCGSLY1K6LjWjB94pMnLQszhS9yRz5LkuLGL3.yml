@@ -1,5 +1,6 @@
 symbol: DUCK
 name: Duck Patrol
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E4DwhpJWCGSLY1K6LjWjB94pMnLQszhS9yRz5LkuLGL3/logo.png
 tags:
   - social-token

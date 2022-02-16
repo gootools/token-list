@@ -1,5 +1,6 @@
 symbol: TRBE
 name: Tribe Token
 decimals: 0
+img: https://raw.githubusercontent.com/TribeLeaderNFT/TribeTokenImage/main/logo.png
 tags:
   - social-token

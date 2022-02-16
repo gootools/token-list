@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   description: Own your own shreds of the CheeseBlock today!
   discord: https://discord.gg/N6wtXcmRnf
+img: https://raw.githubusercontent.com/maxcheese3/Cheese-Block/main/CheeseBlock256.png
 tags:
   - social-token

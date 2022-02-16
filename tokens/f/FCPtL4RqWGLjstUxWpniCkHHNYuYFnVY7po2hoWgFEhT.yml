@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/PortoToken
   website: https://www.fcporto.pt
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCPtL4RqWGLjstUxWpniCkHHNYuYFnVY7po2hoWgFEhT/logo.png
 tags:
   - community-token
   - social-token

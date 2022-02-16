@@ -1,6 +1,7 @@
 symbol: BETYAR
 name: Betyár Whitelist Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DTokw7gqbgWENWptx59gnXsyz3EDiio73K9WasY5qvX4/logo.png
 clusters:
   - devnet
   - mainnet-beta

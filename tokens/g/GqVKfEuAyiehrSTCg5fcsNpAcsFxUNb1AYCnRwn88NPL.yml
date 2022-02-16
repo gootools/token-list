@@ -1,5 +1,6 @@
 symbol: TLA
 name: TLA Whitelist Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GqVKfEuAyiehrSTCg5fcsNpAcsFxUNb1AYCnRwn88NPL/logo.png
 tags:
   - utility-token

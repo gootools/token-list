@@ -3,6 +3,7 @@ name: RocketSloth
 decimals: 0
 extensions:
   twitter: https://twitter.com/RocketSlothCoin
+img: https://raw.githubusercontent.com/RocketSloth/Crypto/main/Sloth_png.png
 tags:
   - community-token
   - social-token

@@ -1,6 +1,7 @@
 symbol: LCD
 name: LCD
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMtUX7HpQBa8AwfVHiKSQRraWbCjDqx6FhCbJAryt4uq/logo.png
 tags:
   - community-token
   - meme-token

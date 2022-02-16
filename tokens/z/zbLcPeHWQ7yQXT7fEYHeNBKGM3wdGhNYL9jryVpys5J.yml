@@ -3,6 +3,7 @@ name: VDC Coin
 decimals: 2
 extensions:
   website: https://vdcs.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zbLcPeHWQ7yQXT7fEYHeNBKGM3wdGhNYL9jryVpys5J/logo.png
 tags:
   - stablecoin
 clusters:

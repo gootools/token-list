@@ -1,6 +1,7 @@
 symbol: LIXI
 name: Lixi Coin
 decimals: 9
+img: https://raw.githubusercontent.com/phannyjohn/crypto/main/logo.png
 tags:
   - meme-token
   - social-token

@@ -1,5 +1,6 @@
 symbol: JAKE
 name: JakeCoin
 decimals: 9
+img: https://raw.githubusercontent.com/tsaunya/assets/main/logo.jpg
 tags:
   - utility-token

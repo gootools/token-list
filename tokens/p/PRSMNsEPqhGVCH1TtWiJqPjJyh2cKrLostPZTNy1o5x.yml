@@ -8,6 +8,7 @@ extensions:
   serumV3Usdc: 2MvXnxngd1gKp6gE8Q63wiPHSpveWcx8x4wf43VpyiA6
   twitter: https://twitter.com/prism_ag
   website: https://prism.ag
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/logo.svg
 tags:
   - aggregator
   - DeFi

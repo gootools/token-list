@@ -1,6 +1,7 @@
 symbol: SMM
 name: Sumomo
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ks9ZkiUEperqVuxXmxx2HL7BdccCVWt5tB9gAHLhXRZ/logo.png
 tags:
   - community-token
   - social-token

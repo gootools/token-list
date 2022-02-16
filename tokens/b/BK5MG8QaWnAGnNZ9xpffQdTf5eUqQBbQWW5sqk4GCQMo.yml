@@ -1,6 +1,7 @@
 symbol: StMP
 name: SolitaireMintPass
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BK5MG8QaWnAGnNZ9xpffQdTf5eUqQBbQWW5sqk4GCQMo/logo.png
 tags:
   - nfts
   - whitelist-token

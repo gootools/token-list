@@ -3,5 +3,6 @@ name: GuyCoin
 decimals: 0
 extensions:
   website: https://guy.dev
+img: https://raw.githubusercontent.com/guyroyse/gyrc/main/logo.png
 tags:
   - social-token

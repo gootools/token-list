@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (MER-USDC)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3H9NxvaZoxMZZDZcbBDdWMKbrfNj7PCF5sbRwDr7SdDW/logo.png
 tags:
   - lp-token

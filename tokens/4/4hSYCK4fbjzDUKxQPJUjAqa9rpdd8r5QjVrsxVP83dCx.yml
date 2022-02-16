@@ -1,6 +1,7 @@
 symbol: PET
 name: SEED PET TOKEN
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hSYCK4fbjzDUKxQPJUjAqa9rpdd8r5QjVrsxVP83dCx/logo.png
 tags:
   - social-token
   - utility-token

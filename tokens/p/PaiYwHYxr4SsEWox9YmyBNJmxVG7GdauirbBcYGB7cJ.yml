@@ -3,5 +3,6 @@ name: Saber PAI-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/usdc_pai
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ/icon.png
 tags:
   - saber-stableswap-lp

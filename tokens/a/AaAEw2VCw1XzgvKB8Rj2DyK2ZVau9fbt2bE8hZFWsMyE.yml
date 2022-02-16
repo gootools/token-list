@@ -3,5 +3,6 @@ name: Wrapped ETH (Allbridge from Ethereum)
 decimals: 9
 extensions:
   coingeckoId: weth
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png
 tags:
   - stablecoin

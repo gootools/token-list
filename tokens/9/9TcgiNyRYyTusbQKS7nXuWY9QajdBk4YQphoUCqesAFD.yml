@@ -3,6 +3,7 @@ name: UNISOL
 decimals: 4
 extensions:
   serumV3Usdc: 8pQRoGRYnJaxQ33WyaXajMQP3XR4Kw6Tf1PeVHQewoJC
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TcgiNyRYyTusbQKS7nXuWY9QajdBk4YQphoUCqesAFD/logo.png
 tags:
   - community
   - meme

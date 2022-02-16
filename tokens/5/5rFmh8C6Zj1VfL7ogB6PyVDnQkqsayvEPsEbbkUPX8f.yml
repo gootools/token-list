@@ -3,6 +3,7 @@ name: Salad Cat Coin
 decimals: 4
 extensions:
   website: https://saladcatcoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5rFmh8C6Zj1VfL7ogB6PyVDnQkqsayvEPsEbbkUPX8f/logo.png
 tags:
   - community-token
   - meme-token

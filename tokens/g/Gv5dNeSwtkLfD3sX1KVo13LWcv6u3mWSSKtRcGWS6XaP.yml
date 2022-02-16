@@ -1,6 +1,7 @@
 symbol: FLTL
 name: Flametail Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Pyromorphite/crypto/main/Logo.png
 tags:
   - social-token
   - trading-token

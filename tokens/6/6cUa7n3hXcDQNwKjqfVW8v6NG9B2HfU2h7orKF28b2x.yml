@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/TheRichDAO
   website: https://therichdao.com/
+img: https://therichdao.com/images/richlogo.png
 tags:
   - DApp
   - meme

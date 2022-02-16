@@ -1,6 +1,7 @@
 symbol: BANK
 name: Bank
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Bank.png
 tags:
   - Bank
   - community

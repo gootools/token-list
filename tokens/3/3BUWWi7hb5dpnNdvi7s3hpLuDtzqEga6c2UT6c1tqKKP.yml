@@ -3,6 +3,7 @@ name: CODEMY
 decimals: 9
 extensions:
   website: http://codemyedu.com
+img: http://codemyedu.com/resources/img/logo.png
 tags:
   - CODEMY
   - COD

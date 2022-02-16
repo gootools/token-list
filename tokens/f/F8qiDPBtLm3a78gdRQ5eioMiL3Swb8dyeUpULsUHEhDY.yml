@@ -1,5 +1,6 @@
 symbol: CREATIVE
 name: Creative Token
 decimals: 9
+img: https://raw.githubusercontent.com/dmontaldo/static-content/main/creative-token.png
 tags:
   - utility-token

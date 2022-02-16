@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
   coingeckoId: matic-network
   serumV3Usdc: 5WRoQxE59966N2XfD2wYy1uhuyKeoVJ9NBMH6r6RNYEF
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG/logo.png
 tags:
   - wrapped
   - wormhole

@@ -1,6 +1,7 @@
 symbol: MWC
 name: MetaWorld
 decimals: 6
+img: https://raw.githubusercontent.com/dhabita/metaworld/main/mw.png
 tags:
   - game
   - metaverse

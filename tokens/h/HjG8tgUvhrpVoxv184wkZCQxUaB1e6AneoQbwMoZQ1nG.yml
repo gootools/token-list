@@ -3,5 +3,6 @@ name: Leaf Coin
 decimals: 0
 extensions:
   website: https://perkypikas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HjG8tgUvhrpVoxv184wkZCQxUaB1e6AneoQbwMoZQ1nG/logo.png
 tags:
   - utility-token

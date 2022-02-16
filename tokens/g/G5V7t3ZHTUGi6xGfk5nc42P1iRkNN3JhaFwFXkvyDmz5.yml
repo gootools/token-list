@@ -5,6 +5,7 @@ extensions:
   twitter: https://twitter.com/TulipProtocol
   waterfallbot: https://bit.ly/TULIPwaterfall
   website: https://tulip.garden
+img: https://raw.githubusercontent.com/sol-farm/token-logos/dad49dff5a8cb4abc6c3ccae35dc845a2af46f98/tuBTC.png
 tags:
   - collateral-tokens
   - lending

@@ -3,6 +3,7 @@ name: Lilypad Token
 decimals: 18
 extensions:
   website: https://frog.party/
+img: https://raw.githubusercontent.com/FrogPartyNFT/Lilypad/main/logo.png
 tags:
   - coin
   - frogparty

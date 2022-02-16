@@ -4,6 +4,7 @@ decimals: 2
 extensions:
   description: Solana Token by Fabulous Fab
   website: https://fabienlopes.com/
+img: https://raw.githubusercontent.com/fabienlopes/FABL-Crypto/main/logo.png
 tags:
   - community-token
   - Metaverse

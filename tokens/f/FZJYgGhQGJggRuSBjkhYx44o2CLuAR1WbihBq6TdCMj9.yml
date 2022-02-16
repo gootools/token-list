@@ -1,5 +1,6 @@
 symbol: KILO
 name: KILO
 decimals: 9
+img: https://raw.githubusercontent.com/lpbcmain/kilo/main/kilotoken.png
 tags:
   - social-token

@@ -3,6 +3,7 @@ name: crypto revolution HEROES
 decimals: 9
 extensions:
   twitter: https://twitter.com/cryptocomicsnft
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ZMwr188nAyRiJYsHLL5TBswXTU7aAmVio6SMP1mcdsJ/logo.png
 tags:
   - DEFI
   - NFT

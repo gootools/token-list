@@ -1,6 +1,7 @@
 symbol: OSIS
 name: Oasis Coin
 decimals: 0
+img: https://raw.githubusercontent.com/TOSHlO/oasiscoin/main/logo.PNG
 tags:
   - mint-token
   - nfts

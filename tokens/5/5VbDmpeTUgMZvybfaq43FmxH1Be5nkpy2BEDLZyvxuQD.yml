@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/freetimecoin
   website: https://freetimecoin.com/
+img: https://freetimecoin.com/images/freelogo.png
 tags:
   - DApp
   - meme

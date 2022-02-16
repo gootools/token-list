@@ -1,6 +1,7 @@
 symbol: AGG
 name: Aggie Coin
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G5gqGPsrpkRYZPThJJpoVQRtgjo8zapPZ27iCSp2wPX/logo.png
 tags:
   - aggie
   - aggie-token

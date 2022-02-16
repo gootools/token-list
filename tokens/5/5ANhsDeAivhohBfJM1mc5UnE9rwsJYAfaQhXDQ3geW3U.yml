@@ -1,5 +1,6 @@
 symbol: SUPER
 name: SuperKoin
 decimals: 0
+img: https://raw.githubusercontent.com/supercjlee/crypto/main/logo.png
 tags:
   - social-token

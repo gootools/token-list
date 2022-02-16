@@ -1,5 +1,6 @@
 symbol: AUTH
 name: Auth Token
 decimals: 2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FkjWQNwKC2mW9cdyYs9umVU58cJAFSig7wcxShTowST/logo.png
 tags:
   - utility-token

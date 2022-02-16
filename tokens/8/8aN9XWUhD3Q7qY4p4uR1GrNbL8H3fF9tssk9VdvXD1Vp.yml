@@ -1,5 +1,6 @@
 symbol: KDSL
 name: KOKILA DILSHAN SL
 decimals: 9
+img: https://cdn.jsdelivr.net/gh/KOKILADILSHANSL/KDSLtoken/logo.png
 clusters:
   - devnet

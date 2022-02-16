@@ -1,5 +1,6 @@
 symbol: BBSS
 name: BitBarbers Coin
 decimals: 0
+img: https://raw.githubusercontent.com/NossaCoin/BitBarbers/main/bb.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: IDEA
 decimals: 6
 extensions:
   website: https://ideacoin.info/
+img: https://raw.githubusercontent.com/admin9955/crypto/main/logo.png
 tags:
   - Utility-token

@@ -1,6 +1,7 @@
 symbol: CIN
 name: Cinder
 decimals: 9
+img: https://raw.githubusercontent.com/hockaclu/cindericon/main/logo.png
 tags:
   - metaverse-token
   - nft

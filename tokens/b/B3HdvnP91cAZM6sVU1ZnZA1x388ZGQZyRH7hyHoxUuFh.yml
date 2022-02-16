@@ -3,5 +3,6 @@ name: Danny
 decimals: 9
 extensions:
   website: https://itsthelabel.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B3HdvnP91cAZM6sVU1ZnZA1x388ZGQZyRH7hyHoxUuFh/logo.png
 tags:
   - social-token

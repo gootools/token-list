@@ -1,5 +1,6 @@
 symbol: BTP
 name: BLOCKOVATE TEST PROJECT
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9XPDVRQ3vfeccyvj6xh2uS5meuRKTXPueWcqGKgjo6pK/logo.png
 clusters:
   - devnet

@@ -3,6 +3,7 @@ name: TurtleTraders
 decimals: 9
 extensions:
   twitter: https://twitter.com/Turtle_Traders
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VhB8EAL8dZ457SiksLPpMUR1pyACpbNh5rTjQUEVCcH/logo.png
 tags:
   - social-token
   - Turtles

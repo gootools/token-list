@@ -3,5 +3,6 @@ name: Tosti Coin
 decimals: 9
 extensions:
   website: https://tosti.app
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYvGwtPx6Nw4YUVVwqx7qh657EcdxBSfE8JcaPmWWa6E/logo.png
 tags:
   - utility-token

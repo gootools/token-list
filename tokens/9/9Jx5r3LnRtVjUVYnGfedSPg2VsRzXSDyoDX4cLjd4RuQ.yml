@@ -5,6 +5,7 @@ extensions:
   description: MunerGames in-game and governance token.
   twitter: https://twitter.com/MuneraGames
   website: http://muneragames.com
+img: https://raw.githubusercontent.com/muneragames/munera-public-docs/main/IconOnly.png
 tags:
   - nft
   - utility-token

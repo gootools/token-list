@@ -1,6 +1,7 @@
 symbol: SDK
 name: SDK-Dev
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENhqgyaVeCWzR3AUhVTXDWmqhELFoigU9pdg6GfS9JAN/logo.svg
 tags:
   - token
 clusters:

@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/gangsterducks
   website: https://gangsterducks.com/
+img: https://raw.githubusercontent.com/gangsterducks/gangstertoken/main/logogangstertoken.png
 tags:
   - community-token
   - social-token

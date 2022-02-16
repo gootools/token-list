@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/yarncoin
   website: https://yarncoin.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D6yPmaM6SueQN4mteEQMiVFMbk6BSAShJAhuqyzVJ3fq/logo.png
 tags:
   - payment-token
   - utility-token

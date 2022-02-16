@@ -4,6 +4,7 @@ decimals: 11
 extensions:
   blog: https://jenka-nauta.com
   website: http://www.airbox-token.acomdir.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/tsthEKwxAncDJJUUdLKNfS82Vm6Mk1M7hT9chKnq5C2/logo.png
 tags:
   - community-token
   - meme-token

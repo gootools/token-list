@@ -3,5 +3,6 @@ name: Wrapped BTC (Allbridge from HECO)
 decimals: 9
 extensions:
   coingeckoId: wrapped-bitcoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png
 tags:
   - stablecoin

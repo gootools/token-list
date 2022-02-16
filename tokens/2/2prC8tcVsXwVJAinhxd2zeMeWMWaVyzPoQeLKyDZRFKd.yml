@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   coingeckoId: mango-market-caps
   website: https://initialcapoffering.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2prC8tcVsXwVJAinhxd2zeMeWMWaVyzPoQeLKyDZRFKd/logo.png
 tags:
   - mango

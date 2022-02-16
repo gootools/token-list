@@ -3,6 +3,7 @@ name: Saber afBTC-renBTC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/afbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

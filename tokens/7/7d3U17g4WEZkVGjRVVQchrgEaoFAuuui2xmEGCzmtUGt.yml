@@ -1,6 +1,7 @@
 symbol: GENS
 name: GENS
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7d3U17g4WEZkVGjRVVQchrgEaoFAuuui2xmEGCzmtUGt/logo.png
 tags:
   - stablecoin
 clusters:

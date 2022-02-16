@@ -3,5 +3,6 @@ name: Kreechures
 decimals: 0
 extensions:
   website: https://www.kreechures.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7p7AMM6QoA8wPRKeqF87Pt51CRWmWvXPH5TBNMyDWhbH/logo.svg
 tags:
   - nft

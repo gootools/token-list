@@ -17,6 +17,7 @@ extensions:
   twitter: https://twitter.com/0xPolygon
   website: https://polygon.technology/
   youtube: https://youtube.com/c/PolygonTV
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kBQ5dnNg1StV58LzPF9B1BXWioSEPmEnuAPEHJ8qu5G/logo.png
 tags:
   - utility-token
   - wrapped

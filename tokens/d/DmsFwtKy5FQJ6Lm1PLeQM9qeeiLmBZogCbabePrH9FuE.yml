@@ -1,6 +1,7 @@
 symbol: SPREAD
 name: SPREAD
 decimals: 0
+img: https://raw.githubusercontent.com/spreadability/spread/main/logo.png
 tags:
   - ethereum
   - wrapped

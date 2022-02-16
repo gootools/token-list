@@ -1,6 +1,7 @@
 symbol: CASINO
 name: CryptCasino
 decimals: 9
+img: https://raw.githubusercontent.com/15Teds/crypto/9a72a55c5572f53df2471961f77fbcc955d9391a/logo.png
 tags:
   - Blackjack
   - Casino

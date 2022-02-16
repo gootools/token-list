@@ -3,5 +3,6 @@ name: PayPal
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?PYPL
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwutBmwmhehaMh18CxqFPPN311uCB1M2awp68A2bG41v/logo.svg
 tags:
   - tokenized-stock

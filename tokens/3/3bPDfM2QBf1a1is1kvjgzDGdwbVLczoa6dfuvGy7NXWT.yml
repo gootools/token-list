@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: DNSmate token
   website: https://coin.dnsmate.net
+img: https://raw.githubusercontent.com/cybster/crypto-dnsm/main/logo.png
 tags:
   - altcoin
   - community-token

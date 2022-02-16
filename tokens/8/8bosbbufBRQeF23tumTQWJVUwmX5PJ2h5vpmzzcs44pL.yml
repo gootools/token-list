@@ -3,6 +3,7 @@ name: URunner Coin
 decimals: 6
 extensions:
   twitter: https://twitter.com/URunnerApp
+img: https://cdn.jsdelivr.net/gh/URunner21/UrunnerApplication@main/IMG_0698.jpg
 tags:
   - community
   - social-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/Potcoins_
   website: https://www.potcoin.space/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6g1VPx4L1U69qkAcQyRh9b9UtsT7FboA4maeBb62fCY4/logo.png
 tags:
   - community-token
   - social-token

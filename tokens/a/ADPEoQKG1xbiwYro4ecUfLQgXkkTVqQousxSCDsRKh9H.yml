@@ -3,5 +3,6 @@ name: Baliarena
 decimals: 9
 extensions:
   website: https://baliarena.com
+img: https://raw.githubusercontent.com/Baliarena/baliarena/main/logo.png
 tags:
   - utility-token

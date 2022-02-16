@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   discord: https://discord.gg/RfShDcAuwU
   twitter: https://twitter.com/MintyAutomation
+img: https://raw.githubusercontent.com/MintyAutomation/Minty-Logo/main/logo.png
 tags:
   - whitelist-token

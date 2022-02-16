@@ -3,5 +3,6 @@ name: Meow Coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/TheMayMeow
+img: https://raw.githubusercontent.com/MayMeow/crypto/main/cat.png
 tags:
   - social-token

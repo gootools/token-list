@@ -1,6 +1,7 @@
 symbol: GAMMA
 name: GAMMACoin
 decimals: 9
+img: https://cdn.jsdelivr.net/gh/samhiggs/gammatoken/gamma_logo.png
 tags:
   - gamma
   - meme-token

@@ -3,5 +3,6 @@ name: E-Dinar
 decimals: 9
 extensions:
   website: https://edinar.org
+img: https://github.com/edinarorg/solana/blob/main/1x1.png
 tags:
   - utility-token

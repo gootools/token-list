@@ -1,5 +1,6 @@
 symbol: BLDK
 name: Blue Duck
 decimals: 0
+img: https://raw.githubusercontent.com/LouisDeSimone/BlueDuck/main/blueDuck.png
 tags:
   - social-token

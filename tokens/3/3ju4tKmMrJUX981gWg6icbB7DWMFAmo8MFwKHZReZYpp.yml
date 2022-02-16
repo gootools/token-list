@@ -1,6 +1,7 @@
 symbol: FPA
 name: OFS-FPA-COIN
 decimals: 0
+img: https://raw.githubusercontent.com/wedd2626/roncrypto/main/OFSICON.png
 tags:
   - community-token
   - social-token

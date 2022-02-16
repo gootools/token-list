@@ -3,5 +3,6 @@ name: Zoom
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ZM
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BcALTCjD4HJJxBDUXi3nHUgqsJmXAQdBbQrcmtLtqZaf/logo.svg
 tags:
   - tokenized-stock

@@ -3,6 +3,7 @@ name: ENOFEL
 decimals: 8
 extensions:
   website: http://enofel.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7yg1kQGz89FzmjbdUppFZCSWAQsjn7zYGJ4o8wtb7gju/logo.png
 tags:
   - community-token
   - ENOFEL

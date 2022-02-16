@@ -1,5 +1,6 @@
 symbol: INSC
 name: Instant Coin
 decimals: 0
+img: https://github.com/spenserbuck/crypto/blob/main/InstantCoin.png
 tags:
   - social-token

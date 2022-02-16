@@ -3,5 +3,6 @@ name: Saber pSOL-prtSOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/psol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy/icon.png
 tags:
   - saber-stableswap-lp

@@ -1,5 +1,6 @@
 symbol: TRASH
 name: Trash Token
 decimals: 9
+img: https://raw.githack.com/solbumfights/tokenlogo/main/trash.png
 tags:
   - community-token

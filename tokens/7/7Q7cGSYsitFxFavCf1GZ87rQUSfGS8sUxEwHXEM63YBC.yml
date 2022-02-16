@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/IRC_Coin
   website: https://irc-chat.io
+img: https://raw.githubusercontent.com/irc-token/crypto/main/logo.png
 tags:
   - community-token
   - social-token

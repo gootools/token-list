@@ -3,6 +3,7 @@ name: SOLFUND
 decimals: 0
 extensions:
   website: https://blocksto.ne/solfund/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVAayYjzz8FuGGwu1g37F5im1T5foYgjnmC87cdAtFhk/Coinlogo.png
 tags:
   - Blockstone
   - Fund

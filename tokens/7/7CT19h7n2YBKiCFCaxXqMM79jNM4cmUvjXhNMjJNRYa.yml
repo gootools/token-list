@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (COPE/SOL)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa/logo.svg
 tags:
   - lp-token

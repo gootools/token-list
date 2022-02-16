@@ -1,6 +1,7 @@
 symbol: BIRB
 name: BirbCoin
 decimals: 9
+img: https://raw.githubusercontent.com/DaQueeckinDuck/birbimage/main/birbcoin-logo.png
 tags:
   - meme-token
   - social-token

@@ -3,5 +3,6 @@ name: New World Federation Pound
 decimals: 12
 extensions:
   website: https://nwf.earth/
+img: https://raw.githubusercontent.com/newworldfederation/nwfp/main/logo.png
 tags:
   - community-token

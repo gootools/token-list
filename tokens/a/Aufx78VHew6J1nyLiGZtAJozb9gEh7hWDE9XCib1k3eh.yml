@@ -3,6 +3,7 @@ name: Sunflower Solar Energy Coin
 decimals: 0
 extensions:
   website: https://ntontel.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Aufx78VHew6J1nyLiGZtAJozb9gEh7hWDE9XCib1k3eh/logo.png
 tags:
   - community-token
   - social-token

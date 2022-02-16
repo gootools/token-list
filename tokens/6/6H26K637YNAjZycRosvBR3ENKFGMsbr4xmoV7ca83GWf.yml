@@ -3,5 +3,6 @@ name: Just Group PLC
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?JUST
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6H26K637YNAjZycRosvBR3ENKFGMsbr4xmoV7ca83GWf/logo.png
 tags:
   - tokenized-stock

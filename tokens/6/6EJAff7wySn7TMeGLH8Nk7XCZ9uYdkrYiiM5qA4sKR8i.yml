@@ -3,6 +3,7 @@ name: Ratio Finance Stable Coin USDr
 decimals: 6
 extensions:
   website: https://ratio.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EJAff7wySn7TMeGLH8Nk7XCZ9uYdkrYiiM5qA4sKR8i/logo.png
 tags:
   - stable-coin
 clusters:

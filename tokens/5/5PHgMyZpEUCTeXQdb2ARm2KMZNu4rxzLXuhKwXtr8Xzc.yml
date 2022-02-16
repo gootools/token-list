@@ -3,5 +3,6 @@ name: Raydium LP Token (STVA-USDC)
 decimals: 3
 extensions:
   website: https://raydium.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5PHgMyZpEUCTeXQdb2ARm2KMZNu4rxzLXuhKwXtr8Xzc/logo.svg
 tags:
   - lp-token

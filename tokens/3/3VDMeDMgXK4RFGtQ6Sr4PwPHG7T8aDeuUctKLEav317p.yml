@@ -3,5 +3,6 @@ name: Milei Token
 decimals: 9
 extensions:
   website: https://milei.ilov.eu
+img: https://raw.githubusercontent.com/ilov-eu/assets/main/milei-001.png
 tags:
   - social-token

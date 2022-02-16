@@ -5,6 +5,7 @@ extensions:
   description: Decent Muzic Token is a token that is for both the listner and the musician.
   facebook: https://www.facebook.com/decentmuzic
   website: https://decentmuzic.com
+img: https://raw.githubusercontent.com/geccosol/demu/main/token.png
 tags:
   - demu-token
   - listner-token

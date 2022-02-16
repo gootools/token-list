@@ -3,5 +3,6 @@ name: ZEE
 decimals: 0
 extensions:
   website: https://zoints.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZEExktbqMM5ZMS569pCNbzky92KeEmiFeVwR3exfBNn/logo.png
 tags:
   - zoints

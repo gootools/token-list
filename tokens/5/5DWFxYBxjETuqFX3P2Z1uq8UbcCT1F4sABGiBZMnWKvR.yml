@@ -3,6 +3,7 @@ name: PLEIDO
 decimals: 6
 extensions:
   website: https://pleido.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5DWFxYBxjETuqFX3P2Z1uq8UbcCT1F4sABGiBZMnWKvR/logo.svg
 tags:
   - game-coin
   - pleido

@@ -3,6 +3,7 @@ name: Internet Service Provider Token
 decimals: 6
 extensions:
   description: Internet Service Provider Token
+img: https://raw.githubusercontent.com/Khikoman/crypto-ISPT/main/logo.png
 tags:
   - community-token
   - social-token

@@ -1,6 +1,7 @@
 symbol: WCBT
 name: War Council Battle Token
 decimals: 0
+img: https://raw.githubusercontent.com/thewarcouncil/wcbt-token/main/logo.png
 tags:
   - community-token
   - social-token

@@ -3,5 +3,6 @@ name: LSD
 decimals: 9
 extensions:
   website: https://solible.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/logo.svg
 tags:
   - nft

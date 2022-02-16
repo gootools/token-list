@@ -1,6 +1,7 @@
 symbol: WISP
 name: WISP token
 decimals: 9
+img: https://raw.githubusercontent.com/MashmallowWoR/crypto/main/logo.png
 tags:
   - social-token
   - utility-token

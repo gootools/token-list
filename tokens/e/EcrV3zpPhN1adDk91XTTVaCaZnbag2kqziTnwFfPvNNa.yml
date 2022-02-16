@@ -3,5 +3,6 @@ name: Mystic Token for MysticVerse
 decimals: 8
 extensions:
   website: https://www.mysticgirlsclub.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcrV3zpPhN1adDk91XTTVaCaZnbag2kqziTnwFfPvNNa/logo.png
 tags:
   - utility-token

@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   twitter: https://twitter.com/solanatrollcamp
   website: https://solanatrollcamp.io/
+img: https://raw.githubusercontent.com/rickregien/gdc-logo/main/gold-coin.png
 tags:
   - utility-token

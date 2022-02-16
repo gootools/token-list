@@ -1,6 +1,7 @@
 symbol: TWTD
 name: The Weeknd the Doyen
 decimals: 0
+img: https://raw.githubusercontent.com/haroonmoh/doyentokenimages/main/weeknd.png
 tags:
   - social-token
   - utility-token

@@ -3,5 +3,6 @@ name: IDRS
 decimals: 0
 extensions:
   website: https://rupiahdigital.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BWe1ReuW5KjaUMZTdq3yPxUAkoBbvm6kaFG4cCvapX9p/logo.svg
 tags:
   - stablecoin

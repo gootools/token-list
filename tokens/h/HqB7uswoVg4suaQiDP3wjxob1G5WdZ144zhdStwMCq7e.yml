@@ -6,6 +6,7 @@ extensions:
   coingeckoId: helium
   serumV3Usdc: CnUV42ZykoKUnMDdyefv5kP6nDSJf7jFd7WXAecC6LYr
   serumV3Usdt: 8FpuMGLtMZ7Wt9ZvyTGuTVwTwwzLYfS5NZWcHxbP1Wuh
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HqB7uswoVg4suaQiDP3wjxob1G5WdZ144zhdStwMCq7e/logo.png
 tags:
   - ethereum
   - wrapped-sollet

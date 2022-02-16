@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/gemslab_space
   website: https://gemslab.space
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38tKCEuuLfUzCoZZFgsiGTq9wi8Dq3YykrSDvKjx7caE/sgem.png
 tags:
   - utility-token

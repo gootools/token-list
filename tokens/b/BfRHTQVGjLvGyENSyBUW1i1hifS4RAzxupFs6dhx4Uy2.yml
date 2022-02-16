@@ -3,6 +3,7 @@ name: Freaky Apez Klub
 decimals: 0
 extensions:
   twitter: https://twitter.com/freakyapez
+img: https://raw.githubusercontent.com/sethtdev/FAKtoken/main/FAK_1.png
 tags:
   - collectible-token
   - nft-token

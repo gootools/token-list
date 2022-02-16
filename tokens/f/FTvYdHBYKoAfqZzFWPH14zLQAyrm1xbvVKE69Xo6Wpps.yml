@@ -3,5 +3,6 @@ name: Brain Coin
 decimals: 0
 extensions:
   website: https://bit.ly/3unsVny
+img: https://raw.githubusercontent.com/dskupinski8/crypto/main/logo.png
 tags:
   - community

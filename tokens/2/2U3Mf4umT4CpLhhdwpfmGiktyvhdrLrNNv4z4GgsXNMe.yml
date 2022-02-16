@@ -1,5 +1,6 @@
 symbol: GENS
 name: GENS
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2U3Mf4umT4CpLhhdwpfmGiktyvhdrLrNNv4z4GgsXNMe/logo.png
 clusters:
   - devnet

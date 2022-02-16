@@ -1,5 +1,6 @@
 symbol: NICE
 name: Nice Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Q7y93vgxVdwgn2D9TZkJqfML67dTVWeyGsQdPyfBzoN/logo.png
 tags:
   - meme-token

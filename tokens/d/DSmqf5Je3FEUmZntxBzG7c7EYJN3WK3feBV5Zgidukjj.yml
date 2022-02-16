@@ -3,5 +3,6 @@ name: Mercurial LP Token (USDC-wUSDC-wUSDT-wDAI)
 decimals: 8
 extensions:
   website: https://www.mercurial.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSmqf5Je3FEUmZntxBzG7c7EYJN3WK3feBV5Zgidukjj/logo.png
 tags:
   - lp-token

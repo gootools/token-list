@@ -3,6 +3,7 @@ name: GitCompile Coin
 decimals: 9
 extensions:
   website: https://gitcompile.com/
+img: https://raw.githubusercontent.com/gitcompile/assets/main/logo.png
 tags:
   - community-token
   - social-token

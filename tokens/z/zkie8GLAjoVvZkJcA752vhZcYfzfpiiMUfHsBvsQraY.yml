@@ -1,6 +1,7 @@
 symbol: PGT
 name: Purple Goblin Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zkie8GLAjoVvZkJcA752vhZcYfzfpiiMUfHsBvsQraY/logo.png
 tags:
   - pgt
   - social-token

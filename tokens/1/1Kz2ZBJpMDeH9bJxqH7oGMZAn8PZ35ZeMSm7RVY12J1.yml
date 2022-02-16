@@ -3,5 +3,6 @@ name: Andrelana
 decimals: 0
 extensions:
   website: https://andreyaniv.com/
+img: https://raw.githubusercontent.com/andreyaniv/cryptolana/main/crypto.png
 tags:
   - social-token

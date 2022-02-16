@@ -3,6 +3,7 @@ name: Tanda Token
 decimals: 9
 extensions:
   website: https://defitanda.xyz/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrzX8DyyV9xLj2pTVB4iohdDRw7CXfNKeA9iksxHjvEz/logo.png
 tags:
   - community-token
   - utility-token

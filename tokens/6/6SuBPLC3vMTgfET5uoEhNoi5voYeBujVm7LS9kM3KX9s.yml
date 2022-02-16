@@ -3,5 +3,6 @@ name: FINNGRAM TOKEN
 decimals: 9
 extensions:
   website: https://www.finngram.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6SuBPLC3vMTgfET5uoEhNoi5voYeBujVm7LS9kM3KX9s/logo.png
 tags:
   - utility-token

@@ -1,5 +1,6 @@
 symbol: FK
 name: Fakir coin
 decimals: 0
+img: https://raw.githubusercontent.com/faki16/crypto/main/crypto.jpg
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: RWOLFWL
 decimals: 0
 extensions:
   twitter: https://twitter.com/RetroWolvesNFT
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EX84m74hxaHQDwasohSQt3NwMxfiU7Tzr65HY91X8BAi/Logo.png
 tags:
   - whitelist-token

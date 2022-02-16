@@ -1,6 +1,7 @@
 symbol: FISH
 name: Fish Coin
 decimals: 5
+img: https://cdn.jsdelivr.net/gh/gowtham-k147/fishtoken/logo.jpg
 tags:
   - social-token
   - utility-token

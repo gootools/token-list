@@ -1,5 +1,6 @@
 symbol: cc
 name: Cat Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Evem1GAsUFeAVh6inpwTkdhFFHa9TCU9GtgqQfdKHYre/logo.png
 tags:
   - utility-token

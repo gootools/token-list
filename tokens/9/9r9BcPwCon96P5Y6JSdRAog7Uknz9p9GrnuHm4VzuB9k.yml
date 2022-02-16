@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (FTT/SOL)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9r9BcPwCon96P5Y6JSdRAog7Uknz9p9GrnuHm4VzuB9k/logo.svg
 tags:
   - lp-token

@@ -1,5 +1,6 @@
 symbol: GES
 name: Generic Efficient Salary
 decimals: 0
+img: https://raw.githubusercontent.com/noweffekt/ges/main/solana-logo.png
 tags:
   - social-token

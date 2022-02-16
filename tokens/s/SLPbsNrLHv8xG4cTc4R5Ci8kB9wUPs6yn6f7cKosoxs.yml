@@ -3,5 +3,6 @@ name: Saber BTC-renBTC LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/btc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png
 tags:
   - saber-stableswap-lp

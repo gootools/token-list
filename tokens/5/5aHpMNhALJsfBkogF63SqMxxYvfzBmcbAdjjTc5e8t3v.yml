@@ -1,6 +1,7 @@
 symbol: FSTC
 name: FastCoin
 decimals: 9
+img: https://raw.githubusercontent.com/lgsalles/fastcoin/main/token-logo.png
 tags:
   - asset
   - stablecoin

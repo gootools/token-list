@@ -3,6 +3,7 @@ name: Positron
 decimals: 9
 extensions:
   description: POT is a utility token for Ubik LoFi metaverse.
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iz45n44TQUPyoRymdZXEunqvZUksZyhzS6zQ7sLMadj/logo.png
 tags:
   - governance-token
   - social-token

@@ -1,5 +1,6 @@
 symbol: GCTK
 name: GruntCode Token
 decimals: 0
+img: https://raw.githubusercontent.com/gruntcode/crypto/main/gclogo.png
 tags:
   - social-token

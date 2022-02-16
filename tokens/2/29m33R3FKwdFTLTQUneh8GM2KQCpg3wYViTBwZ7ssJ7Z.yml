@@ -1,5 +1,6 @@
 symbol: SYD
 name: Sydney
 decimals: 0
+img: https://raw.githubusercontent.com/ostersepp/coins/main/sydney.png
 tags:
   - social-token

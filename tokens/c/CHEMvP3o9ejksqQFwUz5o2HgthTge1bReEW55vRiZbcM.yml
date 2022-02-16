@@ -1,6 +1,7 @@
 symbol: CHEM
 name: Chemistry
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHEMvP3o9ejksqQFwUz5o2HgthTge1bReEW55vRiZbcM/logo.png
 tags:
   - chemistry-token
   - capped

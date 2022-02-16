@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/Kugle_
   website: https://kugle.org
+img: https://cdn.jsdelivr.net/gh/Seigneur-Machiavel/kugle.github.io/Tokens/KBX_200.png
 tags:
   - utility-token

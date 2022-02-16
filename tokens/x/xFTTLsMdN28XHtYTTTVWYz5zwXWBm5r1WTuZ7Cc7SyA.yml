@@ -3,6 +3,7 @@ name: Saber xFTT-wFTT LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/xftt
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify

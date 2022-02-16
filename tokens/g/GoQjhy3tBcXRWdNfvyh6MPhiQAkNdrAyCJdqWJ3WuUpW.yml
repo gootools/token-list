@@ -9,6 +9,7 @@ extensions:
   telegram: https://t.me/Litecoin
   twitter: https://twitter.com/LitecoinProject
   website: https://litecoin.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GoQjhy3tBcXRWdNfvyh6MPhiQAkNdrAyCJdqWJ3WuUpW/logo.png
 tags:
   - utility-token
   - wrapped

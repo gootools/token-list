@@ -1,6 +1,7 @@
 symbol: 8OO8
 name: 8OO8 Coin
 decimals: 9
+img: https://raw.githubusercontent.com/mannytatas/sol-8OO8-coin/main/logo.png
 tags:
   - "8008"
   - community-token

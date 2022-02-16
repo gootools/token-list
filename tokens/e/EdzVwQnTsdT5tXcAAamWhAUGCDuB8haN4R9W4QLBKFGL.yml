@@ -3,5 +3,6 @@ name: GMZREA
 decimals: 9
 extensions:
   website: https://gmzrea.com/
+img: https://raw.githubusercontent.com/mohudwan/gmzrea/main/assets/logo.png
 tags:
   - social-token

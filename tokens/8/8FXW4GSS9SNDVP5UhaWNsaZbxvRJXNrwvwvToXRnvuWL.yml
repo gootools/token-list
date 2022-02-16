@@ -3,5 +3,6 @@ name: KNB
 decimals: 9
 extensions:
   website: https://solatoken.net/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FXW4GSS9SNDVP5UhaWNsaZbxvRJXNrwvwvToXRnvuWL/logo.png
 tags:
   - knb-token

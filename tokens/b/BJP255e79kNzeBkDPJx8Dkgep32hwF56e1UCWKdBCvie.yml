@@ -3,6 +3,7 @@ name: HELLC0IN
 decimals: 0
 extensions:
   discord: https://discord.gg/yR8YbDWeMf
+img: https://raw.githubusercontent.com/rangersmyth74/hellfire/main/logo.png
 tags:
   - community-token
   - social-token

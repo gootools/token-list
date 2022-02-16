@@ -3,6 +3,7 @@ name: Pet Coin
 decimals: 0
 extensions:
   website: https://anotherapp.blogspot.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84tUoZWc7EKrU7r8jRW4kBjN1wLwkCxhTc9q3CKVR5Gt/logo.png
 tags:
   - NFT
   - utility-token

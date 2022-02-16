@@ -6,5 +6,6 @@ extensions:
   description: GU token for the Kugle play to earn game.
   twitter: https://twitter.com/Kuglesworld
   website: https://kugle.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ/logo.png
 tags:
   - utility-token

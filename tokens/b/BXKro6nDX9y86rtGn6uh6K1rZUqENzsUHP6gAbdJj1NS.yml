@@ -3,6 +3,7 @@ name: AKAYA_Bistro_NFT_Test
 decimals: 6
 extensions:
   website: https://www.instagram.com/akaya.bh/
+img: https://musa.fyi/images/akaya.jpg
 tags:
   - NFT
 clusters:

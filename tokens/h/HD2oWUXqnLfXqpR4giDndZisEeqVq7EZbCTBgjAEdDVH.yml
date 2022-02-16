@@ -3,6 +3,7 @@ name: Instagram NFT HDO
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/HD2oWUXqnLfXqpR4giDndZisEeqVq7EZbCTBgjAEdDVH
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HD2oWUXqnLfXqpR4giDndZisEeqVq7EZbCTBgjAEdDVH/logo.jpg
 tags:
   - instagram
   - nft

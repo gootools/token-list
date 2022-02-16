@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://discord.gg/4cxWg5Jmxt
   website: https://ircurrency.org/
+img: https://ircurrency.org/adj-coin-logo.png
 tags:
   - adj
   - currency

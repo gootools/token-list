@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/RaversCrypto
   website: https://www.crypto-ravers.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HzqyRGwBxRC9oVsAG4mPj9zL3s2GgcAi5h3QbATEp5fk/logo.png
 tags:
   - social-token
   - utility-token

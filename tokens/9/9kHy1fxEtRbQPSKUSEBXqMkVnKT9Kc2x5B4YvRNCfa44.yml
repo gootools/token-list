@@ -1,5 +1,6 @@
 symbol: BINX
 name: BinxCoin
 decimals: 0
+img: https://raw.githubusercontent.com/JDevXV/binx/main/logo.png
 tags:
   - social-token

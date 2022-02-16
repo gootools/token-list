@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/task_dapp
   website: https://taskdapp.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7kpzQByqsfmZSX5Y71YtncBvuhFVFJBLUvJKqqNMfT8P/logo.svg
 tags:
   - utility-token

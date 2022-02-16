@@ -3,5 +3,6 @@ name: SmashCoin
 decimals: 9
 extensions:
   website: http://smashbox20.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6VAqGYWWiPbBMsKY2LpdE21ECNeoMooobTdtSsw7LGUX/logo3.png
 tags:
   - social-token

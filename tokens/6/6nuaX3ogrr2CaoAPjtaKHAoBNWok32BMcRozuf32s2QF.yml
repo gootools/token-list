@@ -3,5 +3,6 @@ name: Wrapped BUSD (Allbridge from BSC)
 decimals: 9
 extensions:
   coingeckoId: binance-usd
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX/logo.png
 tags:
   - stablecoin

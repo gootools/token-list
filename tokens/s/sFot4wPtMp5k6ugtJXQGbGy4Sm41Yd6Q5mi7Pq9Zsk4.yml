@@ -1,6 +1,7 @@
 symbol: GTC
 name: Gorito
 decimals: 0
+img: https://raw.githubusercontent.com/eketiger/goritoCoin/main/goritoCoinLogo.png
 tags:
   - family-token
   - social-token

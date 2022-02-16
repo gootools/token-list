@@ -3,5 +3,6 @@ name: Watchad Token
 decimals: 8
 extensions:
   website: https://www.watchad.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2XsFvbkZYX8Z2Y8C4kQJXQ1RwQVpqXAZ28SqqxdrGdgK/logo.png
 tags:
   - payment-token

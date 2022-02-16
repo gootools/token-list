@@ -3,6 +3,7 @@ name: BARGE
 decimals: 0
 extensions:
   website: https://blocksto.ne/barge/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiNGum7bxnvXVjQchN8g1mYzt1U1jzMB3Ym7PiWKU1h8/blockstonePNG.png
 tags:
   - Blockstone-fund
   - DeFi

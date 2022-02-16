@@ -1,6 +1,7 @@
 symbol: TTCL
 name: TTCL Token
 decimals: 5
+img: https://raw.githubusercontent.com/tongtongchain/token-list/main/assets/mainnet/E5xCoBy9pCNjtZHGjD57j498YidLh41sihnu6rSghJkr/ttcllogo.png
 tags:
   - dex
   - finance

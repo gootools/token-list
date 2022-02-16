@@ -1,5 +1,6 @@
 symbol: SCOW
 name: Smart Cow Token
 decimals: 8
+img: https://cdn.jsdelivr.net/gh/KingsFourze/SmartCowToken@main/logo.png
 tags:
   - social-token

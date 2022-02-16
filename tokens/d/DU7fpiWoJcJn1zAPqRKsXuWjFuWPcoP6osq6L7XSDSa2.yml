@@ -1,5 +1,6 @@
 symbol: DUCK
 name: DuckCoin
 decimals: 0
+img: https://raw.githubusercontent.com/mrcpapa/duckcoin/main/duckcoin-logo.png
 tags:
   - social-token

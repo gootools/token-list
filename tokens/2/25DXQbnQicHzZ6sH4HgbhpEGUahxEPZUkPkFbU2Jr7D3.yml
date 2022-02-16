@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/proofofclick
   website: https://www.proofofclick.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25DXQbnQicHzZ6sH4HgbhpEGUahxEPZUkPkFbU2Jr7D3/logo.png
 tags:
   - meme-token

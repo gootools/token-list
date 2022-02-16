@@ -3,6 +3,7 @@ name: Saber acUSD-CASH LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/acusd_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio

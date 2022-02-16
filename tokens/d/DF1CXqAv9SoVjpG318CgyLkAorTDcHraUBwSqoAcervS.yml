@@ -3,6 +3,7 @@ name: Royal Bears
 decimals: 8
 extensions:
   website: https://royalbears.art/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DF1CXqAv9SoVjpG318CgyLkAorTDcHraUBwSqoAcervS/logo.png
 tags:
   - community-token
   - meme-token

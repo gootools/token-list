@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   description: This token lets you mint a generation 2 Sol Slug
   twitter: https://twitter.com/SolSlugsNFT
+img: https://raw.githubusercontent.com/SolSlugs/assets/main/gen2redeem.png
 tags:
   - community-token

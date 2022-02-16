@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (MER/SOL)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg
 tags:
   - lp-token

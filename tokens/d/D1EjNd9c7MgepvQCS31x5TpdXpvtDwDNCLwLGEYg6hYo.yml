@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://discord.gg/yWjkHgnPD3
   website: https://www.autostorm.io/
+img: https://raw.githubusercontent.com/autostorm-org/img/cb78b86a54f6f4f637e4e6cbe961e002966b4844/avatar.png
 tags:
   - auto
   - cars

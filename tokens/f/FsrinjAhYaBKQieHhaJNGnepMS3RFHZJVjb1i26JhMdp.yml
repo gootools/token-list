@@ -1,6 +1,7 @@
 symbol: sBucks
 name: SolBucks
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh/logo.png
 tags:
   - utility-token
 clusters:

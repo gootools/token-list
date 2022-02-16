@@ -3,6 +3,7 @@ name: Lord Arena
 decimals: 9
 extensions:
   website: https://lordarena.com
+img: https://lordarena.com/public/filemanager/userfiles/logo-lordarena-png-min@2x.png
 tags:
   - NFT
 clusters:

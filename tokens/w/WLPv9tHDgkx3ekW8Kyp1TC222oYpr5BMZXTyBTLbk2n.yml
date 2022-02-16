@@ -3,6 +3,7 @@ name: Saber FRAX-CASH LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/frax_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-cashio

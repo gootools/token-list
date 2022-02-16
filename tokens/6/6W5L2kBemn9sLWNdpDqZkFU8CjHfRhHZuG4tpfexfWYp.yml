@@ -1,6 +1,7 @@
 symbol: CHB
 name: Cheeseburger
 decimals: 9
+img: https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Double-Cheeseburger.jpg
 tags:
   - community-token
 clusters:

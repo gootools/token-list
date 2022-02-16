@@ -3,6 +3,7 @@ name: Art Fund
 decimals: 0
 extensions:
   website: https://blocksto.ne/art-fund/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EJXx9KWMbUB8dNEaGLNJBkoMdrEgjfUAQ7ChzgkGFbxS/blockstonePNG.png
 tags:
   - Art
   - AAA-Blockstone-token

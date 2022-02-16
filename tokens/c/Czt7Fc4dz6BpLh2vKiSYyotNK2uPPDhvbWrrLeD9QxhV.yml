@@ -3,5 +3,6 @@ name: Nest Arcade
 decimals: 9
 extensions:
   website: https://nestarcade.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV/logo.png
 tags:
   - game-token

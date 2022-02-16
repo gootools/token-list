@@ -1,6 +1,7 @@
 symbol: PKMN
 name: PokeDollar
 decimals: 9
+img: https://pkmnsoltrainersbucket-devnet0.s3.amazonaws.com/pokeball_sq.gif
 tags:
   - gaming
   - pkmn

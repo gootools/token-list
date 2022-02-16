@@ -3,6 +3,7 @@ name: Uleborn
 decimals: 0
 extensions:
   telegram: https://t.me/uleborn
+img: https://raw.githubusercontent.com/Freisherv/uleborn/main/uleborn.png
 tags:
   - community-token
   - game-token

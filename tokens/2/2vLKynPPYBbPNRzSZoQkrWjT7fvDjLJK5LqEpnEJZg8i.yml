@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/atlasdotgs
   website: https://atlas.gs
+img: https://raw.githubusercontent.com/AdityaKG-169/atlas-coin/main/logo.png
 tags:
   - social-token
   - utility-token

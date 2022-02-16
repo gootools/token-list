@@ -3,5 +3,6 @@ name: Wrapped CUSD (Allbridge from Celo)
 decimals: 9
 extensions:
   coingeckoId: celo-dollar
+img: https://s2.coinmarketcap.com/static/img/coins/64x64/7236.png
 tags:
   - stablecoin

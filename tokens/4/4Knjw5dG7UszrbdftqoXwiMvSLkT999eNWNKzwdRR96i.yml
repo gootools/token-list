@@ -3,6 +3,7 @@ name: DungeonCoin
 decimals: 18
 extensions:
   description: What are ya buyin'?
+img: https://raw.githubusercontent.com/MrThomp308/crypto/main/logo.png
 tags:
   - game
   - social-token

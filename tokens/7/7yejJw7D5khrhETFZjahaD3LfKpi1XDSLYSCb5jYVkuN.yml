@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   description: This token is used to reward active members of the @COIN98 Telegram channel.
   telegram: https://t.me/coin98
+img: https://raw.githubusercontent.com/abbas-bachari/logo/main/src/cct.png
 tags:
   - CCT
   - Coin98

@@ -1,6 +1,7 @@
 symbol: USA
 name: USA
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/USA.png
 tags:
   - community
   - nft-token

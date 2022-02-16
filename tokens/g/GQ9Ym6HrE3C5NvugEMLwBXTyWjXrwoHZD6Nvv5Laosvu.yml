@@ -3,6 +3,7 @@ name: Achille Lauro Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/frasidilauro
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Achille-Lauro-Coin/main/logo.png
 tags:
   - community-token
   - lauro-token

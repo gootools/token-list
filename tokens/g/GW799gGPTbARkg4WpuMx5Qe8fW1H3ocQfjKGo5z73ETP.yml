@@ -3,6 +3,7 @@ name: Printer
 decimals: 6
 extensions:
   description: Passive Income is everyones goal!
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GW799gGPTbARkg4WpuMx5Qe8fW1H3ocQfjKGo5z73ETP/logo.png
 tags:
   - community-token
   - NFT

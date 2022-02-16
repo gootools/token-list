@@ -3,6 +3,7 @@ name: KDC (KURZ Digital Currency)
 decimals: 2
 extensions:
   website: https://www.kurzdigital.com
+img: https://kurzdigital.com/images/KDC_logo.png
 tags:
   - kdc
   - stablecoin

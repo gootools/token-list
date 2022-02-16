@@ -3,6 +3,7 @@ name: LGG Dev Fan Token
 decimals: 0
 extensions:
   website: https://lgg-hacks.art
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Cab8z1Lz1bTC9bQNeY7VQoZw5a2YbZoxmvFSvPgcTEL/logo.png
 tags:
   - LGG
 clusters:

@@ -3,5 +3,6 @@ name: Skog Token
 decimals: 0
 extensions:
   website: https://skogdev.no/
+img: https://raw.githubusercontent.com/SkogDev/skogtoken/main/logo.png
 tags:
   - social-token

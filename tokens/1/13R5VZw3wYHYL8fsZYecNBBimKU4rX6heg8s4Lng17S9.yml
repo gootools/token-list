@@ -1,6 +1,7 @@
 symbol: WXT
 name: woxobit
 decimals: 9
+img: https://raw.githubusercontent.com/andbandu/woxobit/main/logo.png
 tags:
   - community-token
   - utility-token

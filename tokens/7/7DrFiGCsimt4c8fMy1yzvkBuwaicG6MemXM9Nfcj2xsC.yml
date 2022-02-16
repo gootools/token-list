@@ -3,5 +3,6 @@ name: Blueberry Social
 decimals: 9
 extensions:
   twitter: https://twitter.com/blueberrycoin
+img: https://raw.githubusercontent.com/BlueberrySocial/blueberry/main/blueberry.png
 tags:
   - social-token

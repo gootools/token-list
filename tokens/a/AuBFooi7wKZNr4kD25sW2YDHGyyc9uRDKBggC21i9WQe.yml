@@ -1,6 +1,7 @@
 symbol: OSMT
 name: Osammot Coin
 decimals: 0
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Osammot-Coin/main/Logo.png
 tags:
   - community-token
   - game-token

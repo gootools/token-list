@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/lonchnow
   website: https://lonch.io
+img: https://raw.githubusercontent.com/lonchus/lonchcoin/main/logo.png
 tags:
   - community-token
   - social-token

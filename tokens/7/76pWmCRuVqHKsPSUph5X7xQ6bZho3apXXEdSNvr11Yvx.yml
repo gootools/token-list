@@ -3,6 +3,7 @@ name: Clendeezy Coin
 decimals: 0
 extensions:
   website: https://www.smyrna.k12.de.us/shs
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/76pWmCRuVqHKsPSUph5X7xQ6bZho3apXXEdSNvr11Yvx/logo.png
 tags:
   - community-token
   - education-token

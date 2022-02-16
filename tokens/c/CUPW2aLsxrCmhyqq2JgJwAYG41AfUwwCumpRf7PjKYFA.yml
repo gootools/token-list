@@ -1,5 +1,6 @@
 symbol: SHOP
 name: SHOP Euro
 decimals: 2
+img: https://raw.githubusercontent.com/SHOP-Simone/SHOP/main/shopPNG.png
 tags:
   - Shopping

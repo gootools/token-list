@@ -1,6 +1,7 @@
 symbol: NKLE
 name: WOODEN NICKLE
 decimals: 6
+img: https://raw.githubusercontent.com/XtremeAppz/BEER-TOKEN/main/logo.png
 tags:
   - beer-token
   - drink-token

@@ -1,5 +1,6 @@
 symbol: BUCH
 name: Kombucha Coin
 decimals: 0
+img: https://raw.githubusercontent.com/ca1ebd/kombucha/master/buch-logo.png
 tags:
   - social-token

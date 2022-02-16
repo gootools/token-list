@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/hubexnetwork
   website: https://hubex.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUbEX1fVK8SvmKYkNM3DNonrrpxjNzmyEZSjhmjGyqix/logo.png
 tags:
   - utility-token

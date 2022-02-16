@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/CyberindoTech
   website: http://www.cyberindo.tech/
+img: https://cyberindo.tech/logo.png
 tags:
   - Application
   - capital-token

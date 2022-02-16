@@ -1,6 +1,7 @@
 symbol: FBD
 name: FBD Collectible Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAeZWe4RoK6fj6XHhLiynxZKV2tXqeS1kpTtP3JTWVXw/logo.png
 tags:
   - FBD
   - FajCo

@@ -1,6 +1,7 @@
 symbol: NAMEK
 name: Namek
 decimals: 9
+img: https://github.com/neptuncoin/namek/raw/main/logo.png
 tags:
   - community-token
   - social-token

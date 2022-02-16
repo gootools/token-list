@@ -1,5 +1,6 @@
 symbol: MYMD
 name: My Maid
 decimals: 0
+img: https://raw.githubusercontent.com/ldnetwork/crypto/main/logo.png
 tags:
   - social-token

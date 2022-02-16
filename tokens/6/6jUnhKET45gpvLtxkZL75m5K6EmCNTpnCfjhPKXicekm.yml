@@ -1,5 +1,6 @@
 symbol: PMC
 name: PirateCraft
 decimals: 0
+img: https://raw.githubusercontent.com/johenkel/pmc-crypto/main/logo.png
 tags:
   - social-token

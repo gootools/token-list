@@ -3,6 +3,7 @@ name: Saber acUSD-USDC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/acusd
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

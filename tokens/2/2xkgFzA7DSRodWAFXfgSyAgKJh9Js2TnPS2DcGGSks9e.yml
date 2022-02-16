@@ -1,6 +1,7 @@
 symbol: hash
 name: Hash Token
 decimals: 0
+img: https://raw.githubusercontent.com/harsh16kh/solana_quests/main/hash.jpg
 tags:
   - community-token
   - social-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/cannabiscoins_
   website: https://www.cannabiscoin.space/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4VJjP6PDuRJ6pXv73RCfihFsRatQDXsW1mzZyh6ADmiH/logo.png
 tags:
   - community-token
   - social-token

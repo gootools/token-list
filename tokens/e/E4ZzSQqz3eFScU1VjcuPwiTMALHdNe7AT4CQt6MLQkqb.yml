@@ -1,5 +1,6 @@
 symbol: PNGN
 name: Pinguin
 decimals: 0
+img: https://raw.githubusercontent.com/p1otek/pinguin/main/pingwin.jpg
 tags:
   - social-token

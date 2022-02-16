@@ -3,6 +3,7 @@ name: New Myanmar Shekel
 decimals: 9
 extensions:
   website: https://bitmmr.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFABRXExXpA9SzXc8GkURg8kEqPoxKPTB9tp57miaLsK/logo.png
 tags:
   - wrapped
   - wormhole

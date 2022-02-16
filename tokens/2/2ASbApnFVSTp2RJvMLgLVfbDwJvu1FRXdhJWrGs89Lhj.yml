@@ -3,3 +3,4 @@ name: Wrapped MIM (Allbridge from Ethereum)
 decimals: 9
 extensions:
   coingeckoId: magic-internet-money
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png

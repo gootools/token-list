@@ -1,6 +1,7 @@
 symbol: CHERRY
 name: CHERRY (devnet)
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EyUnX5CPs1y1eQTiMHt4GKBVWDc96NyPGnrKL6xrSBmE/logo.png
 tags:
   - CHERRY
 clusters:

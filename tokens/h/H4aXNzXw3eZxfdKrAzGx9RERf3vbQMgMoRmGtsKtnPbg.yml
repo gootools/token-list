@@ -3,6 +3,7 @@ name: PobarCoin
 decimals: 9
 extensions:
   twitter: https://twitter.com/SmartDevAfrica
+img: https://raw.githubusercontent.com/zlorgoncho1/pobarcoin/main/logo.png
 tags:
   - community-token
   - meme-token

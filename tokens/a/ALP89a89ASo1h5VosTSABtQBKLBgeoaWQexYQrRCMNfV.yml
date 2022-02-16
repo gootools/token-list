@@ -3,5 +3,6 @@ name: Saber aSOL-SOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/asol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV/icon.png
 tags:
   - saber-stableswap-lp

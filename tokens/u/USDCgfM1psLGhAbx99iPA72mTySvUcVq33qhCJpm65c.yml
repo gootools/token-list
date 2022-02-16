@@ -3,6 +3,7 @@ name: Saber weUSDC-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/weusdc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

@@ -3,6 +3,7 @@ name: NFT Universal Exchangable
 decimals: 9
 extensions:
   telegram: https://t.me/u_nft
+img: https://raw.githubusercontent.com/mixartemev/token-list/main/assets/mainnet/3xzVH324eKe9XGyo2L72zyWbZiqA2kMu4NnFe26PhQCb/logo.png
 tags:
   - NFT
   - utility-token

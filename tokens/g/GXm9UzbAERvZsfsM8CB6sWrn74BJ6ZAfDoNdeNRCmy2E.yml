@@ -3,6 +3,7 @@ name: Mingo Token
 decimals: 9
 extensions:
   website: https://flashyflamingos.com/
+img: https://s3.amazonaws.com/flashyflamingos.com/token.png
 tags:
   - meme-token
   - nft

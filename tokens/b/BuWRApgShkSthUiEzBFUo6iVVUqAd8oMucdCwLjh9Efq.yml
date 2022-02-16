@@ -3,6 +3,7 @@ name: Maya
 decimals: 9
 extensions:
   website: https://genezys.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BuWRApgShkSthUiEzBFUo6iVVUqAd8oMucdCwLjh9Efq/logo.png
 tags:
   - community-token
   - solana-token

@@ -3,5 +3,6 @@ name: Thor's Lightning Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/LightningsThors
+img: https://cdn.discordapp.com/attachments/915400341992923246/933715407141998642/logo.png
 tags:
   - utility-token

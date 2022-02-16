@@ -1,5 +1,6 @@
 symbol: BEANZ
 name: Beans
 decimals: 0
+img: https://raw.githubusercontent.com/AMGrind/BNZ/main/BNZ_ICON.png
 tags:
   - payment-token

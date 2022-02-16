@@ -1,6 +1,7 @@
 symbol: NIMA
 name: Nimarena Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vawu71vc4VeYtcfSGn5K9tGUgBhbRBtx1XHKksn9DiR/logo.png
 tags:
   - game-token
   - minable-token

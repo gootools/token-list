@@ -1,6 +1,7 @@
 symbol: ISGT
 name: ISG Token
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6k6R1nRupoVjvJJ6QGnJysBqyEyvgUAhWsx8QJujcPuF/logo.png
 tags:
   - community-token
   - utility-token

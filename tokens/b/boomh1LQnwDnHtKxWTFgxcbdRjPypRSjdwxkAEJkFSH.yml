@@ -1,6 +1,7 @@
 symbol: BMA
 name: Boom Army
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH/logo.svg
 tags:
   - community-token
   - social-token

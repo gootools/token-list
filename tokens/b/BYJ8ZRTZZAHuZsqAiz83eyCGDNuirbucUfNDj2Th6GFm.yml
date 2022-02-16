@@ -3,5 +3,6 @@ name: Messi Token
 decimals: 9
 extensions:
   website: https://messi.ilov.eu/
+img: https://raw.githubusercontent.com/ilov-eu/assets/main/messi-001.png
 tags:
   - social-token

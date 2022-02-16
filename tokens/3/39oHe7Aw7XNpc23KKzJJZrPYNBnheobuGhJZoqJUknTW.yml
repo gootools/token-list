@@ -3,6 +3,7 @@ name: HiQoin
 decimals: 0
 extensions:
   website: https://hiq.se/
+img: https://raw.githubusercontent.com/mpnox/HiQoins/main/HiQoin.png
 tags:
   - HiQ
   - social-token

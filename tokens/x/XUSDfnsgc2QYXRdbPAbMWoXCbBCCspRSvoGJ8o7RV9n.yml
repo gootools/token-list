@@ -3,6 +3,7 @@ name: Saber xUSD-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/xusd
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify

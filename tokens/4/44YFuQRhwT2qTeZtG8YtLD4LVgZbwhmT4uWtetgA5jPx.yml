@@ -1,5 +1,6 @@
 symbol: TGCN
 name: The Good Coin
 decimals: 0
+img: https://raw.githubusercontent.com/aberezovsky/TheGoodCoin/main/TGC_Logo.png
 tags:
   - social-token

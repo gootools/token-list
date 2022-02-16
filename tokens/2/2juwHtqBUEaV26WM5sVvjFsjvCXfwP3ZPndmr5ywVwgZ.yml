@@ -3,5 +3,6 @@ name: adamho
 decimals: 9
 extensions:
   twitter: https://twitter.com/takwah
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2juwHtqBUEaV26WM5sVvjFsjvCXfwP3ZPndmr5ywVwgZ/adamho_250x250.jpg
 tags:
   - social-token

@@ -1,6 +1,7 @@
 symbol: ISH
 name: ISH Coin
 decimals: 0
+img: https://raw.githubusercontent.com/ishnat/ishtoken/main/natishcoin.png
 tags:
   - community-token
   - social-token

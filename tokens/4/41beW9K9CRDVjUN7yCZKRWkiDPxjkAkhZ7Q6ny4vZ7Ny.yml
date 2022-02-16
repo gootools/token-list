@@ -3,5 +3,6 @@ name: Defi Solution
 decimals: 6
 extensions:
   twitter: https://twitter.com/defi_solution
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/41beW9K9CRDVjUN7yCZKRWkiDPxjkAkhZ7Q6ny4vZ7Ny/logo.png
 tags:
   - DeFi

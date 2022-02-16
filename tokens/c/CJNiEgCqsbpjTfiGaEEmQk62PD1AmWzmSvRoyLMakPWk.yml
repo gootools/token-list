@@ -3,6 +3,7 @@ name: Harry Bro (CJNi)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/4zZd9KUxa8Ndtj23UF7ffMAEbTyPhJLKJyFPhQ43S6Qu?src=token-list
+img: https://devbeta.human.ag/api/profile/4zZd9KUxa8Ndtj23UF7ffMAEbTyPhJLKJyFPhQ43S6Qu/picture?src=token-list
 tags:
   - human
   - social-token

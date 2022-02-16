@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (BTC-SRM)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGHQxXb3GSzeiLTcLtXMS2D5GGDZxsB2fZYZxSB5weqB/logo.png
 tags:
   - lp-token

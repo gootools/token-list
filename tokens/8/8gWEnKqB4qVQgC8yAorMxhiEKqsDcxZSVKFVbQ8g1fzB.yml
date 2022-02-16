@@ -3,5 +3,6 @@ name: Pornlana
 decimals: 9
 extensions:
   website: http://pornlana.com
+img: https://raw.githubusercontent.com/Agaveis/pornlana/main/logo.png
 tags:
   - meme-token

@@ -3,6 +3,7 @@ name: Saber aeFTT-wFTT LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/wftt
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

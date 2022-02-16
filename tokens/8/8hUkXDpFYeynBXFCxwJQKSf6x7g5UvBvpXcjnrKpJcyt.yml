@@ -1,5 +1,6 @@
 symbol: NODY
 name: Noddy Badge
 decimals: 0
+img: https://raw.githubusercontent.com/JeanPant/crypto/main/logo.png
 tags:
   - social-token

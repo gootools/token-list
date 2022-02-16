@@ -10,6 +10,7 @@ extensions:
   telegram: https://t.me/coinvs
   twitter: https://twitter.com/CoinVersus
   website: https://coinversus.com/
+img: https://raw.githubusercontent.com/CoinVs/brand-assets/master/logo/logo.png
 tags:
   - coinversus
   - cvs

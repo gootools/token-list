@@ -6,6 +6,7 @@ extensions:
   assetContract: https://etherscan.io/address/0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: smooth-love-potion
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/42gecM46tdSiYZN2CK1ek5raCxnzQf1xfhoKAf3F7Y5k/logo.png
 tags:
   - wrapped
   - wormhole

@@ -1,6 +1,7 @@
 symbol: STN
 name: Stone Token
 decimals: 9
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Stone-Coin/main/logo.png
 tags:
   - community-token
   - game-token

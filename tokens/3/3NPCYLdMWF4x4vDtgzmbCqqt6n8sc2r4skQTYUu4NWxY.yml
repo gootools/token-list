@@ -1,6 +1,7 @@
 symbol: MTR
 name: Meteor
 decimals: 0
+img: https://raw.githubusercontent.com/gugunaga/meteor_token/main/assets/MTR_SYMB.png
 tags:
   - game
   - nft

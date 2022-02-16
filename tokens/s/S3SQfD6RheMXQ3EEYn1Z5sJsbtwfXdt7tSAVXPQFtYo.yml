@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://explorer.oasis.updev.si/address/0x5848C791e09901b40A9Ef749f2a6735b418d7564
   coingeckoId: oasis-network
   serumV3Usdc: EybAYkmRKCyD4w8AErTG1bqmnvT85LFuPQPMCc8J3yD
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo/logo.png
 tags:
   - wrapped
   - wormhole

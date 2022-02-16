@@ -3,5 +3,6 @@ name: Raydium Legacy LP Token V2 (RAY-USDC)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg/logo.png
 tags:
   - lp-token

@@ -1,5 +1,6 @@
 symbol: TRICK
 name: TrickCoin
 decimals: 8
+img: https://raw.githubusercontent.com/TrickCoin/Trick/main/logo.png
 tags:
   - social-token

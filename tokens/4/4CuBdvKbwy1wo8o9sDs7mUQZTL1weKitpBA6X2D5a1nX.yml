@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   telegram: https://t.me/nebula_android_application
   website: https://nebula.spl-token.com
+img: https://cdn.jsdelivr.net/gh/nonconforme/nebula_stars_anthill/nebula_logo_mini.png
 tags:
   - farming
   - nebula

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/nufi_official
   website: https://nu.fi
+img: https://raw.githubusercontent.com/saosaik/cryptos/main/nufi.png
 tags:
   - community-token
   - CEX-DEX

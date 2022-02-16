@@ -1,6 +1,7 @@
 symbol: OZY
 name: Ozymandias Coin
 decimals: 9
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Ozymandias-Coin/main/logo.png
 tags:
   - community-token
   - Ozymandias-token

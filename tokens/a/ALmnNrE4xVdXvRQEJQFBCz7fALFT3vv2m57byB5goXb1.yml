@@ -3,5 +3,6 @@ name: LDT Mint Pass G1
 decimals: 0
 extensions:
   website: https://livingdeadteds.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALmnNrE4xVdXvRQEJQFBCz7fALFT3vv2m57byB5goXb1/logo.png
 tags:
   - utility-token

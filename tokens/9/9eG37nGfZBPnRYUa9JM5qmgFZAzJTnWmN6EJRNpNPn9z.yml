@@ -3,5 +3,6 @@ name: Get Rich Quick token
 decimals: 0
 extensions:
   website: https://solscan.io/
+img: https://raw.githubusercontent.com/flashdumper/grq/master/grq.png
 tags:
   - meme-token

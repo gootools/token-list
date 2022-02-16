@@ -1,6 +1,7 @@
 symbol: GAS
 name: Gas
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/GAS.png
 tags:
   - community
   - Gas

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   serumV3Usdc: Bm6GpVJsSfhmLEwJqQxGRLBvq4Gf5ERCsY8Xp1TZzPAk
   twitter: https://twitter.com/sol_ninja_doge
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9dwrdifAVWZsyEPxi15D8LcLsdrvTbpabrGw5EVzc7pp/logo.png
 tags:
   - community
   - Meme

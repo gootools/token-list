@@ -1,5 +1,6 @@
 symbol: BOSS
 name: Bosschester Coin
 decimals: 0
+img: https://raw.githubusercontent.com/jwood91/bosschester-coin/main/bosschester.png
 tags:
   - social-token

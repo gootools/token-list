@@ -1,5 +1,6 @@
 symbol: TOKO
 name: TokoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/hayaitoko/tokocoin/main/logo.png
 tags:
   - social-token

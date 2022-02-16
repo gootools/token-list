@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/BareBonesNFT
   website: https://www.barebonesnft.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJ2K2J3HYU6ibR1JwLkUmD9RM8eytfxtMcLzYPqoQQKo/logo.png
 tags:
   - nft-token
   - utility-token

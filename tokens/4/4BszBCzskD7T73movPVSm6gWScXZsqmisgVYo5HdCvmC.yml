@@ -3,5 +3,6 @@ name: BostonBionics Token
 decimals: 0
 extensions:
   website: https://www.bostonbionics.eu/
+img: https://raw.githubusercontent.com/bostonbionics/bostonbionics/03190f8dff48913d39ca486a60afd42fea990f6a/logo.jpg
 tags:
   - company-token

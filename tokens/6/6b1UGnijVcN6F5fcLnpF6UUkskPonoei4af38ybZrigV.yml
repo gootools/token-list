@@ -3,5 +3,6 @@ name: Project SEED Token
 decimals: 6
 extensions:
   website: https://projectseed.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6b1UGnijVcN6F5fcLnpF6UUkskPonoei4af38ybZrigV/logo.png
 tags:
   - projectseedtoken

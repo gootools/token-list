@@ -1,5 +1,6 @@
 symbol: PENGU
 name: PENGU COIN
 decimals: 0
+img: https://raw.githubusercontent.com/CrazyLoafofBread/SolanaCryptoProject/main/PengToken.png
 tags:
   - social-token

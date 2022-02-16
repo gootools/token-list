@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/Stepnofficial
   website: https://stepn.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6156vEwBw11hGF6rkr3um5RPNWfBCYBFH7XcbEF47erH/logo.png
 tags:
   - utility-token

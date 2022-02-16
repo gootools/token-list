@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/salvadousd
   twitter: https://twitter.com/SalvadorUsd
+img: https://cdn.jsdelivr.net/gh/dsfjichi/susd/logo.png
 tags:
   - stablecoin

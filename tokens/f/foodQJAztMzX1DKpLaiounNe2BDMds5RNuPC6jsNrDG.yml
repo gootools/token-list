@@ -3,5 +3,6 @@ name: AtlasFOOOOD
 decimals: 0
 extensions:
   website: https://shoebillco.in/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG/logo.jpg
 tags:
   - util-token

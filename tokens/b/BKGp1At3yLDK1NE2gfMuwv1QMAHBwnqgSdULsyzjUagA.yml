@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   serumV3Usdc: 91WiupLKLjP8ENihdgiZ53j49aosNm1EYXdLbRD6GAY4
   website: https://kissme.samoymeme.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BKGp1At3yLDK1NE2gfMuwv1QMAHBwnqgSdULsyzjUagA/logo.png
 tags:
   - community
   - meme

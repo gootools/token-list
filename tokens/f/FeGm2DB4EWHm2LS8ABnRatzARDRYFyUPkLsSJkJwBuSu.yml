@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7
   twitter: https://twitter.com/flokimuskmeme
   website: https://flokimuskweb.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGm2DB4EWHm2LS8ABnRatzARDRYFyUPkLsSJkJwBuSu/logo.png
 tags:
   - wrapped
   - wormhole

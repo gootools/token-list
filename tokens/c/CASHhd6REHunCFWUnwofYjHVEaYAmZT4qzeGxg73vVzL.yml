@@ -1,6 +1,7 @@
 symbol: Cash
 name: Capital
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHhd6REHunCFWUnwofYjHVEaYAmZT4qzeGxg73vVzL/logo.png
 tags:
   - capped
   - deflatory

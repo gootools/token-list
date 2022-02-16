@@ -3,5 +3,6 @@ name: Saber pBTC-renBTC LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/pbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x/icon.png
 tags:
   - saber-stableswap-lp

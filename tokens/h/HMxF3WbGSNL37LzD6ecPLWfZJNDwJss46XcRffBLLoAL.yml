@@ -3,5 +3,6 @@ name: Ka7ibrator Coin
 decimals: 0
 extensions:
   instagram: https://www.instagram.com/Ka7ibrator/
+img: https://raw.githubusercontent.com/Ka7IO/solly/main/Logo.png
 tags:
   - utility-token

@@ -1,5 +1,6 @@
 symbol: TOBY
 name: TobyCoin
 decimals: 9
+img: https://raw.githubusercontent.com/DanielKDevine/CryptoToby/main/logo.png
 tags:
   - social-token

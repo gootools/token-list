@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/Sol_S_Official
   website: https://www.solstoken.com/
+img: https://cdn.jsdelivr.net/gh/soldogs/sols@main/Logo.png
 tags:
   - community-token
   - meme-token

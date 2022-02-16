@@ -1,6 +1,7 @@
 symbol: DEFI
 name: Crypto
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/CryptoCoin.png
 tags:
   - community
   - Crypto

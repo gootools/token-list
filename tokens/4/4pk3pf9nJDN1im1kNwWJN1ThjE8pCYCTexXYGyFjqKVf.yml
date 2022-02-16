@@ -3,5 +3,6 @@ name: Dominican Pesos
 decimals: 9
 extensions:
   website: https://Odop.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf/logo.png
 tags:
   - stablecoin

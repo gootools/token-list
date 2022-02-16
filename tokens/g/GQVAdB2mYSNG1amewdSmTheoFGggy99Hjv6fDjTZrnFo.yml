@@ -3,5 +3,6 @@ name: Subayai Snakes VENOM
 decimals: 0
 extensions:
   website: https://subayaisnakes.com
+img: https://raw.githubusercontent.com/abrarmusa/files/master/logo.png
 tags:
   - utility-token

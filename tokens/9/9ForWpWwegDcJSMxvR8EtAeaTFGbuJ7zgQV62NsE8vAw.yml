@@ -3,6 +3,7 @@ name: Berk Coin
 decimals: 9
 extensions:
   github: https://github.com/berk-demirci-bimu
+img: https://raw.githubusercontent.com/berk-demirci-bimu/repos/main/com/repos/resources/img/logo.png
 tags:
   - community-token
   - individual-token

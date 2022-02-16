@@ -3,5 +3,6 @@ name: PERKS
 decimals: 8
 extensions:
   website: https://www.perkhero.com
+img: https://next.perkhero.com/token.png
 clusters:
   - devnet

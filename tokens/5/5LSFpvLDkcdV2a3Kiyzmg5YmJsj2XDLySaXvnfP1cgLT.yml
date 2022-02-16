@@ -3,6 +3,7 @@ name: Dogemon
 decimals: 6
 extensions:
   website: https://dogemongo.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT/logo.png
 tags:
   - DogemonGo
   - GameFi

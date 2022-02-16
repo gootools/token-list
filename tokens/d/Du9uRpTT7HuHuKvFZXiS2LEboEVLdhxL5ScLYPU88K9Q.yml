@@ -1,5 +1,6 @@
 symbol: FCoin
 name: Firecup Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Du9uRpTT7HuHuKvFZXiS2LEboEVLdhxL5ScLYPU88K9Q/logo.png
 tags:
   - social-token

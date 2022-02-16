@@ -3,6 +3,7 @@ name: Galaxy
 decimals: 4
 extensions:
   serumV3Usdc: 2B6CxvMS91eNyQ1FPyEqybvjFiZtKaBqHWKfXAKn1jij
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7s7PKr3qhuvZjngR1Zmsy53tFLLhZA4aoMnzeE8Z2H5Z/logo.png
 tags:
   - DeFi
   - gaming

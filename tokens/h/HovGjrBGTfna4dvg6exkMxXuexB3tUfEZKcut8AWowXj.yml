@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/spacefalconIO
   twitter: https://twitter.com/SpaceFalconIO
   website: https://spacefalcon.io/
+img: https://raw.githubusercontent.com/spacefalcon-io/crypto/main/logo.svg
 tags:
   - game-token
   - trading-token

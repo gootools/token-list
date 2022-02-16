@@ -3,5 +3,6 @@ name: Tomato I Love U
 decimals: 0
 extensions:
   website: https://tomato.ilov.eu
+img: https://raw.githubusercontent.com/ilov-eu/assets/main/tomato-logo.png
 tags:
   - social-token

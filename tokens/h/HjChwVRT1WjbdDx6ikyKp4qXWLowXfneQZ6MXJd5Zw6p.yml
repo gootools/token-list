@@ -1,6 +1,7 @@
 symbol: PoSB
 name: PoSB Doubloon
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HjChwVRT1WjbdDx6ikyKp4qXWLowXfneQZ6MXJd5Zw6p/logo.png
 tags:
   - doubloon
   - posb-token

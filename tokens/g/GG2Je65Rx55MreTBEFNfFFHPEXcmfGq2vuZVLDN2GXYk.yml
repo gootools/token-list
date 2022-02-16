@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   telegram: https://t.me/altarfinanceCH
   website: https://altar.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GG2Je65Rx55MreTBEFNfFFHPEXcmfGq2vuZVLDN2GXYk/logo.png
 tags:
   - DApp
   - Exchange

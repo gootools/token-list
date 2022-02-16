@@ -3,5 +3,6 @@ name: Pebblez
 decimals: 8
 extensions:
   facebook: https://www.facebook.com/pebbleztoken
+img: https://cdn.jsdelivr.net/gh/zibo123/Pebblez/pebblezlogo.png
 tags:
   - community-token

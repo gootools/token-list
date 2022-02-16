@@ -3,5 +3,6 @@ name: BlocSocIITR
 decimals: 0
 extensions:
   website: https://blocsoc.netlify.app/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Mekk6DCgmFZpDCz4FGDPq1T1W43YPUakiRsoY89uKXM/logo.png
 tags:
   - utility-token

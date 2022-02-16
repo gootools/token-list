@@ -3,6 +3,7 @@ name: Astral
 decimals: 9
 extensions:
   github: https://github.com/AslakOffi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GxkmWoupEMFg4w4aCxcsLgJsxvQybMQPf9PMetCkFJfy/logo.png
 tags:
   - community-token
   - meme-token

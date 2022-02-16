@@ -3,6 +3,7 @@ name: Nasa Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/nasa
+img: https://raw.githubusercontent.com/SolanaTokenMerger/NASA-Coin/main/logo.png
 tags:
   - community-token
   - meme-token

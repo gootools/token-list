@@ -3,6 +3,7 @@ name: Saber ahBTC-renBTC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/ahwbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

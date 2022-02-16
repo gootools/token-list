@@ -3,6 +3,7 @@ name: Instagram NFT EEW
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/3eEwnZksgg8mADgSyLzcMQQyVzt2ZCGyQxNet7wcyhBZ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3eEwnZksgg8mADgSyLzcMQQyVzt2ZCGyQxNet7wcyhBZ/logo.jpg
 tags:
   - instagram
   - nft

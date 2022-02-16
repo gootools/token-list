@@ -1,6 +1,7 @@
 symbol: TANK
 name: The Aslan Token
 decimals: 0
+img: https://raw.githubusercontent.com/azlan2355/crypto/main/final-lion.png
 tags:
   - community-token
   - meme-token

@@ -3,6 +3,7 @@ name: Briskd token
 decimals: 0
 extensions:
   instagram: https://www.instagram.com/briskd.cc/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BekJYnrW64iEx8bSrk8LXpFN1UoAiAgmYMvyrgQCbeFM/logo.png
 tags:
   - community-token
   - social-token

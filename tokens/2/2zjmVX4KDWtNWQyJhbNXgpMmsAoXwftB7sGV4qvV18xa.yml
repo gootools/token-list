@@ -3,6 +3,7 @@ name: Shear Ego Coin
 decimals: 0
 extensions:
   website: https://shearego.com
+img: https://raw.githubusercontent.com/jcards26/sol/main/new-new.png
 tags:
   - community-token
   - social-token

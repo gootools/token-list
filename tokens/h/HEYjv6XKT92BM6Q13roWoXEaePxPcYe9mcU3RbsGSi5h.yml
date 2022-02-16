@@ -1,6 +1,7 @@
 symbol: FRIEN
 name: Friends
 decimals: 8
+img: https://raw.githubusercontent.com/HellArnt/crypto/main/Friends.png
 tags:
   - community-token
   - social-token

@@ -1,5 +1,6 @@
 symbol: MGC
 name: Mi Gente Coin
 decimals: 0
+img: https://raw.githubusercontent.com/botapierna/crypto/main/MGC_logo.png
 tags:
   - social-token

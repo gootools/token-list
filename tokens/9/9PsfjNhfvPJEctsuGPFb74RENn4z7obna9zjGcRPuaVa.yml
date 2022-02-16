@@ -3,6 +3,7 @@ name: dooboolab coin
 decimals: 0
 extensions:
   website: https://dooboolab.com
+img: https://user-images.githubusercontent.com/27461460/147493821-1d95ae21-319a-410d-8a2c-4a69892080ec.png
 tags:
   - community-coin
   - dooboo-coin

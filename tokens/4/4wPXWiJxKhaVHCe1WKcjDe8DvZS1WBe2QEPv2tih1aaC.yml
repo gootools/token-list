@@ -3,6 +3,7 @@ name: BitLite Coin
 decimals: 0
 extensions:
   website: https://bitlite.live
+img: https://raw.githubusercontent.com/Danieljr1995/crypto/main/bitlitelogo.png
 tags:
   - community-token
   - utility-token

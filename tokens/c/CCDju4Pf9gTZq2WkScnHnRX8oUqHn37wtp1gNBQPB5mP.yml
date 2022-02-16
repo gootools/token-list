@@ -1,6 +1,7 @@
 symbol: BCY
 name: BitcoinCity
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CCDju4Pf9gTZq2WkScnHnRX8oUqHn37wtp1gNBQPB5mP/logo.png
 tags:
   - bitcoincity
   - community-token

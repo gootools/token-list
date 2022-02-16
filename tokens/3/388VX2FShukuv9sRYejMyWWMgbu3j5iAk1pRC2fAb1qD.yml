@@ -4,6 +4,7 @@ decimals: 4
 extensions:
   twitter: https://twitter.com/local_token
   website: https://www.ourlocaltokens.com
+img: https://raw.githubusercontent.com/MPWAssociates/Local-Token/main/LocalTokenLogoGitHub.png
 tags:
   - Community
   - Local-Token

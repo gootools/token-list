@@ -1,5 +1,6 @@
 symbol: PCN
 name: Pecun
 decimals: 0
+img: https://raw.githubusercontent.com/janlampert/crypto/main/pecun_logo.png
 tags:
   - social-token

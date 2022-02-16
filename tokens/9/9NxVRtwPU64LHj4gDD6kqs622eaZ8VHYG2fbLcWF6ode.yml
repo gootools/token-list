@@ -3,6 +3,7 @@ name: Hacka Coin
 decimals: 0
 extensions:
   website: https://hackatalk.dev
+img: https://xzqqawurhhkzdtqrwnsl.supabase.in/storage/v1/object/public/public/Hacka.png
 tags:
   - community-coin
   - hacka-coin

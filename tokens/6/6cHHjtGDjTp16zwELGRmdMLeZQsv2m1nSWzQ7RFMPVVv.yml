@@ -1,6 +1,7 @@
 symbol: ABEFT
 name: ABE Family Token
 decimals: 9
+img: https://raw.githubusercontent.com/albertamoyaw/crypto/main/abe_fam_logo.png
 tags:
   - auction
   - nft

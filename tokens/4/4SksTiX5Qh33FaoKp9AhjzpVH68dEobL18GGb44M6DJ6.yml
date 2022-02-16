@@ -3,6 +3,7 @@ name: Lawyer
 decimals: 0
 extensions:
   website: https://blocksto.ne/lawyers/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SksTiX5Qh33FaoKp9AhjzpVH68dEobL18GGb44M6DJ6/blockstonePNG.png
 tags:
   - Blockstone-lawyers
   - Solana

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolSavages
   website: https://www.solsavages.com
+img: https://raw.githubusercontent.com/solodevo/family/main/logo.png
 tags:
   - community-token
   - utility-token

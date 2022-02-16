@@ -3,5 +3,6 @@ name: SuperBonds Token
 decimals: 6
 extensions:
   website: https://superbonds.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx/logo.svg
 tags:
   - defi-token

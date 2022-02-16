@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/gorillaz_nft
   website: http://www.gorillaznft.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54J1tQbQVVPvEcnDqCYNfMe2pEyWEWmix2cb3t1ENim8/logo.png
 tags:
   - community-token
   - nfts

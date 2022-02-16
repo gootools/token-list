@@ -3,6 +3,7 @@ name: Port Finance 2022 March Principal USDC
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg
 tags:
   - lending
   - port

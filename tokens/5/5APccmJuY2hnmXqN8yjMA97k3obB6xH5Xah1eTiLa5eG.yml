@@ -1,5 +1,6 @@
 symbol: TUTT
 name: The Unkown Tipping Token
 decimals: 0
+img: https://raw.githubusercontent.com/TUT-Token/sol_token/main/tut.png
 tags:
   - social-token

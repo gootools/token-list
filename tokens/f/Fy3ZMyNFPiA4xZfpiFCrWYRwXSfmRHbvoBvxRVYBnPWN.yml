@@ -1,5 +1,6 @@
 symbol: DDC
 name: Doodle Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fy3ZMyNFPiA4xZfpiFCrWYRwXSfmRHbvoBvxRVYBnPWN/logo.png
 tags:
   - game-token

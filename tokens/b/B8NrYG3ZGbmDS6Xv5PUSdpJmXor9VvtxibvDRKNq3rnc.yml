@@ -3,6 +3,7 @@ name: META SOL
 decimals: 9
 extensions:
   twitter: https://twitter.com/MetaSol2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B8NrYG3ZGbmDS6Xv5PUSdpJmXor9VvtxibvDRKNq3rnc/logo.png
 tags:
   - community
   - DEFI

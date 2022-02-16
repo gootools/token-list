@@ -8,6 +8,7 @@ extensions:
   coingeckoId: yearn-finance
   serumV3Usdc: BiJXGFc1c4gyPpv9HLRJoKbZewWQrTCHGuxYKjYMQJpC
   serumV3Usdt: 9sue9TZAeUhNtNAPPGb9dke7rkJeXktGD3u8ZC37GWnQ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX/logo.png
 tags:
   - wrapped
   - wormhole

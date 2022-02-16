@@ -1,5 +1,6 @@
 symbol: TCHR
 name: ToCharCoin
 decimals: 0
+img: https://raw.githubusercontent.com/nathanru/crypto/main/token_logo.png
 tags:
   - social-token

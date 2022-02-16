@@ -3,6 +3,7 @@ name: Finn Coin
 decimals: 9
 extensions:
   website: https://martens.wtf/
+img: https://raw.githubusercontent.com/tsaunya/assets/main/finn.png
 tags:
   - meme-token
   - social-token

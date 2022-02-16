@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/nftsoltoken
   website: https://nftsol.club
+img: https://raw.githubusercontent.com/NFTSOL/assets/main/assets/nftsol500.png
 tags:
   - nft-token

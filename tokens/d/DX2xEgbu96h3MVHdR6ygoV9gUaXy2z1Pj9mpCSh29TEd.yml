@@ -1,6 +1,7 @@
 symbol: SCCN
 name: Shred Camp Coin
 decimals: 9
+img: https://raw.githubusercontent.com/gamegenie1/cryptoLo/main/CoinLogo.png
 tags:
   - company-token
   - community-token

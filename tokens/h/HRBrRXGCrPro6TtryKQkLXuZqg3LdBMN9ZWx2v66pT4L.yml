@@ -3,5 +3,6 @@ name: Wrapped Navcoin
 decimals: 6
 extensions:
   website: https://navcoin.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRBrRXGCrPro6TtryKQkLXuZqg3LdBMN9ZWx2v66pT4L/logo.png
 tags:
   - ethereum

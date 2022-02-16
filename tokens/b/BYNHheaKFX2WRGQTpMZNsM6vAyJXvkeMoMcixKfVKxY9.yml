@@ -3,5 +3,6 @@ name: Plutonium
 decimals: 6
 extensions:
   website: https://safepluto.tech
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYNHheaKFX2WRGQTpMZNsM6vAyJXvkeMoMcixKfVKxY9/logo.png
 tags:
   - utility-token

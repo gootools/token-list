@@ -3,6 +3,7 @@ name: Instagram NFT UVQ
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/8UVQCYwBHGhHWeNZvYwCE8WcGmCpzA8AgxP2FaCUn3H4
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8UVQCYwBHGhHWeNZvYwCE8WcGmCpzA8AgxP2FaCUn3H4/logo.jpg
 tags:
   - instagram
   - nft

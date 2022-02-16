@@ -3,6 +3,7 @@ name: Saber wUST-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/wust
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

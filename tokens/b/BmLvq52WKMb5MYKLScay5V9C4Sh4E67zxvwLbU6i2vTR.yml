@@ -6,6 +6,7 @@ extensions:
   imageUrl: https://storage.googleapis.com/honeypotnft/honeypot.png
   serumV3Usdc: EhABxYSBodQF7vz6D633cxCG7BSK1S6NrNNPVMSpKLct
   website: https://www.thebugbear.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BmLvq52WKMb5MYKLScay5V9C4Sh4E67zxvwLbU6i2vTR/logo.png
 tags:
   - BugBear
   - NFT

@@ -3,6 +3,7 @@ name: Pin Club
 decimals: 0
 extensions:
   website: https://pinclub.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CYxiyUo2pgMHkCWpWf4TU47f3Q1rMUWP1R4WtFmVLLA/logo.png
 tags:
   - utility-token
 clusters:

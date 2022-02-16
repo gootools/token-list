@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/dogetesla_
   website: https://www.dogetesla.space
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7v5K9VFiqNTWnmkK4wofVfRzG7f7AGQ7WLXLmP91UibU/logo.png
 tags:
   - doge-token
   - Doge

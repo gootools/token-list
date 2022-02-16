@@ -1,6 +1,7 @@
 symbol: CNPI
 name: CNPinvest
 decimals: 6
+img: https://raw.githubusercontent.com/kenviet/CNPI/main/CNPI.png
 tags:
   - DEX
   - MEMES-TOKEN

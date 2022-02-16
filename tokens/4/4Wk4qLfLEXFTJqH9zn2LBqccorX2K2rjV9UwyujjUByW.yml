@@ -3,6 +3,7 @@ name: Dhancoin
 decimals: 5
 extensions:
   description: crypto asset for the indian metaverse
+img: https://raw.githubusercontent.com/dhancoinofficial/token-list/main/assets/mainnet/4Wk4qLfLEXFTJqH9zn2LBqccorX2K2rjV9UwyujjUByW/logo.jpg
 tags:
   - Desi-coin
   - Indian-token

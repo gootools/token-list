@@ -3,6 +3,7 @@ name: Glide
 decimals: 0
 extensions:
   website: https://glidecoin.com/
+img: https://raw.githubusercontent.com/tsbsoltn/soltn/main/logo.png
 tags:
   - community-token
   - social-token

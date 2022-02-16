@@ -1,6 +1,7 @@
 symbol: PC
 name: PearCoin
 decimals: 0
+img: https://raw.githubusercontent.com/timpan77/cryptoc/main/logo.png
 tags:
   - community-token
   - social-token

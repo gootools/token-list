@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   coingeckoId: apyswap
   website: https://apyswap.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW/logo.png
 tags:
   - wrapped

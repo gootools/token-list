@@ -1,6 +1,7 @@
 symbol: KROM
 name: Krom Powered
 decimals: 9
+img: https://raw.githubusercontent.com/lminor/blockbusters/main/krom/logo.png
 tags:
   - social-token
   - utility-token

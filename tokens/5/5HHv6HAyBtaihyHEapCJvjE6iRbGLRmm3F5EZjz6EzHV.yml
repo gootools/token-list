@@ -8,6 +8,7 @@ extensions:
   coingeckoId: everid
   twitter: https://twitter.com/EverestDotOrg
   website: https://everest.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5HHv6HAyBtaihyHEapCJvjE6iRbGLRmm3F5EZjz6EzHV/logo.png
 tags:
   - wrapped
   - wormhole

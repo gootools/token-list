@@ -6,6 +6,7 @@ extensions:
   coinmarketcap: https://coinmarketcap.com/currencies/botxcoin/
   instagram: https://www.instagram.com/botxofficial/
   website: https://www.botx.network
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbmZ9fE3XxMUr1vEcjvrRqLJv3p9Zjs5fXeZBUGFgC7y/logo.png
 tags:
   - ethereum
   - wrapped

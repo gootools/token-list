@@ -1,5 +1,6 @@
 symbol: DUCK
 name: Duck Token
 decimals: 9
+img: https://raw.githubusercontent.com/FriendlyDuckNFT/nft-project/main/ducktokennew.png
 tags:
   - utility-token

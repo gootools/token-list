@@ -1,6 +1,7 @@
 symbol: YUANBAO
 name: Yuanbao Coin
 decimals: 0
+img: https://raw.githubusercontent.com/joelshu1/frenchclass/main/logo-yuanbao.png
 tags:
   - social-token
   - utility-token

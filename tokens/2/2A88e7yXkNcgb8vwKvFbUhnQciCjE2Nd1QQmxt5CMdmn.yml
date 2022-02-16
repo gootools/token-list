@@ -1,6 +1,7 @@
 symbol: SHCH
 name: ShchichCoin
 decimals: 0
+img: https://raw.githubusercontent.com/Aksid83/shch/main/logo.png
 tags:
   - community-token
   - social-token

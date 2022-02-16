@@ -3,6 +3,7 @@ name: Blockmec Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/blockmectechno1
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9q2vXTk4zLFMLFri3fyzsHNxMo7MmtsHajcBipaSNhr6/logo.png
 tags:
   - blockmec
   - blc

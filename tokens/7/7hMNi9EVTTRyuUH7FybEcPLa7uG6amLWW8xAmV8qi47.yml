@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolanaWorms
   website: https://www.solworms.com
+img: https://raw.githubusercontent.com/solanadevv/token-list/3f415a0fbe16c25e699842c8dfed327a0fbfc727/assets/mainnet/7hMNi9EVTTRyuUH7FybEcPLa7uG6amLWW8xAmV8qi47/logo.png
 tags:
   - nft
   - utility-token

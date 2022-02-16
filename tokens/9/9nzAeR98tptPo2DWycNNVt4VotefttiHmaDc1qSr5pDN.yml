@@ -1,5 +1,6 @@
 symbol: FLC
 name: Fortune legacy coin
 decimals: 0
+img: https://raw.githubusercontent.com/abelgirmay/crypto/main/fortunelegacy.png
 tags:
   - social-token

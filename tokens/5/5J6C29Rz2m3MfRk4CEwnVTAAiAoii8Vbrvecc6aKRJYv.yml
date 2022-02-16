@@ -3,5 +3,6 @@ name: Pika Coin
 decimals: 0
 extensions:
   website: https://perkypikas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5J6C29Rz2m3MfRk4CEwnVTAAiAoii8Vbrvecc6aKRJYv/logo.png
 tags:
   - utility-token

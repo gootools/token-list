@@ -3,5 +3,6 @@ name: LAMRIUM EMPEROR
 decimals: 6
 extensions:
   twitter: https://twitter.com/LamriumEmperor
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FX1jtt1ebuEufXe4kV1otstnD1cz9J8rhB28U7hssWKY/logo.png
 tags:
   - community-token

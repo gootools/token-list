@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   description: Social token which is the fuel of the blockchain-market Bondii ecosystem.
   website: https://bondii.net/
+img: https://raw.githubusercontent.com/jorgadan/bondii-crypto/main/logo.png
 tags:
   - social-token

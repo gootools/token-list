@@ -3,5 +3,6 @@ name: Robotopian Token
 decimals: 9
 extensions:
   website: https://robotopia.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EFBGjiTEuvhwZGmEzDBJwrWnSDuALx94MERncXNsap3G/logo.png
 tags:
   - utility-token

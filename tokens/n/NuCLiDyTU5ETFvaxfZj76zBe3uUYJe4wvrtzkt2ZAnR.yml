@@ -1,6 +1,7 @@
 symbol: NUCL
 name: Nuclear
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NuCLiDyTU5ETFvaxfZj76zBe3uUYJe4wvrtzkt2ZAnR/logo.png
 tags:
   - capped
   - deflatory

@@ -3,5 +3,6 @@ name: BHSG Stake Tracker
 decimals: 9
 extensions:
   website: https://bountyhunterspaceguild.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TRck3zHXCTyoAsiKPn1NyGb3i1mXFbB8JHheh7uFiVL/logo.png
 tags:
   - utility-token

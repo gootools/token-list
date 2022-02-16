@@ -1,6 +1,7 @@
 symbol: INS
 name: Insurance
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Insurance.png
 tags:
   - community
   - Insurance

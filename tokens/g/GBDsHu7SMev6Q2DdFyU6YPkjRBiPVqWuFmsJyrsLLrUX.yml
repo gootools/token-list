@@ -1,6 +1,7 @@
 symbol: TOPIA
 name: Topia Token
 decimals: 9
+img: https://raw.githubusercontent.com/apetopiadev/logo/main/logo.png
 tags:
   - currency
   - social-token

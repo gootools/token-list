@@ -3,6 +3,7 @@ name: CoffeeMaker
 decimals: 9
 extensions:
   website: https://coffeemaker.finance
+img: https://cdn.jsdelivr.net/gh/cofeeswap/logo/coffeev2.png
 tags:
   - nft
   - nft-marketplace

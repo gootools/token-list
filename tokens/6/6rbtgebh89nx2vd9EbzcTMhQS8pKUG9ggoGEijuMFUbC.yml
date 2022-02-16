@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/SheinVerse
   website: https://sheinverse.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6rbtgebh89nx2vd9EbzcTMhQS8pKUG9ggoGEijuMFUbC/logo.png
 tags:
   - game
   - meta-verse

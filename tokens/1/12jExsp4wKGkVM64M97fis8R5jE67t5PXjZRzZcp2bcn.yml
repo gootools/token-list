@@ -1,6 +1,7 @@
 symbol: SYMP
 name: SympCredit
 decimals: 0
+img: https://raw.githubusercontent.com/thomasflx/symp-tokens/main/credits/logo.png
 tags:
   - community-token
   - social-token

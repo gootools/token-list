@@ -3,6 +3,7 @@ name: Instagram NFT BIGSTRAYWOLF 1
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/FXgz4aZtrUYdbqWA2boPzQE4J9hfHTGYB31e7sWf4LmL
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FXgz4aZtrUYdbqWA2boPzQE4J9hfHTGYB31e7sWf4LmL/logo.jpg
 tags:
   - instagram
   - nft

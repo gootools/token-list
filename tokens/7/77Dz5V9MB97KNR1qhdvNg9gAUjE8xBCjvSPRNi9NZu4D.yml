@@ -1,5 +1,6 @@
 symbol: BICO
 name: Big Coin
 decimals: 0
+img: https://raw.githubusercontent.com/jas0nn1/dankcoin/main/monkeyLogo.png
 tags:
   - social-token

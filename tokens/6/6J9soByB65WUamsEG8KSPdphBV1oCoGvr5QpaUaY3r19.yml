@@ -6,6 +6,7 @@ extensions:
   assetContract: https://etherscan.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: pickle-finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6J9soByB65WUamsEG8KSPdphBV1oCoGvr5QpaUaY3r19/logo.png
 tags:
   - wrapped
   - wormhole

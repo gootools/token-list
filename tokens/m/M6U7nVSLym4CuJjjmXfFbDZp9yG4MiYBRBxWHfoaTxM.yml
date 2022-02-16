@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   description: Token used to trade international steel
   website: https://morosteel.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/M6U7nVSLym4CuJjjmXfFbDZp9yG4MiYBRBxWHfoaTxM/logo.png
 tags:
   - COMMERCE
   - DEX

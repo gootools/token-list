@@ -3,6 +3,7 @@ name: Miin Token
 decimals: 8
 extensions:
   website: https://miinasian.vn
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBEjV98i1CoyN9nWBdyumomJN6M4EQgkpgHp4c8Ue5cW/logo.png
 tags:
   - utility-token
 clusters:

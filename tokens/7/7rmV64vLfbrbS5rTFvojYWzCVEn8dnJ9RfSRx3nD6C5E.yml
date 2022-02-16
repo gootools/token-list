@@ -3,6 +3,7 @@ name: Super Mario
 decimals: 4
 extensions:
   serumV3Usdc: GN2TTgnWm7WyMEFZjbtzZL2d7NxhBk4QMZtDdLZUkcqv
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E/logo.png
 tags:
   - Community-token
   - Meme

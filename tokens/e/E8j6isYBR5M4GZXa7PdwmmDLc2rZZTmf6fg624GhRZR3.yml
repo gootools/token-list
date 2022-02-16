@@ -1,5 +1,6 @@
 symbol: KOBE
 name: Kobe Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Giobertox/CryptoKobe/main/KobeLogo.png
 tags:
   - social-token

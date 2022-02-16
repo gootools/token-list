@@ -3,5 +3,6 @@ name: ChasingMidnight Koin
 decimals: 0
 extensions:
   instagram: https://www.instagram.com/ChasingMidnight_/
+img: https://raw.githubusercontent.com/Chasing-Midnight-Dev/CMToken/main/logo.png
 tags:
   - social-token

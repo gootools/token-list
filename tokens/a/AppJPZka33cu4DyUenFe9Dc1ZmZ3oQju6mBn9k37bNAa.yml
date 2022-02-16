@@ -3,6 +3,7 @@ name: Solend ETH
 decimals: 6
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa/logo.png
 tags:
   - collateral-tokens
   - lending

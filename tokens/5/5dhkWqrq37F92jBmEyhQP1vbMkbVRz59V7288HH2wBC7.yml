@@ -7,5 +7,6 @@ extensions:
   telegramAnnouncements: https://t.me/SOLLockAnn
   twitter: https://twitter.com/SOLLockOfficial
   website: https://sollock.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5dhkWqrq37F92jBmEyhQP1vbMkbVRz59V7288HH2wBC7/logo.png
 tags:
   - utility-token

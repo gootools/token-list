@@ -5,6 +5,7 @@ extensions:
   description: Token for the Campetta family, to be dispensed as a reward for
     successful completion of games and tasks.
   github: https://github.com/mcampetta
+img: https://raw.githubusercontent.com/mcampetta/Campetta/main/Campetta_Logo.png
 tags:
   - family-token
   - learning-token

@@ -3,6 +3,7 @@ name: Solend SRM
 decimals: 6
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4CxGuD2NMr6zM8f18gr6kRhgd748pnmkAhkY1YJtkup1/logo.png
 tags:
   - collateral-tokens
   - lending

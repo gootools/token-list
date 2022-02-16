@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/ShihTzuSolana
   website: https://shihtcoin.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AeTzmX6QcL6tWKMRTKVW9ee8fPmCieKzgfmiU7ZaY4gu/logo.png
 tags:
   - community-token
   - meme-token

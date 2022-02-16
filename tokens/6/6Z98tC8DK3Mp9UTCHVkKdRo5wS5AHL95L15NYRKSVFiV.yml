@@ -3,6 +3,7 @@ name: Zerxes
 decimals: 9
 extensions:
   twitter: https://twitter.com/ZerxesCrypto
+img: https://raw.githubusercontent.com/thatwkidjohnny/Zerxes/main/zlogo.png
 tags:
   - zerx
   - zerxes

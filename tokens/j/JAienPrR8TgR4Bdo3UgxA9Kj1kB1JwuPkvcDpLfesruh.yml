@@ -3,5 +3,6 @@ name: mememetoken
 decimals: 4
 extensions:
   twitter: https://twitter.com/mememenft
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAienPrR8TgR4Bdo3UgxA9Kj1kB1JwuPkvcDpLfesruh/logo.png
 tags:
   - meme-token

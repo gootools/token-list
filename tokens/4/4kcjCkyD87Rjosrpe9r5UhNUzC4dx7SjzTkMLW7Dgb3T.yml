@@ -3,6 +3,7 @@ name: Shiba McEntire
 decimals: 0
 extensions:
   website: https://shmactoken.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4kcjCkyD87Rjosrpe9r5UhNUzC4dx7SjzTkMLW7Dgb3T/logo.png
 tags:
   - social-token
 clusters:

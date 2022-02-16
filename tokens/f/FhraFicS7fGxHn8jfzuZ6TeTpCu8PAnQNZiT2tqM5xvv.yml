@@ -3,6 +3,7 @@ name: Port Finance Saber
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv/SBR.svg
 tags:
   - collateral-tokens
   - lending

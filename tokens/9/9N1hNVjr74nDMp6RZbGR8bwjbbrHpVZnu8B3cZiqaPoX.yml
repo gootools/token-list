@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/mikusher
   website: https://www.mikusher.com
+img: https://raw.githubusercontent.com/mikusher/cabral/main/logo.png
 tags:
   - community-token
   - social-token

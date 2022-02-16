@@ -1,5 +1,6 @@
 symbol: BELL
 name: BellIO
 decimals: 0
+img: https://raw.githubusercontent.com/tedulus/bellio/main/logo.png
 tags:
   - social-token

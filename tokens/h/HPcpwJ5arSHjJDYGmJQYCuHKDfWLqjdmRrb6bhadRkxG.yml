@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   instagram: https://instagram.com/ilearnblock
   twitter: https://twitter.com/ilearnblock
+img: https://cdn.jsdelivr.net/gh/marvy-codes/ILB-TOKEN/ilb.jpg
 tags:
   - community-token
   - utility-token

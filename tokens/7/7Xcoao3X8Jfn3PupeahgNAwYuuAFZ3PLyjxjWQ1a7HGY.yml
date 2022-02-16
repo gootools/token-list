@@ -3,6 +3,7 @@ name: RB Dev Token
 decimals: 0
 extensions:
   website: https://robocock.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Xcoao3X8Jfn3PupeahgNAwYuuAFZ3PLyjxjWQ1a7HGY/logo.png
 tags:
   - RCT
 clusters:

@@ -3,5 +3,6 @@ name: MIX
 decimals: 6
 extensions:
   website: https://mixture.money/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png
 tags:
   - stablecoin

@@ -3,6 +3,7 @@ name: Vale Unleashed
 decimals: 6
 extensions:
   twitter: https://twitter.com/valeunleashed
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2s8hVBfVKdsiUixaacxC2oEUtb8f7ejxyfRw98BTXA12/logo.png
 tags:
   - game
   - gaming

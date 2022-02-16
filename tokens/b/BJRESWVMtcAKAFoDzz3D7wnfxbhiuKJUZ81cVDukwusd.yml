@@ -1,5 +1,6 @@
 symbol: THDC
 name: ThodoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/staurakis/thodoscoin/main/thodocoin.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: ZEN
 decimals: 6
 extensions:
   website: https://hashzen.xyz/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYQ3oKHyF8DVDr2gm3tLmFzuQ4HTfrE78NvmCh3WJ1XC/logo.png
 tags:
   - utility-token

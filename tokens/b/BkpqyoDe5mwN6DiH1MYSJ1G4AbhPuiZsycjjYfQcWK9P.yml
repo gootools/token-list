@@ -3,6 +3,7 @@ name: USDC-USDT LP
 decimals: 9
 extensions:
   website: https://dev.ratio.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BkpqyoDe5mwN6DiH1MYSJ1G4AbhPuiZsycjjYfQcWK9P/logo.png
 tags:
   - ratio-token
 clusters:

@@ -3,6 +3,7 @@ name: Escape
 decimals: 9
 extensions:
   website: https://escape.bilalbayrak.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/82dR2RF6DiYgxV4UAN6qrQQnKHtmyGrWfesmomhjNSe5/logo.png
 tags:
   - game-token
   - metaverse-token

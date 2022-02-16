@@ -1,5 +1,6 @@
 symbol: FNCN
 name: Fan Coin
 decimals: 4
+img: https://raw.githubusercontent.com/eckardtl/crypto/main/fc.PNG
 tags:
   - social-token

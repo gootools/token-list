@@ -3,5 +3,6 @@ name: Solana Angels
 decimals: 9
 extensions:
   twitter: https://twitter.com/AngelsOnSolana
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5C9gnZEjaDVpaQjJcRSf54pJv3g1JVACo32jBRvNxpm4/logo.png
 tags:
   - community-token

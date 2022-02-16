@@ -3,5 +3,6 @@ name: Stether
 decimals: 2
 extensions:
   website: https://stether.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FEYFyLCFLcBNfSuaf2eXNvyY5Jpii7zg9X48Br5vyenG/logo.png
 tags:
   - stablecoin

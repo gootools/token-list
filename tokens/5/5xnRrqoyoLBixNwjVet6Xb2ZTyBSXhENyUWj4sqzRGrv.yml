@@ -5,6 +5,7 @@ extensions:
   telegram: https://t.me/quidtoken
   twitter: https://twitter.com/quidtoken
   website: https://www.quidtoken.com/
+img: https://cdn.jsdelivr.net/gh/quidtoken/main/quidlogo.png
 tags:
   - quid
   - social-token

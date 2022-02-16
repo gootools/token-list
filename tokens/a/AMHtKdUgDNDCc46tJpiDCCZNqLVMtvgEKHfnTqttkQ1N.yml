@@ -1,5 +1,6 @@
 symbol: NWT
 name: Newmont Token
 decimals: 4
+img: https://raw.githubusercontent.com/Newmonttoken/Newmont-token/main/newmont.png
 tags:
   - utility-token

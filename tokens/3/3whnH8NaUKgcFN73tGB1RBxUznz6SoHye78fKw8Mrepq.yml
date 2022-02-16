@@ -1,5 +1,6 @@
 symbol: TPHT
 name: Top Hat
 decimals: 9
+img: https://raw.githubusercontent.com/akrowczyk/tophat/main/logo_token.png
 tags:
   - social-token

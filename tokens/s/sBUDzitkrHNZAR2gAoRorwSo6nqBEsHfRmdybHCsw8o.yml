@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/BunnyDuckyHQ
   website: https://bunnyducky.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sBUDzitkrHNZAR2gAoRorwSo6nqBEsHfRmdybHCsw8o/logo.png
 tags:
   - utility-token

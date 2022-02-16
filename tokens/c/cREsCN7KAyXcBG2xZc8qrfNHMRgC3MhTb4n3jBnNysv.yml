@@ -4,5 +4,6 @@ decimals: 2
 extensions:
   serumV3Usdc: 526WW289h5wibg1Q55sK16CGoNip8H5d2AXVbaAGcUMb
   website: https://www.darkwebtoken.live
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cREsCN7KAyXcBG2xZc8qrfNHMRgC3MhTb4n3jBnNysv/logo.png
 tags:
   - MEME

@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/orca_so
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2697FyJ4vD9zwAVPr33fdVPDv54pyZZiBv9S2AoKMyQf/logo.svg
 tags:
   - lp-token

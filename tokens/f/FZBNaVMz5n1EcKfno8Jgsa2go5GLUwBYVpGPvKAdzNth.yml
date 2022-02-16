@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/solcapys
   website: https://www.solcapys.club/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZBNaVMz5n1EcKfno8Jgsa2go5GLUwBYVpGPvKAdzNth/logo.png
 tags:
   - community-token
   - capys

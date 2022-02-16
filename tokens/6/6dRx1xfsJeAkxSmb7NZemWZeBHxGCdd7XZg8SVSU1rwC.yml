@@ -3,5 +3,6 @@ name: GIGNIOC
 decimals: 9
 extensions:
   website: https://gignioc.com/
+img: https://gignioc.com/wp-content/uploads/2021/07/gignioc.png
 tags:
   - currency-token

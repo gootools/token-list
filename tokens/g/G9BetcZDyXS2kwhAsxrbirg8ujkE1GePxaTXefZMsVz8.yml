@@ -3,6 +3,7 @@ name: CRYPTO VEIN
 decimals: 6
 extensions:
   website: https://www.cryptovein.net/
+img: https://github.com/VEINTOKEN/images/blob/ccad4a6caea3ab9b373dbe283b5da3b56436be5d/CRYPTO_VEIN_LOGO_SIMPLE.png
 tags:
   - general
   - mining

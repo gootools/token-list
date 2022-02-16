@@ -1,5 +1,6 @@
 symbol: RED
 name: RedCoin
 decimals: 0
+img: https://raw.githubusercontent.com/thebigred1/crypto/main/redcoinlogo.png
 tags:
   - social-token

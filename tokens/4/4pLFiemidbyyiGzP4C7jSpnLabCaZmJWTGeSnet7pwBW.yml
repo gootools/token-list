@@ -1,6 +1,7 @@
 symbol: TQSI
 name: TemQueSerInvestigado
 decimals: 0
+img: https://raw.githubusercontent.com/tqsinvestigado/tqsi-coin/main/TQSI_logo.png
 tags:
   - investigation
   - social-token

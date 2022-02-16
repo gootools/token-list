@@ -3,6 +3,7 @@ name: Fractionalised CryptoPunk-1021
 decimals: 2
 extensions:
   vault: https://devnet.bridgesplit.com/markets/2wShzRrTuEV4uKpVHcjEEG2yksZtaQWSbWjawKBkXvi2
+img: https://i.imgur.com/dCqJri9.png
 tags:
   - bridgesplit-fraction
 clusters:

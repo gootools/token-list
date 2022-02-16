@@ -1,6 +1,7 @@
 symbol: SKY
 name: Skyrocket
 decimals: 0
+img: https://raw.githubusercontent.com/skyrocket55/skyrocket-token/main/skyrocket.png
 tags:
   - commodity-token
   - gaming-token

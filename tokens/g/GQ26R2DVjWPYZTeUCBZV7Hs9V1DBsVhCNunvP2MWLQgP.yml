@@ -3,6 +3,7 @@ name: Lobo Coin
 decimals: 8
 extensions:
   twitter: https://twitter.com/lostaliensnft
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GQ26R2DVjWPYZTeUCBZV7Hs9V1DBsVhCNunvP2MWLQgP/logo.png
 tags:
   - community-token
   - utility-token

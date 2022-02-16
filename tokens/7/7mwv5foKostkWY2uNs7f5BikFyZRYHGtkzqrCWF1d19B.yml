@@ -1,6 +1,7 @@
 symbol: PWR
 name: Power
 decimals: 2
+img: https://raw.githubusercontent.com/Zacnode/Z/main/coin.png
 tags:
   - community-token
   - defi-token

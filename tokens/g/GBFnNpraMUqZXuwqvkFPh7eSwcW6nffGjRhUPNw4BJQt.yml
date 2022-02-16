@@ -1,5 +1,6 @@
 symbol: SOC
 name: Society Token
 decimals: 9
+img: https://raw.githubusercontent.com/dualitycsgo/societytoken/main/societylogo.png
 tags:
   - social-token

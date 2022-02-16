@@ -1,5 +1,6 @@
 symbol: PIL
 name: Pile
 decimals: 0
+img: https://raw.githubusercontent.com/mattpar03/crypto/main/PileLogo.png
 tags:
   - social-token

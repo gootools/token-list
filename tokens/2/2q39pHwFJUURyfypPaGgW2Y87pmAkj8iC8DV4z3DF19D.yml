@@ -3,6 +3,7 @@ name: CommonXCoin
 decimals: 9
 extensions:
   twitter: https://twitter.com/CommonXCoin
+img: https://raw.githubusercontent.com/immacrypt/LOGO/main/LOGO.png
 tags:
   - community-token
   - defi-token

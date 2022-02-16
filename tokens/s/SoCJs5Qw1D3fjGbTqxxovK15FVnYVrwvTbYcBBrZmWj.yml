@@ -3,5 +3,6 @@ name: Saber scnSOL-SOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/socean
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png
 tags:
   - saber-stableswap-lp

@@ -3,6 +3,7 @@ name: Shiba Cheeba Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/Billz_Gluckman
+img: https://raw.githubusercontent.com/eazucker/token-list/main/assets/mainnet/HiNb1ABjQG4xeuv1Bee6j5wRhiyagcygDAQkJU9ULbRM/logo.png
 tags:
   - community-token
   - meme-token

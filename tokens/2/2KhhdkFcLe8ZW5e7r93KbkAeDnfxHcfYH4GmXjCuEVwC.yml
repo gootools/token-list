@@ -3,5 +3,6 @@ name: troisdeuxun coin
 decimals: 0
 extensions:
   website: https://troisdeuxun.ch/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KhhdkFcLe8ZW5e7r93KbkAeDnfxHcfYH4GmXjCuEVwC/logo.png
 tags:
   - community-token

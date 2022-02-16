@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/solapolygame
   website: https://www.solapoly.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DLvxinqHRjdJAXW3WJdvbGC5WgBr1v6RCXquLANM7DcV/logo.png
 tags:
   - utility-token

@@ -1,6 +1,7 @@
 symbol: RAM
 name: RAM Coin
 decimals: 0
+img: https://raw.githubusercontent.com/robilokos/my_crypto_coin/main/ram-coin-logo.png
 tags:
   - community-token
   - ram-coin

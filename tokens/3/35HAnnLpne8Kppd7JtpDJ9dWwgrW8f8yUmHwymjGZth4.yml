@@ -1,6 +1,7 @@
 symbol: P
 name: P-Token
 decimals: 6
+img: https://raw.githubusercontent.com/FloorPricePusher/P-Token/main/P-%20Coin%20Symbol.png
 tags:
   - community-token
   - utility-token

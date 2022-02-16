@@ -1,6 +1,7 @@
 symbol: SANT
 name: SANTOSH Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mRzsmdRhaaGMUJX8fJSdanx8xJ2Q6RjEHd4aHi1b92X/logo.png
 tags:
   - social-token
   - utility-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/cobracoin_
   website: https://www.cobracoin.info/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B1nrnT8LvkxqJFw3A9tWoXCpbLUNKYkn8gW8qYZoTRaN/logo.png
 tags:
   - COBRA
   - Community-token

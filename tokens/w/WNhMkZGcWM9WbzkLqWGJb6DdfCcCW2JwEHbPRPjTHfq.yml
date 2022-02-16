@@ -3,6 +3,7 @@ name: Zeeland Homes BV
 decimals: 0
 extensions:
   website: https://blocksto.ne/zeeland-homes/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WNhMkZGcWM9WbzkLqWGJb6DdfCcCW2JwEHbPRPjTHfq/blockstonePNG.png
 tags:
   - Blockstone
   - Company

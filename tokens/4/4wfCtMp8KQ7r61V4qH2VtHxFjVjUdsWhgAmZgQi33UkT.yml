@@ -7,6 +7,7 @@ extensions:
   telegram: https://t.me/ariadne_finance
   twitter: https://twitter.com/Ariadne_finance
   website: https://ariadne.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4wfCtMp8KQ7r61V4qH2VtHxFjVjUdsWhgAmZgQi33UkT/logo.svg
 tags:
   - ariadne
   - DeFi

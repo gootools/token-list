@@ -1,6 +1,7 @@
 symbol: CYS
 name: CySecure Cyber Token
 decimals: 0
+img: https://raw.githubusercontent.com/CySecure/Token/main/CELogo.png
 tags:
   - community-token
   - payment-token

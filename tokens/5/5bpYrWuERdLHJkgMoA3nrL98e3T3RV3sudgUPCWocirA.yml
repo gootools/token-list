@@ -3,5 +3,6 @@ name: Raydium Permissionless LP Token (BASIS-USDC)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bpYrWuERdLHJkgMoA3nrL98e3T3RV3sudgUPCWocirA/logo.png
 tags:
   - lp-token

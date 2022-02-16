@@ -3,5 +3,6 @@ name: SPDR Gold Shares
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?GLD
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9HyU5EEyPvkxeuekNUwsHzmMCJoiw8FZBGWaNih2oux1/logo.png
 tags:
   - tokenized-stock

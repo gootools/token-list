@@ -1,6 +1,7 @@
 symbol: DEX
 name: DEX
 decimals: 9
+img: https://raw.githubusercontent.com/sciencemonk/DEX/main/DEX.png
 tags:
   - community-token
   - education-token

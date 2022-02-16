@@ -1,5 +1,6 @@
 symbol: pSOL
 name: SOL stake pool
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2rg5syU3DSwwWs778FQ6yczDKhS14NM3vP4hqnkJ2jsM/logo.png
 clusters:
   - devnet

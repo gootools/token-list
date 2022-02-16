@@ -1,6 +1,7 @@
 symbol: CHRS
 name: ChrisCrypto
 decimals: 0
+img: https://raw.githubusercontent.com/schrismyers/scm-crypto/main/logo.png
 tags:
   - community-token
   - family-token

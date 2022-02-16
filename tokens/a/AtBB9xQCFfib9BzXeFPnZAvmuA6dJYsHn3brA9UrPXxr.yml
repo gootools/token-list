@@ -1,5 +1,6 @@
 symbol: QUINN
 name: QuinnCoin
 decimals: 0
+img: https://raw.githubusercontent.com/sbquinn/QuinnCoin/main/qclogo.png
 tags:
   - social-token

@@ -1,5 +1,6 @@
 symbol: FURIA
 name: Furia Coin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9B6Z1znWiJDhp6NwdVSidWizyGXRAXypfmmCtmQVgH8Y/logo.png
 clusters:
   - devnet

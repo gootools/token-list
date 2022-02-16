@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: True Aid Bangladesh Coin
   twitter: https://twitter.com/TrueAidBD
+img: https://raw.githubusercontent.com/tmtns/TABC/main/TrueAidBangladesh%20Coin%20logo.png
 tags:
   - bangladesh
   - social-token

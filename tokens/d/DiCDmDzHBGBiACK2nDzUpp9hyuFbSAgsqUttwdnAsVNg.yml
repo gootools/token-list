@@ -3,5 +3,6 @@ name: SPL Test Token
 decimals: 9
 extensions:
   website: https://www.test.bg/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiCDmDzHBGBiACK2nDzUpp9hyuFbSAgsqUttwdnAsVNg/logo.png
 tags:
   - test-token

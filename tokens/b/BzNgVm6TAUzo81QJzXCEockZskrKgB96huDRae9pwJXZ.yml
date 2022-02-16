@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/gameficoin
   website: https://gameficoin.com
+img: https://gameficoin.com/images/gamefilogo.png
 tags:
   - gamefi
   - game-token

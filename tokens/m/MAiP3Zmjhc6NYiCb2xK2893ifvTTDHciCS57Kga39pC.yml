@@ -3,6 +3,7 @@ name: Saber MAI-USDC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/mai
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

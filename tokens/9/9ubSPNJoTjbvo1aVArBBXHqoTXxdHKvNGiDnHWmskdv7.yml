@@ -3,6 +3,7 @@ name: Alpha NFT Token
 decimals: 0
 extensions:
   website: https://alphagen.gallery/
+img: https://github.com/alpha-sol/alpha-frontend/blob/main/resources/logo.png
 tags:
   - art
   - art-token

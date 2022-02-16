@@ -9,6 +9,7 @@ extensions:
   telegram: https://t.me/solventprotocol
   twitter: https://twitter.com/solventprotocol
   website: https://solvent.xyz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/smbdJcLBrtKPhjrWCpDv5ABdJwz2vYo3mm6ojmePL3t/logo.png
 tags:
   - solvent-droplet
   - utility-token

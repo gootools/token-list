@@ -3,6 +3,7 @@ name: Elliel
 decimals: 6
 extensions:
   website: https://elliel.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4TT62MBAWgE1m9hJ7ABG7VvgGvnth3eXe6N3MB6xKSqt/logo.png
 tags:
   - artists-token
   - charity-token

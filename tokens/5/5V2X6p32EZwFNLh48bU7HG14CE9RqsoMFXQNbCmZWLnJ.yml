@@ -1,5 +1,6 @@
 symbol: ALIEN
 name: AlienCoin
 decimals: 0
+img: https://raw.githubusercontent.com/niospahiu/crypto/main/logo.png
 tags:
   - social-token

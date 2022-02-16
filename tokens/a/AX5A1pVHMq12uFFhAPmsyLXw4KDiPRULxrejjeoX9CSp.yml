@@ -3,6 +3,7 @@ name: Dead Bros WL Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/DeadBros666
+img: https://raw.githubusercontent.com/sungminkim01/token-list/main/assets/mainnet/AX5A1pVHMq12uFFhAPmsyLXw4KDiPRULxrejjeoX9CSp/logo.jpg
 tags:
   - DeadBros
   - DBT

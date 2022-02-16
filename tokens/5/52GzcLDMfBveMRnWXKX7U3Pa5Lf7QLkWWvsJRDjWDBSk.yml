@@ -3,5 +3,6 @@ name: NGN Coin
 decimals: 2
 extensions:
   website: https://www.linkio.africa/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/52GzcLDMfBveMRnWXKX7U3Pa5Lf7QLkWWvsJRDjWDBSk/logo.png
 tags:
   - stablecoin

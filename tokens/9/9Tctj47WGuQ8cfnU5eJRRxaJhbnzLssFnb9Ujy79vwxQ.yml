@@ -3,5 +3,6 @@ name: LobCoins
 decimals: 6
 extensions:
   website: https://github.com/ImmTheo
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9Tctj47WGuQ8cfnU5eJRRxaJhbnzLssFnb9Ujy79vwxQ/logo.png
 tags:
   - utility-token

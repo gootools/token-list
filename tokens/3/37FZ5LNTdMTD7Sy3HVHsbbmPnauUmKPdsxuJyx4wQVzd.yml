@@ -1,5 +1,6 @@
 symbol: COINAGE
 name: Coin
 decimals: 9
+img: https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/coinage-logo.png
 tags:
   - social-token

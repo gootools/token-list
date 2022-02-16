@@ -3,5 +3,6 @@ name: Flexcoin
 decimals: 6
 extensions:
   website: https://flexboks.com
+img: https://raw.githubusercontent.com/flexboks/flexcoin/main/Flex-ikon-stor.png
 tags:
   - utility-token

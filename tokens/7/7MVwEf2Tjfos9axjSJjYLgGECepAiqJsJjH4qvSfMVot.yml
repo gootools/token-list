@@ -3,5 +3,6 @@ name: TIS token
 decimals: 9
 extensions:
   website: https://theitsolutions.io/
+img: https://raw.githubusercontent.com/KrisztianZagonyiTis/TISlogo/main/logo.png
 tags:
   - community-token

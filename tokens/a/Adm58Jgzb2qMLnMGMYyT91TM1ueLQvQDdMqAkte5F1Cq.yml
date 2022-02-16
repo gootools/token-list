@@ -3,6 +3,7 @@ name: Block
 decimals: 9
 extensions:
   discord: https://discord.gg/8nHcQFbPE3
+img: https://raw.githubusercontent.com/SergeyDobrinyn/token/master/files/cube.png
 tags:
   - currency-token
   - community-token

@@ -3,6 +3,7 @@ name: Blocking
 decimals: 8
 extensions:
   website: http://blocking.adchunha.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg/logo.png
 tags:
   - Blocking
   - NFT

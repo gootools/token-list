@@ -3,6 +3,7 @@ name: Doja Token
 decimals: 9
 extensions:
   website: https://dojatoken.contacthi.org
+img: https://cdn.jsdelivr.net/gh/majesticio/doja-token/logo/dojapic-icon2.png
 tags:
   - community
   - moonshot

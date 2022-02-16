@@ -3,6 +3,7 @@ name: HappyX
 decimals: 4
 extensions:
   twitter: https://twitter.com/HappyX_2022
+img: https://raw.githubusercontent.com/astefanis/HappyX/main/HApexsmall.png
 tags:
   - community-token
   - meme-token

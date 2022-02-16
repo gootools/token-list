@@ -1,6 +1,7 @@
 symbol: THO
 name: Tho token
 decimals: 0
+img: https://raw.githubusercontent.com/thomasthehacker/crypto/main/TTH.png
 tags:
   - community-token
   - currency

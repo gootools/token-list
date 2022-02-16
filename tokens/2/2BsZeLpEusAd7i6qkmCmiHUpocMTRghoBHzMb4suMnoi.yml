@@ -1,6 +1,7 @@
 symbol: SBP
 name: SBT
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2BsZeLpEusAd7i6qkmCmiHUpocMTRghoBHzMb4suMnoi/logo.png
 tags:
   - community
   - nft-token

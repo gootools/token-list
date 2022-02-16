@@ -3,6 +3,7 @@ name: Vice
 decimals: 0
 extensions:
   twitter: https://twitter.com/Vicehood
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ViCeSQqiKWD3LGZv6W9tjLLwgXed3iPZpSLhurYZkXY/logo.png
 tags:
   - sports
   - vice

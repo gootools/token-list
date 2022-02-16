@@ -3,6 +3,7 @@ name: PreSale CHARM Token
 decimals: 9
 extensions:
   website: https://charmtoken.net
+img: https://s3.amazonaws.com/charmtoken.net/images/Charm_logo_redmask.png
 tags:
   - nft
   - utility-token

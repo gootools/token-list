@@ -3,6 +3,7 @@ name: AI Token
 decimals: 6
 extensions:
   website: https://ai-token.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3jasj72YfitGmo3jtHvmCQXFNqAoJoGxLiVnqaDeZdXf/logo.png
 tags:
   - community-token
   - social-token

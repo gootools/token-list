@@ -3,6 +3,7 @@ name: Giraffe
 decimals: 9
 extensions:
   telegram: https://t.me/+a2Cw4O8SrotiNDRk
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWUUV3ym4Uphw4CVgkpNxrR7FsttF7h7mLggEUJ1J1aV/logo.jpg
 tags:
   - community-token
   - meme-token

@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (mSOL/USDC)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5r3vDsNTGXXb9cGQfqyNuYD2bjhRPymGJBfDmKosR9Ev/logo.svg
 tags:
   - lp-token

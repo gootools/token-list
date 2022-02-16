@@ -1,5 +1,6 @@
 symbol: CHICK
 name: TheChickenz
 decimals: 0
+img: https://raw.githubusercontent.com/MarioProjects/chick-coin/main/coin.png
 tags:
   - social-token

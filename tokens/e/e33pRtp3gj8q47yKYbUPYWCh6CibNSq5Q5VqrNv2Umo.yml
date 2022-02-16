@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   telegram: https://t.me/aiLikeSpider
   website: https://metamalls.io
+img: https://raw.githubusercontent.com/c-spider/Solana-TestToken/main/icon.png
 tags:
   - social-token
 clusters:

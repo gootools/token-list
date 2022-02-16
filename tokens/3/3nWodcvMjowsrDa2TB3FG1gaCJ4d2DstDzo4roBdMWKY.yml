@@ -3,5 +3,6 @@ name: Anahata Meta
 decimals: 8
 extensions:
   twitter: https://twitter.com/AnahataMeta
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3nWodcvMjowsrDa2TB3FG1gaCJ4d2DstDzo4roBdMWKY/logo.png
 tags:
   - community-token

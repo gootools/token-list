@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolNerdsNFT
   website: https://www.solnerds.com
+img: https://raw.githubusercontent.com/solanadevv/token-list/a9a2654d9f5a41feeefab9e15337418a1eb7c08c/assets/mainnet/HM9jjC8gThNDfFv3TRWqUdfJp5onWGDXhWirm5sUcFhj/logo.png
 tags:
   - nft
   - utility-token

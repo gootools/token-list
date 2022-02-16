@@ -1,5 +1,6 @@
 symbol: EKU
 name: EKU Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UDLEC7bkec8x6HonzFAAYotJew4EnMVvhqCxL5k6jjf/logo.png
 tags:
   - utility-token

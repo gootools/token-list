@@ -1,5 +1,6 @@
 symbol: TEATO
 name: TeachToken
 decimals: 0
+img: https://raw.githubusercontent.com/kobak/TeachToken/main/logo.png
 tags:
   - social-token

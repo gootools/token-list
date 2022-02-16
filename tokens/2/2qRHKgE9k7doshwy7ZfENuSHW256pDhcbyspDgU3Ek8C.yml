@@ -3,6 +3,7 @@ name: Samolana NFT
 decimals: 9
 extensions:
   twitter: https://twitter.com/samolana3
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2qRHKgE9k7doshwy7ZfENuSHW256pDhcbyspDgU3Ek8C/logo.png
 tags:
   - community
   - DEFI

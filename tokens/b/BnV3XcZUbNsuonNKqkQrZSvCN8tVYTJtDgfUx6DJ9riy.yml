@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/eunoianfts
   website: https://eunoianfts.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BnV3XcZUbNsuonNKqkQrZSvCN8tVYTJtDgfUx6DJ9riy/logo.png
 tags:
   - community-token
   - social-token

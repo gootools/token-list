@@ -3,6 +3,7 @@ name: Solend USDT-USDC
 decimals: 6
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6XrbsKScacEwpEW5DVNko9t5vW3cim9wktAeT9mmiYHS/logo.png
 tags:
   - collateral-tokens
   - lending

@@ -3,6 +3,7 @@ name: Lynxer
 decimals: 9
 extensions:
   description: Copyright Lynxer INC
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43ybenGduSsE2CgXtMmfgqA3xmK1xpYq8KWAsJpMimUY/logo.png
 tags:
   - community-token
   - social-token

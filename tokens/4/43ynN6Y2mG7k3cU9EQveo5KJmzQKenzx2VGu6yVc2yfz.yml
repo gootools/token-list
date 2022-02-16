@@ -1,6 +1,7 @@
 symbol: SGOD
 name: SolanaGold
 decimals: 0
+img: https://raw.githubusercontent.com/sgolld/crypto/main/logo.png
 tags:
   - Defi
   - GAME

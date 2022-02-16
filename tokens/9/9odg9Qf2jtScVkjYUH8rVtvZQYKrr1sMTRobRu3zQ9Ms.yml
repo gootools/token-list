@@ -1,5 +1,6 @@
 symbol: FP
 name: FancyPants
 decimals: 9
+img: https://raw.githubusercontent.com/FancyPantsToken/crypto/main/logo.png
 tags:
   - social-token

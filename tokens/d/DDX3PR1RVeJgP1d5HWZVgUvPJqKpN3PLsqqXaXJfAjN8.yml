@@ -1,5 +1,6 @@
 symbol: CBC
 name: cyberCoin
 decimals: 0
+img: https://raw.githubusercontent.com/cyberfuturegit/cybercoin/main/logo.png
 tags:
   - solana

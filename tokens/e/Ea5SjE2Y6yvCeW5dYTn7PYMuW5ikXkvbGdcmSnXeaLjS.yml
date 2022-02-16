@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/gopartyparrot
   twitter: https://twitter.com/gopartyparrot
   website: https://parrot.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS/logo.svg
 tags:
   - stablecoin
   - utility-token

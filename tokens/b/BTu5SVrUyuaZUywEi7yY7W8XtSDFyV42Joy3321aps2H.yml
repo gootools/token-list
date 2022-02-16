@@ -3,6 +3,7 @@ name: BTCNFT Trademark BTCN
 decimals: 9
 extensions:
   website: https://btcnftcoin.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BTu5SVrUyuaZUywEi7yY7W8XtSDFyV42Joy3321aps2H/logo.png
 tags:
   - btcnftcoin-com
   - trademark

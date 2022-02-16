@@ -1,5 +1,6 @@
 symbol: TIP
 name: Tip Token
 decimals: 9
+img: https://raw.githubusercontent.com/dmontaldo/static-content/main/tip-token.png
 tags:
   - utility-token

@@ -3,6 +3,7 @@ name: HELIOS PROJECT
 decimals: 9
 extensions:
   twitter: https://twitter.com/helios_lab
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Virh6fFyNfrpZso5E7c7ANYyyJ45ADE4bq6AcQXTaRK/logo.png
 tags:
   - meta
   - nft

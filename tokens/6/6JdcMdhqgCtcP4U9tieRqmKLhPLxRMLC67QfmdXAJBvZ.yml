@@ -8,5 +8,6 @@ extensions:
   serumV3Usdc: 8bjQ8XvzrDxKxHhTccpLkqGLbBrCAAPuv6KHrgN95nDW
   twitter: https://twitter.com/kitty_solana
   website: https://kittysolana.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6JdcMdhqgCtcP4U9tieRqmKLhPLxRMLC67QfmdXAJBvZ/logo.png
 tags:
   - meme-token

@@ -3,5 +3,6 @@ name: Amoeba
 decimals: 9
 extensions:
   twitter: https://twitter.com/AmoebaEcosystem
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3St1AJT8p8GP3FKa8UjNekkzauesEuE2rmzqVyLcC3Wn/logo.jpg
 tags:
   - utility-token

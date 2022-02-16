@@ -1,6 +1,7 @@
 symbol: EWIR
 name: eWire Coin
 decimals: 0
+img: https://raw.githubusercontent.com/clearviewsys/ewire-coin/main/assets/logo.png?token=GHSAT0AAAAAABQUJF6NFEUYBWDNSPXF4P4KYPYTZWA
 tags:
   - social-token
   - security-token

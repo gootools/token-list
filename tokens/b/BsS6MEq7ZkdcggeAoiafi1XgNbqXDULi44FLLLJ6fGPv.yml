@@ -1,6 +1,7 @@
 symbol: MWRC
 name: MoonWar Coin
 decimals: 0
+img: https://raw.githubusercontent.com/colinantonell/MWRC/main/logo.png
 tags:
   - social-token
 clusters:

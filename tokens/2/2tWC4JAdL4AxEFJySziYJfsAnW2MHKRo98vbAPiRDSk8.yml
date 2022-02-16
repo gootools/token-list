@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   coingeckoId: usd-coin
   website: https://saber.so/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png
 tags:
   - stablecoin
 clusters:

@@ -1,6 +1,7 @@
 symbol: BBC
 name: BB Coin
 decimals: 9
+img: https://raw.githubusercontent.com/madtc/BB_Coin/main/bb.PNG
 tags:
   - BB-Coin
   - BBC

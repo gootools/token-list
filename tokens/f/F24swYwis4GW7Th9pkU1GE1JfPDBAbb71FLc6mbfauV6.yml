@@ -1,6 +1,7 @@
 symbol: BATS
 name: Bats Coin
 decimals: 1
+img: https://raw.githubusercontent.com/Jonkolander/batscoin/main/Doge-with-a-Baseball-Bat.jpg
 tags:
   - community-token
   - meme-token

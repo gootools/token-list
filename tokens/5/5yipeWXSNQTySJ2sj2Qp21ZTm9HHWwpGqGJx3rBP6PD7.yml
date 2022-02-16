@@ -3,6 +3,7 @@ name: Olido
 decimals: 9
 extensions:
   youtube: https://www.youtube.com/channel/UCK4gVVPR86YJVjrp2rKGmrg
+img: https://raw.githubusercontent.com/olidomix/crypto/main/logo.png
 tags:
   - fan-token
   - music-token

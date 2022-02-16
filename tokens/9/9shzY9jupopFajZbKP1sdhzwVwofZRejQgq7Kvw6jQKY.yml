@@ -3,5 +3,6 @@ name: KAGED KOIN
 decimals: 9
 extensions:
   website: https://www.kagedmuscle.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9shzY9jupopFajZbKP1sdhzwVwofZRejQgq7Kvw6jQKY/logo.png
 tags:
   - community-token

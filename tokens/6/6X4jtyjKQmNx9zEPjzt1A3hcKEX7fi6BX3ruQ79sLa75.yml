@@ -3,6 +3,7 @@ name: AbstergoAI
 decimals: 9
 extensions:
   twitter: https://twitter.com/AbstergoAI
+img: https://raw.githubusercontent.com/ATGxlabs/logo/main/ATGlogo.jpg
 tags:
   - ATG
   - NFT

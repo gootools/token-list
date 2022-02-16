@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: RACELAND S.A. Internal Coin by RACELAND Automação Lda
   website: https://raceland.pt
+img: https://tech.automacaoraceland.pt/logo.png
 tags:
   - community-token
   - social-token

@@ -1,6 +1,7 @@
 symbol: MPT
 name: Male Privelege Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/maLen3sJGjSrWermkmjtD63jMwuDfD8kAZ6qtJ3JuYZ/logo.png
 tags:
   - anti-authoritarian
   - De-Fi

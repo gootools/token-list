@@ -3,6 +3,7 @@ name: Solacorn Token
 decimals: 8
 extensions:
   website: https://www.solacorn.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3oFeqagQB8Yh5UeJCnTiPW4sEo5K1Cdgp5NPuXoJYj3T/logo.png
 tags:
   - NFTs
   - P2E

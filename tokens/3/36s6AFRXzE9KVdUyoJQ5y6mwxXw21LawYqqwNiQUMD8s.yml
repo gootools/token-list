@@ -9,5 +9,6 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-3/the-convergence-war.jpg
   serumV3Usdc: DXPv2ZyMD6Y2mDenqYkAhkvGSjNahkuMkm4zv6DqB7RF
   website: https://www.staratlas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/36s6AFRXzE9KVdUyoJQ5y6mwxXw21LawYqqwNiQUMD8s/logo.png
 tags:
   - nft

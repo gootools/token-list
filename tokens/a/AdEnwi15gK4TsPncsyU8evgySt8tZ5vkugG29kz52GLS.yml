@@ -3,5 +3,6 @@ name: SOLANA NUT
 decimals: 9
 extensions:
   twitter: https://twitter.com/Solana_Nut
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AdEnwi15gK4TsPncsyU8evgySt8tZ5vkugG29kz52GLS/logo.png
 tags:
   - meme-token

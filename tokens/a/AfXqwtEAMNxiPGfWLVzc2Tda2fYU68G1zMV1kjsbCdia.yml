@@ -3,5 +3,6 @@ name: Bitcoin NFT Sea
 decimals: 9
 extensions:
   website: https://btcnftsea.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AfXqwtEAMNxiPGfWLVzc2Tda2fYU68G1zMV1kjsbCdia/logo.png
 tags:
   - utility-token

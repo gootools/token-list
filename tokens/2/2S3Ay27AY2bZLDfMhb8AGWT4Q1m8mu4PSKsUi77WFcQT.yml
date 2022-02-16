@@ -4,5 +4,6 @@ decimals: 14
 extensions:
   twitter: https://twitter.com/TungyCube
   website: https://tungycoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2S3Ay27AY2bZLDfMhb8AGWT4Q1m8mu4PSKsUi77WFcQT/logo.png
 tags:
   - meme-token

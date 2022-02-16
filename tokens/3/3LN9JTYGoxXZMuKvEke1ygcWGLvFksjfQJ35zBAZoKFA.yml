@@ -1,6 +1,7 @@
 symbol: SHMRD
 name: Shmurda Coin
 decimals: 9
+img: https://raw.githubusercontent.com/marcus-kielman/SHMRD-Logo/main/Shmurda_Coin.png
 tags:
   - social-token
 clusters:

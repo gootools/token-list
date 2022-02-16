@@ -3,6 +3,7 @@ name: Unusual Due Diligence
 decimals: 4
 extensions:
   website: https://www.youtube.com/c/UnusualDueDiligence
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D7G1c6A2msKSsUyTyDcu5FpLvPKDsrDChJCVZ1iVQWSE/logo.jpg
 tags:
   - community-token
   - metaverse

@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (USDC/USDT[stable])
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GjpXgKwn4VW4J2pZdS3dovM58hiXWLJtopTfqG83zY2f/logo.svg
 tags:
   - lp-token

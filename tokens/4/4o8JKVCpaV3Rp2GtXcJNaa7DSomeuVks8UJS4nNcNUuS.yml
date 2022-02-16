@@ -3,6 +3,7 @@ name: Mr Circle
 decimals: 4
 extensions:
   website: https://human.ag/coin/CIRCLE
+img: https://human.ag/api/profile/7H1HKjLxJbYnbK78AtDEXoXWPB464afXcskoMnk8GHu6/picture?src=token-list
 tags:
   - human
   - social-token

@@ -1,5 +1,6 @@
 symbol: NC
 name: Naz Coin
 decimals: 8
+img: https://raw.githubusercontent.com/cyber-arknet/nazcoin/main/nazcoin.png
 tags:
   - social-token

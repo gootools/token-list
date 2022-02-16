@@ -3,6 +3,7 @@ name: Yuri (BQRo)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/HtnWUzGEAdi8c77T33wFbyZgw3s7ihr9bZMHD47q2u3j?src=token-list
+img: https://devbeta.human.ag/api/profile/HtnWUzGEAdi8c77T33wFbyZgw3s7ihr9bZMHD47q2u3j/picture?src=token-list
 tags:
   - human
   - social-token

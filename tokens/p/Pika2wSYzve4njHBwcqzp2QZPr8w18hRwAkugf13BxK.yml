@@ -3,6 +3,7 @@ name: Pikachu
 decimals: 9
 extensions:
   serumV3Usdc: BTtbWNAVB3eYfPUBuztYpxwNQVWYKN7TKU5e8HDPXCd9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Pika2wSYzve4njHBwcqzp2QZPr8w18hRwAkugf13BxK/logo.png
 tags:
   - community-token
   - meme

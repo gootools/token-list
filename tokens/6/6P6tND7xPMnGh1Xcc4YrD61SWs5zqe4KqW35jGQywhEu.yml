@@ -3,3 +3,4 @@ name: TokenStore World
 decimals: 6
 extensions:
   website: https://tokenstore.world/
+img: https://raw.githubusercontent.com/admin5505/tsw/main/logo.png

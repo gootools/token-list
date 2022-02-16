@@ -3,5 +3,6 @@ name: Hatch Group Coin
 decimals: 9
 extensions:
   website: https://www.hatchgroup.co.uk/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/86x8r57bTMmaU7i5SqsY9gwiuxqddt8vPA7WXuR6Bhx1/logo.png
 clusters:
   - devnet

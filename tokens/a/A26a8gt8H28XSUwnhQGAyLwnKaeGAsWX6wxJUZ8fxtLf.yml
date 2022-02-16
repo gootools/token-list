@@ -1,6 +1,7 @@
 symbol: DNK
 name: Danko Coin
 decimals: 0
+img: https://raw.githubusercontent.com/BratanFree/cryptodanko/main/danko-logo.jpg
 tags:
   - meme-token
   - social-token

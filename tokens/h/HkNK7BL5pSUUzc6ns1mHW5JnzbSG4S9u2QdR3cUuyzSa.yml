@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/solprize
   twitter: https://twitter.com/solprize
   website: https://www.solprize.io
+img: https://www.solprize.io/static/images/logo.png
 tags:
   - community-token
   - meme-token

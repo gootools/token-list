@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/lidofinance
   twitter: https://twitter.com/LidoFinance
   website: https://lido.fi/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png
 tags:
   - stake
   - wrapped

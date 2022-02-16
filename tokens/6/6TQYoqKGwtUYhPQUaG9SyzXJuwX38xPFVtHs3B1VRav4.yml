@@ -3,5 +3,6 @@ name: Fauci Coin
 decimals: 9
 extensions:
   discord: https://discord.gg/QBTpckzaTx
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TQYoqKGwtUYhPQUaG9SyzXJuwX38xPFVtHs3B1VRav4/logo.png
 tags:
   - meme-token

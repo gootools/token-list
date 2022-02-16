@@ -3,6 +3,7 @@ name: Sekler Husar Inu
 decimals: 0
 extensions:
   telegram: https://t.me/pr04ak
+img: https://raw.githubusercontent.com/pr04ak/alt1/main/logo.png
 tags:
   - community-token
   - meme-token

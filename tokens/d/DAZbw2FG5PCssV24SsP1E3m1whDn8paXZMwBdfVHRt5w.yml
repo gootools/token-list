@@ -3,5 +3,6 @@ name: Million Coin Solana
 decimals: 9
 extensions:
   twitter: https://twitter.com/MillionCoinSol
+img: https://cdn.discordapp.com/attachments/908414498933735525/908414576838733854/Square-512.jpg
 tags:
   - meme-token

@@ -1,6 +1,7 @@
 symbol: BRG
 name: Burger
 decimals: 0
+img: https://raw.githubusercontent.com/burgertoken/crypto/main/logo.png
 tags:
   - currency-token
   - community-token

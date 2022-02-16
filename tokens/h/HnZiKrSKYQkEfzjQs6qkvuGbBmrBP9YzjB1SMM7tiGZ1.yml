@@ -3,6 +3,7 @@ name: Such Shiba
 decimals: 9
 extensions:
   twitter: https://twitter.com/SuchShibas
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnZiKrSKYQkEfzjQs6qkvuGbBmrBP9YzjB1SMM7tiGZ1/logo.png
 tags:
   - community-token
   - meme-token

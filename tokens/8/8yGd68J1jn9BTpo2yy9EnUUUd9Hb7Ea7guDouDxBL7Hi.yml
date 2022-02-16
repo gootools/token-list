@@ -1,5 +1,6 @@
 symbol: FIBU
 name: Firmware Build
 decimals: 0
+img: https://raw.githubusercontent.com/firmwarebuild/crypto/main/LOGO.png
 tags:
   - social-token

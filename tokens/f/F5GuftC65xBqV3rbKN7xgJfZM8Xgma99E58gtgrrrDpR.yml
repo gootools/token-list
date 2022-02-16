@@ -1,5 +1,6 @@
 symbol: USD
 name: TETHER USD
 decimals: 6
+img: https://raw.githubusercontent.com/Smaler1/coin/main/logo.png
 tags:
   - social-token

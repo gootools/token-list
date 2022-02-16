@@ -3,6 +3,7 @@ name: Robin Coin
 decimals: 9
 extensions:
   website: https://robin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Ct5qBYm2u7qB14iQcmLwnx5nmC6GJGjZee39scBcrSR/logo.png
 tags:
   - utility-token
 clusters:

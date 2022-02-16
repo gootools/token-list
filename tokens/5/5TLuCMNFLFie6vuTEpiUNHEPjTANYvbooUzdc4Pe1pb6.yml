@@ -3,6 +3,7 @@ name: Fiamma PSD Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/fiamma_iavarone
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Fiamma_PSD-Coin/main/logo.png
 tags:
   - community-token
   - fiamma-token

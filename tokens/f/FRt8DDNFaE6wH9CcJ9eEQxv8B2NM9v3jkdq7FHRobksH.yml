@@ -1,6 +1,7 @@
 symbol: QNT
 name: Quantanium
 decimals: 0
+img: https://raw.githubusercontent.com/QuantaniumCrypto/Quantanium/main/logo.png
 tags:
   - foreign-exchange
   - payment-token

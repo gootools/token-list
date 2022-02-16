@@ -6,6 +6,7 @@ extensions:
   serumV3Usdc: 6FSr3WhrLCdetbfr75JizgHsc3EDxmUxdKq6gTQwbefn
   twitter: https://twitter.com/solcartel
   website: https://www.solcartel.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcqWM1BdgfUFktSKw8XC6qLAo2Ki2dUFXc1YYe67c8kD/logo.png
 tags:
   - meme-token
   - stake-pool-token

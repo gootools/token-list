@@ -3,5 +3,6 @@ name: Wrapped SPY ETF
 decimals: 8
 extensions:
   website: https://www.gitcompile.com
+img: https://raw.githubusercontent.com/gitcompile/assets/main/logo.png
 tags:
   - tokenized-stock

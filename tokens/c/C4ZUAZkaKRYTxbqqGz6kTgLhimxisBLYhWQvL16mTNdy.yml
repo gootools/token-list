@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://discord.com/invite/etUarp4x8y
   twitter: https://twitter.com/eggheadnft
+img: https://cdn.jsdelivr.net/gh/ossiHQ/eggtoken/token_picture.png
 tags:
   - community-token
   - utility-token

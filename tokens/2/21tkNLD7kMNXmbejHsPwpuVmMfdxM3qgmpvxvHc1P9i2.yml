@@ -5,6 +5,7 @@ extensions:
   description: "Bulgarian LEV Crypto Currency (blockchain, independent from the
     official BGN currency). IPFS : bglev-crypto.coin"
   website: https://gateway.pinata.cloud/ipfs/QmVkteQriYAKt46CN7K6paqhQ3q2ECMs3ehGtPhW5jWcaQ/
+img: https://raw.githubusercontent.com/hamcreation/crypto/main/BGLEV-logo-big.png
 tags:
   - community-token
   - nft

@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Evil Laohu Mint
   website: https://www.laohukingdom.com/
+img: https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/emint.png
 tags:
   - community-token
   - social-token

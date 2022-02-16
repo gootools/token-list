@@ -3,5 +3,6 @@ name: BioNTech
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BNTX
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AykRYHVEERRoKGzfg2AMTqEFGmCGk9LNnGv2k5FgjKVB/logo.png
 tags:
   - tokenized-stock

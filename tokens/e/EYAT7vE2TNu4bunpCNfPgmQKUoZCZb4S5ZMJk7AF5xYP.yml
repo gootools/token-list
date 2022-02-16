@@ -3,5 +3,6 @@ name: Rove Token
 decimals: 0
 extensions:
   website: https://rove.live
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYAT7vE2TNu4bunpCNfPgmQKUoZCZb4S5ZMJk7AF5xYP/logo.png
 tags:
   - utility-token

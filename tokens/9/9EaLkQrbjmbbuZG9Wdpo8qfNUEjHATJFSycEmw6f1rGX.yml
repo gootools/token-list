@@ -7,5 +7,6 @@ extensions:
   telegram: https://t.me/gopartyparrot
   twitter: https://twitter.com/gopartyparrot
   website: https://parrot.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX/logo.svg
 tags:
   - stablecoin

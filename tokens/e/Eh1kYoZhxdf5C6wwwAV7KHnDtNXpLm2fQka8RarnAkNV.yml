@@ -3,6 +3,7 @@ name: Jimmy Hendrix (Eh1k)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/4UMDqYeUh6AZJ7qVyWptaStJB2ma9CVYKcU639x89YnJ?src=token-list
+img: https://devbeta.human.ag/api/profile/4UMDqYeUh6AZJ7qVyWptaStJB2ma9CVYKcU639x89YnJ/picture?src=token-list
 tags:
   - human
   - social-token

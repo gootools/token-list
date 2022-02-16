@@ -3,6 +3,7 @@ name: AvatarInu
 decimals: 9
 extensions:
   website: https://avatarinu.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NJdK95TPKguYLUzhNPEumEbwC7cjciEQUzG4UrvhcJv/logo.png
 tags:
   - gaming
   - nft

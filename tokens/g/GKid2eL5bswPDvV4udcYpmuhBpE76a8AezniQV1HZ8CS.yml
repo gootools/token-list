@@ -4,5 +4,6 @@ decimals: 4
 extensions:
   description: A crowdfunding token for potential startups.
   website: https://cybertekk.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKid2eL5bswPDvV4udcYpmuhBpE76a8AezniQV1HZ8CS/logo.png
 tags:
   - social-token

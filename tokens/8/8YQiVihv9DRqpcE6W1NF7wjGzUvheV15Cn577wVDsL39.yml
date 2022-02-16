@@ -1,6 +1,7 @@
 symbol: SHAEBA
 name: Shaeba Coin
 decimals: 9
+img: https://raw.githubusercontent.com/nazmulababy/crypto/main/shaeba-coin-logo.png
 tags:
   - social-token
   - utility-token

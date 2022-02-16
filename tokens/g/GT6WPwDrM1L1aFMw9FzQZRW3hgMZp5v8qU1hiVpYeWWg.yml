@@ -6,5 +6,6 @@ extensions:
   github: https://github.com/Lagrange-fi
   twitter: https://twitter.com/Lagrange_fi
   website: https://lagrange.fi/
+img: https://raw.githubusercontent.com/cavidk/lp-token/main/lp-logo.png
 tags:
   - lp-token

@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   vault: https://fraktion.art/vault/Ei5wPJtrKfLM9WD3Lj4Gmh31K2jsph4DtRAVH3oEJ2hi
   vaultPubkey: Ei5wPJtrKfLM9WD3Lj4Gmh31K2jsph4DtRAVH3oEJ2hi
+img: https://www.arweave.net/piH41aGwPKOVs_idwQGU-wh278ZPNmJPpjchwt_gAEc?ext=png
 tags:
   - fractionalized-nft

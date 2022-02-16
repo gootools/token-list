@@ -3,6 +3,7 @@ name: YouBaby Coin
 decimals: 0
 extensions:
   website: https://youbaby.at
+img: https://raw.githubusercontent.com/DevRaeph/crypto/main/YouBabyCoin/logo.png
 tags:
   - earnings
   - social-token

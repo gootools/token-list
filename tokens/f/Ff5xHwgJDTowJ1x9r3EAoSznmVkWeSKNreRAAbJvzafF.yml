@@ -1,5 +1,6 @@
 symbol: HAMM
 name: HammyCoin
 decimals: 0
+img: https://raw.githubusercontent.com/nledevil/hammycrypto/master/logo.png
 tags:
   - social-token

@@ -3,6 +3,7 @@ name: Saber aeFEI-wtUST LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/fei_ust
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

@@ -1,6 +1,7 @@
 symbol: MUSIC
 name: Music
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/muSiCJtkftyEH5GicoF9D1Cc19qK5N7C9zEoeuUnAXn/logo.png
 tags:
   - buy-sell-music
   - get-paid

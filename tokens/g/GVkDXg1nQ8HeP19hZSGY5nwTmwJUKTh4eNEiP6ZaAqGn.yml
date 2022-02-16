@@ -1,6 +1,7 @@
 symbol: EKB
 name: Emre Kemal Coin
 decimals: 0
+img: https://raw.githubusercontent.com/emrebalci7/NftToken/main/coin.png
 tags:
   - utility-token
 clusters:

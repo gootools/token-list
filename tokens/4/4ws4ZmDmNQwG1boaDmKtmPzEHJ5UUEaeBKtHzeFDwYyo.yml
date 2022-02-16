@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/snft2022
   website: https://solana-nft.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ws4ZmDmNQwG1boaDmKtmPzEHJ5UUEaeBKtHzeFDwYyo/logo.png
 tags:
   - meme-token

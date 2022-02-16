@@ -3,5 +3,6 @@ name: FACT Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/FactToken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GiaaHW6H1gYM6ygzug2gSpGMAy7NAMCQGHsT4LgXZxwY/logo.png
 tags:
   - FACTToken

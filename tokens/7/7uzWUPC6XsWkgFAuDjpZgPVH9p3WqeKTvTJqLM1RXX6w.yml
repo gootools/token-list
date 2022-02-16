@@ -3,5 +3,6 @@ name: Google
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?GOOGL
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7uzWUPC6XsWkgFAuDjpZgPVH9p3WqeKTvTJqLM1RXX6w/logo.svg
 tags:
   - tokenized-stock

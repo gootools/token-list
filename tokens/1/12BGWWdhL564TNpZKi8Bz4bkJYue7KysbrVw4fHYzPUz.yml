@@ -1,6 +1,7 @@
 symbol: JIJI
 name: Jiji Token
 decimals: 8
+img: https://raw.githubusercontent.com/joelbrendle/jijicoin/main/jijicoin.png
 tags:
   - anime
   - coin

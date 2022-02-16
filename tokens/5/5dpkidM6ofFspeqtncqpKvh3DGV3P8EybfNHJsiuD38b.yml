@@ -3,6 +3,7 @@ name: BLUUz Coin
 decimals: 0
 extensions:
   website: https://amiangles.com
+img: https://raw.githubusercontent.com/LesBLUUs/BLUUz_Coin/main/logo.png
 tags:
   - community-token
   - growth-token

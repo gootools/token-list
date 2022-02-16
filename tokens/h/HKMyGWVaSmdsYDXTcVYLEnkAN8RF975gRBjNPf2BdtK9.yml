@@ -3,6 +3,7 @@ name: Instagram NFT DANIELLEROBAY 1
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/HKMyGWVaSmdsYDXTcVYLEnkAN8RF975gRBjNPf2BdtK9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HKMyGWVaSmdsYDXTcVYLEnkAN8RF975gRBjNPf2BdtK9/logo.png
 tags:
   - instagram
   - nft

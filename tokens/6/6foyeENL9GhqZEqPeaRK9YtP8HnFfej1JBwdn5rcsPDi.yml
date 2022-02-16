@@ -3,5 +3,6 @@ name: iMentusCoin
 decimals: 0
 extensions:
   website: https://www.imentus.com
+img: https://imentus.com/wp-content/uploads/2020/10/black_imentus_logo.png
 tags:
   - dev-token

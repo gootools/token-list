@@ -3,6 +3,7 @@ name: ColSha token
 decimals: 0
 extensions:
   twitter: https://twitter.com/berczi17
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToSPoMNzvaZquVYDVdapSYcyM7rJcHykpjFPFz7BYSR/logo.png
 tags:
   - community-token
   - meme-token

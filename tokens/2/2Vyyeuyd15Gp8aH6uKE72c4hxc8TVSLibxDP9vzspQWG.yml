@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (COPE-USDC)
 decimals: 0
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Vyyeuyd15Gp8aH6uKE72c4hxc8TVSLibxDP9vzspQWG/logo.png
 tags:
   - lp-token

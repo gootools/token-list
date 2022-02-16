@@ -1,6 +1,7 @@
 symbol: SAMOY
 name: Samoy Meme Dog
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mXx1bNiB5bhgwznk4eeqM9eoy6DU3CeCkm1LPabeoEh/logo.png
 tags:
   - Community-Token
   - Meme-Token

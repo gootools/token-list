@@ -3,5 +3,6 @@ name: HARVEST
 decimals: 9
 extensions:
   website: http://farmlands.biz/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKkAyqqbcrSQiizKmNEFz64VWVct4H5VgFfJ7JA9wYY2/logo.png
 tags:
   - utility-token

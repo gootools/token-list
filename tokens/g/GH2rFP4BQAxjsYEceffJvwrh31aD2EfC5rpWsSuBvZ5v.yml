@@ -1,5 +1,6 @@
 symbol: DIG
 name: Dingar Token
 decimals: 9
+img: https://raw.githubusercontent.com/infinitydigitalLLC/dingar/main/Dingar%20Logo.png
 tags:
   - utility-token

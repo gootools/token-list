@@ -3,6 +3,7 @@ name: Foresight Utility Token
 decimals: 8
 extensions:
   website: https://www.foresight.mobi/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J948cnkxckQ1HS9xVeThCg61t89Y69oyMYCGHBH9WjFW/logo.png
 tags:
   - community-token
   - DeFi

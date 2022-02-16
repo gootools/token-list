@@ -1,5 +1,6 @@
 symbol: SBICK
 name: SBI CK Token
 decimals: 8
+img: https://raw.githubusercontent.com/sgniceguy/staticfiles/main/SBI%20DM%20Logo%20Only.png
 clusters:
   - devnet

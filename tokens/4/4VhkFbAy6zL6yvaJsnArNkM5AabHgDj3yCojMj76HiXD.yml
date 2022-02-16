@@ -1,6 +1,7 @@
 symbol: CINVI
 name: CRYPTOINVITER
 decimals: 0
+img: https://raw.githubusercontent.com/Cryptoinviter/CINVI/main/Cinvi.png
 tags:
   - auction
   - gaming-token

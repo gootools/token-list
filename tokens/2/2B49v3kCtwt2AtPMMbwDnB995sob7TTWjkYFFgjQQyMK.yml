@@ -1,6 +1,7 @@
 symbol: BEAN
 name: Bean Coin
 decimals: 0
+img: https://raw.githubusercontent.com/chris3309/crypto/main/beancoin.png
 tags:
   - community-token
   - social-token

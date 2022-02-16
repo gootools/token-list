@@ -3,6 +3,7 @@ name: Techforce Token
 decimals: 9
 extensions:
   website: https://techforceglobal.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BnT724Zd3WTFnYmpTMe1a4NqkWCJSjxf13iGyKEXHRiS/logo.png
 tags:
   - community-token
   - social-token

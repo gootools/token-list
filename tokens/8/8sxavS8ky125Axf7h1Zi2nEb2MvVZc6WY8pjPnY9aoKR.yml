@@ -1,6 +1,7 @@
 symbol: SEC
 name: SECCO
 decimals: 0
+img: https://raw.githubusercontent.com/SolanaTokenMerger/SECCO-COIN/main/logo.png
 tags:
   - art-token
   - community-token

@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   description: Aurory Token
   website: https://aurory.io/staking
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xAURp5XmAG7772mfkSy6vRAjGK9JofYjc3dmQDWdVDP/logo.png
 tags:
   - utility-token

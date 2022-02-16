@@ -1,6 +1,7 @@
 symbol: PEEP
 name: PEEPCOIN
 decimals: 0
+img: https://raw.githubusercontent.com/peppeschizzo/crypto/main/peep.png
 tags:
   - community-token
   - DeFi

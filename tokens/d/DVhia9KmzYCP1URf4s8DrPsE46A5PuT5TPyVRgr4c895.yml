@@ -3,6 +3,7 @@ name: Hexagon Protocol
 decimals: 9
 extensions:
   serumV3Usdc: BQBGTapjYAYa9bY46GCByW2tjQtbHHvEMwGCDYpN3kTR
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DVhia9KmzYCP1URf4s8DrPsE46A5PuT5TPyVRgr4c895/logo.png
 tags:
   - DeFi
   - DApp

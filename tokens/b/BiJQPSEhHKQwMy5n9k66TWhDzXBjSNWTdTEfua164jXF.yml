@@ -3,6 +3,7 @@ name: Jetson
 decimals: 9
 extensions:
   website: https://www.jetson.ai/
+img: https://i.ibb.co/8zcfqM3/jetson.jpg
 tags:
   - AI
   - Automation

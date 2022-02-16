@@ -3,6 +3,7 @@ name: SciFi-Verse
 decimals: 9
 extensions:
   website: https://www.scifiverse.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5uE8w9yoMMu88NV8wUaZMuxCiufBBoSiJbNDAEGmDx7x/logo.png
 tags:
   - Game
   - SciFi

@@ -3,6 +3,7 @@ name: DagoDAO Whitelist Token
 decimals: 0
 extensions:
   website: https://www.kekaisarandago.com/
+img: https://arweave.net/juXE_DoTwZng2BK9QN6XdypWq5RscNKoxcKFUEQQ2Ho
 tags:
   - nfts
   - whitelist-token

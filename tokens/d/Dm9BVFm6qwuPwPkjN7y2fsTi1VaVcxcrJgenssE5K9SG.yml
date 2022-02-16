@@ -3,5 +3,6 @@ name: Volunteer Hours Token
 decimals: 9
 extensions:
   description: Volunteer token associated with OneChurch in Sanford, MI.
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dm9BVFm6qwuPwPkjN7y2fsTi1VaVcxcrJgenssE5K9SG/logo.png
 tags:
   - utility-token

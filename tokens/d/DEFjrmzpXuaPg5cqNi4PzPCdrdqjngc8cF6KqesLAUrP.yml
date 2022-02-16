@@ -1,6 +1,7 @@
 symbol: CHNG
 name: ChangeCoin
 decimals: 0
+img: https://raw.githubusercontent.com/jimerson001/crypto/main/changelogo.png
 tags:
   - social-token
   - stablecoin

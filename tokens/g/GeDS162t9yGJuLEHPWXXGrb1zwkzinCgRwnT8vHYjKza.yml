@@ -6,6 +6,7 @@ extensions:
   coingeckoId: math
   serumV3Usdc: J7cPYBrXVy8Qeki2crZkZavcojf2sMRyQU7nx438Mf8t
   serumV3Usdt: 2WghiBkDL2yRhHdvm8CpprrkmfguuQGJTCDfPSudKBAZ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza/logo.png
 tags:
   - ethereum
   - wrapped-sollet

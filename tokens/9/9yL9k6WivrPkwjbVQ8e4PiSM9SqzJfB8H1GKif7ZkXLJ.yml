@@ -1,6 +1,7 @@
 symbol: FLOCKA
 name: Flocka Coin
 decimals: 0
+img: https://cdn.jsdelivr.net/gh//averyschwarz/myrepo/FlockasLogo.png
 tags:
   - community-token
   - social-token

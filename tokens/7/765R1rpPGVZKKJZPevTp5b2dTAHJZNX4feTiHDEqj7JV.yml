@@ -3,5 +3,6 @@ name: BCBY wheat
 decimals: 9
 extensions:
   website: https://www.bcbarnyard.info/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/765R1rpPGVZKKJZPevTp5b2dTAHJZNX4feTiHDEqj7JV/logo.png
 tags:
   - utility-token

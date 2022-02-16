@@ -8,6 +8,7 @@ extensions:
   coingeckoId: the-graph
   serumV3Usdc: 4PD799gihM2SdM8g7PxfSWgQR8cWGNiuzmNzcL2RgpSu
   serumV3Usdt: 5bzmeSmiCzeyDQvaSsQhEega7e2jhH39cFCkT4eqSDSx
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX/logo.png
 tags:
   - wrapped
   - wormhole

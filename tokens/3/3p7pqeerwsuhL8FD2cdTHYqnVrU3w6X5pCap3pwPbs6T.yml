@@ -1,6 +1,7 @@
 symbol: POW
 name: Pow coin
 decimals: 1
+img: https://raw.githubusercontent.com/danielxnilsson/cryptodxn/main/pow_1_coin_s.png
 tags:
   - community-token
   - social-token

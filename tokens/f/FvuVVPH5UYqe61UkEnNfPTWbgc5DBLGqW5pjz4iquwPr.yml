@@ -1,6 +1,7 @@
 symbol: SHKL
 name: Shekel Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FvuVVPH5UYqe61UkEnNfPTWbgc5DBLGqW5pjz4iquwPr/logo.svg
 tags:
   - community-token
   - meme-token

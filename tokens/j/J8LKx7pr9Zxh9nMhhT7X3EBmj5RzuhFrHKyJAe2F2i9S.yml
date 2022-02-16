@@ -6,6 +6,7 @@ extensions:
   assetContract: https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
   bridgeContract: https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7
   coingeckoId: pancakeswap
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png
 tags:
   - wrapped
   - wormhole

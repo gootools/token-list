@@ -1,6 +1,7 @@
 symbol: ISI
 name: Isi Coin
 decimals: 0
+img: https://github.com/dzaja123/dummy-token/blob/main/logo.png
 tags:
   - social-token
   - token

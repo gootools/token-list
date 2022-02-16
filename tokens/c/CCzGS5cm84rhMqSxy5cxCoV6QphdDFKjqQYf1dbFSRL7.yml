@@ -3,6 +3,7 @@ name: Roccetta Coin
 decimals: 0
 extensions:
   instagram: https://www.instagram.com/ale_brd_
+img: https://raw.githubusercontent.com/r0rsch4ch96/Roccetta_Coin/4fc83aefc099a000379b4e9d5af8c65d19c9ddda/logo.png
 tags:
   - community-token
   - social-token

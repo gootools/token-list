@@ -1,6 +1,7 @@
 symbol: DVTK
 name: DevToken
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2NR6WaaCqmxEwoemqtf1c4sguLVmcaQVzfwhWdhKBoCc/logo.png
 tags:
   - utility-token
 clusters:

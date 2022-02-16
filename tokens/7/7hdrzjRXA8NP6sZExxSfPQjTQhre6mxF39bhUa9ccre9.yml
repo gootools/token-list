@@ -3,5 +3,6 @@ name: AI COIN
 decimals: 9
 extensions:
   website: https://itradeai.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7hdrzjRXA8NP6sZExxSfPQjTQhre6mxF39bhUa9ccre9/logo.png
 tags:
   - utility-token

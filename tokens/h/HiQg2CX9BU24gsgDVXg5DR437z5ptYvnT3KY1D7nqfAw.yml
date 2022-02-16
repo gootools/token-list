@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/OridionToken
   website: https://oridion.io
+img: https://cdn.jsdelivr.net/gh/9thwall/Oridion/logo-v1.png
 tags:
   - oridion
   - utility-token

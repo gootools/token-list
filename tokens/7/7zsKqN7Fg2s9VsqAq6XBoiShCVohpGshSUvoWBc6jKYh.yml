@@ -4,6 +4,7 @@ decimals: 2
 extensions:
   coingeckoId: ardcoin
   website: https://ardcoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zsKqN7Fg2s9VsqAq6XBoiShCVohpGshSUvoWBc6jKYh/logo.png
 tags:
   - ethereum
   - wrapped-sollet

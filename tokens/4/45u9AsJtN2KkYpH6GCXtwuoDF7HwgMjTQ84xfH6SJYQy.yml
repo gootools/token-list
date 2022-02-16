@@ -3,6 +3,7 @@ name: Pedals Up Token
 decimals: 10
 extensions:
   website: https://pedalsup.com/
+img: https://cdn.jsdelivr.net/gh/devdutt6/PedalsUpToken/Pedals/pedals.png
 tags:
   - development
   - personal

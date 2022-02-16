@@ -3,5 +3,6 @@ name: NEOVANGUARD
 decimals: 0
 extensions:
   website: https://neovanguard.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATC6C1AL4X51FXNFbPG5pxfjSgDQCNECtfsnyMUnk9X1/logo.png
 tags:
   - social-token

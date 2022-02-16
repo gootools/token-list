@@ -3,6 +3,7 @@ name: Pacha DAO Token
 decimals: 8
 extensions:
   website: https://pachaverse.io/
+img: https://raw.githubusercontent.com/bridgitbrowser/bridge-assets/master/tokens/pacha.svg
 tags:
   - animation
   - coin

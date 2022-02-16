@@ -1,5 +1,6 @@
 symbol: WEX
 name: WexCoin
 decimals: 5
+img: https://raw.githubusercontent.com/coreycullen00/WexCoin/main/logo.png
 tags:
   - social-token

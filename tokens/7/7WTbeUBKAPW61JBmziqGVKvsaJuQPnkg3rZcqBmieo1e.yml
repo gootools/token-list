@@ -1,6 +1,7 @@
 symbol: NOLO
 name: No lo Token
 decimals: 9
+img: https://raw.githubusercontent.com/rjdrar/my-solana-tokens/master/assets/mainnet/logo-1.png
 tags:
   - auction
   - nft

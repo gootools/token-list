@@ -3,6 +3,7 @@ name: TOM AND JERRY
 decimals: 0
 extensions:
   description: I am your Tom and you are my Jerry...Let's get ready to fight
+img: https://arweave.net/vUE9CepRJXgxSrP9BLsR48oDldqfg277ia7L4y1ELPM
 tags:
   - collectible-token
   - digital-collection

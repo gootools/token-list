@@ -1,6 +1,7 @@
 symbol: WGA
 name: GoldAnimation whitelisting Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVcJpThQvSXNDyVZ4yvXGL5YXT7mtoHwyGDnQbq88SHY/gold-logo.png
 tags:
   - GoldAnimation
   - whitelist-token

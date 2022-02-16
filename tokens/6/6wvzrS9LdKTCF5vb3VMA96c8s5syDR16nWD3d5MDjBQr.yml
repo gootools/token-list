@@ -1,5 +1,6 @@
 symbol: NETOFF
 name: netOFF Token
 decimals: 0
+img: https://raw.githubusercontent.com/mef123/netoff-token/main/logo.png
 tags:
   - social-token

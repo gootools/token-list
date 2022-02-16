@@ -3,5 +3,6 @@ name: VanEck Vectors Junior Gold Miners Etf
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?GDXJ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EGhhk4sHgY1SBYsgkfgyGNhAKBXqn6QyKNx7W13evx9D/logo.svg
 tags:
   - tokenized-stock

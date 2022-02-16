@@ -7,5 +7,6 @@ extensions:
   bridgeContract: https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052
   coingeckoId: avalanche-2
   serumV3Usdc: E8JQstcwjuqN5kdMyUJLNuaectymnhffkvfg1j286UCr
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png
 tags:
   - wrapped

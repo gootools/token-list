@@ -3,5 +3,6 @@ name: YEECoin
 decimals: 9
 extensions:
   website: https://solana-nft.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cDqXAoivNdvwd1sy74rTfMeYMM4J1u1ey8WRFYk5RD/logo.png
 tags:
   - meme-token

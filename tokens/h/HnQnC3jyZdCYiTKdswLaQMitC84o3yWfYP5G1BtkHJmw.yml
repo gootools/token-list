@@ -1,5 +1,6 @@
 symbol: NEX
 name: NEXTOKEN
 decimals: 0
+img: https://raw.githubusercontent.com/One-Hundred-and-Eight/sol_tokens/main/nex/logo.png
 tags:
   - social-token

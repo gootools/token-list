@@ -3,6 +3,7 @@ name: Solanka Coin
 decimals: 9
 extensions:
   website: https://woken-token.github.io/solanka-coin/
+img: https://arweave.net/u0Nbp8wLcvtMsawdnddN4LH5rdxmQtKoul3TN7e2r0Q/solanka.png
 tags:
   - community-token
   - meme-token

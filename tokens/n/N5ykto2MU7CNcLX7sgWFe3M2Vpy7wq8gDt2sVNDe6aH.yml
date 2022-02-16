@@ -3,5 +3,6 @@ name: iShares MSCI Brazil ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?EWZ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/N5ykto2MU7CNcLX7sgWFe3M2Vpy7wq8gDt2sVNDe6aH/logo.svg
 tags:
   - tokenized-stock

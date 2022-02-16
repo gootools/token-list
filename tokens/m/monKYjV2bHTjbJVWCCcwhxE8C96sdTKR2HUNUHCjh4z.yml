@@ -3,5 +3,6 @@ name: Saber daoSOL-SOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/monkedao
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z/icon.png
 tags:
   - saber-stableswap-lp

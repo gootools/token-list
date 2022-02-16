@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   description: Yes
   discord: https://discord.gg/67jHRMXh5k
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F2SoB3d83yA6xbSLawPg4ae1tPomAvWYP5LvKozicDH7/logo.png
 tags:
   - social-token

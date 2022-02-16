@@ -3,5 +3,6 @@ name: SteeLTv
 decimals: 9
 extensions:
   website: https://discord.gg/E4pVjeRehG
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GW6NUnFwVdbmobcKdHoDKANMjZ5NojtgoPCfSWbQhcrQ/logo.png
 tags:
   - meme-token

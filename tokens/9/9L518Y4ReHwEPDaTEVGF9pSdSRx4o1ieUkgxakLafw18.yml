@@ -1,6 +1,7 @@
 symbol: JFC
 name: "Solana JFC "
 decimals: 1
+img: https://raw.githubusercontent.com/ziazilliqa/jpl-logo/main/logo.png
 tags:
   - community-token
   - utility-token

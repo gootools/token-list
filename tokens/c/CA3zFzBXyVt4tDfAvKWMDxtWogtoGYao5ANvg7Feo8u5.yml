@@ -3,5 +3,6 @@ name: Weed Coin
 decimals: 0
 extensions:
   website: http://weedcoin.store
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CA3zFzBXyVt4tDfAvKWMDxtWogtoGYao5ANvg7Feo8u5/pot.jpg
 tags:
   - social-token

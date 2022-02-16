@@ -1,5 +1,6 @@
 symbol: TTS
 name: The Travel Shop
 decimals: 0
+img: https://raw.githubusercontent.com/ollisailing/tts/main/tts.png
 tags:
   - travel-token

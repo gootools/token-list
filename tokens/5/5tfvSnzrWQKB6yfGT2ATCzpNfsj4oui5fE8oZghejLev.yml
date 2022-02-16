@@ -3,6 +3,7 @@ name: Authentic
 decimals: 6
 extensions:
   discord: https://discord.gg/U8sFrVyzPA
+img: https://raw.githubusercontent.com/AUTHTeam/crypto/main/Auth_Token.jpg
 tags:
   - community-token
   - game-token

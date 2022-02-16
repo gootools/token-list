@@ -1,5 +1,6 @@
 symbol: EPIK
 name: Epik City Token
 decimals: 8
+img: https://raw.githubusercontent.com/EpikCityGit/EC/main/EC.png
 tags:
   - game-token

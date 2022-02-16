@@ -1,5 +1,6 @@
 symbol: HOTEL
 name: HOTEL
 decimals: 2
+img: https://raw.githubusercontent.com/NewHotel-Simone/NewHotel/main/hotelPNG-square.png
 tags:
   - BlockExchange

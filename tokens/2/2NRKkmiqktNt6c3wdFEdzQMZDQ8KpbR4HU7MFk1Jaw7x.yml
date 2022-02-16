@@ -3,5 +3,6 @@ name: Bois Coin
 decimals: 0
 extensions:
   twitch: https://twitch.tv/gckluke
+img: https://cdn.discordapp.com/attachments/679118561649623070/942573815513354300/logo.png
 tags:
   - social-token

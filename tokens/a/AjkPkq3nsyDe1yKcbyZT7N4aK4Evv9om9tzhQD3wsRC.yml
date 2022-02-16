@@ -8,6 +8,7 @@ extensions:
   coingeckoId: 1inch
   serumV3Usdc: EQcNRGwogvYJDizG9Ek1qf6syi5UghkYDcUwgmycawYU
   serumV3Usdt: B3UpqhaGZc9yXhELknAAXuAoKzCk4QAoqaiVUffgMQBH
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC/logo.png
 tags:
   - ethereum
   - wrapped

@@ -1,6 +1,7 @@
 symbol: MORT
 name: Mortgage
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Mortgage.png
 tags:
   - community
   - Mortgage

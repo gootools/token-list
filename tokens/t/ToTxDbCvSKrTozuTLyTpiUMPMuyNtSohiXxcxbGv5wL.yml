@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/SolanaWhalesNFT
   website: https://solanahodlwhales.io
+img: https://raw.githubusercontent.com/solanahodlwhales/whitelist/main/whitelistToken.png
 tags:
   - NFT

@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   description: Solx Gaming Guild DAO
   twitter: https://twitter.com/SolxGamingGuild
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3eLpKZBgu6pKG2TSpvTfTeeimT294yxV2AEiBKZdY2ai/logo.png
 tags:
   - dao
   - gaming

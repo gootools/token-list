@@ -3,6 +3,7 @@ name: USDC-CASH LP
 decimals: 9
 extensions:
   website: https://dev.ratio.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2gsojBCyZUgqXEj5vR41sKat3JyG11nXSsgzMErY9EVL/logo.png
 tags:
   - ratio-token
 clusters:

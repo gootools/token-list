@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Boom is utility token that is created to help the lebanese
     community that was affected by Beirut explosion in August 4, 2020
+img: https://raw.githubusercontent.com/meezcal/boom/main/logo.jpg
 tags:
   - community-token
   - lebanon-token

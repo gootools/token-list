@@ -3,6 +3,7 @@ name: BannerDesk
 decimals: 6
 extensions:
   website: https://www.bannerdesk.com
+img: https://www.bannerdesk.com/logos/logo256.png
 tags:
   - payment-token
   - utility-token

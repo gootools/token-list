@@ -3,5 +3,6 @@ name: We-Tokenize
 decimals: 6
 extensions:
   website: https://we-tokenize.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WETk2zhvTruGmVe1RFNHYt7netgpPWsGrezgB22vD3U/logo.png
 tags:
   - utility-token

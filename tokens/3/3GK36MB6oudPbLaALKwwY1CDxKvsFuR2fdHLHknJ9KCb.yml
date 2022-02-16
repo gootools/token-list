@@ -3,6 +3,7 @@ name: Mudo
 decimals: 9
 extensions:
   website: https://mudocoin.io
+img: https://raw.githubusercontent.com/Pcheckbox/token/main/logo.png
 tags:
   - community-token
   - social-token

@@ -3,6 +3,7 @@ name: Master of Circles (AAhe)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/FKabzds8w3k7ZQRkPS6duTZJDhCiHiaR64Vq9AkCtsgP?src=token-list
+img: https://devbeta.human.ag/api/profile/FKabzds8w3k7ZQRkPS6duTZJDhCiHiaR64Vq9AkCtsgP/picture?src=token-list
 tags:
   - human
   - social-token

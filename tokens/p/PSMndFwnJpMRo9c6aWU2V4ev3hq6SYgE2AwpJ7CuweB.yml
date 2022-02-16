@@ -3,6 +3,7 @@ name: Phantom Simon
 decimals: 4
 extensions:
   website: https://human.ag/coin/PSM
+img: https://human.ag/api/profile/FUQ3VUB5pvUnwCBZXLNr8iVAjrKvStvgTA5ewkMwHSPG/picture?src=token-list
 tags:
   - human
   - social-token

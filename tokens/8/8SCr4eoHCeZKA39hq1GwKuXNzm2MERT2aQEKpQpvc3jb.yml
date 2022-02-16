@@ -3,5 +3,6 @@ name: Oxgrod
 decimals: 9
 extensions:
   twitter: https://twitter.com/Oxgrod
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzHDi6bKVKLqJmNGmrvC4C4gaeaXdexG1zNKNdMnwb56/logo.png
 tags:
   - nft

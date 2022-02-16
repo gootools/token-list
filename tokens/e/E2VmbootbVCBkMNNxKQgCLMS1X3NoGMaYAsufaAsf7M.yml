@@ -6,5 +6,6 @@ extensions:
   assetContract: https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174
   bridgeContract: https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde
   coingeckoId: usd-coin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M/logo.png
 tags:
   - wrapped

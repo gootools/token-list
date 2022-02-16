@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   discord: https://discord.gg/VHpA4tQYXZ
   website: https://zdrt.club
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5i8C6n4VbELnTHtES83aqeh16uPiEyve4jHr2QN2WhSz/logo.png
 tags:
   - social-token

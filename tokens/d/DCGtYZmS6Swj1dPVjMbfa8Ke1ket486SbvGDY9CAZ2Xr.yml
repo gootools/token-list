@@ -3,6 +3,7 @@ name: Immutable Virtual Original Soul
 decimals: 0
 extensions:
   website: https://ivos.pt
+img: https://raw.githubusercontent.com/JVQuantum/ivos/main/ivOS%20logo.png
 tags:
   - gaming
   - immutable

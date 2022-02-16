@@ -10,6 +10,7 @@ extensions:
   serumV3Usdc: DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE
   twitter: https://twitter.com/rollbitcom
   website: https://www.rollbit.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a/logo.png
 tags:
   - community-token
   - lottery

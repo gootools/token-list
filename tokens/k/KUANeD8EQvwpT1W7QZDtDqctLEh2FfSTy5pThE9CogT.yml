@@ -3,6 +3,7 @@ name: Saber Wrapped renLUNA (9 decimals)
 decimals: 9
 extensions:
   website: https://app.saber.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT/icon.png
 tags:
   - saber-market-luna
   - saber-dec-wrapped

@@ -3,5 +3,6 @@ name: DockCoin
 decimals: 9
 extensions:
   website: https://dockcoin.me/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9wPT3uJrH43TPPupYyaywXaaqBNLTxMDGoaAvnz4RMMR/logo.png
 tags:
   - meme-token

@@ -1,5 +1,6 @@
 symbol: BC
 name: BCredit
 decimals: 0
+img: https://raw.githubusercontent.com/thomas0050/Bcredit/main/BCredit.png
 tags:
   - social-token

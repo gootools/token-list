@@ -3,5 +3,6 @@ name: CoinAlpha
 decimals: 9
 extensions:
   website: https://coinalpha.app/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CKtm7ZMYdKmFSCGukzKjhsp4JFTFGk9uEMGF7XYEFKgK/logo.png
 tags:
   - utility-token

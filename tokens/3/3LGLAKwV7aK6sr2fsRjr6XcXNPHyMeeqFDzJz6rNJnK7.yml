@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/digivelly
   website: https://digivelly.com
+img: https://raw.githubusercontent.com/digitalyug/data/main/3.png
 tags:
   - community-token
   - meta-token

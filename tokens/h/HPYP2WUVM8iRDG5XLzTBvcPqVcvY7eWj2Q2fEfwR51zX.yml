@@ -3,6 +3,7 @@ name: Swyft Coin
 decimals: 9
 extensions:
   website: http://swyftcoin.com
+img: https://cdn.jsdelivr.net/gh/FinancialBlock/SwyftToken/Swyft.png
 tags:
   - meme-token
   - social-token

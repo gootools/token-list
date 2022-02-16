@@ -1,5 +1,6 @@
 symbol: CRGO
 name: Cargo Currency
 decimals: 8
+img: https://raw.githubusercontent.com/CargoCurrency/Cargo-Currency/main/cc.png
 tags:
   - general-token

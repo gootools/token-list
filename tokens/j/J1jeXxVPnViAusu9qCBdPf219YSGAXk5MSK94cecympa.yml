@@ -1,6 +1,7 @@
 symbol: DBZi
 name: DBZi Game Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J1jeXxVPnViAusu9qCBdPf219YSGAXk5MSK94cecympa/logo.png
 tags:
   - game
   - nft

@@ -1,6 +1,7 @@
 symbol: CADEAU
 name: CADEAU for YOU
 decimals: 9
+img: https://raw.githubusercontent.com/GJJFoundation/cadeau/main/kadoPNG.png
 tags:
   - cadeau-token
   - gift-token

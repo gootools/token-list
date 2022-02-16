@@ -3,5 +3,6 @@ name: Orca Aquafarm Token (SNY/USDC)
 decimals: 6
 extensions:
   website: https://orca.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Qw5Gzf1TkM3YRe7Dh6yMVMo2wnJxRiCUBP8abTTn9Yg/logo.svg
 tags:
   - lp-token

@@ -1,5 +1,6 @@
 symbol: DGFR
 name: Disc Golfer Coin
 decimals: 0
+img: https://raw.githubusercontent.com/marshallnp/crypto/main/DGFR.jpg
 tags:
   - transactional-token

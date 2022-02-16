@@ -3,6 +3,7 @@ name: WeShare
 decimals: 9
 extensions:
   website: https://www.we-share.online/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KccNRqHQdnQ9WS8vLSo8uwVPpW7dojmMmZuDpwi6mKd/logo.png
 tags:
   - social-token
   - tokenized-stock

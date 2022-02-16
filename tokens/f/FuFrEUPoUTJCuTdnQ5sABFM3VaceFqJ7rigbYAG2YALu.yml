@@ -3,6 +3,7 @@ name: Heroes Arena Coin
 decimals: 6
 extensions:
   discord: https://discord.gg/Qt7n5ha2fy
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FuFrEUPoUTJCuTdnQ5sABFM3VaceFqJ7rigbYAG2YALu/logo.png
 tags:
   - game
   - gaming

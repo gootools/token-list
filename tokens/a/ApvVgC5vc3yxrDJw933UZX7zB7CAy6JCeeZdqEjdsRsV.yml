@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/8teAPi
   website: https://www.8teapi.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApvVgC5vc3yxrDJw933UZX7zB7CAy6JCeeZdqEjdsRsV/logo.svg
 tags:
   - personal

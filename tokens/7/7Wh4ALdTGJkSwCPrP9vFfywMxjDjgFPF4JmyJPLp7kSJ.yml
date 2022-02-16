@@ -1,5 +1,6 @@
 symbol: WORKS
 name: WORKS
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Wh4ALdTGJkSwCPrP9vFfywMxjDjgFPF4JmyJPLp7kSJ/logo.png
 clusters:
   - devnet

@@ -3,5 +3,6 @@ name: GTOK
 decimals: 0
 extensions:
   website: https://www.arkayde.io/
+img: https://raw.githubusercontent.com/yoavshmariahu/token-list/main/assets/mainnet/6bTcyMbXcRuvBgukkUDNK8xxLrviAGVmDs8vTcs4Rodj/logo.png
 tags:
   - social-token

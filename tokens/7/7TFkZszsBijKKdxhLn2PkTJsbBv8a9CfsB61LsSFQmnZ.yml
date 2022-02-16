@@ -1,5 +1,6 @@
 symbol: PHORK
 name: Phork Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7TFkZszsBijKKdxhLn2PkTJsbBv8a9CfsB61LsSFQmnZ/logo.svg
 tags:
   - social-token

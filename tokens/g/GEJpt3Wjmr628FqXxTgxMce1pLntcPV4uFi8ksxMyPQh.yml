@@ -5,5 +5,6 @@ extensions:
   description: daoSOL is the staking token issued by the MonkeDAO staking pool
   twitter: https://twitter.com/MonkeDAO
   website: https://monkedao.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/logo.png
 tags:
   - stake-pool-token

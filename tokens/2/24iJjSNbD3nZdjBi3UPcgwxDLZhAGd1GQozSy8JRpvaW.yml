@@ -1,6 +1,7 @@
 symbol: ISHA
 name: Isashii Coin
 decimals: 8
+img: https://raw.githubusercontent.com/MIpito/isashii/main/logo.png
 tags:
   - economy
   - ecology

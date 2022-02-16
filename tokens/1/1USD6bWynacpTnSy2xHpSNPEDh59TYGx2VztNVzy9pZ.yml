@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/OneRing_Finance
   twitter: https://twitter.com/onering_finance
   website: https://www.onering.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1USD6bWynacpTnSy2xHpSNPEDh59TYGx2VztNVzy9pZ/logo.svg
 tags:
   - DeFi
   - stablecoin

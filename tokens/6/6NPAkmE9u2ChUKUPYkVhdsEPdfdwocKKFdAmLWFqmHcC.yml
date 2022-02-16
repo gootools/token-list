@@ -1,6 +1,7 @@
 symbol: GRF
 name: Griffin
 decimals: 8
+img: https://raw.githubusercontent.com/Griffin88b/crypto-GRF/main/Griffin.png
 tags:
   - social-token
   - solana

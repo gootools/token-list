@@ -3,5 +3,6 @@ name: Despawn
 decimals: 8
 extensions:
   website: https://despawn.io/dspwn
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjEm7iRHr5cwWTjtF7Xk58hnRiH4rz9NXboeeWjueFCc/logo.png
 tags:
   - utility-token

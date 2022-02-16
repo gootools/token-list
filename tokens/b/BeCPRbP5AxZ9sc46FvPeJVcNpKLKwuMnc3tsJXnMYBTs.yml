@@ -1,6 +1,7 @@
 symbol: WYOS
 name: WyoSol
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BeCPRbP5AxZ9sc46FvPeJVcNpKLKwuMnc3tsJXnMYBTs/logo.png
 tags:
   - solana-blockchain
   - wyoming

@@ -1,5 +1,6 @@
 symbol: DAN
 name: Dan Coin
 decimals: 9
+img: https://raw.githubusercontent.com/joshtasman/cSolana/main/dan_logo.jpg
 tags:
   - social-token

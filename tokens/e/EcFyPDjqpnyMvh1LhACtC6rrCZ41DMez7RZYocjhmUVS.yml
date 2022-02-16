@@ -9,6 +9,7 @@ extensions:
   reddit: https://www.reddit.com/user/nodebunch
   twitter: https://twitter.com/BunchNode
   website: https://nodebunch.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcFyPDjqpnyMvh1LhACtC6rrCZ41DMez7RZYocjhmUVS/logo.png
 tags:
   - amm
   - dex

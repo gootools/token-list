@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   discord: https://discord.gg/XE2PjtcyXs
   website: https://santacoin.xyz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6nY5u2KWywfY6ERXgBBr6YNfBATHi13HT1fge64vCAKo/santa.png
 tags:
   - bull
   - community-token

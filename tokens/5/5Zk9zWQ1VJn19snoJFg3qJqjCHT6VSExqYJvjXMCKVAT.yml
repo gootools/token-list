@@ -1,5 +1,6 @@
 symbol: MAITO
 name: Maitoken
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Zk9zWQ1VJn19snoJFg3qJqjCHT6VSExqYJvjXMCKVAT/logo.png
 tags:
   - meme-token

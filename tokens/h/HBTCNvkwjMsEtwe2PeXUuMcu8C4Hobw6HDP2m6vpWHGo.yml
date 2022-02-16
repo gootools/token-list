@@ -3,6 +3,7 @@ name: Saber wHBTC_V1-renBTC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/hbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1

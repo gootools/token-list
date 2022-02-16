@@ -1,5 +1,6 @@
 symbol: VSWAY
 name: VOTERSWAY
 decimals: 0
+img: https://raw.githubusercontent.com/wevote-project/votersway/main/benny.png
 tags:
   - social-token

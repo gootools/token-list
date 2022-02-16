@@ -3,6 +3,7 @@ name: Starlight coin
 decimals: 9
 extensions:
   website: https://starlight.ooo
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AA1SM4BpEv9QRnWGeriD92HFegb3VXnKm3ENru7n2a4F/logo.png
 tags:
   - utility-token
 clusters:

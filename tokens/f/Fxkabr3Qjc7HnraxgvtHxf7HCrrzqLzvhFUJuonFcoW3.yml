@@ -3,3 +3,4 @@ name: eTolar
 decimals: 9
 extensions:
   website: https://etolar.org/
+img: https://raw.githubusercontent.com/admin9955/eTolar/main/logo.png

@@ -3,6 +3,7 @@ name: Tugscom Coin
 decimals: 9
 extensions:
   website: https://tugscom.mn/
+img: https://tugscom.mn/tkc.png
 tags:
   - TKC
   - Tugscom

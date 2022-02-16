@@ -5,6 +5,7 @@ extensions:
   facebook: https://www.facebook.com/VROneKoszalin
   github: https://github.com/AzureVein
   website: https://vr-one.pro/
+img: https://raw.githubusercontent.com/AzureVein/VR_One-Token/main/logo.png
 tags:
   - company-token
   - community-token

@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/carbonfarm
   twitter: https://twitter.com/farmcarbonmore
   website: https://www.farmcarbonmore.com/
+img: https://cdn.jsdelivr.net/gh/CarbonFarm/CRBtoken/logo.png
 tags:
   - Farming
   - NFT

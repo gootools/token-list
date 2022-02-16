@@ -1,6 +1,7 @@
 symbol: SPK
 name: SPL Token
 decimals: 6
+img: https://dl.dropboxusercontent.com/s/j9e71gm4dwitxgp/token.png?dl=0
 tags:
   - utility-token
 clusters:

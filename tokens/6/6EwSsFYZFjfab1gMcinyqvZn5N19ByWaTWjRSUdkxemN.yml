@@ -3,6 +3,7 @@ name: CREDIT SOL
 decimals: 9
 extensions:
   website: https://blocksto.ne/credit-sol/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EwSsFYZFjfab1gMcinyqvZn5N19ByWaTWjRSUdkxemN/Coinlogo.png
 tags:
   - Blockstone
   - Credit

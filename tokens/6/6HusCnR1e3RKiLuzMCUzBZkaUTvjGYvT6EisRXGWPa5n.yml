@@ -3,6 +3,7 @@ name: ROBO
 decimals: 8
 extensions:
   website: https://roboworld.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3QEMVBPQm7PK86oms35izjca89fBbigDvs9wNNVH3Wi8/logo.png
 tags:
   - dao
   - gaming

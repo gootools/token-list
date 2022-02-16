@@ -1,5 +1,6 @@
 symbol: JUJU
 name: JujuCoin
 decimals: 0
+img: https://raw.githubusercontent.com/DavidJKTofan/juju-crypto-token/main/logo.png
 tags:
   - social-token

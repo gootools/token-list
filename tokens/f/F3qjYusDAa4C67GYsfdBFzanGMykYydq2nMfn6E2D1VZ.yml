@@ -1,6 +1,7 @@
 symbol: MOMMY
 name: Matt Coin
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F3qjYusDAa4C67GYsfdBFzanGMykYydq2nMfn6E2D1VZ/logo.png
 tags:
   - meme-token
   - social-token

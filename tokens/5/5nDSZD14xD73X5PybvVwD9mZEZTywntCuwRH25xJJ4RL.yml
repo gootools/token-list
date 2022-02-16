@@ -3,6 +3,7 @@ name: IA Token
 decimals: 0
 extensions:
   instagram: https://www.instagram.com/urbsclimber/
+img: https://raw.githubusercontent.com/imananimator/IATK/main/logo.png
 tags:
   - community-token
   - social-token

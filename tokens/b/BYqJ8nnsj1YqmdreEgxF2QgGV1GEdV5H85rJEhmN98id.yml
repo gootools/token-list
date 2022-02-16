@@ -1,6 +1,7 @@
 symbol: WBC
 name: Buffettcoin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYqJ8nnsj1YqmdreEgxF2QgGV1GEdV5H85rJEhmN98id/logo.png
 tags:
   - travel-token
   - utility-token

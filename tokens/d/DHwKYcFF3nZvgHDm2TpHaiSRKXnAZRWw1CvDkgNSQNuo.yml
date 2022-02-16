@@ -3,6 +3,7 @@ name: GenMakers Whitelist Pass
 decimals: 0
 extensions:
   website: https://www.genmakers.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DHwKYcFF3nZvgHDm2TpHaiSRKXnAZRWw1CvDkgNSQNuo/logo.png
 tags:
   - nft-token
   - social-token

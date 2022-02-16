@@ -3,6 +3,7 @@ name: SolBots
 decimals: 5
 extensions:
   twitter: https://twitter.com/SolbotsDAO
+img: https://i.imgur.com/imq3ICz.png
 tags:
   - community-token
   - utility-token

@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: "The #1 Decentralized meme token in Solana ecosystem."
   website: https://chimpd.com
+img: https://raw.githubusercontent.com/tsbsoltn/soltn/main/chimp/logo.png
 tags:
   - community-token
   - meme-token

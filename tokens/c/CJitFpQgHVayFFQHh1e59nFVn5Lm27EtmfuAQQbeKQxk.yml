@@ -1,5 +1,6 @@
 symbol: BOB
 name: Bob Coin
 decimals: 0
+img: https://raw.githubusercontent.com/MajorScully/crypto/main/BobCoinIcon.png
 tags:
   - social-token

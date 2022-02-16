@@ -3,5 +3,6 @@ name: Coffee Coin
 decimals: 2
 extensions:
   website: https://sebastianalscher.de/coffee-coin/
+img: https://raw.githubusercontent.com/sebulino/crypto/main/Logo.png
 tags:
   - social-token

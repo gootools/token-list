@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/_Night_Club_
   website: https://www.NightClub.nu
+img: https://raw.githubusercontent.com/Night-Club/Coins/main/nigtclub.png
 tags:
   - coin
   - game

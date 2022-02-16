@@ -3,5 +3,6 @@ name: LightCoin
 decimals: 9
 extensions:
   twitter: https://twitter.com/FrantisekPetru
+img: https://raw.githubusercontent.com/fpetruololo/light/main/logo.png
 tags:
   - social-token

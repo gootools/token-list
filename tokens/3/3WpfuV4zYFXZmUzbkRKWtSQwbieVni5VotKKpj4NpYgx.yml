@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/iwaiterMENA
   website: https://iwaiter.net
+img: https://raw.githubusercontent.com/mansourSaleh/iwaiter/main/logo.png
 tags:
   - community-token
   - social-token

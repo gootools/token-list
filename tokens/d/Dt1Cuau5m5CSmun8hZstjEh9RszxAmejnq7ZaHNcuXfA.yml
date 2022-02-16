@@ -3,6 +3,7 @@ name: Port Finance mSOL
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA/mSOL.svg
 tags:
   - collateral-tokens
   - lending

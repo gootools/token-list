@@ -1,5 +1,6 @@
 symbol: FIFS
 name: Solana FIFS
 decimals: 0
+img: https://raw.githubusercontent.com/solanafifs/solanafifs/main/logo.png
 tags:
   - solana

@@ -3,6 +3,7 @@ name: Ahome
 decimals: 0
 extensions:
   website: https://blocksto.ne/ahome/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YjFA4xNN3qaxpnVAciF7VvnzuF4GzbiNziu2uxRY9Wm/blockstonePNG.png
 tags:
   - Blockstone-fund
   - Real-estate

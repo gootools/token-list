@@ -3,6 +3,7 @@ name: tkwonik
 decimals: 6
 extensions:
   instagram: https://www.instagram.com/uzytkownik667/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G933gsbeophPijATin5bB77etQwJ3W5ZFQHCij5Vh5ST/logo.png
 tags:
   - game-token
   - game-currency

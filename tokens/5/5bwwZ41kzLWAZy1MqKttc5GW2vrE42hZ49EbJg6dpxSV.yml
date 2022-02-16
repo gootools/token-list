@@ -3,5 +3,6 @@ name: Minty Whitelist
 decimals: 0
 extensions:
   twitter: https://twitter.com/MintyAutomation
+img: https://raw.githubusercontent.com/MintyAutomation/minty-logo/main/logo.png
 tags:
   - whitelist-token

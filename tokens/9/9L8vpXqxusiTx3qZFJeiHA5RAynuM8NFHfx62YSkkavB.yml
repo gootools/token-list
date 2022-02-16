@@ -3,6 +3,7 @@ name: Fenrir Coin
 decimals: 0
 extensions:
   github: https://github.com/sexywerewolf
+img: https://raw.githubusercontent.com/SexyWerewolf/FenrirCoin/main/logo.png
 tags:
   - Application
   - community-token

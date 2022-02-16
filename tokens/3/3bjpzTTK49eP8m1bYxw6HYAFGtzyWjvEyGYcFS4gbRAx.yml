@@ -3,5 +3,6 @@ name: Amazon
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?AMZN
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3bjpzTTK49eP8m1bYxw6HYAFGtzyWjvEyGYcFS4gbRAx/logo.svg
 tags:
   - tokenized-stock

@@ -1,6 +1,7 @@
 symbol: BLING
 name: Billionaire Bling Coin
 decimals: 0
+img: https://raw.githubusercontent.com/gzparker/BlingCoin/main/logo.png
 tags:
   - community-token
   - meme-token

@@ -8,6 +8,7 @@ extensions:
   coingeckoId: compound-governance-token
   serumV3Usdc: CU5L8JC83hyYZdf1phzy6a7X58eTtPjs7mHL3QKCcLfh
   serumV3Usdt: 9gA6T3HRCMTVTULte5pJsXjMDUGRtygTKLbMny6eRcyM
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom/logo.png
 tags:
   - wrapped
   - wormhole

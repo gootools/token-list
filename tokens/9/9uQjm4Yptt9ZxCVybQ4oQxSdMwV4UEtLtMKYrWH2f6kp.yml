@@ -1,6 +1,7 @@
 symbol: TYCN
 name: TyCoin
 decimals: 0
+img: https://raw.githubusercontent.com/samwarlock/tycoin/main/logo.png
 tags:
   - charity
   - Community

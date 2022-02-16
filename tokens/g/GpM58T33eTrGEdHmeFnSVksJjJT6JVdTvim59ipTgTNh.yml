@@ -3,5 +3,6 @@ name: NVIDIA
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?NVDA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpM58T33eTrGEdHmeFnSVksJjJT6JVdTvim59ipTgTNh/logo.svg
 tags:
   - tokenized-stock

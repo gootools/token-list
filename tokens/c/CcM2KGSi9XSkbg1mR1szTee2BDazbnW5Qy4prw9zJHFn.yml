@@ -5,6 +5,7 @@ extensions:
   description: Swiss decentralized Token
   twitter: https://twitter.com/NeronProject
   website: https://neron-project.com
+img: https://github.com/neronproject/token/raw/main/logo.png
 tags:
   - nft
   - social-token

@@ -13,6 +13,7 @@ extensions:
   telegram: https://t.me/millionjacuzzibar
   twitter: https://twitter.com/Million__Token
   website: https://www.milliontoken.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd/logo.svg
 tags:
   - wrapped
   - wormhole

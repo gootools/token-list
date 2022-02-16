@@ -3,6 +3,7 @@ name: Lamp
 decimals: 0
 extensions:
   website: https://lamp.church
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/assets/FLpjpb5hLKBeTneMPe2KVocDxoZCg1Xz7d9ekKZJ2e2n/logo.png
 tags:
   - few
   - lamp

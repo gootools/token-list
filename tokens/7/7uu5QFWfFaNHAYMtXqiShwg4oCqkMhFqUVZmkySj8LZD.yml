@@ -1,6 +1,7 @@
 symbol: NYLCN
 name: Nylon Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Shortcutgamez/crypto/main/logo.png
 tags:
   - collectible-token
   - nft

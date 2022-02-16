@@ -3,6 +3,7 @@ name: Fractionalised Boku-420
 decimals: 2
 extensions:
   vault: https://devnet.bridgesplit.com/markets/HVVB2ZDw1ykyRYSwcMrDXsQ6sesGe7qyp5vB3zAuK4Hw
+img: https://i.imgur.com/O3h1zUq.png
 tags:
   - bridgesplit-fraction
 clusters:

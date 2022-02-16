@@ -3,5 +3,6 @@ name: Interstellar Banking Token
 decimals: 6
 extensions:
   discord: https://discord.gg/WhefX8qf
+img: https://raw.githubusercontent.com/SecuritySkunk/cryptotoken/main/logo.png
 tags:
   - game-coin

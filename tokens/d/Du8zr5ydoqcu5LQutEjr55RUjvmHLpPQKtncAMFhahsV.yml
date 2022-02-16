@@ -3,6 +3,7 @@ name: Diverse Capital of Asiatic Exchanges
 decimals: 9
 extensions:
   website: https://www.dcxa.io/
+img: https://dcxa.s3.amazonaws.com/static/icon.png
 tags:
   - community
   - community-token

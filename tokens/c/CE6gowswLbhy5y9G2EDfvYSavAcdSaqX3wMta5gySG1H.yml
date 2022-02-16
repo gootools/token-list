@@ -3,6 +3,7 @@ name: BullDog
 decimals: 9
 extensions:
   twitter: https://twitter.com/BullDogSolana
+img: https://raw.githubusercontent.com/solanadevv/token-list/assets/mainnet/CE6gowswLbhy5y9G2EDfvYSavAcdSaqX3wMta5gySG1H/logo.png
 tags:
   - Meme-Token
   - nft

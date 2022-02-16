@@ -3,6 +3,7 @@ name: Doublon
 decimals: 9
 extensions:
   instagram: https://www.instagram.com/clement_aglr
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dqo4Q2ku79MeyUXk8zcpiexhjMe1RgFQKrdpCN9VePJm/logo.png
 tags:
   - international-token
   - utility-token

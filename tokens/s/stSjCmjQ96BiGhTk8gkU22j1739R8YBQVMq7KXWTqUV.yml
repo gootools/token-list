@@ -3,5 +3,6 @@ name: Saber stSOL-SOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/stsol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png
 tags:
   - saber-stableswap-lp

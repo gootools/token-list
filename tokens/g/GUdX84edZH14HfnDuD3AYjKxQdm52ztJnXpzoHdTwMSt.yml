@@ -3,5 +3,6 @@ name: Gemstone
 decimals: 6
 extensions:
   website: https://www.gemtoken.online
+img: https://user-images.githubusercontent.com/23665754/150893304-f9391d19-a332-45d6-be74-fdab73cbd422.png
 tags:
   - social-token

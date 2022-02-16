@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   telegram: https://t.me/babylitoken
   website: https://babyLI.at
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6cCQc1BZk6Y8ZrKRf8odLQn7Zb5cTnTFFme5UZgEPZJe/logo.png
 tags:
   - Blockchain
   - community

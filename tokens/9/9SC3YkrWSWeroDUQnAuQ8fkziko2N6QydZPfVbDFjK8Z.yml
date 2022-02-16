@@ -3,5 +3,6 @@ name: Phosphine Coin
 decimals: 9
 extensions:
   website: https://phosphinecoin.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9SC3YkrWSWeroDUQnAuQ8fkziko2N6QydZPfVbDFjK8Z/logo.png
 tags:
   - phosphine

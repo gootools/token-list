@@ -3,5 +3,6 @@ name: Sofven
 decimals: 9
 extensions:
   website: https://www.sofven.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DchriVmCLnaDytihAWeAPVdGhHCf8dXM6UdPMGGT9rhx/logo.png
 clusters:
   - devnet

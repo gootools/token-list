@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   twitter: https://twitter.com/ArcadeCityHall
   website: https://arcade.city
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4wTMJsh3q66PmAkmwEW47qVDevMZMVVWU3n1Yhqztwi6/logo.png
 tags:
   - wrapped
   - wormhole

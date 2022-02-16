@@ -1,5 +1,6 @@
 symbol: DUST
 name: DUST
 decimals: 0
+img: https://raw.githubusercontent.com/codingbeast/testapp/master/logo.png
 tags:
   - social-token

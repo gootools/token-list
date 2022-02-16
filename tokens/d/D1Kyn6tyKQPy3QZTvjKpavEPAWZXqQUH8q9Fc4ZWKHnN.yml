@@ -3,6 +3,7 @@ name: Bojack Coin
 decimals: 6
 extensions:
   website: https://bojackhorsecoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D1Kyn6tyKQPy3QZTvjKpavEPAWZXqQUH8q9Fc4ZWKHnN/logo.png
 tags:
   - meta-verse
   - social-token

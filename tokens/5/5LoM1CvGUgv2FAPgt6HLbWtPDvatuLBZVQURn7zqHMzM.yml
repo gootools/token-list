@@ -1,6 +1,7 @@
 symbol: NDCT
 name: NandoCarter
 decimals: 0
+img: https://raw.githubusercontent.com/jhosuave/nandocarter/main/logo.png
 tags:
   - social-token
   - utility-token

@@ -1,6 +1,7 @@
 symbol: phantom-webdge
 name: phw
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo/logo.png
 tags:
   - ghost
   - solana

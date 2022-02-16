@@ -3,6 +3,7 @@ name: Solless Art Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/sollessart
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38NBXKjUs5CM56E1nLfZXJgHLyob5pkYp1ERegqueQqy/logo.png
 tags:
   - community-token
   - social-token

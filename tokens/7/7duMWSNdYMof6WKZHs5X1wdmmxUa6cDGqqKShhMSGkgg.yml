@@ -3,6 +3,7 @@ name: Yet Another Token LAZURIT
 decimals: 6
 extensions:
   website: http://n1pool.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7duMWSNdYMof6WKZHs5X1wdmmxUa6cDGqqKShhMSGkgg/logo.png
 clusters:
   - devnet
   - mainnet-beta

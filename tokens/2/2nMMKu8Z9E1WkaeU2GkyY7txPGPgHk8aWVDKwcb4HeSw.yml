@@ -3,5 +3,6 @@ name: SOOCY Token
 decimals: 0
 extensions:
   website: https://soocy.me/
+img: https://raw.githubusercontent.com/soocyme/coin/main/Logo_Final.png
 tags:
   - utility-token

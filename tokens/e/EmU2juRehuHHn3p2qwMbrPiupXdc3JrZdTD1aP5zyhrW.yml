@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   github: https://github.com/segraef
   website: https://graef.io/
+img: https://raw.githubusercontent.com/segraef/graef.io/main/logo.png
 tags:
   - company-token
   - fabric-token

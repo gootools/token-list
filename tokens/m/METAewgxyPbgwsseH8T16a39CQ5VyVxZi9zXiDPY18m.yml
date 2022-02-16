@@ -5,6 +5,7 @@ extensions:
   github: https://github.com/metaplex-foundation/metaplex
   twitter: https://twitter.com/metaplex
   website: https://metaplex.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m/logo.png
 clusters:
   - devnet
   - mainnet-beta

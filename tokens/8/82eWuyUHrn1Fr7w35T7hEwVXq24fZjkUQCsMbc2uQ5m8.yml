@@ -3,6 +3,7 @@ name: CryptoWeed
 decimals: 4
 extensions:
   website: https://cryptoweed.fun/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/82eWuyUHrn1Fr7w35T7hEwVXq24fZjkUQCsMbc2uQ5m8/logo.png
 tags:
   - community-token
   - cannabis-fun-club

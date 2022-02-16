@@ -5,6 +5,7 @@ extensions:
   github: https://github.com/SolBlazeOrg
   twitter: https://twitter.com/solblaze_org
   website: https://stake.solblaze.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/logo.png
 tags:
   - stake-pool
   - stake-pool-token

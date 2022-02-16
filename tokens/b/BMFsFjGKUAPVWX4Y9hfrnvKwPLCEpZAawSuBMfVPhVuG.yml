@@ -1,6 +1,7 @@
 symbol: MACH
 name: Afterburner Token
 decimals: 9
+img: https://raw.githubusercontent.com/Dypto/CryptoOne/main/Logo.png
 tags:
   - social-token
   - utility-token

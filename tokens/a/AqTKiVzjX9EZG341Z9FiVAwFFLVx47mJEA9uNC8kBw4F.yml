@@ -1,5 +1,6 @@
 symbol: NOUT
 name: NO Utility Token
 decimals: 0
+img: https://raw.githubusercontent.com/jurecki0/firstSOLToken/main/logo.png
 tags:
   - social-token

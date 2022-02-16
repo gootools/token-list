@@ -1,5 +1,6 @@
 symbol: STUD
 name: StudCoin
 decimals: 9
+img: https://raw.githubusercontent.com/studhause/crypto/main/logo.png
 tags:
   - social-token

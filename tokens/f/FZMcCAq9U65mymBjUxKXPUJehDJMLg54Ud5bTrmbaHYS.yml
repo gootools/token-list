@@ -3,5 +3,6 @@ name: DoodleCoin
 decimals: 9
 extensions:
   website: https://doodlecoin.me/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZMcCAq9U65mymBjUxKXPUJehDJMLg54Ud5bTrmbaHYS/logo.png
 tags:
   - meme-token

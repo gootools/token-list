@@ -1,6 +1,7 @@
 symbol: LING
 name: LingLing Coin
 decimals: 9
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Lingling-Coin/main/logo.png
 tags:
   - community-token
   - lingling-token

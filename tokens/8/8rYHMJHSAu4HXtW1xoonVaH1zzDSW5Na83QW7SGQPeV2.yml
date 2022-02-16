@@ -1,5 +1,6 @@
 symbol: ZBRA
 name: Zebra
 decimals: 0
+img: https://raw.githubusercontent.com/KanashiiNFT/zebra-logo/main/zebra.png
 tags:
   - nft-token

@@ -7,5 +7,6 @@ extensions:
   serumV3Usdc: Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K
   waterfallbot: https://bit.ly/ATLASwaterfall
   website: https://staratlas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png
 tags:
   - utility-token

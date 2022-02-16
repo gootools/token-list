@@ -1,6 +1,7 @@
 symbol: LIB
 name: Freedom Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Lib3nSXiss8HoXC9QQy97GkU1RX1n15XpeMhzLVjk7u/logo.png
 tags:
   - Austrian
   - capped

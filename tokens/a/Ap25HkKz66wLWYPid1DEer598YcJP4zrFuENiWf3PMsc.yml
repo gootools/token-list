@@ -1,5 +1,6 @@
 symbol: BIER
 name: Biercoin
 decimals: 0
+img: https://raw.githubusercontent.com/xblackbytesx/biercoin/main/logo.png
 tags:
   - social-token

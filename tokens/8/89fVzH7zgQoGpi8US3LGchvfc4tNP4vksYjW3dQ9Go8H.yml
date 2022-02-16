@@ -3,6 +3,7 @@ name: AntoSid
 decimals: 9
 extensions:
   website: https://github.com/gotchhan/AntoSid
+img: https://raw.githubusercontent.com/gotchhan/AntoSid/main/logo.png
 tags:
   - change-the-world
 clusters:

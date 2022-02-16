@@ -1,5 +1,6 @@
 symbol: DODO
 name: DodoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/doryalo/dodocoin/main/Logo.png
 tags:
   - social-token

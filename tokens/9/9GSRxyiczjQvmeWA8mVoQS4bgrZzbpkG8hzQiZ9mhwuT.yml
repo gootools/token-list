@@ -3,6 +3,7 @@ name: MAKOH
 decimals: 9
 extensions:
   twitter: https://twitter.com/MakohToken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9GSRxyiczjQvmeWA8mVoQS4bgrZzbpkG8hzQiZ9mhwuT/logo.png
 tags:
   - defi
   - utility-token

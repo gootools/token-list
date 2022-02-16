@@ -1,5 +1,6 @@
 symbol: TOTO
 name: TotoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/tomcastigl/crypto/main/logo.png
 tags:
   - social-token

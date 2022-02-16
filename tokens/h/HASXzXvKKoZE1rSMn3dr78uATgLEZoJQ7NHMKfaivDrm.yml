@@ -1,5 +1,6 @@
 symbol: MEOWT
 name: MEOW Token
 decimals: 0
+img: https://raw.githubusercontent.com/LinuxMeow/meow-token/master/meowtoken.png
 tags:
   - social-token

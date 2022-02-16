@@ -3,5 +3,6 @@ name: Lumos Rewards
 decimals: 9
 extensions:
   website: https://lumos.exchange
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FMJotGUW16AzexRD3vXJQ94AL71cwrhtFaCTGtK1QHXm/logo.png
 tags:
   - social-token

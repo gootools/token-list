@@ -3,6 +3,7 @@ name: R3DWA Coin
 decimals: 6
 extensions:
   description: Pas cher.
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7wkNjtQaDYrme1EsYrbbCQiZRz3pgjC2t5sdJoEMpxcH/logo.png
 tags:
   - game-token
   - game-currency

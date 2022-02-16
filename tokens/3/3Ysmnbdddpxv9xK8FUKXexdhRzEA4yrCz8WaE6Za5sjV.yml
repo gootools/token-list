@@ -3,5 +3,6 @@ name: edeXa Service Token
 decimals: 9
 extensions:
   website: https://edexa.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Ysmnbdddpxv9xK8FUKXexdhRzEA4yrCz8WaE6Za5sjV/logo.svg
 tags:
   - utility-token

@@ -3,5 +3,6 @@ name: Golden Techie Hannibal Token
 decimals: 0
 extensions:
   website: https://crpanadasoft.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2WnVfjtW9QttRwqxn3RPnHBFHMR3cyA5Ca3zug41Q9Xb/logo.png
 tags:
   - social-token

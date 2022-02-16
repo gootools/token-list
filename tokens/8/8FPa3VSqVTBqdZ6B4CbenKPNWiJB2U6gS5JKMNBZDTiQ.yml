@@ -1,5 +1,6 @@
 symbol: MIXI
 name: Mixis Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FPa3VSqVTBqdZ6B4CbenKPNWiJB2U6gS5JKMNBZDTiQ/logo.png
 tags:
   - utility-token

@@ -3,6 +3,7 @@ name: Dominium
 decimals: 9
 extensions:
   website: https://domtoken.net
+img: https://user-images.githubusercontent.com/30323789/146248908-3deb9c10-eb88-4dee-a5ab-313d8ea00b07.png
 tags:
   - community-token
   - utility-token

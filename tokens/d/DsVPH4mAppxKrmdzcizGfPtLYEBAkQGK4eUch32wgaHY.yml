@@ -3,6 +3,7 @@ name: Galaxy Essential
 decimals: 9
 extensions:
   website: https://darleygo.io
+img: https://raw.githubusercontent.com/DarleyGo/token-list/main/assets/mainnet/DsVPH4mAppxKrmdzcizGfPtLYEBAkQGK4eUch32wgaHY/icon.png
 tags:
   - game-token
   - game-currency

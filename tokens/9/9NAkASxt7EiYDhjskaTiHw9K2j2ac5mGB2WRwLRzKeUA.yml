@@ -1,5 +1,6 @@
 symbol: AGE
 name: Medieval Age Token
 decimals: 2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9NAkASxt7EiYDhjskaTiHw9K2j2ac5mGB2WRwLRzKeUA/logo.png
 clusters:
   - devnet

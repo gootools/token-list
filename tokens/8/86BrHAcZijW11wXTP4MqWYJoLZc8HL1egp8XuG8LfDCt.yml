@@ -1,5 +1,6 @@
 symbol: JOSE
 name: JoseCoin
 decimals: 8
+img: https://raw.githubusercontent.com/JoseCoin/Crypto/main/JoseCoin.png
 tags:
   - jose-knows-token

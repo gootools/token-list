@@ -5,6 +5,7 @@ extensions:
   coingeckoId: tiger-coin
   twitter: https://twitter.com/tigercoin_
   website: https://www.tigercoin.space
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8z4ghJPp3ccvEtuXZbceGRfoX7AZHhcdwiapYzmsxmyC/logo.png
 tags:
   - Community-token
   - MEME

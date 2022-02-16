@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/solidsbs
   website: https://solid.sbs/
+img: https://raw.githubusercontent.com/solidsbs/asset/dc74c7250fb5b97e6c84c3fe1241dba47288b3eb/solid.png
 tags:
   - currency
   - community-token

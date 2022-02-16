@@ -1,6 +1,7 @@
 symbol: TTCS
 name: TTCS Token
 decimals: 5
+img: https://raw.githubusercontent.com/tongtongchain/token-list/main/assets/mainnet/3ZYsJZ7wb4hNEkfaDnR4JKT6Rok4hEfbxjGqDA3cRxGS/TTCS.png
 tags:
   - dex
   - finance

@@ -1,6 +1,7 @@
 symbol: JUJUB
 name: JujubaCoin
 decimals: 0
+img: https://raw.githubusercontent.com/davidveg/jujubacoin/main/logo.png
 tags:
   - meme-coin
   - social-token

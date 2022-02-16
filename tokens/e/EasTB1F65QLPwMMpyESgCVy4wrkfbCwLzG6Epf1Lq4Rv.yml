@@ -3,6 +3,7 @@ name: GDX Token
 decimals: 2
 extensions:
   website: https://gdxc.greydotx.network
+img: https://gdxc.greydotx.network/gdxc.png
 tags:
   - community
   - utility-token

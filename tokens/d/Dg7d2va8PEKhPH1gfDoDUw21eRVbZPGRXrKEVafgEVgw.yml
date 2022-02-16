@@ -3,5 +3,6 @@ name: PlatinumO2
 decimals: 8
 extensions:
   website: https://plantinumo2.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dg7d2va8PEKhPH1gfDoDUw21eRVbZPGRXrKEVafgEVgw/logo.png
 tags:
   - utility-token

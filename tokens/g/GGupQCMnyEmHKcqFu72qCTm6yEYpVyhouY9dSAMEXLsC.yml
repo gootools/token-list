@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/dogec_cash
   website: https://www.dogecoincash.info
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGupQCMnyEmHKcqFu72qCTm6yEYpVyhouY9dSAMEXLsC/logo.png
 tags:
   - community-token
   - doge

@@ -3,5 +3,6 @@ name: Wrapped USDC (Allbridge from Celo)
 decimals: 9
 extensions:
   coingeckoId: usd-coin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png
 tags:
   - stablecoin

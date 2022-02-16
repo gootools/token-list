@@ -3,6 +3,7 @@ name: Resp Dev Invest DAO
 decimals: 4
 extensions:
   discord: https://discord.gg/5Zx3Qdng4M
+img: https://raw.githubusercontent.com/MBernierPanama/RDInitiative/main/RDIDAO-Github-1.png
 tags:
   - dao
   - invest

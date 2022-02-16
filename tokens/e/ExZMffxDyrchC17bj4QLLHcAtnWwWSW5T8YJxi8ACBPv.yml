@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/bangenergy
   website: https://bangenergy.com
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Bang-Energy-Coin/main/logo.png
 tags:
   - community-token
   - meme-token

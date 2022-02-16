@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   description: Games-based charitable token
   website: https://play2help.me
+img: https://raw.githubusercontent.com/Play2Help/global/main/logo.png
 tags:
   - social-token

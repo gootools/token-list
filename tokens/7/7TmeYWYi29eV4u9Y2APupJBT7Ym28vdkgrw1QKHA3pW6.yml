@@ -3,5 +3,6 @@ name: WAVE Token
 decimals: 5
 extensions:
   website: https://wretchedwaters.io
+img: https://raw.githubusercontent.com/wretchedwaters/wavetoken/main/logo/logo.png
 tags:
   - community-token

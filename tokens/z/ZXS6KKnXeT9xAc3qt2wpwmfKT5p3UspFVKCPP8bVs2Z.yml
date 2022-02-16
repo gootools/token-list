@@ -4,6 +4,7 @@ decimals: 4
 extensions:
   telegram: https://t.me/cointumi
   website: https://cointumi.com
+img: https://cointumi.com/token.png
 tags:
   - governance-token
   - gaming

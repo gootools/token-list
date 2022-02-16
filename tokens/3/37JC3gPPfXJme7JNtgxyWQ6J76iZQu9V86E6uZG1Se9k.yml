@@ -1,5 +1,6 @@
 symbol: EGGS
 name: Egg Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/37JC3gPPfXJme7JNtgxyWQ6J76iZQu9V86E6uZG1Se9k/logo.png
 clusters:
   - devnet

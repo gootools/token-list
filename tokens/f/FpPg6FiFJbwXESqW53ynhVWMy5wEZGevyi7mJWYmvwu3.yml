@@ -1,5 +1,6 @@
 symbol: HERO
 name: Hero
 decimals: 0
+img: https://raw.githubusercontent.com/HERO-TOKEN/HERO/main/logo.png
 tags:
   - social-token

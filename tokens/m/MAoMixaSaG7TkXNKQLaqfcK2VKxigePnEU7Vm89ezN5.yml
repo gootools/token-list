@@ -3,5 +3,6 @@ name: MAO Tokendong
 decimals: 0
 extensions:
   twitter: https://twitter.com/KKQanTT
+img: https://raw.githubusercontent.com/KKQanT/token-list/main/assets/mainnet/MAoMixaSaG7TkXNKQLaqfcK2VKxigePnEU7Vm89ezN5/logo.png
 tags:
   - test-run-token

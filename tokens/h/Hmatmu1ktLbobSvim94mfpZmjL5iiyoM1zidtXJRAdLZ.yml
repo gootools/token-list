@@ -10,5 +10,6 @@ extensions:
   telegram: https://t.me/parasolfinance
   twitter: https://twitter.com/parasol_finance
   website: https://parasol.finance
+img: https://raw.githubusercontent.com/parasol-finance/white-paper/main/logo.png
 tags:
   - utility-token

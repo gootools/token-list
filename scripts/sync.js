@@ -31,6 +31,8 @@ const sync = async () => {
         return null;
       }
 
+      if (logoURI) rest.img = logoURI
+
       rest.clusters = Array.from(
         new Set((ob[address]?.clusters || []).concat(CLUSTERS[chainId]).sort())
       );

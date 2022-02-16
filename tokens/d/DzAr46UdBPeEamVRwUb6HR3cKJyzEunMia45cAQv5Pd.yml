@@ -3,6 +3,7 @@ name: Instagram NFT DZA
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/DzAr46UdBPeEamVRwUb6HR3cKJyzEunMia45cAQv5Pd
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DzAr46UdBPeEamVRwUb6HR3cKJyzEunMia45cAQv5Pd/logo.jpg
 tags:
   - instagram
   - nft

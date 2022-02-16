@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/cryptobac
   website: https://cryptobac.me
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkD9GDPqME11zrFt7Lk51jdQSuPmP1nRULUWbBYj2Ngq/logo.png
 tags:
   - meme-token

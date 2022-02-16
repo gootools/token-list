@@ -1,6 +1,7 @@
 symbol: HOM
 name: NFT House Coin
 decimals: 0
+img: https://raw.githubusercontent.com/blackrex7/the-house/main/logo.png
 tags:
   - nft-marketplace
   - nft

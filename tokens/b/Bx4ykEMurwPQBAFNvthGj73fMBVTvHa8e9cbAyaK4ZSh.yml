@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/trollboxio
   website: https://trollbox.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bx4ykEMurwPQBAFNvthGj73fMBVTvHa8e9cbAyaK4ZSh/logo.png
 tags:
   - utility-token

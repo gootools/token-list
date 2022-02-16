@@ -1,6 +1,7 @@
 symbol: TAKE
 name: TakeTheSound Coin
 decimals: 0
+img: https://raw.githubusercontent.com/isaac1972/takethesoundCrypto/main/logo.png
 tags:
   - community-token
   - music-token

@@ -3,5 +3,6 @@ name: ZM Coin
 decimals: 0
 extensions:
   website: https://zsideimate.hu
+img: https://raw.githubusercontent.com/emanhackwell/crypto/main/logo.png
 tags:
   - social-token

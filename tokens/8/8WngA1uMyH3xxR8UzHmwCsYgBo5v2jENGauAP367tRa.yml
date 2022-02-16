@@ -1,6 +1,7 @@
 symbol: IGT
 name: IgorToken
 decimals: 0
+img: https://raw.githubusercontent.com/IgorKubisa/IgorToken/main/TOOT.png
 tags:
   - social-token
   - utility-token

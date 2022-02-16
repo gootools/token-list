@@ -3,6 +3,7 @@ name: Wrapped USDC (Sollet)
 decimals: 6
 extensions:
   coingeckoId: usd-coin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png
 tags:
   - ethereum
   - stablecoin

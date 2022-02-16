@@ -1,6 +1,7 @@
 symbol: EDHK
 name: EDHKoin
 decimals: 0
+img: https://raw.githubusercontent.com/shonen787/crypto/main/logo.png
 tags:
   - meme-token
   - social-token

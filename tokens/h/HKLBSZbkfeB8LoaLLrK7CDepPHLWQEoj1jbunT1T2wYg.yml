@@ -3,5 +3,6 @@ name: Raydium LP Token (SODA-USDC)
 decimals: 0
 extensions:
   website: https://raydium.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HKLBSZbkfeB8LoaLLrK7CDepPHLWQEoj1jbunT1T2wYg/logo.svg
 tags:
   - lp-token

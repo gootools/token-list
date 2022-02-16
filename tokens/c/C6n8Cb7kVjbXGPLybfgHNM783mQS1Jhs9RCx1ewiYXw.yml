@@ -1,5 +1,6 @@
 symbol: ZHC
 name: ZashcheCoin
 decimals: 9
+img: https://raw.githubusercontent.com/ft-1408/ZashcheCoin/main/logo.png
 tags:
   - social-token

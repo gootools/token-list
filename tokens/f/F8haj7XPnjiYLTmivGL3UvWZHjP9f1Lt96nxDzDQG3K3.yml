@@ -3,5 +3,6 @@ name: ShuShi Coin
 decimals: 6
 extensions:
   website: https://houseoffoodporn.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F8haj7XPnjiYLTmivGL3UvWZHjP9f1Lt96nxDzDQG3K3/logo.png
 tags:
   - solmergeaicom

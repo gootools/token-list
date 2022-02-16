@@ -3,5 +3,6 @@ name: Captain Sea Shells
 decimals: 0
 extensions:
   website: https://gocaptain.com
+img: https://cdn.hngr.co/shell.gif
 tags:
   - utility-token

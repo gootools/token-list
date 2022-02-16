@@ -3,5 +3,6 @@ name: Haknem Token
 decimals: 9
 extensions:
   website: https://haknem.com
+img: https://raw.githubusercontent.com/Ari1204/token-list/main/assets/mainnet/3LtUEHq7m41i8h7GQDgrKU321daFsk71RVVyXzpU18s7/logo.png
 tags:
   - community-token

@@ -1,6 +1,7 @@
 symbol: ORNC
 name: Orion Coin
 decimals: 9
+img: https://github.com/neptuncoin/orion-coin/raw/main/logo.png
 tags:
   - social-token
   - utility-token

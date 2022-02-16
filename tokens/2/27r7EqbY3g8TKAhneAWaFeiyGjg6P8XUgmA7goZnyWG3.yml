@@ -3,5 +3,6 @@ name: Thug Roozter Whitelist
 decimals: 0
 extensions:
   website: https://twitter.com/thugroozter
+img: https://raw.githubusercontent.com/0xthug/logo/main/thug-roozter-wl-token.png
 tags:
   - whitelist-token

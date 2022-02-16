@@ -1,6 +1,7 @@
 symbol: WEAR
 name: Anywear
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5W1FqGQbbGvw2k6KWULaSnbefYUDjumKvvsMoQYjJ6Ho/logo.png
 tags:
   - cross-platform
   - cros-chain

@@ -1,6 +1,7 @@
 symbol: DAKPLS
 name: DakPlus BV
 decimals: 0
+img: https://raw.githubusercontent.com/DakPlus/dakplus-token/main/DakPlusPNG.png
 tags:
   - anchor-token
   - BlockExchange

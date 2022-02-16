@@ -1,6 +1,7 @@
 symbol: XMT
 name: X-mas Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Mdq1QmqbWLejtSsvHVXc5HtTkztVTHgdb2EJUtCMRMq/logo.png
 tags:
   - social-token
 clusters:

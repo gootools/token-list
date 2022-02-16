@@ -3,6 +3,7 @@ name: Mercanti NFT Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/tradewithmarco
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AH1KE4h9nnKfqYRDynDsB3nFwT8ohXvw9rX81uaxrhAg/logo.png
 tags:
   - mercanti
   - sale

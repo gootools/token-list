@@ -3,6 +3,7 @@ name: wUST_v1-USDC-USDT LP
 decimals: 9
 extensions:
   website: https://dev.ratio.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASnVcQxNRosGw8crN8E4ScnDncBfnR1eJPyzucKsM4Vm/logo.png
 tags:
   - ratio-token
 clusters:

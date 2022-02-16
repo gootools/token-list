@@ -1,6 +1,7 @@
 symbol: CARS
 name: Cars
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Cars.png
 tags:
   - community
   - cars

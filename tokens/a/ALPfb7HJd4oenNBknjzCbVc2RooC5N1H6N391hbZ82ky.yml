@@ -3,6 +3,7 @@ name: Saber aeMIM-wtUST LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/mim_ust
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

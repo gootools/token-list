@@ -3,6 +3,7 @@ name: KinnyCoin
 decimals: 5
 extensions:
   twitter: https://twitter.com/kinnycoin
+img: https://raw.githubusercontent.com/kinnycoin/kinnycoin/main/logo.jpg
 tags:
   - media
   - payments

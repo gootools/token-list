@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/socksonsolana
   website: https://www.solsocks.exchange/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9RxfJAtr4T6s7uvj1zdjvwviKRwnDCJdKQqUZmX5FYiC/logo.png
 tags:
   - utility

@@ -3,6 +3,7 @@ name: YAKSA token
 decimals: 9
 extensions:
   website: https://www.yaksa.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H1dMaosS57MArEM6Z9aPqGgrbMwCUZuJuc6VzPMWH8bm/logo.png
 tags:
   - social-token
   - utility-token

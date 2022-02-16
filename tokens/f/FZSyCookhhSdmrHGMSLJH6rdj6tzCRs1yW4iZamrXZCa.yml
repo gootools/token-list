@@ -3,6 +3,7 @@ name: Onboarding 5 (FZSy)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/9g8zNL6gxGfAi8MjkecZAcz3PqeW2q4aH1bVbeLT2YQS?src=token-list
+img: https://devbeta.human.ag/api/profile/9g8zNL6gxGfAi8MjkecZAcz3PqeW2q4aH1bVbeLT2YQS/picture?src=token-list
 tags:
   - human
   - social-token

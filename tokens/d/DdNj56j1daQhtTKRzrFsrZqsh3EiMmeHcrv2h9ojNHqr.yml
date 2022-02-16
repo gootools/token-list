@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/ayokenlabs
   website: https://www.ayoken.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DdNj56j1daQhtTKRzrFsrZqsh3EiMmeHcrv2h9ojNHqr/logo.png
 tags:
   - utility-token

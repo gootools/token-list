@@ -1,6 +1,7 @@
 symbol: CA
 name: California
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/California.png
 tags:
   - community
   - California

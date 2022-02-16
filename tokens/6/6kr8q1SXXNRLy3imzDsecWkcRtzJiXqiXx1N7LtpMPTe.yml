@@ -5,5 +5,6 @@ extensions:
   bridgeContract: https://bscscan.com/token/0xc864019047B864B6ab609a968ae2725DFaee808A
   coingeckoId: biconomy-exchange-token
   website: https://biconomy.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6kr8q1SXXNRLy3imzDsecWkcRtzJiXqiXx1N7LtpMPTe/logo.png
 tags:
   - exchange-token

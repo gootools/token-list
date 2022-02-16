@@ -4,5 +4,6 @@ decimals: 8
 extensions:
   discord: https://discord.gg/6J2RZb63By
   website: https://www.metaland.place
+img: https://raw.githubusercontent.com/metalandplace/token_icons/main/solpoly.png
 tags:
   - utility-token

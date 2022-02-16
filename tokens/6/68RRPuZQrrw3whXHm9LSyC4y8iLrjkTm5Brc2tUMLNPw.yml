@@ -1,5 +1,6 @@
 symbol: CLAN
 name: Clan Token
 decimals: 9
+img: https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/%24CLAN_Token.png
 tags:
   - NFT

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/MyEggsNFT
   website: https://myeggs.art
+img: https://cdn.jsdelivr.net/gh/BrightTechnologies1/myeggs--logo@master/logo.png
 tags:
   - commodity-token
   - social-token

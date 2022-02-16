@@ -3,5 +3,6 @@ name: Razzmena compnay Token
 decimals: 9
 extensions:
   website: https://razzmena.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FU93FVMNiphc8Jdh2jPHHQvZpwvL4obCELPBhkMnJLxh/logo.png
 tags:
   - lp-token

@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/solanabird_sol
   twitter: https://twitter.com/solanabird_sol
   website: https://solanabird.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6HKq7SoHESuDz5ZbjZqgQkhrTiDFTfQdJapavMv7DbFb/logo.png
 tags:
   - dex
   - meme-token

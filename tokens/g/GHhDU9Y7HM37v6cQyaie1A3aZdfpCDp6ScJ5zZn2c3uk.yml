@@ -3,5 +3,6 @@ name: Mercurial LP Token (SOL-pSOL)
 decimals: 9
 extensions:
   website: https://www.mercurial.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHhDU9Y7HM37v6cQyaie1A3aZdfpCDp6ScJ5zZn2c3uk/logo.svg
 tags:
   - lp-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolEighties
   website: https://www.sol80s.com
+img: https://raw.githubusercontent.com/solanadevv/token-list/8bf46f7c84f27a7d51fd233eaca5f064bbf87ba5/assets/mainnet/CrLXpyFeJQbhhkjWcrXGyXcY56KtWEPQmZQpjf853wFG/logo.png
 tags:
   - nft
   - utility-token

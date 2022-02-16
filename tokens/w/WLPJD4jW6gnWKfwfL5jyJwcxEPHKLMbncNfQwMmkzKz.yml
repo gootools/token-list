@@ -3,6 +3,7 @@ name: Saber acEUR-agEUR LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/aceur_ageur
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

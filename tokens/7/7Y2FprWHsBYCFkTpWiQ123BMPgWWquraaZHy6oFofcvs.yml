@@ -3,6 +3,7 @@ name: JareBear
 decimals: 0
 extensions:
   website: https://stacc.art/
+img: https://raw.githubusercontent.com/dyor-market/token-list/main/assets/mainnet/7Y2FprWHsBYCFkTpWiQ123BMPgWWquraaZHy6oFofcvs/logo.png
 tags:
   - bear
   - leveraged

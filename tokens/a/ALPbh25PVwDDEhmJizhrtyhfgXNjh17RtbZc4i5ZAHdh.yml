@@ -3,6 +3,7 @@ name: Saber aeMIM-CASH LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/mim_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

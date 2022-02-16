@@ -1,5 +1,6 @@
 symbol: PARTICIPANT
 name: Participant
 decimals: 9
+img: https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/participant-logo.png
 tags:
   - social-token

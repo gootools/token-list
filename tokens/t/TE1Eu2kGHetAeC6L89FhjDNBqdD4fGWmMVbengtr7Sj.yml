@@ -3,6 +3,7 @@ name: Teleport
 decimals: 6
 extensions:
   website: https://www.heyteleport.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TE1Eu2kGHetAeC6L89FhjDNBqdD4fGWmMVbengtr7Sj/logo.png
 tags:
   - community-token
   - DApp

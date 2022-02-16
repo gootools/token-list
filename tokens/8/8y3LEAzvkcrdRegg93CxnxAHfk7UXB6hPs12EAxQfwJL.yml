@@ -3,6 +3,7 @@ name: Irrelevant
 decimals: 0
 extensions:
   description: Just an Irrelevant token Project
+img: https://raw.githubusercontent.com/Miliexy/Crypto/main/Logo.png
 tags:
   - social-token
   - utility-token

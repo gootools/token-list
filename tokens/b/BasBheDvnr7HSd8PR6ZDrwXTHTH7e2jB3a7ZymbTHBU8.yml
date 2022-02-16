@@ -3,6 +3,7 @@ name: Baliarena Global Token
 decimals: 9
 extensions:
   website: https://www.baliarena.com/
+img: https://raw.githubusercontent.com/Baliarena/baliarena/main/baliarena.png
 tags:
   - hybrid-token
   - metaverse-token

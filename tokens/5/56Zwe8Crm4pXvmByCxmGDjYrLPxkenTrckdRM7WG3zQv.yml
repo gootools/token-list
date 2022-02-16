@@ -3,5 +3,6 @@ name: Nio
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?NIO
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/56Zwe8Crm4pXvmByCxmGDjYrLPxkenTrckdRM7WG3zQv/logo.svg
 tags:
   - tokenized-stock

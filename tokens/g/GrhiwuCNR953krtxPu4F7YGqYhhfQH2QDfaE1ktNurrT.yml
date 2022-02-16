@@ -3,6 +3,7 @@ name: Eskeleton
 decimals: 0
 extensions:
   twitter: https://twitter.com/miguela_crypto
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GrhiwuCNR953krtxPu4F7YGqYhhfQH2QDfaE1ktNurrT/logo.png
 tags:
   - community-token
   - meme-token

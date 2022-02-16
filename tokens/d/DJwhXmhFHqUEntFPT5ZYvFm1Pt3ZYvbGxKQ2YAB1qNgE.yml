@@ -1,5 +1,6 @@
 symbol: PSBT
 name: PassByte
 decimals: 0
+img: https://raw.githubusercontent.com/digitalworld-crypto/PassByteToken/main/PassByte%20Logo.png
 tags:
   - social-token

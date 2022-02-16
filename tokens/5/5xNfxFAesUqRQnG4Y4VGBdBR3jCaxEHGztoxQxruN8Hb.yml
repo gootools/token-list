@@ -3,6 +3,7 @@ name: Tribu Coin
 decimals: 9
 extensions:
   website: https://tribuapp.tech
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xNfxFAesUqRQnG4Y4VGBdBR3jCaxEHGztoxQxruN8Hb/tribu.png
 tags:
   - community-token
   - tribu-coin

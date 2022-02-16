@@ -3,5 +3,6 @@ name: Aurora Cannabis Inc
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ACB
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgcUo7Ymua8r5xxsn9puizkLGN5w4i3nnBmasXvkcWfJ/logo.svg
 tags:
   - tokenized-stock

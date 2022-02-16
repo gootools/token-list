@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/driftcoinorg
   twitter: https://twitter.com/driftcoinorg
   website: https://driftcoin.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChvvzHyRqCHnLVwMNz8amvQwgVLD8AELV7RgcFAxEhAf/logo.png
 tags:
   - social-token
   - utility-token

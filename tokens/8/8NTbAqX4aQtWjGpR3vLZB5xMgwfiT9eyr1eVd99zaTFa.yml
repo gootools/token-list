@@ -1,5 +1,6 @@
 symbol: RAPP
 name: RappToken
 decimals: 0
+img: https://raw.githubusercontent.com/dara-79/crypto/main/logo.png
 tags:
   - social-token

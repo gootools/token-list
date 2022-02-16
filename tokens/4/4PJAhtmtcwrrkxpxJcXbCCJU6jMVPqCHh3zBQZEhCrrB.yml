@@ -1,6 +1,7 @@
 symbol: PRSZ
 name: PersonaZim
 decimals: 0
+img: https://raw.githubusercontent.com/zimlander/crypto/main/PSRZ.png
 tags:
   - community-token
   - social-token

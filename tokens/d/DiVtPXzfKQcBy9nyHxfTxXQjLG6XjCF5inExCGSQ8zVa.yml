@@ -3,5 +3,6 @@ name: DIVERGENTI
 decimals: 9
 extensions:
   website: https://divergenti.cl/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiVtPXzfKQcBy9nyHxfTxXQjLG6XjCF5inExCGSQ8zVa/logo.png
 tags:
   - utility-token

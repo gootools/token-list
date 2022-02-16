@@ -3,5 +3,6 @@ name: ACEVERSE
 decimals: 2
 extensions:
   website: https://www.aceverse.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EiJEQs1Hdo41RWvdFeRJi1umZLuvkgBYbipWS7Udpdxc/logo.png
 tags:
   - community-token

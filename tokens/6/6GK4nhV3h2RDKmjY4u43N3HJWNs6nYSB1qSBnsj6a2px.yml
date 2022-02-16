@@ -8,6 +8,7 @@ extensions:
   serumV3Usdc: 7uHeXXknyws9iazNGh5JZjfqFFCKeihAYcgzSW3AfqkN
   twitter: https://twitter.com/faction_cards
   website: https://faction.cards
+img: https://raw.githubusercontent.com/faction-cards/assets/main/images/coins/SFC-BATTERY/logo.png
 tags:
   - community-token
   - social-token

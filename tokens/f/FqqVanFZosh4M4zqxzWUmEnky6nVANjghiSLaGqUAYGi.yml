@@ -3,5 +3,6 @@ name: Airbnb
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ABNB
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FqqVanFZosh4M4zqxzWUmEnky6nVANjghiSLaGqUAYGi/logo.svg
 tags:
   - tokenized-stock

@@ -1,6 +1,7 @@
 symbol: EGGC
 name: EGG Coin
 decimals: 0
+img: https://raw.githubusercontent.com/ThePharaoOne/eggcoin/main/EggCoin.png
 tags:
   - community-token
   - game-currency

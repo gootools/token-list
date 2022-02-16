@@ -1,6 +1,7 @@
 symbol: GALX
 name: Galaxi Token
 decimals: 0
+img: https://raw.githubusercontent.com/GalaxiToken/galaxi-token/main/logo.png
 tags:
   - galaxi-token
   - utility-token

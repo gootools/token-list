@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   coingeckoId: usd-coin
   website: https://www.centre.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp/logo.png
 tags:
   - stablecoin

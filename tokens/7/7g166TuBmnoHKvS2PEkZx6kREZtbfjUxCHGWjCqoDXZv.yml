@@ -1,5 +1,6 @@
 symbol: acEUR
 name: Wrapped CEUR (Allbridge from Celo)
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv/logo.png
 tags:
   - stablecoin

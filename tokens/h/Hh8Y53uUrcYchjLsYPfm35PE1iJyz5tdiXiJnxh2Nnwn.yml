@@ -3,6 +3,7 @@ name: Shabro
 decimals: 8
 extensions:
   website: https://shabronet.com/
+img: https://shabronet.com/images/shabro_solana_token_icon.png
 tags:
   - social-token
   - utility-token

@@ -3,6 +3,7 @@ name: Sehlat
 decimals: 2
 extensions:
   medium: https://medium.com/@all4free.crypto
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hjc6Ku7VpMD8TqPUuimDXWvT3RWpnbm1viaUe3dUco3L/logo.png
 tags:
   - payment-token
   - social-token

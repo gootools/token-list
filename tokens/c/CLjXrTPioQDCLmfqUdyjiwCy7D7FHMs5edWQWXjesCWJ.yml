@@ -3,6 +3,7 @@ name: Moon Money Token
 decimals: 5
 extensions:
   website: http://moonmoneybank.com
+img: https://raw.githubusercontent.com/agentspade/MoonMoneyToken/main/logo.png
 tags:
   - community-token
   - NFT

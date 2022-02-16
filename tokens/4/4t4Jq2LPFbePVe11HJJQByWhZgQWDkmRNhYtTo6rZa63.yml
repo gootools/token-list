@@ -3,6 +3,7 @@ name: CREDIT CARD SOL
 decimals: 9
 extensions:
   website: https://blocksto.ne/credit-card/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4t4Jq2LPFbePVe11HJJQByWhZgQWDkmRNhYtTo6rZa63/Coinlogo.png
 tags:
   - credit-card
   - solana

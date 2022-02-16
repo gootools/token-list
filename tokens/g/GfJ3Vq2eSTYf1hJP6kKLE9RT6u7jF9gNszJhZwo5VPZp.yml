@@ -7,5 +7,6 @@ extensions:
   telegramAnnouncements: https://t.me/solpadfinance
   twitter: https://twitter.com/FinanceSolpad
   website: https://www.solpad.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp/logo.png
 tags:
   - utility-token

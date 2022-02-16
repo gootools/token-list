@@ -1,6 +1,7 @@
 symbol: BLC
 name: bl Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz/logo.png
 tags:
   - trash
   - testing

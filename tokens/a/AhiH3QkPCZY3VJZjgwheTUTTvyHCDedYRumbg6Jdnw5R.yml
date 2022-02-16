@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   description: The NightLife premier token to be used with the Nightlife NFT platform.
   website: http://www.nightlifecoins.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AhiH3QkPCZY3VJZjgwheTUTTvyHCDedYRumbg6Jdnw5R/logo.png
 tags:
   - community-token
   - governance-token

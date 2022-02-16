@@ -1,6 +1,7 @@
 symbol: UNCRN
 name: Unicorn
 decimals: 0
+img: https://raw.githubusercontent.com/goingfortheether/crypto/main/logo.png
 tags:
   - community-token
   - game

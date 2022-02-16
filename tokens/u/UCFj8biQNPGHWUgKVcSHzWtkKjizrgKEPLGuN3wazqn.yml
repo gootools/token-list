@@ -3,5 +3,6 @@ name: RNG.Fail
 decimals: 2
 extensions:
   discord: https://discord.gg/Z2JQym9r96
+img: https://raw.githubusercontent.com/Wiliver/rng-fail/main/rng.png
 tags:
   - utility-token

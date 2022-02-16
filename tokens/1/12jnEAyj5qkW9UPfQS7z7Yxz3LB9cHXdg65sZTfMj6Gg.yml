@@ -1,5 +1,6 @@
 symbol: ARTEL
 name: ArtelCoin
 decimals: 0
+img: https://raw.githubusercontent.com/Artel-Scaffolding-Ltd/cryptodev/main/logo/logo.png
 tags:
   - social-token

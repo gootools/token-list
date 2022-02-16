@@ -3,5 +3,6 @@ name: Sofie Private
 decimals: 9
 extensions:
   website: https://spilu.ilov.eu/
+img: https://raw.githubusercontent.com/ilov-eu/assets/main/SPILU-logo.jpg
 tags:
   - social-token

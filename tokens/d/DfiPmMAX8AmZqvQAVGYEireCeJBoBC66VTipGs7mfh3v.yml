@@ -1,5 +1,6 @@
 symbol: MATS
 name: MatsCoin
 decimals: 9
+img: https://raw.githubusercontent.com/MatsWeckhorst/crypto/main/logo.png
 tags:
   - social-token

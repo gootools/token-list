@@ -1,5 +1,6 @@
 symbol: DEV
 name: DevCoin
 decimals: 9
+img: https://raw.githubusercontent.com/thedevdojo/devcoin/main/logo.png
 tags:
   - social-token

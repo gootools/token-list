@@ -1,5 +1,6 @@
 symbol: TYBR
 name: Tiny Bear Token
 decimals: 0
+img: https://raw.githubusercontent.com/inventiveraptor/crypto/main/tiny_bear.png
 tags:
   - social-token

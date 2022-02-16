@@ -3,5 +3,6 @@ name: Cards Cash
 decimals: 9
 extensions:
   website: https://discord.gg/rAZyFEv4Fp
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbmCtHX3quEWUJ2AtEyk9zGT7eMxs1Nq4H6nf746qf6a/logo.png
 tags:
   - utility-token

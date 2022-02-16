@@ -3,5 +3,6 @@ name: iShares MSCI Emerging Markets ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?EEM
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9GVpBChXZ8EK7JuPsLSDV17BF9KLJweBQet3L6ZWvTC/logo.svg
 tags:
   - tokenized-stock

@@ -3,6 +3,7 @@ name: 911Academy
 decimals: 9
 extensions:
   website: https://policeacademynft.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5iTsXxzEm2msviveLGCXJpQYDqaCJHJfUvKDUMQiS2QF/logo.png
 tags:
   - social-token
   - util-token

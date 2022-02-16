@@ -1,6 +1,7 @@
 symbol: BRIC
 name: BridgemanCoin
 decimals: 2
+img: https://raw.githubusercontent.com/rubru70/hello-world/master/logo.png
 tags:
   - social-token
 clusters:

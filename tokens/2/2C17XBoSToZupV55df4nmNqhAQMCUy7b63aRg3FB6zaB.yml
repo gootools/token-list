@@ -1,6 +1,7 @@
 symbol: SMART
 name: College
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/College.png
 tags:
   - community
   - College

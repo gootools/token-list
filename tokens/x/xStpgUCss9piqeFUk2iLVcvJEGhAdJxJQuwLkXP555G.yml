@@ -5,6 +5,7 @@ extensions:
   twitter: https://twitter.com/StepFinance_
   waterfallbot: https://bit.ly/STEPwaterfall
   website: https://step.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G/logo.svg
 tags:
   - utility-token
 clusters:

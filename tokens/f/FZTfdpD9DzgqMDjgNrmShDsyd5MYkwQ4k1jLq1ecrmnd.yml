@@ -3,5 +3,6 @@ name: Razzlecoin
 decimals: 4
 extensions:
   website: https://www.razzlecoin.xyz/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd/logo.png
 tags:
   - social-token

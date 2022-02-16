@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SerpentAcademy
   website: https://serpent.academy
+img: https://raw.githubusercontent.com/serpentnatura/crypto/main/logo.png
 tags:
   - community-token
   - social-token

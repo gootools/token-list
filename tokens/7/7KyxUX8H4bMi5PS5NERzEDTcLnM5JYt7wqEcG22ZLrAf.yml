@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/Prison_Worlds
   website: https://prisonworlds.com/
+img: https://raw.githubusercontent.com/prisonworlds/brands/main/token.png
 tags:
   - NFT
   - utility-token

@@ -1,5 +1,6 @@
 symbol: TRAIN
 name: Thomas The Tank Engine
 decimals: 5
+img: https://raw.githubusercontent.com/15Teds/tomcrypto/main/logo.jpg
 tags:
   - social-token

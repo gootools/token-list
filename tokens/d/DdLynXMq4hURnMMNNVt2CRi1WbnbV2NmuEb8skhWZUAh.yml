@@ -1,6 +1,7 @@
 symbol: DRYGN
 name: Draygon Guarantee Mint Token
 decimals: 0
+img: https://raw.githubusercontent.com/benpazzo/draygontoken/main/assets/guaranteemint.png
 tags:
   - community-token
   - social-token

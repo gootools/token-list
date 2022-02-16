@@ -1,5 +1,6 @@
 symbol: BOZO
 name: BozoToken
 decimals: 0
+img: https://raw.githubusercontent.com/wahclan/BozoToken/main/logo_bozo.jpg
 tags:
   - social-token

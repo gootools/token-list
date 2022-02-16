@@ -1,5 +1,6 @@
 symbol: CRF
 name: CryptoFinn
 decimals: 0
+img: https://raw.githubusercontent.com/FinnInBinn/crypto/main/logo.png
 tags:
   - social-token

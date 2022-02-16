@@ -1,5 +1,6 @@
 symbol: TCD
 name: Tara Coin Dollar
 decimals: 0
+img: https://raw.githubusercontent.com/BleeckPi/ctd/main/TCD.png
 tags:
   - social-token

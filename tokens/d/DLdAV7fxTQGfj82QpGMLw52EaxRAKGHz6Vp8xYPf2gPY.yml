@@ -1,5 +1,6 @@
 symbol: CDY
 name: CodyCoin
 decimals: 0
+img: https://raw.githubusercontent.com/m-volans/crypto/main/logo.png
 tags:
   - social-token

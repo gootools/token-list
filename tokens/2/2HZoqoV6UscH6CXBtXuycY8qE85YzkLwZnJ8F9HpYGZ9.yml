@@ -3,5 +3,6 @@ name: Ivory Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/IvoryInvestors
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2HZoqoV6UscH6CXBtXuycY8qE85YzkLwZnJ8F9HpYGZ9/logo.png
 tags:
   - utility-token

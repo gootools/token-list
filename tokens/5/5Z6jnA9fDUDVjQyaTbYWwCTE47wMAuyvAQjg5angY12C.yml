@@ -3,5 +3,6 @@ name: Dinarius Token
 decimals: 9
 extensions:
   website: http://dinarius.net
+img: https://raw.githubusercontent.com/Boukezzoula/Dinarius/master/dinariuslogo.png
 tags:
   - stablecoin

@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/solsnake_solana
   twitter: https://twitter.com/solsnake_solana
   website: https://solsnake.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZKnYioKuX2YzA2wnUMVXsSe3j259aaPsz7TfY2xnLmV/logo.png
 tags:
   - dex
   - meme-token

@@ -3,6 +3,7 @@ name: Mineral Token
 decimals: 0
 extensions:
   website: https://afloat.eco
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FkBRohZpqx2c7zxe5cDhNq3AoFo2nPJus3xtdz9CvQmQ/Mineral.png
 tags:
   - Energy
   - social-token

@@ -1,5 +1,6 @@
 symbol: CREATURE
 name: Creature Scroll
 decimals: 9
+img: https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/CREATURE_Token.png
 tags:
   - NFT

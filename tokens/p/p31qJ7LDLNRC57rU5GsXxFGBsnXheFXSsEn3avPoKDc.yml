@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   instagram: https://www.instagram.com/artchive.nft/
   website: https://artchivecoins.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/p31qJ7LDLNRC57rU5GsXxFGBsnXheFXSsEn3avPoKDc/logo.png
 tags:
   - community-token
   - governance-token

@@ -1,6 +1,7 @@
 symbol: BAOP
 name: PromiseCoin
 decimals: 9
+img: https://raw.githubusercontent.com/justcallmetk/cryptotokenexperiment/main/logo.png
 tags:
   - educational-token
   - social-token

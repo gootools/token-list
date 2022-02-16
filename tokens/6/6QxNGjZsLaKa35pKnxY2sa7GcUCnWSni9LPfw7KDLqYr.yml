@@ -8,6 +8,7 @@ extensions:
   github: https://github.com/Molarfinance
   twitter: https://twitter.com/MolarFinance
   website: https://molar.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6QxNGjZsLaKa35pKnxY2sa7GcUCnWSni9LPfw7KDLqYr/logo.png
 tags:
   - aggregator
   - DEX

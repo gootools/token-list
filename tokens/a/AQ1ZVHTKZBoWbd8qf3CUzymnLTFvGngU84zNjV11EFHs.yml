@@ -3,5 +3,6 @@ name: Mint Chip Token
 decimals: 4
 extensions:
   twitter: https://twitter.com/MintChipToken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQ1ZVHTKZBoWbd8qf3CUzymnLTFvGngU84zNjV11EFHs/logo.png
 tags:
   - social-token

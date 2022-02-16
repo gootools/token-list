@@ -3,6 +3,7 @@ name: TOPY Coin
 decimals: 9
 extensions:
   website: https://topycoin.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cu2iuHD3vaiStixgEECDHvA2FaETtJzzt4jK3YmyNpBj/topycoinlogo.png
 tags:
   - community-token
   - meme-token

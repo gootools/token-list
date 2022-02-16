@@ -1,6 +1,7 @@
 symbol: UNIM
 name: UniMint
 decimals: 0
+img: https://raw.githubusercontent.com/unimintco/token-logos/main/Unimint.png
 tags:
   - general-token
   - social-token

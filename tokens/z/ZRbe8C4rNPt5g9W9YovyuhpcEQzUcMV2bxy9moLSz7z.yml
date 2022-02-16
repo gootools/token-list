@@ -1,5 +1,6 @@
 symbol: DEGO
 name: DiegoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/pcapazzi/DiegoCoin/main/diego.png
 tags:
   - social-token

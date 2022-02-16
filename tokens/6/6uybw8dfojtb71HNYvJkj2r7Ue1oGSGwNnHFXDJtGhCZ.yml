@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   description: Riot C01N - first Riot Token/Coin
   twitter: https://twitter.com/MrRoryRiot
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uybw8dfojtb71HNYvJkj2r7Ue1oGSGwNnHFXDJtGhCZ/logo.png
 tags:
   - social-token

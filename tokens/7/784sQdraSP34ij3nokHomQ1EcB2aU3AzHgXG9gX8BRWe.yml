@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   address: 784sQdraSP34ij3nokHomQ1EcB2aU3AzHgXG9gX8BRWe
   description: Shiba's sister on the Solana network.
+img: https://raw.githubusercontent.com/LeChef/crypto/main/Screenshot_2.png
 tags:
   - meme-token

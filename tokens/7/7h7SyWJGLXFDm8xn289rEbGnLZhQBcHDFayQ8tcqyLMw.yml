@@ -3,5 +3,6 @@ name: Wallistoken
 decimals: 0
 extensions:
   twitter: https://twitter.com/Sneazz__
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JF7Cm3UH3BK1mKawg38e5Pfyv7XVL46QvwqbphFX2ij/logo.png
 tags:
   - utility-token

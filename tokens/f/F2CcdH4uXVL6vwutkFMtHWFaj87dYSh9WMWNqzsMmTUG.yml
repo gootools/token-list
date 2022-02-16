@@ -1,6 +1,7 @@
 symbol: ENC
 name: crypt
 decimals: 0
+img: https://raw.githubusercontent.com/encryptedsolana/crypt/main/logo.png
 tags:
   - social-token
   - utility-token

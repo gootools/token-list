@@ -3,5 +3,6 @@ name: Wrapped USDT (Allbridge from BSC)
 decimals: 9
 extensions:
   coingeckoId: tether
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png
 tags:
   - stablecoin

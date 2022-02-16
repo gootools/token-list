@@ -1,5 +1,6 @@
 symbol: NERC
 name: NeroCoin
 decimals: 0
+img: https://raw.githubusercontent.com/anasfredmanjack/crypto/main/nerotoken.png
 tags:
   - social-token

@@ -1,5 +1,6 @@
 symbol: ZONE
 name: The Zone Token
 decimals: 0
+img: https://raw.githubusercontent.com/liltaf/zone-token/main/logo.png
 tags:
   - social-token

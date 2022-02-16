@@ -3,6 +3,7 @@ name: WeCount Coin
 decimals: 0
 extensions:
   website: https://wecount.dev
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkqFXm96v68ULpce3fQVEtHNagM2Ur1sZgM4oLSDNdZU/logo.png
 tags:
   - community-coin
   - community

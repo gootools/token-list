@@ -3,6 +3,7 @@ name: RugCoin
 decimals: 8
 extensions:
   website: https://rugcoin.rip
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Km8PRUQxPmNX6EhmAuu3sFEnCP6uT2Yt42zPFR6VNnD/logo.png
 tags:
   - community-token
   - meme-token

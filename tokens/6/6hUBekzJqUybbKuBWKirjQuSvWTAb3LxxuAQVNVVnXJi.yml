@@ -1,5 +1,6 @@
 symbol: BRIAN
 name: Brian Coin
 decimals: 0
+img: https://raw.githubusercontent.com/brianmahlstedt/bmahlstedt.com/master/frontend/public/logo.png
 tags:
   - social-token

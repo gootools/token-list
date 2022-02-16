@@ -1,6 +1,7 @@
 symbol: BOC
 name: Burnout Coin
 decimals: 0
+img: https://raw.githubusercontent.com/vitkhab/burnout-coin/main/logo.png
 tags:
   - community-token
   - meme-token

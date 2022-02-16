@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (BOP-RAY)
 decimals: 8
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nQPYJvysyfnXhQ6nkK5V7sZG26hmDgusfdNQijRk5LD/logo.png
 tags:
   - lp-token

@@ -1,5 +1,6 @@
 symbol: GIC
 name: GiobaCoin
 decimals: 6
+img: https://raw.githubusercontent.com/nicogioino/giobacoin/main/gioba-coin-logo.png
 tags:
   - social-token

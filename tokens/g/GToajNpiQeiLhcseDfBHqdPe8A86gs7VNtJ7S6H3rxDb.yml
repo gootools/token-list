@@ -1,6 +1,7 @@
 symbol: BCKP
 name: Backprocess
 decimals: 0
+img: https://raw.githubusercontent.com/flamacore/bckptoken/main/BCKP_Token_Logo_Final.png
 tags:
   - general-token
   - social-token

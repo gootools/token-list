@@ -3,5 +3,6 @@ name: QV5D Coin
 decimals: 9
 extensions:
   description: Five Heads Monster Coin
+img: https://cdn.jsdelivr.net/gh/iorivn/ndc-logo/logo.png
 tags:
   - social-token

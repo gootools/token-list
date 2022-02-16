@@ -3,5 +3,6 @@ name: Yield Saber LP Token (USDT-USDC)
 decimals: 6
 extensions:
   website: https://bunnyducky.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/y2poavXfuAHWRizzK52vegqzzkHUo5CzooxFzDDX6vp/logo.svg
 tags:
   - yield-token

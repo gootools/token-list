@@ -3,5 +3,6 @@ name: AmerisourceBergen Corp
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ABC
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G2Cg4XoXdEJT5sfrSy9N6YCC3uuVV3AoTQSvMeSqT8ZV/logo.svg
 tags:
   - tokenized-stock

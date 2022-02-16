@@ -1,5 +1,6 @@
 symbol: SOLCSH
 name: Solana Cash
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F2Rsx71Rg64a2gi5wSGxihAeLvPWt76kaNbcAjSMnULF/logo.png
 tags:
   - Community-token

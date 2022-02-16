@@ -3,5 +3,6 @@ name: MLGO tokens
 decimals: 9
 extensions:
   website: https://mlgo.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H3mRKonYi5pEi7eJfvQxwEYoHpV3qB2urZGtLfjk27NN/logo.png
 tags:
   - utility-token

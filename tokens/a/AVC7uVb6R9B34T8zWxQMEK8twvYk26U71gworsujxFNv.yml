@@ -3,6 +3,7 @@ name: Saber aaUSDC-USDC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/aausdc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

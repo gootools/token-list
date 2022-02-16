@@ -1,5 +1,6 @@
 symbol: FOOD
 name: Food
 decimals: 9
+img: https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/food-logo.png
 tags:
   - social-token

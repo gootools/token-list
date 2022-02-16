@@ -11,6 +11,7 @@ extensions:
   telegram: https://t.me/leonidas_token
   twitter: https://twitter.com/leonidas_token
   website: https://www.leonidastoken.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ/logo.png
 tags:
   - community-token
   - DeFi

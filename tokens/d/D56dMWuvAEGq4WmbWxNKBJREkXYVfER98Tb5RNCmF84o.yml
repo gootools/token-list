@@ -11,6 +11,7 @@ extensions:
   reddit: https://reddit.com/r/dogecoin
   twitter: https://twitter.com/dogecoin
   website: https://dogecoin.com/
+img: https://raw.githubusercontent.com/unimintco/token-logos/main/DOGE/logo.png
 tags:
   - meme-token
   - wrapped

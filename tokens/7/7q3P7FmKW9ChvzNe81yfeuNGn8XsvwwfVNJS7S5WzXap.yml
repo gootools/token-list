@@ -3,5 +3,6 @@ name: Friscocoin
 decimals: 0
 extensions:
   website: https://crypto.milkywayfiasco.com/
+img: https://raw.githubusercontent.com/fiasco67/friscocoin/main/logo.svg
 tags:
   - social-token

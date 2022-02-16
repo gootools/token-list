@@ -1,5 +1,6 @@
 symbol: LUND
 name: Lund Coin
 decimals: 9
+img: https://raw.githubusercontent.com/arkalon76/token-lund/main/assets/logo.png
 tags:
   - community-token

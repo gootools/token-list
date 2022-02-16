@@ -3,6 +3,7 @@ name: Elevator Beta
 decimals: 9
 extensions:
   website: https://www.elevator.biz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GjYD3xQGJuk6xFzbkLx6ad3CiHbYJ6xwetwqNPMhvXmS/logo.png
 tags:
   - social-token
   - utility-token

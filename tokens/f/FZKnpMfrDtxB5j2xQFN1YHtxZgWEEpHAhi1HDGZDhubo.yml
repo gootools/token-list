@@ -3,6 +3,7 @@ name: Yoseph Wijaya Cool Coin
 decimals: 1
 extensions:
   website: https://yoseph.ws
+img: https://raw.githubusercontent.com/nsnull0/YWC/main/logo.jpg
 tags:
   - community-token
   - social-token

@@ -1,5 +1,6 @@
 symbol: XYZ2
 name: XYZ2 Test
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/91enn7UUM3rXqqMAmYgYRNuVQBRgTumTvV7kMCVyz5g/logo.png
 clusters:
   - devnet

@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/MEKAMOUNTS
   website: https://www.mekamounts.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BtPMb5Fm21XcS8fNPMZM9FsmZrZQZyWFzLbztvdB1kTE/meka.png
 tags:
   - MekaMounts

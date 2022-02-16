@@ -3,5 +3,6 @@ name: Raydium LP Token (LIQ-SOL)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKJHspCwDhABucCxNLXUSfEzb7Ny62RqFtC9uNjJi4fq/logo.png
 tags:
   - lp-token

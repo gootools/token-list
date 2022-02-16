@@ -1,6 +1,7 @@
 symbol: YUM
 name: Candy
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Candy.png
 tags:
   - community
   - Candy

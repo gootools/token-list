@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   twitter: https://twitter.com/kekwcoin
   website: https://www.kekw.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5WUab7TCvth43Au5vk6wKjchTzWFeyPEUSJE1MPJtTZE/logo.png
 tags:
   - nft

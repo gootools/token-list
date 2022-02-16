@@ -3,6 +3,7 @@ name: Saber wDAI-USDC LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/wdai
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

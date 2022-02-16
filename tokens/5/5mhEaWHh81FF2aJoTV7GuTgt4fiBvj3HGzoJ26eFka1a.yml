@@ -1,6 +1,7 @@
 symbol: FERC
 name: FerretCoin
 decimals: 0
+img: https://raw.githubusercontent.com/mpnox/HiQoins/main/FERC.png
 tags:
   - fun-token
   - meme-token

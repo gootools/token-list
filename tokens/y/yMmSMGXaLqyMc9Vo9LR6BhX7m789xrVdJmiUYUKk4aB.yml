@@ -3,5 +3,6 @@ name: Yield Mercurial LP Token (mSOL-2Pool)
 decimals: 12
 extensions:
   website: https://bunnyducky.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yMmSMGXaLqyMc9Vo9LR6BhX7m789xrVdJmiUYUKk4aB/logo.svg
 tags:
   - yield-token

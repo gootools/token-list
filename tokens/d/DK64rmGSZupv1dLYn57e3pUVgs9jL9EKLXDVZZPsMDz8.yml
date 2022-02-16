@@ -3,6 +3,7 @@ name: ArtBomb
 decimals: 5
 extensions:
   website: https://artbomb.xyz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DK64rmGSZupv1dLYn57e3pUVgs9jL9EKLXDVZZPsMDz8/logo.png
 tags:
   - artbomb
   - utility-token

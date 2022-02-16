@@ -1,6 +1,7 @@
 symbol: LAND
 name: CommonLand
 decimals: 6
+img: https://raw.githubusercontent.com/Swaeyzi/CommonLand/main/CommonLand_22.01.13.png
 tags:
   - financial-token
   - real-estate

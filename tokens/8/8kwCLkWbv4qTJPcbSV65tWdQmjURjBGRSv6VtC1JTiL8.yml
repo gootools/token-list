@@ -5,6 +5,7 @@ extensions:
   address: "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab"
   assetContract: https://etherscan.io/address/0xB124541127A0A657f056D9Dd06188c4F1b0e5aab
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kwCLkWbv4qTJPcbSV65tWdQmjURjBGRSv6VtC1JTiL8/logo.png
 tags:
   - wrapped
   - wormhole

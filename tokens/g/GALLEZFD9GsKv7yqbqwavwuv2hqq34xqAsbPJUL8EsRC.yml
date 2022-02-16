@@ -3,5 +3,6 @@ name: Galleon Token
 decimals: 9
 extensions:
   website: https://mint.solanalysis.com/wiz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GALLEZFD9GsKv7yqbqwavwuv2hqq34xqAsbPJUL8EsRC/logo.png
 tags:
   - utility-token

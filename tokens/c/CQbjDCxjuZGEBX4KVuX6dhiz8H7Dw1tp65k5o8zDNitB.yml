@@ -3,6 +3,7 @@ name: FPVSweden Token
 decimals: 6
 extensions:
   website: https://github.com/x0ff101x0ff101/FPVSwedenToken/blob/main/README.md
+img: https://raw.githubusercontent.com/x0ff101x0ff101/FPVSwedenToken/main/FPWSWE.png
 tags:
   - Facebook-Group
   - social-token

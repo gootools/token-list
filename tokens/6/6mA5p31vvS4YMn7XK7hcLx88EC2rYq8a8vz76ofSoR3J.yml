@@ -3,5 +3,6 @@ name: Kindo
 decimals: 4
 extensions:
   website: https://kindo.finance
+img: https://user-images.githubusercontent.com/4694319/147854751-097c9287-365f-4926-b3dd-2db89ca49a9f.png
 tags:
   - token

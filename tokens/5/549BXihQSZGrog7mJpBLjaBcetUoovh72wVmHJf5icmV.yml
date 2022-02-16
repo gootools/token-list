@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/PixelDoragon
   website: https://pixelateddoragon.com
+img: https://raw.githubusercontent.com/pixelateddoragon/brand/main/token.png
 tags:
   - nft
   - utility-token

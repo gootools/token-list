@@ -3,6 +3,7 @@ name: Instagram NFT EPH
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/E4P45hsc4WJ61EkJkoKg4HRps68WhnfBMqDWvNYBAVZ7
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E4P45hsc4WJ61EkJkoKg4HRps68WhnfBMqDWvNYBAVZ7/logo.jpg
 tags:
   - instagram
   - nft

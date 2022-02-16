@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/TheFlokiverse
   website: https://theflokiverse.com
+img: https://cdn.jsdelivr.net/gh/DaveBane/Flokiverse/Flokiverselogo.png
 tags:
   - game-token
   - meme-token

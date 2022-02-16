@@ -3,6 +3,7 @@ name: Wrapped SOL
 decimals: 9
 extensions:
   coingeckoId: solana
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png
 clusters:
   - devnet
   - mainnet-beta

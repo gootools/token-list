@@ -5,5 +5,6 @@ extensions:
   facebook: https://facebook.com/everyonecoin
   twitter: https://twitter.com/everyonecoin
   website: https://everyonecoin.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91/logo.png
 tags:
   - currency

@@ -1,5 +1,6 @@
 symbol: BITC
 name: BitondCoin
 decimals: 0
+img: https://raw.githubusercontent.com/Elod044/BitondCoin/main/bitondcoin.png
 tags:
   - social-token

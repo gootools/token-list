@@ -1,5 +1,6 @@
 symbol: SRO
 name: SRO Token
 decimals: 9
+img: https://raw.githubusercontent.com/Sreerajv799/cryoto_solana/main/logo.PNG
 tags:
   - social-token

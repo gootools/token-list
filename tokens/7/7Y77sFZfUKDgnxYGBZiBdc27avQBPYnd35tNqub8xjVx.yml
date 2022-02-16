@@ -1,5 +1,6 @@
 symbol: PICO
 name: PiCoin
 decimals: 0
+img: https://raw.githubusercontent.com/2piMicrosox/crypto/main/2Pi.png
 tags:
   - social-token

@@ -1,5 +1,6 @@
 symbol: EURO
 name: EURO token
 decimals: 2
+img: https://github.com/ArtTokenFund/solana/blob/main/blockPNG.png
 tags:
   - DeFi-token

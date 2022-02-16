@@ -3,5 +3,6 @@ name: Trader Best Coin
 decimals: 6
 extensions:
   twitter: https://twitter.com/Imwarmsmile
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8NAcUx21PWMS2MjXWfnWgBWfy1r1yfL4AeESgdteGaut/logo.svg
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: CUTE COIN
 decimals: 6
 extensions:
   website: https://cargocollective.com/gustifink/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CwP7ggJPVvRGRjvkV4Q5bnFNTECd9GAhoGdjtsvhEHaC/logo.png
 tags:
   - solmergeaicom

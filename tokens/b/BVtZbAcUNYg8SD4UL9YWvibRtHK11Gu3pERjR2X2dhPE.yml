@@ -1,6 +1,7 @@
 symbol: TEK
 name: TEKoin
 decimals: 0
+img: https://raw.githubusercontent.com/lakshgandikota/tekonsolana/main/logo.png
 tags:
   - meme-token
   - social-token

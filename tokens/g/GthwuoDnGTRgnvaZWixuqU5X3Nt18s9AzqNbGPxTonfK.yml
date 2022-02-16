@@ -3,6 +3,7 @@ name: Jacob Makarsky Social Token
 decimals: 9
 extensions:
   website: https://www.makarsky.dev/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GthwuoDnGTRgnvaZWixuqU5X3Nt18s9AzqNbGPxTonfK/logo.png
 tags:
   - jamaka
   - social-token

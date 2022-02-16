@@ -3,5 +3,6 @@ name: Yield Mercurial LP Token (UST-3Pool)
 decimals: 9
 extensions:
   website: https://bunnyducky.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yM3pjpurEuod4TQ3m4KoV2Rj6Jjge4EGexX7NyiRL2P/logo.svg
 tags:
   - yield-token

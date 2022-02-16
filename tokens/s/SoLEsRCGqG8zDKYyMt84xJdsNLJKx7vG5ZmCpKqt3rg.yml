@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolareItalia
   website: https://www.solare.digital
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoLEsRCGqG8zDKYyMt84xJdsNLJKx7vG5ZmCpKqt3rg/logo.png
 tags:
   - governance-token
   - utility-token

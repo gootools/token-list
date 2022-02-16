@@ -1,6 +1,7 @@
 symbol: SVRY
 name: SVRY Coin
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FvHys7nD2kZMfk4DaNJwWTbQVdhFDkCP45tfsf5ZFgjX/logo.png
 tags:
   - family-token
   - utility-token

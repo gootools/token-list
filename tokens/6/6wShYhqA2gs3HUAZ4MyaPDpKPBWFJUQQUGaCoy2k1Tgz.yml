@@ -3,5 +3,6 @@ name: TUT
 decimals: 9
 extensions:
   website: https://www.turntuptikis.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6wShYhqA2gs3HUAZ4MyaPDpKPBWFJUQQUGaCoy2k1Tgz/logo.png
 tags:
   - utility-token

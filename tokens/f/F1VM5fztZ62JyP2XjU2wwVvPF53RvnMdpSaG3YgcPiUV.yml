@@ -3,5 +3,6 @@ name: DEVB TOKEN
 decimals: 9
 extensions:
   website: https://bigdickenergy.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F1VM5fztZ62JyP2XjU2wwVvPF53RvnMdpSaG3YgcPiUV/logo.png
 tags:
   - DEV

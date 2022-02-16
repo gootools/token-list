@@ -1,5 +1,6 @@
 symbol: RUSD
 name: Real USD
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RTs8J4B4gJSNjAmxnZw8abY6ACj5oVGVqnn1RJAj1Fb/logo.png
 tags:
   - mint-token

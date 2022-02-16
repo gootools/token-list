@@ -3,6 +3,7 @@ name: CannaBit
 decimals: 9
 extensions:
   website: https://cannabit.community
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AV7oz8VVnZsov1JUBmzVqjUfLkA7vJ21127YcoBXbXzC/logo.png
 tags:
   - community-token
   - cannabis-token

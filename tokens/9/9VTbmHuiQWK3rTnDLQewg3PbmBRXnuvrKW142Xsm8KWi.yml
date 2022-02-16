@@ -3,5 +3,6 @@ name: TIERRA
 decimals: 9
 extensions:
   website: http://tierrameta.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9VTbmHuiQWK3rTnDLQewg3PbmBRXnuvrKW142Xsm8KWi/logo.png
 tags:
   - TIERRA

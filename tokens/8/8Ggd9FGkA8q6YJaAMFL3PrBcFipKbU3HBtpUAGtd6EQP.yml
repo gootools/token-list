@@ -3,6 +3,7 @@ name: 7Realms
 decimals: 9
 extensions:
   website: https://www.sevenrealms.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Ggd9FGkA8q6YJaAMFL3PrBcFipKbU3HBtpUAGtd6EQP/logo.png
 tags:
   - community-token
   - game-token

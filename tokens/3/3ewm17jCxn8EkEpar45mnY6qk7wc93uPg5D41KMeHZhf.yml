@@ -1,6 +1,7 @@
 symbol: CSH
 name: CSH Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ewm17jCxn8EkEpar45mnY6qk7wc93uPg5D41KMeHZhf/logo.png
 tags:
   - shchoi
   - utility-token

@@ -3,5 +3,6 @@ name: Perky Mint Coin
 decimals: 0
 extensions:
   website: https://perkypikas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AXgZjDfLxYqr8Sxix5vztYie6PVwKB5miYNnR5YR6ANX/logo.png
 tags:
   - utility-token

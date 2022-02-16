@@ -4,6 +4,7 @@ decimals: 2
 extensions:
   twitter: https://twitter.com/Solidarity2021
   website: https://www.solidarity.solutions
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/soL6gkvtJa7wtiqHXPZ2G6g2V9ZdT7GzFRJJPxTRS67/logo.png
 tags:
   - AMM
   - DeFi

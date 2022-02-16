@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/FroggosNFT
   website: http://froggosnft.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H1QvHLhmk4rL36FBphnFUaQszf6RHGU8RLptPSuPcQwX/logo.png
 tags:
   - community-token
   - social-token

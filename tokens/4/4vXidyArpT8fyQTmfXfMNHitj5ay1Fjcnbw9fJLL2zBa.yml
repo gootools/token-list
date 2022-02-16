@@ -3,6 +3,7 @@ name: HONSHU
 decimals: 9
 extensions:
   twitter: https://twitter.com/HonshuWolves
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4vXidyArpT8fyQTmfXfMNHitj5ay1Fjcnbw9fJLL2zBa/logo.png
 tags:
   - community-token
   - social-token

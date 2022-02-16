@@ -3,5 +3,6 @@ name: Applehead
 decimals: 9
 extensions:
   website: https://applehead.finance/
+img: https://applehead.finance/wp-content/uploads/2021/10/Applehead.png
 tags:
   - utility-token

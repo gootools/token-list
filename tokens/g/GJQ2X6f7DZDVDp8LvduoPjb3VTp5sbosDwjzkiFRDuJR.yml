@@ -1,6 +1,7 @@
 symbol: HEMP
 name: Weed
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Weed.png
 tags:
   - "420"
   - community

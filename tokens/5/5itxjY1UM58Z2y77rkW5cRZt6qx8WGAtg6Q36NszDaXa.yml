@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/VortXToken
   website: https://vortxtoken.com
+img: https://raw.githubusercontent.com/MilesBellum/VortX-Token/main/logo/VortX_Token_logo.png
 tags:
   - community-token
   - social-token

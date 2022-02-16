@@ -1,5 +1,6 @@
 symbol: FLD
 name: Fieldcoin
 decimals: 0
+img: https://raw.githubusercontent.com/sanderveld/coin/main/Fieldcoin.png
 tags:
   - social-token

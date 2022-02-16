@@ -3,5 +3,6 @@ name: Wrapped DAI (Allbridge from Ethereum)
 decimals: 9
 extensions:
   coingeckoId: multi-collateral-dai
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png
 tags:
   - stablecoin

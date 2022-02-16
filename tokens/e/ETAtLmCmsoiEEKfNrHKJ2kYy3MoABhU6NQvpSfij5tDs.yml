@@ -6,5 +6,6 @@ extensions:
   serumV3Usdc: FfiqqvJcVL7oCCu8WQUMHLUC2dnHQPAPjTdSzsERFWjb
   waterfallbot: https://bit.ly/MEDIAwaterfall
   website: https://media.network/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs/logo.png
 tags:
   - utility-token

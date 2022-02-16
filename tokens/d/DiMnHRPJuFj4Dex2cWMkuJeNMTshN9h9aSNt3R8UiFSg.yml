@@ -3,5 +3,6 @@ name: Andrew Token
 decimals: 3
 extensions:
   twitter: https://twitter.com/andrewztan
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiMnHRPJuFj4Dex2cWMkuJeNMTshN9h9aSNt3R8UiFSg/logo.png
 tags:
   - utility-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/youngmonksnft
   website: https://youngmonksnft.com/
+img: https://raw.githubusercontent.com/YoungMonksNFT/YoungMonksToken/main/School.png
 tags:
   - community-token
   - social-token

@@ -3,6 +3,7 @@ name: Skate Collective
 decimals: 0
 extensions:
   description: The Skate Collective Represents the Global Skateboarding Movement
+img: https://raw.githubusercontent.com/RAWBrand/SkateCollective/main/logo.png
 tags:
   - community-token
   - social-token

@@ -3,5 +3,6 @@ name: Mercurial LP Token (USDC-USDT-PAI)
 decimals: 6
 extensions:
   website: https://www.mercurial.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9s6dXtMgV5E6v3rHqBF2LejHcA2GWoZb7xNUkgXgsBqt/logo.png
 tags:
   - lp-token

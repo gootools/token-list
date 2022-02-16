@@ -4,6 +4,7 @@ decimals: 3
 extensions:
   twitter: https://twitter.com/outstandaedu
   website: http://www.checkoin.com
+img: https://raw.githubusercontent.com/outstandaedu/outstanda/main/logo.png
 tags:
   - education-token
   - education

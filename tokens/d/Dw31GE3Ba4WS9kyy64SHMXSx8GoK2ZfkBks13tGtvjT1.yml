@@ -3,5 +3,6 @@ name: Fresh Token by arcavacatalab
 decimals: 8
 extensions:
   website: https://github.com/arcavacatalab
+img: https://raw.githubusercontent.com/arcavacatalab/FreshToken/main/fresh.png
 tags:
   - utility-token

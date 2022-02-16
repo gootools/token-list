@@ -3,5 +3,6 @@ name: Philippine Coin
 decimals: 9
 extensions:
   website: https://www.sagesoftcloud.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3qvg2hSA4NHhe73Xv6rUuhFoGM77VBvZrmE4tWSHMQWe/logo.jpg
 tags:
   - stablecoin

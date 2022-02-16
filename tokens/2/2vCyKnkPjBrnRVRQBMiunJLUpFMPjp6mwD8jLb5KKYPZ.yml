@@ -3,6 +3,7 @@ name: Nftwinz
 decimals: 9
 extensions:
   website: https://crypto.nftwinz.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2vCyKnkPjBrnRVRQBMiunJLUpFMPjp6mwD8jLb5KKYPZ/logo.png
 tags:
   - community-token
   - social-token

@@ -3,5 +3,6 @@ name: SNOO TOKEN
 decimals: 3
 extensions:
   twitter: https://twitter.com/snootoken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GtLLiBNXXqmM4pdD4Z3UDb5aZ3wtggkwZ3TsEkTkUi9f/logo.png
 tags:
   - token

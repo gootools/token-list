@@ -3,6 +3,7 @@ name: OKAY Token
 decimals: 4
 extensions:
   website: http://okayhouse.app
+img: https://raw.githubusercontent.com/thepbac/okaytoken/main/okay.png
 tags:
   - community
   - eCommerce

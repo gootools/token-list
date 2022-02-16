@@ -5,6 +5,7 @@ extensions:
   description: DWELL is a community governance token for DwellFi
   github: https://github.com/dwellfi
   website: https://dwell.fi
+img: https://raw.githubusercontent.com/dwellfi/docs/de8b0de338158f1bb075e1e2e37b44cc64017cd2/static/img/logo.svg
 tags:
   - community-token
   - DAO

@@ -1,6 +1,7 @@
 symbol: MIR
 name: Mirror
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MirrKKDC4ehQ2M2rvebJ36rvifBicUNYi8AA72N2sig/logo.png
 tags:
   - as-super-cycle
   - capped-supply

@@ -3,5 +3,6 @@ name: wen-token-2
 decimals: 0
 extensions:
   website: https://pythians.pyth.network
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9axWWN2FY8njSSQReepkiSE56U2yAvPFGuaXRQNdkZaS/logo.png
 tags:
   - nft

@@ -3,5 +3,6 @@ name: Hearts Art
 decimals: 9
 extensions:
   website: https://hearts.art/
+img: https://raw.githubusercontent.com/Hearts-Art/HEARTS/main/logo.png
 tags:
   - social-token

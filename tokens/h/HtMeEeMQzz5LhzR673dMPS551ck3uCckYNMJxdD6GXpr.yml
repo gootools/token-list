@@ -3,6 +3,7 @@ name: Resp Dev Cert Emissions Reduction
 decimals: 6
 extensions:
   discord: https://discord.gg/5Zx3Qdng4M
+img: https://raw.githubusercontent.com/MBernierPanama/RDInitiative/main/RDCER-Github-1.png
 tags:
   - emissions-reduction
   - rd-initiative

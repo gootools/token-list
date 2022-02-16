@@ -1,6 +1,7 @@
 symbol: TGS
 name: Tech Guy Station
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DviJfSdN55meHWdyvxKTP4eFhbV9pFsrkxq6jkqEipk9/logo.png
 tags:
   - tech-guy-station
   - whitelist

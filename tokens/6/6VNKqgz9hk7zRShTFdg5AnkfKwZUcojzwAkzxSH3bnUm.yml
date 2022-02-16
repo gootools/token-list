@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/hapiHF
   twitter: https://twitter.com/i_am_hapi_one
   website: https://hapi.one
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm/logo.png
 tags:
   - utility-token
   - wrapped

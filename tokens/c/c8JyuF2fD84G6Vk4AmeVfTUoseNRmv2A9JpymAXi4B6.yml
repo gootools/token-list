@@ -4,5 +4,6 @@ decimals: 7
 extensions:
   twitter: https://twitter.com/wensircoin
   website: https://www.wensirsolana.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/c8JyuF2fD84G6Vk4AmeVfTUoseNRmv2A9JpymAXi4B6/logo.png
 tags:
   - utility-token

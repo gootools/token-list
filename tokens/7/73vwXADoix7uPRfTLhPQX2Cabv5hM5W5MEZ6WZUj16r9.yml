@@ -1,5 +1,6 @@
 symbol: KARC
 name: KarmaCoin
 decimals: 0
+img: https://raw.githubusercontent.com/skidad75/karmaToken/main/karmaCoinLogo.jpg
 tags:
   - social-token

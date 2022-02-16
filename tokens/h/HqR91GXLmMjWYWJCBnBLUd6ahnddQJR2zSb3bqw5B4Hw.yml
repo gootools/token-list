@@ -3,6 +3,7 @@ name: Blockstone Company Fund
 decimals: 0
 extensions:
   website: https://blocksto.ne/blockstone-company-fund/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HqR91GXLmMjWYWJCBnBLUd6ahnddQJR2zSb3bqw5B4Hw/blockstonePNG.png
 tags:
   - Blockstone
   - Companies

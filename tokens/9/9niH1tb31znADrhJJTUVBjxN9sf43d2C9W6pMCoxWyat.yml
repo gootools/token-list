@@ -1,6 +1,7 @@
 symbol: JHX
 name: Jimmy Hendrix
 decimals: 4
+img: https://raw.githubusercontent.com/humanpong/avatars/master/jhx.jpeg
 tags:
   - community-token
   - utility-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/Constructionwrl
   website: https://conworld.org/
+img: https://raw.githubusercontent.com/conworldtoken/conwimage/main/CONWI.png
 tags:
   - metaverse-token
   - social-token

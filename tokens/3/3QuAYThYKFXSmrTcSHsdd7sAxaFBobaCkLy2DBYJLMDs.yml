@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   twitter: https://twitter.com/btc_AP
   website: http://lendingbot.s3-website-us-east-1.amazonaws.com/whitepaper.html
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3QuAYThYKFXSmrTcSHsdd7sAxaFBobaCkLy2DBYJLMDs/logo.png
 tags:
   - ethereum
   - ERC20

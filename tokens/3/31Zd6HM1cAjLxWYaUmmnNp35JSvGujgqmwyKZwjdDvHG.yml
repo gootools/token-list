@@ -3,6 +3,7 @@ name: Bobah Balls
 decimals: 0
 extensions:
   twitter: https://twitter.com/BobahBalls
+img: https://raw.githubusercontent.com/bobah-balls/crypto/main/logo.png
 tags:
   - nft-token
   - social-token

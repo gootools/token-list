@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/GoshNFT
   twitter: https://twitter.com/GoshNft
   website: https://www.goshnft.com/
+img: https://raw.githubusercontent.com/GoshNFT/uploads/main/logo.png
 tags:
   - game
   - nft

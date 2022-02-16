@@ -1,6 +1,7 @@
 symbol: GAMBLE
 name: Casino
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Casino.png
 tags:
   - Betting
   - community

@@ -1,6 +1,7 @@
 symbol: FULL
 name: FullToken
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9XkQyTdVpHWqxv9accWCZ8KS8QjkXLinGc9jenareJi/logo.png
 tags:
   - carbon-offset
   - energy-token

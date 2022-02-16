@@ -3,6 +3,7 @@ name: UOWN Coin
 decimals: 10
 extensions:
   website: https://www.uown.co
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4p9KCkzJ26JDNsQY6FJHx8wn2N8UtTfA9KNduWEuLN9b/logo.png
 tags:
   - stablecoin
 clusters:

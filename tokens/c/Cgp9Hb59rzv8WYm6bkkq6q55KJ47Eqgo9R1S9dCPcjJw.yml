@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/orangemadman
   website: https://tantarobastore.com/madman
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Madman-Coin/main/logo.png
 tags:
   - community-token
   - madman-token

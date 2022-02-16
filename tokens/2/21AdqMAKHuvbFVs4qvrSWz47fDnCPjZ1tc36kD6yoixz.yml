@@ -1,5 +1,6 @@
 symbol: MLTX
 name: MylaToken
 decimals: 0
+img: https://raw.githubusercontent.com/stoneiness/crypto/main/mylatokenlogo.png
 tags:
   - social-token

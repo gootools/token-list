@@ -3,5 +3,6 @@ name: Allan Coin
 decimals: 9
 extensions:
   instagram: https://www.instagram.com/allanv.26/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GCBQDCUdAJLytVpdXFpG8snME7aPG8wFiBnruDuCvr52/logo.png
 tags:
   - Testtoken

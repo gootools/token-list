@@ -1,6 +1,7 @@
 symbol: LST
 name: Last Supper Token
 decimals: 0
+img: https://raw.githubusercontent.com/svenrobbie/cryptosol/main/logo.png
 tags:
   - social-token
 clusters:

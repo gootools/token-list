@@ -49,6 +49,7 @@ const Token = object({
   name: string(),
   description: optional(string()),
   symbol: string(),
+  img: optional(string()),
   decimals: number(),
   extensions: optional(
     object({

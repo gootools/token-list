@@ -1,6 +1,7 @@
 symbol: PINATA
 name: Open Pinata
 decimals: 9
+img: https://raw.githubusercontent.com/aonsmith/crypto/main/logo.png
 tags:
   - metaverse
   - social-token

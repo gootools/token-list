@@ -3,5 +3,6 @@ name: Pandar Coin
 decimals: 6
 extensions:
   website: https://www.thepandas.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EjKuHMKXXjbsc1MbVgXzv7GRWTgBaaTiAvQMKpJPAzTp/logo.png
 tags:
   - utility-token

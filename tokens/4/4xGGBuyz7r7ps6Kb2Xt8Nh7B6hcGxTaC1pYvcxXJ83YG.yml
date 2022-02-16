@@ -1,5 +1,6 @@
 symbol: TORO
 name: TORO Coin
 decimals: 0
+img: https://raw.githubusercontent.com/cryptodsyne/toro-token/main/toro.png
 tags:
   - social-token

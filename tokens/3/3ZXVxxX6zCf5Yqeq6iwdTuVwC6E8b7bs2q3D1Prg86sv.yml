@@ -1,6 +1,7 @@
 symbol: DAGE
 name: Dark Age
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ZXVxxX6zCf5Yqeq6iwdTuVwC6E8b7bs2q3D1Prg86sv/logo.png
 tags:
   - gamefi
   - game-token

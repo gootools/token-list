@@ -3,5 +3,6 @@ name: RECORD Token
 decimals: 8
 extensions:
   website: https://itsthelabel.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DB8bQYHuR1DEBVu8enu4Sg1PQz96R4BeCyWYs47rCm66/logo.svg
 tags:
   - utility-token

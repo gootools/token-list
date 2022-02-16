@@ -1,5 +1,6 @@
 symbol: NCHC
 name: NachoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/ellocomoli/crypto/main/moneda10.png
 tags:
   - social-token

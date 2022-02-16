@@ -1,5 +1,6 @@
 symbol: FUNC
 name: Fun Coin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gkgThnU59MixF7SzWuCxG7zqsWYazeUAKwmrCVfYMFu/logo.svg
 tags:
   - utility-token

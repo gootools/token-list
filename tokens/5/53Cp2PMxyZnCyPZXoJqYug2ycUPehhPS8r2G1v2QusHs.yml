@@ -1,6 +1,7 @@
 symbol: TX
 name: Texas
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Texas.png
 tags:
   - community
   - nft-token

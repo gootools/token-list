@@ -1,6 +1,7 @@
 symbol: BIDA
 name: Bid Auction
 decimals: 0
+img: https://raw.githubusercontent.com/Bidauctiontoken/Bidauctiontoken-solana/main/logo.png
 tags:
   - auction
   - gaming-token

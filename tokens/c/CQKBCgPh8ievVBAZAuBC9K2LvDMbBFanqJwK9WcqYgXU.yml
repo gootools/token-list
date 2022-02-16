@@ -3,5 +3,6 @@ name: Hamingja 2.0
 decimals: 9
 extensions:
   twitter: https://twitter.com/HamingjaToken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CQKBCgPh8ievVBAZAuBC9K2LvDMbBFanqJwK9WcqYgXU/logo.png
 tags:
   - utility-token

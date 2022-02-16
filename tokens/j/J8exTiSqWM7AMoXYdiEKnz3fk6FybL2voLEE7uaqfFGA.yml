@@ -3,6 +3,7 @@ name: Shiba Inu 2.0
 decimals: 0
 extensions:
   description: New projects coming!
+img: https://raw.githubusercontent.com/shiba2-0/crypto/main/logo.png
 tags:
   - community-token
   - social-token

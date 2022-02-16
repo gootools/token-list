@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/theticketfinance
   twitter: https://twitter.com/TheTicketSol
   website: https://theticket.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AymKzSDznoLT7Vhsb4wSRnCj1gjcG3zkgYFY8fxsHHer/logo.png
 tags:
   - dex
   - defi

@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/solanagoldorg
   website: https://solanagold.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FzbRW9UWtpJxBJBuTRsTgpdJrQvDUVjddhiTuGVkhENz/logo.png
 tags:
   - Community-token

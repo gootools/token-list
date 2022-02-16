@@ -3,5 +3,6 @@ name: Galaxy Digital Holdings
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?GLXY
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYLa7susWhzqDNKYe7qLhFHb3Y9kdNwThc6QSnc4TLWN/logo.png
 tags:
   - tokenized-stock

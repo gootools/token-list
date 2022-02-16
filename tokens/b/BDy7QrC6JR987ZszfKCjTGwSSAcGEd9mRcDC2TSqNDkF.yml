@@ -3,6 +3,7 @@ name: Les Sables d'Olonne Crypto
 decimals: 9
 extensions:
   website: https://www.lessablesdolonne.fr/
+img: https://raw.githubusercontent.com/nguilbaud/token-list/main/assets/mainnet/BDy7QrC6JR987ZszfKCjTGwSSAcGEd9mRcDC2TSqNDkF/logo.png
 tags:
   - community
   - community-token

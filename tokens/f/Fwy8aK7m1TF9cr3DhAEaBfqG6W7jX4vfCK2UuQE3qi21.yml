@@ -3,6 +3,7 @@ name: KICA
 decimals: 0
 extensions:
   twitter: https://twitter.com/EarthKica
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fwy8aK7m1TF9cr3DhAEaBfqG6W7jX4vfCK2UuQE3qi21/logo.png
 tags:
   - carbon-offset
   - climate

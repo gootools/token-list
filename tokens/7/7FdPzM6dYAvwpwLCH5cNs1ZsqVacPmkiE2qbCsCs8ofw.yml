@@ -5,6 +5,7 @@ extensions:
   facebook: https://facebook.com/watson11B
   twitter: https://twitter.com/nachteis
   website: https://daetalytica.io/
+img: https://raw.githubusercontent.com/Daetalytica/crypto/main/logo.png
 tags:
   - security-token
   - utility-token

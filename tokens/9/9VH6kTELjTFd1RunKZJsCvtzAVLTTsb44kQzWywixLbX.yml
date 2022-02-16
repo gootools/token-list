@@ -3,6 +3,7 @@ name: Shib Moon
 decimals: 9
 extensions:
   serumV3Usdc: 2B6CxvMS91eNyQ1FPyEqybvjFiZtKaBqHWKfXAKn1jij
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9VH6kTELjTFd1RunKZJsCvtzAVLTTsb44kQzWywixLbX/logo.png
 tags:
   - community
   - Meme

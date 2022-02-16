@@ -3,6 +3,7 @@ name: Guarantee SOL
 decimals: 9
 extensions:
   website: https://blocksto.ne/cutee-sol/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABxMcyrcR17mzeksKkGbLVq24qXJtHM8zTEfxCo6JpfG/Coinlogo.png
 tags:
   - Blockstone
   - guarantee-token

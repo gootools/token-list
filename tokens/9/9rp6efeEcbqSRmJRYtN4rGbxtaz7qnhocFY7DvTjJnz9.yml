@@ -3,6 +3,7 @@ name: Nincompoops Investments Coin
 decimals: 0
 extensions:
   website: http://nincompoopsinvestments.com
+img: https://raw.githubusercontent.com/patrick-nincompoops/nicoin/main/NI.png
 tags:
   - community-token
   - social-token

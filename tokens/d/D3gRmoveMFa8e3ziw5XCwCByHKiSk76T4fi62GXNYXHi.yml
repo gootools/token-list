@@ -3,6 +3,7 @@ name: JareBool
 decimals: 0
 extensions:
   website: https://stacc.art/
+img: https://raw.githubusercontent.com/dyor-market/token-list/main/assets/mainnet/D3gRmoveMFa8e3ziw5XCwCByHKiSk76T4fi62GXNYXHi/logo.png
 tags:
   - bull
   - leveraged

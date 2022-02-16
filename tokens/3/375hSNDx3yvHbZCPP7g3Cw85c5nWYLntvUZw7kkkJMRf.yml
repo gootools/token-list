@@ -3,6 +3,7 @@ name: The Metaverse Museum
 decimals: 9
 extensions:
   website: https://themetaversemuseum.io
+img: https://themetaversemuseum.s3.eu-west-3.amazonaws.com/baselogo.png
 tags:
   - community-token
   - meta-verse

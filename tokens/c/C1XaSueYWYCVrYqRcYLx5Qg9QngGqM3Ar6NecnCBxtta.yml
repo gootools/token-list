@@ -3,5 +3,6 @@ name: BitPhoenix X
 decimals: 9
 extensions:
   website: https://github.com/bitphoenixx
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C1XaSueYWYCVrYqRcYLx5Qg9QngGqM3Ar6NecnCBxtta/logo.png
 tags:
   - digital-coin

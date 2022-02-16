@@ -1,6 +1,7 @@
 symbol: $INV
 name: Invokers Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CnzCjrBQNzcwG1XEfBtP6kfvsbkLmXmSsHxR6UwgfXYQ/logo-iv.png
 tags:
   - game
   - nft

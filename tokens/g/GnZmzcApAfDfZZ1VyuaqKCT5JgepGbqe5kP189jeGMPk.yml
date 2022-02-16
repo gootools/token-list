@@ -4,5 +4,6 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/CropperFinance
   website: https://cropper.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Da82KXrqcUnv9oRcoKKUYRWM2yjPesi31GmrgMjZZ6h/logo.png
 tags:
   - lp-token

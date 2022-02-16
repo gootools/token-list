@@ -3,3 +3,4 @@ name: Shortcoin
 decimals: 9
 extensions:
   website: http://shortgun.in/shortcoin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3CXVYitUaSMxifZKyiBRDT1TMcGrL1nJ2WfwdgnnvrKS/logo.png

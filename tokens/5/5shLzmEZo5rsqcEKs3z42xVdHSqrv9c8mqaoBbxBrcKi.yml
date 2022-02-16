@@ -1,5 +1,6 @@
 symbol: PCRN
 name: PopCorn Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5shLzmEZo5rsqcEKs3z42xVdHSqrv9c8mqaoBbxBrcKi/logo.png
 tags:
   - utility-token

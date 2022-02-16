@@ -3,5 +3,6 @@ name: yOUcash
 decimals: 4
 extensions:
   website: https://www.youengine.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DRh7AedYnCCpEwhPHSVox24g2zxqBK84MroyuXCknP8c/logo.png
 tags:
   - utility-token

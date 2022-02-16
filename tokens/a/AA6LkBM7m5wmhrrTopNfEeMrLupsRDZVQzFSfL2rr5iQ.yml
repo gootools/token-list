@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://discord.gg/0xdrip
   twitter: https://twitter.com/0x_DRIP
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AA6LkBM7m5wmhrrTopNfEeMrLupsRDZVQzFSfL2rr5iQ/logo.png
 tags:
   - altcoin
   - community-token

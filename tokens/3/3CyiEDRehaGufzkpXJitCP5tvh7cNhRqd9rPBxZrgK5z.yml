@@ -8,6 +8,7 @@ extensions:
   coingeckoId: swipe
   serumV3Usdc: G5F84rfqmWqzZv5GBpSn8mMwW8zJ2B4Y1GpGupiwjHNM
   serumV3Usdt: 2FQbPW1ticJz2SMMbEXxbKWJKmw1wLc6ggSP2HyzdMen
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z/logo.png
 tags:
   - wrapped
   - wormhole

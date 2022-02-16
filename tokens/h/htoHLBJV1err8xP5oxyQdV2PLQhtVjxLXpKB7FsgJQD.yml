@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/heavenland_io
   website: https://heavenland.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png
 tags:
   - governance-token
   - metaverse

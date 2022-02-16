@@ -1,6 +1,7 @@
 symbol: DPAY
 name: Doge Pay
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HyxD4QcgeYW6H1acA2tyxFNQ1fTD37J4MZCMEeXCLQsK/logo.png
 tags:
   - meme-token
   - utility-token

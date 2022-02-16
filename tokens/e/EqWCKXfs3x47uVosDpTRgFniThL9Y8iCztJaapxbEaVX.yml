@@ -7,6 +7,7 @@ extensions:
   serumV3Usdc: 4xyWjQ74Eifq17vbue5Ut9xfFNfuVB116tZLEpiZuAn8
   serumV3Usdt: 35tV8UsHH8FnSAi3YFRrgCu4K9tb883wKnAXpnihot5r
   waterfallbot: https://t.me/LUAwaterfall
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX/logo.png
 tags:
   - ethereum
   - wrapped-sollet

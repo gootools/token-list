@@ -3,5 +3,6 @@ name: Informatics Research Coin
 decimals: 0
 extensions:
   website: https://www.irc.or.id
+img: https://raw.githubusercontent.com/awangga/irctoken/main/logo.png
 tags:
   - reward-token

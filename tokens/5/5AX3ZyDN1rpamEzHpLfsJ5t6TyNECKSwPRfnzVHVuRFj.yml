@@ -1,6 +1,7 @@
 symbol: YUMZ
 name: Food tasting Social Token
 decimals: 9
+img: https://cdn.jsdelivr.net/gh/yu-ming-chen/yumzToken/logo.JPG
 tags:
   - social-token
   - yumz

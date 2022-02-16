@@ -3,6 +3,7 @@ name: MONKE TOKEN
 decimals: 9
 extensions:
   website: https://monketoken.xyz/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJKX1cX2SPPaTdYBeuriUeQUUEpi2UGBGGPQthNMrgaa/logo.png
 tags:
   - community-token
   - meme-token

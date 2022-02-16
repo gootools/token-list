@@ -4,5 +4,6 @@ decimals: 7
 extensions:
   description: Fiasco is as Fiasco does
   website: https://milkywayfiasco.com
+img: https://raw.githubusercontent.com/fiasco68/crypto/main/fiasco.svg
 tags:
   - utility-token

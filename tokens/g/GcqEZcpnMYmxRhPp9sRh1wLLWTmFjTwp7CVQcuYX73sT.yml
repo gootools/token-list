@@ -4,6 +4,7 @@ decimals: 8
 extensions:
   twitter: https://twitter.com/CryptoWhale
   website: https://cryptowhale.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GcqEZcpnMYmxRhPp9sRh1wLLWTmFjTwp7CVQcuYX73sT/logo.png
 tags:
   - community-token
   - crypto-whale

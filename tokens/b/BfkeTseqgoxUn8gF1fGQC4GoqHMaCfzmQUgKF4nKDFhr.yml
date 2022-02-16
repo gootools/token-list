@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/Token_CLN
   website: https://www.centralloyalty.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BfkeTseqgoxUn8gF1fGQC4GoqHMaCfzmQUgKF4nKDFhr/logoo.png
 tags:
   - utility-token

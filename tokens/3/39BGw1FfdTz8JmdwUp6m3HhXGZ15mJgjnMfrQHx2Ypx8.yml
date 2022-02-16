@@ -1,6 +1,7 @@
 symbol: CAT
 name: CloudAtlasTech Coin
 decimals: 4
+img: https://raw.githubusercontent.com/trekk/Cloud-Atlas-Tech-Coin/main/logo.png
 tags:
   - social-token
   - utility-token

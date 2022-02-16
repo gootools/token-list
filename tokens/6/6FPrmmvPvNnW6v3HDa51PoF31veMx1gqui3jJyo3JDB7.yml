@@ -1,6 +1,7 @@
 symbol: DES
 name: The Destiny
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6FPrmmvPvNnW6v3HDa51PoF31veMx1gqui3jJyo3JDB7/logo.png
 tags:
   - gamefi
   - game-token

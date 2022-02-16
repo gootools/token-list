@@ -10,6 +10,7 @@ extensions:
   github: https://github.com/newton-blockchain
   telegram: https://t.me/tonblockchain
   website: https://ton.org
+img: https://raw.githubusercontent.com/unimintco/token-logos/main/TON/logo.png
 tags:
   - general-token
   - wrapped

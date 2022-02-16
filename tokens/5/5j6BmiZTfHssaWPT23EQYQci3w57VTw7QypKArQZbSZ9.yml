@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/chadtraderio
   website: https://chadtrader.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5j6BmiZTfHssaWPT23EQYQci3w57VTw7QypKArQZbSZ9/logo.png
 tags:
   - utility-token

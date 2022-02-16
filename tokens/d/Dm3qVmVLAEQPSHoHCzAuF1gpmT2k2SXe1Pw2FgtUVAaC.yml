@@ -3,5 +3,6 @@ name: DNG Reasearch Token
 decimals: 9
 extensions:
   website: http://d-n-g.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dm3qVmVLAEQPSHoHCzAuF1gpmT2k2SXe1Pw2FgtUVAaC/logo.png
 tags:
   - social-token

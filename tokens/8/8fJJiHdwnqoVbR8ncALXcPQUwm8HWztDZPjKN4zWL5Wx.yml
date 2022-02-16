@@ -3,5 +3,6 @@ name: Instagram NFT SOLKITTYNFT 1
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/8fJJiHdwnqoVbR8ncALXcPQUwm8HWztDZPjKN4zWL5Wx
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fJJiHdwnqoVbR8ncALXcPQUwm8HWztDZPjKN4zWL5Wx/logo.png
 tags:
   - nft

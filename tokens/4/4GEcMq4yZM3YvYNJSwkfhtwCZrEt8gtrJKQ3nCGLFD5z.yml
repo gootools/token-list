@@ -1,6 +1,7 @@
 symbol: SLOTH
 name: Sloth Coin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4GEcMq4yZM3YvYNJSwkfhtwCZrEt8gtrJKQ3nCGLFD5z/logo.png
 tags:
   - game-token
   - social-token

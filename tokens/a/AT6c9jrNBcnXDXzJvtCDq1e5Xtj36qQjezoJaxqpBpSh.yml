@@ -1,5 +1,6 @@
 symbol: KITC
 name: Kitten Coin
 decimals: 9
+img: https://raw.githubusercontent.com/GrumpyWolfpuppy/crypto/main/logo.png
 tags:
   - social-token

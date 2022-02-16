@@ -8,5 +8,6 @@ extensions:
   coingeckoId: krown
   twitter: https://twitter.com/kingdefi2
   website: https://kingdefi.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq/logo.png
 tags:
   - wrapped

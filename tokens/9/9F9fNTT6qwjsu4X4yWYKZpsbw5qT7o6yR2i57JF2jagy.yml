@@ -5,6 +5,7 @@ extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: swag-finance
   serumV3Usdt: J2XSt77XWim5HwtUM8RUwQvmRXNZsbMKpp5GTKpHafvf
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy/logo.png
 tags:
   - ethereum
   - wrapped-sollet

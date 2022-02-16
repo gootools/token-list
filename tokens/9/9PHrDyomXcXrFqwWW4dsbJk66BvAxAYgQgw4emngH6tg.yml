@@ -1,5 +1,6 @@
 symbol: SGA
 name: SGA Token
 decimals: 0
+img: https://raw.githubusercontent.com/sblacksg/sgacrypto/main/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: Vamp Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/Vampo__
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3V1iScAr8N7X2CXPXpLpgjeV3ThpJdwPJftmem6Ab3JH/logo.png
 tags:
   - social-token

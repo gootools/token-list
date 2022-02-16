@@ -3,6 +3,7 @@ name: Mortgage Coin
 decimals: 0
 extensions:
   website: https://blocksto.ne/mortgage-coin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HJLTaDvwcyHvLbvme81E2BtyxsURfazo34anUwTZDc3W/Coinlogo.png
 tags:
   - DeFi
   - mortgage-coin

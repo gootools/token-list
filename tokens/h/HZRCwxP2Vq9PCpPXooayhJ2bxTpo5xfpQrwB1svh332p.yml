@@ -8,6 +8,7 @@ extensions:
   coingeckoId: lido-dao
   twitter: https://twitter.com/LidoFinance
   website: https://lido.fi/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png
 tags:
   - ethereum
   - wrapped

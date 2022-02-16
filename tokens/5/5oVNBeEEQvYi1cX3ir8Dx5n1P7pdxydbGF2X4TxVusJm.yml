@@ -8,5 +8,6 @@ extensions:
   serumV3Usdc: D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb
   twitter: https://twitter.com/soceanfinance
   website: https://socean.fi/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png
 tags:
   - stake-pool

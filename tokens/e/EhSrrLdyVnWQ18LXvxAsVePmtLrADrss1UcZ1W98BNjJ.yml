@@ -1,5 +1,6 @@
 symbol: CHT
 name: CRYPTOHYVE Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EhSrrLdyVnWQ18LXvxAsVePmtLrADrss1UcZ1W98BNjJ/logo.png
 clusters:
   - devnet

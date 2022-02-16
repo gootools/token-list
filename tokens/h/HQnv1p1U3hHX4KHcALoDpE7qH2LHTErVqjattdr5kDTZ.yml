@@ -3,6 +3,7 @@ name: ShuShi
 decimals: 9
 extensions:
   website: http://houseoffoodporn.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HQnv1p1U3hHX4KHcALoDpE7qH2LHTErVqjattdr5kDTZ/logo.jpg
 tags:
   - community-token
   - utility-token

@@ -1,5 +1,6 @@
 symbol: MPI
 name: Meta Paradise Island
 decimals: 18
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gw35BDbNkQtnMYezjSsFCZ1qZfgMbfMiHkwwB3UAz2XZ/logo.png
 clusters:
   - devnet

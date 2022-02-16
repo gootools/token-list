@@ -3,6 +3,7 @@ name: Instagram NFT YAZ
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/78yaZuBb6qmFec4Jz59MMLtdDu5wBMzKsXaQAWXjpALF
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/78yaZuBb6qmFec4Jz59MMLtdDu5wBMzKsXaQAWXjpALF/logo.jpg
 tags:
   - instagram
   - nft

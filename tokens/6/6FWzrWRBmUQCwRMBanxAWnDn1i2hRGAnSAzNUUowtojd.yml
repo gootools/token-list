@@ -1,6 +1,7 @@
 symbol: SHAMJI
 name: Shamji Coin
 decimals: 0
+img: https://raw.githubusercontent.com/farhadshamji/crypto/main/logo.png
 tags:
   - family-token
   - social-token

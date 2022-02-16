@@ -1,6 +1,7 @@
 symbol: ALIEN
 name: Alien Universe Token
 decimals: 9
+img: https://raw.githubusercontent.com/alien-universe/assets/main/logo.png
 tags:
   - community-token
   - game-token

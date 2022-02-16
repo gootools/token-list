@@ -1,5 +1,6 @@
 symbol: TZD
 name: Toonztudio Token
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A1nQA6t11dUW3JfmzoRf4LAc69UNZMt7eXw1N7imDWjh/logo.png
 clusters:
   - devnet

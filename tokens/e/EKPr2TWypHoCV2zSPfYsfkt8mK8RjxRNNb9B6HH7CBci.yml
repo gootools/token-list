@@ -1,6 +1,7 @@
 symbol: CRS
 name: Crypto Squirre
 decimals: 6
+img: https://raw.githubusercontent.com/ramoncrs/assets/main/logo.jpg
 tags:
   - defi-token
   - meme-token

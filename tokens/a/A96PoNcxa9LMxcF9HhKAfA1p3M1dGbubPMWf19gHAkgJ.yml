@@ -1,5 +1,6 @@
 symbol: atUST
 name: Wrapped UST (Allbridge from Terra)
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png
 tags:
   - stablecoin

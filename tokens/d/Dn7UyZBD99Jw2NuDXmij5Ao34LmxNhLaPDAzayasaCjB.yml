@@ -3,6 +3,7 @@ name: ART Coin
 decimals: 0
 extensions:
   website: https://blocksto.ne/art-coin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn7UyZBD99Jw2NuDXmij5Ao34LmxNhLaPDAzayasaCjB/Coinlogo.png
 tags:
   - Art
   - Blockstone

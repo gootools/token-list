@@ -3,5 +3,6 @@ name: Opincur
 decimals: 9
 extensions:
   website: https://opincur.com
+img: https://raw.githubusercontent.com/road12runner/opincur/main/opincur_logo.png
 tags:
   - social-token

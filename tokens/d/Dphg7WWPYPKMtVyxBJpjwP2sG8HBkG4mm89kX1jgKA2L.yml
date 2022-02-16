@@ -5,5 +5,6 @@ extensions:
   address: "0xab60CcAC0d4157c2b03e5D883bDbe60317992f58"
   assetContract: https://etherscan.io/address/0xab60CcAC0d4157c2b03e5D883bDbe60317992f58
   website: https://lode.one
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dphg7WWPYPKMtVyxBJpjwP2sG8HBkG4mm89kX1jgKA2L/logo.png
 tags:
   - stablecoin

@@ -1,6 +1,7 @@
 symbol: CBDOIL
 name: CBD Oil
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/CBD.png
 tags:
   - community
   - cbd

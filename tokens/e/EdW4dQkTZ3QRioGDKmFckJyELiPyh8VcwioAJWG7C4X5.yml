@@ -1,6 +1,7 @@
 symbol: SNDC
 name: Special Needs and Disabilities Coin
 decimals: 9
+img: https://raw.githubusercontent.com/boostmagento/sol-sndc/main/logo.png
 tags:
   - community-token
   - NFTs

@@ -6,6 +6,7 @@ extensions:
   medium: https://xfabric.medium.com/
   twitter: https://twitter.com/official_fabric
   website: https://fsynth.io/
+img: https://dex.fsynth.io/logo.png
 tags:
   - fabric
   - synthetics

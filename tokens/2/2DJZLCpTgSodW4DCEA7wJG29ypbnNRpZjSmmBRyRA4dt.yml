@@ -1,5 +1,6 @@
 symbol: BEAT
 name: BEAT TOKEN
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DJZLCpTgSodW4DCEA7wJG29ypbnNRpZjSmmBRyRA4dt/logo.png
 tags:
   - utility-token

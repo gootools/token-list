@@ -4,5 +4,6 @@ decimals: 4
 extensions:
   twitter: https://twitter.com/CosmicCondos
   website: https://cosmiccondos.io/
+img: https://raw.githubusercontent.com/cosmic-condos/SPACEGOLD/main/logo-icon.png
 tags:
   - utility-token

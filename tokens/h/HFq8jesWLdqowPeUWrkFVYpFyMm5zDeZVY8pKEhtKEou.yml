@@ -1,6 +1,7 @@
 symbol: SHOT
 name: On Target
 decimals: 9
+img: https://raw.githubusercontent.com/jimmjammjarr/flyptoes/main/logo.png
 tags:
   - nft
   - social-token

@@ -3,5 +3,6 @@ name: HeyDoll Coin
 decimals: 0
 extensions:
   description: crypto asset for the indian metaverse
+img: https://raw.githubusercontent.com/heavenframe2021/crypto-heydoll/main/LOGO%20HDTK.png
 tags:
   - Social-token

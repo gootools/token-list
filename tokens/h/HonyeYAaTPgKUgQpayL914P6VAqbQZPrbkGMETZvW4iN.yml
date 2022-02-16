@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   discord: https://discord.gg/honeydefi
   website: https://honey.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HonyeYAaTPgKUgQpayL914P6VAqbQZPrbkGMETZvW4iN/logo.svg
 tags:
   - DeFi
   - Governance

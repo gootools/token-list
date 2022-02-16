@@ -1,6 +1,7 @@
 symbol: UST
 name: UST (devnet)
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png
 tags:
   - UST
 clusters:

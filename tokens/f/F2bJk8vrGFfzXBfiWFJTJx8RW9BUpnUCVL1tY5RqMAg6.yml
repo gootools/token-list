@@ -3,6 +3,7 @@ name: SUSOKEN
 decimals: 9
 extensions:
   discord: https://discord.gg/Z3eaHY36Ed
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F2bJk8vrGFfzXBfiWFJTJx8RW9BUpnUCVL1tY5RqMAg6/logo.png
 tags:
   - fun-token
   - not-serious-token

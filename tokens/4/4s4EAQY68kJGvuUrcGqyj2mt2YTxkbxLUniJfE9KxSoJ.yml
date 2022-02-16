@@ -3,6 +3,7 @@ name: Ovecon Token
 decimals: 8
 extensions:
   website: http://ovecon.com
+img: https://raw.githubusercontent.com/mstation/ovecon_token/main/ms-icon-310x310.png
 tags:
   - community-token
   - social-token

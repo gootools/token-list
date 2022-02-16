@@ -1,5 +1,6 @@
 symbol: BORROW
 name: BORROW
 decimals: 2
+img: https://raw.githubusercontent.com/INBBELGIUM/BORROW/main/borrowPNG.png
 tags:
   - BlockExchange

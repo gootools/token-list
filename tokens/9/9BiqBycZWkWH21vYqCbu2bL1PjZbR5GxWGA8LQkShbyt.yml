@@ -5,6 +5,7 @@ extensions:
   discord: https://discord.gg/solcatcoin
   twitter: https://twitter.com/SolCatCoin
   website: https://www.solcatcoin.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9BiqBycZWkWH21vYqCbu2bL1PjZbR5GxWGA8LQkShbyt/logo.png
 tags:
   - cat
   - community-token

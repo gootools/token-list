@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/apeccoin
   website: https://apecoin.money
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5MoDJmq3JqsNnottRdot3WHmhmD6h8VRodqsBKVu9LPk/logo.png
 tags:
   - DeFi
   - meme-token

@@ -3,5 +3,6 @@ name: SkalCoin
 decimals: 0
 extensions:
   github: https://github.com/Skaldhor/
+img: https://raw.githubusercontent.com/Skaldhor/SkalCoin/main/logo.png
 tags:
   - social-token

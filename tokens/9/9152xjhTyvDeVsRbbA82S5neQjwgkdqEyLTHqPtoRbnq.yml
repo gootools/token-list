@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/catlovertoken
   website: https://catlovertoken.tk/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9152xjhTyvDeVsRbbA82S5neQjwgkdqEyLTHqPtoRbnq/logo.png
 tags:
   - Community

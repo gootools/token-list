@@ -3,6 +3,7 @@ name: Big Booty Coin
 decimals: 0
 extensions:
   website: http://bigbootycoin.net/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ao2yQZRaLxV46M1SAtHu9VtnMuZHepMmLHSfAZiyZtxy/logo.png
 tags:
   - adult
   - big

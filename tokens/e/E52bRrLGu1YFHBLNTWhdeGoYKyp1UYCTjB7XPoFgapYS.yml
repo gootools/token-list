@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/saplingnetwork
   twitter: https://twitter.com/Sapling_Network
   website: http://sapling.network
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E52bRrLGu1YFHBLNTWhdeGoYKyp1UYCTjB7XPoFgapYS/logo.png
 tags:
   - ecofriendly-token
   - sapling

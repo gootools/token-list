@@ -3,6 +3,7 @@ name: Ipa Belgium Beer Project
 decimals: 3
 extensions:
   website: https://belgiumbeerproject.be/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cUiM1QyKoTTMb5xssJ2dBx8jbGaKK8NPNnyVdLdtfCw/logo.png
 tags:
   - beer-token
   - belgium-token

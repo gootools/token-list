@@ -1,6 +1,7 @@
 symbol: RHC
 name: RHINO Coin
 decimals: 5
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BVR7NkZQAGgYac5dpoe3NHKRCfHz3UdA555uagb1MtC4/logo.svg
 tags:
   - rhino
   - rhinosoft

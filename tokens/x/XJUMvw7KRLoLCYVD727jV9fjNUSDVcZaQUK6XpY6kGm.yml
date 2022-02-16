@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   coingeckoId: impossible-finance
   website: https://impossible.finance
+img: https://gateway.pinata.cloud/ipfs/QmcfMbNuvDV6ho3fueNPFTtgSruaUBmSdqP5D5ZduipN6S/logo.png
 tags:
   - ethereum

@@ -1,6 +1,7 @@
 symbol: RAT
 name: RAT Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8un38Bn3aWb3hC5xVavGkiPed2qkHPVE4veSf144ST6y/logo.png
 tags:
   - community-token
   - meme-token

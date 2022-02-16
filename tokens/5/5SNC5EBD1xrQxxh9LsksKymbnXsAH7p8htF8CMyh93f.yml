@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: For anyone that gets around to it.
   website: https://withoutink.com
+img: https://raw.githubusercontent.com/withoutink/crypto-tuit/main/logo.png
 tags:
   - community-token
   - meme-token

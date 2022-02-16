@@ -1,6 +1,7 @@
 symbol: DGDC
 name: GavinCoin
 decimals: 0
+img: https://raw.githubusercontent.com/cfultz/crypto/main/logo.png
 tags:
   - meme-token
   - social-token

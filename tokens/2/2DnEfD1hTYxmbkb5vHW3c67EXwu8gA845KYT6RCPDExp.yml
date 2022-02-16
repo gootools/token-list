@@ -3,5 +3,6 @@ name: WALLY Token
 decimals: 9
 extensions:
   website: https://allycareint.com
+img: https://raw.githubusercontent.com/wallysolana/WALLYIMAGE/main/WALLYlogos.png
 tags:
   - utility-token

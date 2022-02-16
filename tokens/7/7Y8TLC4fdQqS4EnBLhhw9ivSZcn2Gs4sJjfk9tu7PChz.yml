@@ -1,6 +1,7 @@
 symbol: FOXC
 name: Fox Coin
 decimals: 0
+img: https://raw.githubusercontent.com/KyleF0X/crypto/main/FoxCoin.png
 tags:
   - social-token
   - Utility-token

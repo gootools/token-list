@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/solplayground
   website: https://solana-playground.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/45eBLJUCQf1acXdBG8daBfUudy8T7V5gDTBpiE1iezsN/logo.png
 tags:
   - blockchain-developer
   - social-token

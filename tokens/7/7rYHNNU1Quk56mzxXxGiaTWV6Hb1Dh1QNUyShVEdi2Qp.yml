@@ -1,6 +1,7 @@
 symbol: PTOC
 name: Pluto Coin
 decimals: 9
+img: https://github.com/neptuncoin/pluto-coin/raw/main/logo.png
 tags:
   - community-token
   - social-token

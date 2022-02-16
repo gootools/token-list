@@ -3,5 +3,6 @@ name: SoLADA Coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/SoladaCoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8sJ1dLocbsYE76t9SMF85VBBDCNkmAcCAkvCWyuRTa8r/ladacoin_large.png
 tags:
   - meme-token

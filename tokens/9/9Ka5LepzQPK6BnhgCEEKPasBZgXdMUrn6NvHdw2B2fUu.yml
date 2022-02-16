@@ -1,6 +1,7 @@
 symbol: KRK
 name: Karkantas Coin
 decimals: 0
+img: https://raw.githubusercontent.com/pkyria14/karkanto-token/main/logo.png
 tags:
   - meme-token
   - social-token

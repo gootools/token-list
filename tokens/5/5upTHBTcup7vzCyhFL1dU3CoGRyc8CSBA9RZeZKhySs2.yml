@@ -3,5 +3,6 @@ name: Lemon
 decimals: 10
 extensions:
   telegram: https://t.me/lemonspl
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5upTHBTcup7vzCyhFL1dU3CoGRyc8CSBA9RZeZKhySs2/logo.png
 tags:
   - utility-token

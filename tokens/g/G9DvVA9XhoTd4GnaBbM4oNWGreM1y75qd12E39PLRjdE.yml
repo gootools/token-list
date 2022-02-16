@@ -3,5 +3,6 @@ name: GreenMan
 decimals: 0
 extensions:
   website: http://MyMetaHedge.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G9DvVA9XhoTd4GnaBbM4oNWGreM1y75qd12E39PLRjdE/test1.png
 tags:
   - NFT

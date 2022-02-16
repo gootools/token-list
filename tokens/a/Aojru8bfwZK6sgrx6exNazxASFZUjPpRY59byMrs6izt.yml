@@ -4,6 +4,7 @@ decimals: 10
 extensions:
   twitter: https://twitter.com/GiftedLabs
   website: http://luckypignfts.com
+img: https://raw.githubusercontent.com/dungnc/luckypigsNFT/main/SYMBOL.jpeg
 tags:
   - meme
   - oink

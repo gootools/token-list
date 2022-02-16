@@ -3,5 +3,6 @@ name: Migrant
 decimals: 9
 extensions:
   website: https://agora-asile.ch
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2jKfiEJWC4wdyq6LnJUPtur2vjEH2VGQUoZThgCDry4J/logo.jpg
 tags:
   - utility-token

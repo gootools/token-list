@@ -1,6 +1,7 @@
 symbol: SHILL
 name: Shill
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9fvEiugrurd2kzSkqFjhGaUFiZUfP4UWbfprmFEm51M9/logo.png
 tags:
   - SPL-token
 clusters:

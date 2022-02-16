@@ -8,6 +8,7 @@ extensions:
   coingeckoId: upbots
   serumV3Usdc: Hh4p7tJpqkGW6xsHM2LiPPMpJg43fwn5TbmVmfrURdLY
   serumV3Usdt: 5xhjc3ZtAwnBK3qsaro28VChL7WrxY9N4SG6UZpYxpGc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq/logo.png
 tags:
   - ethereum
   - wrapped

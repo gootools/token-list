@@ -1,6 +1,7 @@
 symbol: TIGER
 name: Tiger Coin
 decimals: 6
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Ne8szYZGGcXByFQA4zNBqJaWNdeTcJYAf2ZDLFfjVdA/logo.png
 tags:
   - community-token
   - meme-token

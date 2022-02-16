@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/solanadonkeBs
   website: https://solanadonkey.business
+img: https://static-api-cuazlhxxrq-uk.a.run.app/static/token.png
 tags:
   - DEX
   - MEMES-TOKEN

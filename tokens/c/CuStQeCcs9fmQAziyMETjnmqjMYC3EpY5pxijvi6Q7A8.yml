@@ -1,6 +1,7 @@
 symbol: CYB
 name: Cyber Block
 decimals: 0
+img: https://raw.githubusercontent.com/dzaja123/cyber-block-token/main/logo.png
 tags:
   - solana-token
   - token

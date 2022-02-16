@@ -8,6 +8,7 @@ extensions:
   coingeckoId: pax-gold
   serumV3Usdc: BeyB6W2iNsH9qSfb7icLTmSPDu8oUGkarMZed4Unrnsr
   serumV3Usdt: 9SQcpBFAs6ZiLAGUC9azYCN1kv89uTRmFR83sX1FTeh4
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe/logo.png
 tags:
   - wrapped
   - wormhole

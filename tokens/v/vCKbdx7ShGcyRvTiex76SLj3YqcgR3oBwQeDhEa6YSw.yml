@@ -3,5 +3,6 @@ name: sarhanilabs
 decimals: 7
 extensions:
   twitter: https://twitter.com/sarhanilabs
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/vCKbdx7ShGcyRvTiex76SLj3YqcgR3oBwQeDhEa6YSw/logo.png
 tags:
   - utility-token

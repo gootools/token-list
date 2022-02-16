@@ -6,6 +6,7 @@ extensions:
   assetContract: https://etherscan.io/address/0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: aave-bat-v1
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC/logo.svg
 tags:
   - wrapped
   - wormhole

@@ -1,6 +1,7 @@
 symbol: WIN
 name: Gamble
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Gamble.png
 tags:
   - community
   - gamble

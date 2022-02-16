@@ -3,6 +3,7 @@ name: Coin For Miguel
 decimals: 6
 extensions:
   twitter: https://twitter.com/Lynxer20
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6MCitDvVP2UmTPhc9vwo9dBmpagex5QtjJrtCvGNwnmJ/logo.png
 tags:
   - community-token
   - social-token

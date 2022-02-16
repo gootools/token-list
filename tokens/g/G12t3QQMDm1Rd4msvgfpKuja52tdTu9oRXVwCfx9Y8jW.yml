@@ -4,5 +4,6 @@ decimals: 69
 extensions:
   description: Fun Token for the Schnitzel Server
   discord: https://discord.gg/uN8UezwmRd
+img: https://raw.githubusercontent.com/Spyx34/sol_token/main/Token_pfp.png
 tags:
   - social-token

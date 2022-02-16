@@ -3,5 +3,6 @@ name: Raydium LP Token (LEONIDAS-USDC)
 decimals: 9
 extensions:
   website: https://raydium.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G45ASjWvWiWy6HcczTDhxe2JcSTNVr3hEdrKVo5X6PPU/logo.png
 tags:
   - lp-token

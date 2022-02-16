@@ -1,5 +1,6 @@
 symbol: TRTC
 name: Traina Credits
 decimals: 0
+img: https://raw.githubusercontent.com/dallasat/coin/main/dtlogo.png
 tags:
   - social-token

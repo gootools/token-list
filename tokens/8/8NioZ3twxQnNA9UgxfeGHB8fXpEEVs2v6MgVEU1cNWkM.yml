@@ -1,5 +1,6 @@
 symbol: STWC
 name: Stormwind Coin
 decimals: 0
+img: https://raw.githubusercontent.com/dubde1/Crypto/main/Logo.png
 tags:
   - social-token

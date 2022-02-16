@@ -1,6 +1,7 @@
 symbol: GONC
 name: Gonavi Coin
 decimals: 0
+img: https://raw.githubusercontent.com/crpo10/token/main/logo.png
 tags:
   - social-token
   - utility-token

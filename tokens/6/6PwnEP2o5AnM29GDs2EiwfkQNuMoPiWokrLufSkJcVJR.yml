@@ -3,5 +3,6 @@ name: Hose Token
 decimals: 9
 extensions:
   website: http://hose-coin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6PwnEP2o5AnM29GDs2EiwfkQNuMoPiWokrLufSkJcVJR/logo.png
 tags:
   - utility-token

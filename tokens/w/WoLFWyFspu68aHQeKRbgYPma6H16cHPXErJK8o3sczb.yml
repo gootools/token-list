@@ -3,6 +3,7 @@ name: DireWolf
 decimals: 9
 extensions:
   twitter: https://twitter.com/direwolfsol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb/logo.png
 tags:
   - community-token
   - stake-pool-token

@@ -3,5 +3,6 @@ name: NIU3 COIN
 decimals: 3
 extensions:
   description: crypto asset of Ken Liu
+img: https://raw.githubusercontent.com/heavenframe2021/crypto-niu3/main/logo.png
 tags:
   - social-token

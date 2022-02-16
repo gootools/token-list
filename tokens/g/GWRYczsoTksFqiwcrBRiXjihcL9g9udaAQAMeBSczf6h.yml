@@ -3,6 +3,7 @@ name: SHBL-USDC Cropper LP
 decimals: 8
 extensions:
   website: https://cropper.finance/farms/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz/logo.png
 tags:
   - lp-token
   - utility-token

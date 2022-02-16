@@ -3,5 +3,6 @@ name: Facebook
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?FB
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3K9pfJzKiAm9upcyDWk5NBVdjxVtqXN8sVfQ4aR6qwb2/logo.svg
 tags:
   - tokenized-stock

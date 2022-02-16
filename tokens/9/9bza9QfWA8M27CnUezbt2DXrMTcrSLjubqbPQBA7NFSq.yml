@@ -1,5 +1,6 @@
 symbol: EPA
 name: E-Paisa
 decimals: 0
+img: https://raw.githubusercontent.com/omidalikozay/E-Paisa/main/logo.png
 tags:
   - Payments

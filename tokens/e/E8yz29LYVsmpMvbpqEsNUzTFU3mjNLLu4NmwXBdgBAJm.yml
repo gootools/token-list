@@ -3,6 +3,7 @@ name: Z-Coin
 decimals: 9
 extensions:
   website: https://www.smartshift.asia
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E8yz29LYVsmpMvbpqEsNUzTFU3mjNLLu4NmwXBdgBAJm/logo.png
 tags:
   - smartshift
   - ztechhub

@@ -5,5 +5,6 @@ extensions:
   description: Token created for the department of Computer Science at University
     of Findlay for staff, students, and advisory board members
   website: https://www.findlay.edu/sciences/computer-science/
+img: https://raw.githubusercontent.com/inventari/crypto/main/UFCS.png
 tags:
   - social-token

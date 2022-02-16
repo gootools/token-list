@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Rilum is SPL telegram wallet for buy and sell products and currencies.
   telegram: https://t.me/Rilum
+img: https://raw.githubusercontent.com/abbas-bachari/logo/main/src/RIL.png
 tags:
   - payment
   - Token

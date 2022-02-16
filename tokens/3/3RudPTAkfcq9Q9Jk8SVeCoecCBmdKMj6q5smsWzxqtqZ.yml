@@ -3,6 +3,7 @@ name: Port Finance USDT
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/USDT.svg
 tags:
   - collateral-tokens
   - lending

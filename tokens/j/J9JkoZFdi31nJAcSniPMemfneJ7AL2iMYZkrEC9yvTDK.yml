@@ -3,6 +3,7 @@ name: BookWorm Test Token
 decimals: 1
 extensions:
   website: https://nftbookworm.com/
+img: https://pcarvalho.com/nftbookworm/logo.png
 tags:
   - Auction
   - Book

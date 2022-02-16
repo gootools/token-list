@@ -3,6 +3,7 @@ name: Baby Floki Doge
 decimals: 9
 extensions:
   website: https://solscan.io/token/F5f9hLQ6FNHwuU3dS8CUCRy9r2deJXYCinDL6RAxsPeX
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5f9hLQ6FNHwuU3dS8CUCRy9r2deJXYCinDL6RAxsPeX/logo.png
 tags:
   - community
   - DOGE

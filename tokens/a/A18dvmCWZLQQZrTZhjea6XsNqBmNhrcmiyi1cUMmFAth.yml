@@ -8,6 +8,7 @@ extensions:
   linkedin: https://www.linkedin.com/company/finup24/
   telegram: https://t.me/finup_24
   website: https://www.finup24.com
+img: https://raw.githubusercontent.com/taboglevi/Finup/main/logo.png
 tags:
   - community-token
   - payment-token

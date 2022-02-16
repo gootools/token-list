@@ -3,5 +3,6 @@ name: Pfizer
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?PFE
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97v2oXMQ2MMAkgUnoQk3rNhrZCRThorYhvz1poAe9stk/logo.svg
 tags:
   - tokenized-stock

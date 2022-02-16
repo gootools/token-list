@@ -3,6 +3,7 @@ name: SUPERCLEMTOKEN
 decimals: 9
 extensions:
   website: http://clementlefevre.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AknLt433zhYv2mpoHAMqCBBe4fTjWRWEamAkDu6yJJnU/logo.png
 tags:
   - community-token
   - meme-token

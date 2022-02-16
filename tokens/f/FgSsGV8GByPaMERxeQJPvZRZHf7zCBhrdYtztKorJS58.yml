@@ -3,6 +3,7 @@ name: Port Finance USDC
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58/USDC.svg
 tags:
   - collateral-tokens
   - lending

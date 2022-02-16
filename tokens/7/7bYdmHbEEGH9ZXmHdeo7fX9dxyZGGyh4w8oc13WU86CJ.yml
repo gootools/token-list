@@ -3,5 +3,6 @@ name: PubCred token
 decimals: 9
 extensions:
   website: https://pubcred.com
+img: https://cdn.pubcred.com/pc-logo.png
 tags:
   - utility-token

@@ -3,6 +3,7 @@ name: Instagram NFT CPS
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/CpSYD5rJE8coHfBQyWYAFpE1Rm5YvgGbnF46cvemBLPx
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CpSYD5rJE8coHfBQyWYAFpE1Rm5YvgGbnF46cvemBLPx/logo.jpg
 tags:
   - instagram
   - nft

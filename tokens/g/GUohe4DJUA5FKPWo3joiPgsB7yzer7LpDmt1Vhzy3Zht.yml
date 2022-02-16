@@ -6,6 +6,7 @@ extensions:
   coingeckoId: keep-network
   serumV3Usdc: 3rgacody9SvM88QR83GHaNdEEx4Fe2V2ed5GJp2oeKDr
   serumV3Usdt: HEGnaVL5i48ubPBqWAhodnZo8VsSLzEM3Gfc451DnFj9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht/logo.png
 tags:
   - ethereum
   - wrapped-sollet

@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Giuseppe`s Hot Soup Coin
   twitter: https://twitter.com/giuseppeagiglio
+img: https://raw.githubusercontent.com/GiuseppeGiglio3k/MyFirstTokenProject/main/logo.png
 tags:
   - community-coin
   - social-token

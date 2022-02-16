@@ -3,6 +3,7 @@ name: Kitchen Token
 decimals: 9
 extensions:
   website: https://seth.kitchen
+img: https://seth.kitchen/images/kitchentokentrans.png
 tags:
   - game-token
   - metaverse

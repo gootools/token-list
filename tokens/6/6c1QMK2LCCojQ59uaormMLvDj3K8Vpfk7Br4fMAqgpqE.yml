@@ -3,6 +3,7 @@ name: DeploraBills
 decimals: 0
 extensions:
   website: https://deplorabills.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6c1QMK2LCCojQ59uaormMLvDj3K8Vpfk7Br4fMAqgpqE/logo.png
 tags:
   - deplorable
   - deplorabills

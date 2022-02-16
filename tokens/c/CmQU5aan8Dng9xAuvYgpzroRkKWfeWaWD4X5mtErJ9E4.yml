@@ -1,6 +1,7 @@
 symbol: DIXI
 name: DIXI Coin
 decimals: 0
+img: https://raw.githubusercontent.com/DevRaeph/crypto/main/DixiCoin/logo.png
 tags:
   - social-token
   - utility-token

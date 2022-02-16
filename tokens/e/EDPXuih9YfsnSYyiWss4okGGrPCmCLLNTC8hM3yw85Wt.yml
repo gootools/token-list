@@ -1,6 +1,7 @@
 symbol: ART
 name: Art Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EDPXuih9YfsnSYyiWss4okGGrPCmCLLNTC8hM3yw85Wt/logo.png
 tags:
   - art-token
   - community-token

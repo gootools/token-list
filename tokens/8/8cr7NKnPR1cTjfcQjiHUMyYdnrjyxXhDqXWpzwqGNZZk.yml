@@ -4,5 +4,6 @@ decimals: 4
 extensions:
   discord: https://discord.gg/unhGGVXANW
   twitter: https://twitter.com/safesolana
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cr7NKnPR1cTjfcQjiHUMyYdnrjyxXhDqXWpzwqGNZZk/logo.png
 tags:
   - social-token

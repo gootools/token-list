@@ -1,6 +1,7 @@
 symbol: LDXI
 name: LDXI Token
 decimals: 9
+img: https://github.com/Randi-Edi/token_logos/blob/main/ldx.png
 tags:
   - utility-token
 clusters:

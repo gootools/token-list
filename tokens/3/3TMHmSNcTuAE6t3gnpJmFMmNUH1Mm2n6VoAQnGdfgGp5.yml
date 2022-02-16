@@ -1,5 +1,6 @@
 symbol: CCT
 name: Cool Carbon Tonne
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3TMHmSNcTuAE6t3gnpJmFMmNUH1Mm2n6VoAQnGdfgGp5/logo.png
 clusters:
   - devnet

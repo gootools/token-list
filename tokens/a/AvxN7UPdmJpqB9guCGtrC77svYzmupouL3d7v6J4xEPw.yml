@@ -1,6 +1,7 @@
 symbol: OYT
 name: OYT Apparels
 decimals: 0
+img: https://raw.githubusercontent.com/rulhaq/OYT/main/logo.png
 tags:
   - apparel-token
   - ecommerce-token

@@ -13,6 +13,7 @@ extensions:
   telegram: https://t.me/LuChow
   twitter: https://twitter.com/LunaChoww
   website: https://www.lunachow.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mZMtzsr11srDX7jdpkacsxAo1Na5H4kqepxehjhTkLE/logo.png
 tags:
   - wrapped
   - wormhole

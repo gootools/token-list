@@ -1,5 +1,6 @@
 symbol: NIL
 name: Nil Coin
 decimals: 0
+img: https://github.com/chayelheinsen/nilcoin/blob/80b91ee7d96d631e4d4e6bbeaf22b5cfa136cf47/logo.png
 tags:
   - social-token

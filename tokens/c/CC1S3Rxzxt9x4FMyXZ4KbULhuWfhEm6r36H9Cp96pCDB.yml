@@ -1,5 +1,6 @@
 symbol: PHOTO
 name: PhotoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/the-last-minute/crypto/main/logo.png
 tags:
   - social-token

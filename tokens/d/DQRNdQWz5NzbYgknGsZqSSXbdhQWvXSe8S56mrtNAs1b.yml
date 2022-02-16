@@ -3,6 +3,7 @@ name: ENTROPPP (Entropy for security)
 decimals: 6
 extensions:
   website: https://www.entroppp.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DQRNdQWz5NzbYgknGsZqSSXbdhQWvXSe8S56mrtNAs1b/logo.png
 tags:
   - blockchain-security
   - cryptography

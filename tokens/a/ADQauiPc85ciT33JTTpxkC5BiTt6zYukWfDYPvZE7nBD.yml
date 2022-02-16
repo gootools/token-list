@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/doge_raca
   website: https://www.dogeraca.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADQauiPc85ciT33JTTpxkC5BiTt6zYukWfDYPvZE7nBD/logo.png
 tags:
   - DEFI
   - GAME

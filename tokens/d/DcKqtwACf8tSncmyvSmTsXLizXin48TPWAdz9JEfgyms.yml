@@ -1,5 +1,6 @@
 symbol: NXC
 name: NixCoin
 decimals: 0
+img: https://raw.githubusercontent.com/charbelll/nixcoin/main/nixcoin.png
 tags:
   - social-token

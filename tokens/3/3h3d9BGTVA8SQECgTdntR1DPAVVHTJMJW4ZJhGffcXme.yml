@@ -3,6 +3,7 @@ name: Jaken Meme
 decimals: 0
 extensions:
   website: https://blog.botbie.io/author/jaken/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3h3d9BGTVA8SQECgTdntR1DPAVVHTJMJW4ZJhGffcXme/logo.png
 tags:
   - meme-token
   - social-token

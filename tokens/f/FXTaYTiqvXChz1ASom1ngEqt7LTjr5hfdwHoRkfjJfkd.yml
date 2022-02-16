@@ -3,5 +3,6 @@ name: Madori
 decimals: 7
 extensions:
   website: https://www.madori.tech/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FXTaYTiqvXChz1ASom1ngEqt7LTjr5hfdwHoRkfjJfkd/logo.svg
 tags:
   - utility-token

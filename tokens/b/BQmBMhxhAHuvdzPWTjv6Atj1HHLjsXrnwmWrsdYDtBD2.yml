@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   description: Undersurvival Token
   website: https://linktr.ee/tacline_undersurvival
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQmBMhxhAHuvdzPWTjv6Atj1HHLjsXrnwmWrsdYDtBD2/logo.png
 tags:
   - community-token
   - social-token

@@ -3,5 +3,6 @@ name: Ian Coin
 decimals: 6
 extensions:
   website: https://ianridsdill.ca
+img: https://raw.githubusercontent.com/ianridsdill/crypto/main/logo.png
 tags:
   - social-token

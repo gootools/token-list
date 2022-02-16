@@ -1,6 +1,7 @@
 symbol: TSTO
 name: Tsaki Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4FTVzy4yrfbFy5ootGSU5GfhqUReg5GwGYdCSwwDwFoM/logo.png
 tags:
   - utility-token
 clusters:

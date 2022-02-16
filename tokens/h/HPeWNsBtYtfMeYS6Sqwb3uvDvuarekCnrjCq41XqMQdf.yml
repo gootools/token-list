@@ -1,6 +1,7 @@
 symbol: LITTE
 name: LitteCoin
 decimals: 6
+img: https://raw.githubusercontent.com/EbenezerLitte/logo_assets/main/assets/litte_logo.png
 tags:
   - general-token
   - media-coin

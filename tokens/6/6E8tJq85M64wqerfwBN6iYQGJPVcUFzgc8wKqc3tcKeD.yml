@@ -3,6 +3,7 @@ name: Yet Another Token PIRIT
 decimals: 6
 extensions:
   website: http://n1pool.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6E8tJq85M64wqerfwBN6iYQGJPVcUFzgc8wKqc3tcKeD/logo.png
 clusters:
   - devnet
   - mainnet-beta

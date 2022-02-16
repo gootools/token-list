@@ -3,6 +3,7 @@ name: Trip Token
 decimals: 6
 extensions:
   website: https://www.tripprotocol.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TR1PeRyej6G2KfX7bbYEVpdCQWaZrzkPGsoPU2cpZWx/logo.png
 tags:
   - community-token
   - DApp

@@ -3,5 +3,6 @@ name: Triton
 decimals: 9
 extensions:
   website: https://tritonstation.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FSG3cy7SjR5mpjoRMbdj8ux5KYh3v8M7n1p7Sb3swE6/logo.png
 tags:
   - TRTN-token

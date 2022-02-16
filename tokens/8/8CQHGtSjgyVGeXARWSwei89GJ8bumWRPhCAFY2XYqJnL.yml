@@ -1,5 +1,6 @@
 symbol: USDS
 name: USD Stable
 decimals: 0
+img: https://raw.githubusercontent.com/unimintco/token-logos/main/USDS/logo.png
 tags:
   - stablecoin

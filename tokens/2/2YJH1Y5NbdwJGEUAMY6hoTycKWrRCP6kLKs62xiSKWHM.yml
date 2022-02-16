@@ -3,5 +3,6 @@ name: DuckSol
 decimals: 9
 extensions:
   website: https://dazedducks.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YJH1Y5NbdwJGEUAMY6hoTycKWrRCP6kLKs62xiSKWHM/logo.png
 tags:
   - social-token

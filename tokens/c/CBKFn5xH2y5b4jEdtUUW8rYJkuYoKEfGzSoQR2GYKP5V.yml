@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/shanginn
   website: https://shanginn.ru/shakel
+img: https://raw.githubusercontent.com/shanginn/shakel/master/logo.png
 tags:
   - community-token
   - meme-token

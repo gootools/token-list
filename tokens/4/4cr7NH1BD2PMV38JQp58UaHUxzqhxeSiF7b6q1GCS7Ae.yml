@@ -3,5 +3,6 @@ name: Aphria Inc
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?APHA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4cr7NH1BD2PMV38JQp58UaHUxzqhxeSiF7b6q1GCS7Ae/logo.svg
 tags:
   - tokenized-stock

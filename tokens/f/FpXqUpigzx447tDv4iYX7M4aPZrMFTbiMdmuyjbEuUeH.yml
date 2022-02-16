@@ -1,6 +1,7 @@
 symbol: OFS
 name: OnChain FS
 decimals: 2
+img: https://raw.githubusercontent.com/onchainfs/OFSMain/main/logo.png
 tags:
   - financial-token
   - utility-token

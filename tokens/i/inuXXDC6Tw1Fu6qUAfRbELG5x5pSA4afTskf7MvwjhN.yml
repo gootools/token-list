@@ -3,5 +3,6 @@ name: KIN INU
 decimals: 5
 extensions:
   website: https://kininu.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/inuXXDC6Tw1Fu6qUAfRbELG5x5pSA4afTskf7MvwjhN/logo.svg
 tags:
   - meme-token

@@ -1,6 +1,7 @@
 symbol: JUPITER
 name: Jupiter
 decimals: 8
+img: https://raw.githubusercontent.com/SergeyDobrinyn/token/master/files/jupiter.png
 tags:
   - currency-token
   - community-token

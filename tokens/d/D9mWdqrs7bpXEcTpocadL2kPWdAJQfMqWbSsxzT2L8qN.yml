@@ -3,5 +3,6 @@ name: CertiDox Token
 decimals: 9
 extensions:
   website: https://certidox.com/
+img: https://certidox.com/assets/images/logo-light.png
 tags:
   - utility-token

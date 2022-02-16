@@ -1,6 +1,7 @@
 symbol: BPC
 name: BOUSPAM COIN
 decimals: 9
+img: https://raw.githubusercontent.com/bouspamcoin/crypto/main/logo.png
 tags:
   - community-token
   - social-token

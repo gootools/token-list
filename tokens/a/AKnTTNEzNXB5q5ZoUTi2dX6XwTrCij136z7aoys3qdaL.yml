@@ -1,5 +1,6 @@
 symbol: BASM
 name: Bwood Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKnTTNEzNXB5q5ZoUTi2dX6XwTrCij136z7aoys3qdaL/logo.png
 clusters:
   - devnet

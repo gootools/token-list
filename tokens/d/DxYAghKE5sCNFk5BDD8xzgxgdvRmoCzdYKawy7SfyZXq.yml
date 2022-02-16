@@ -3,6 +3,7 @@ name: Diamond Pigs
 decimals: 9
 extensions:
   website: https://diamondpigs.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DxYAghKE5sCNFk5BDD8xzgxgdvRmoCzdYKawy7SfyZXq/logo.png
 tags:
   - IDO
   - IDX

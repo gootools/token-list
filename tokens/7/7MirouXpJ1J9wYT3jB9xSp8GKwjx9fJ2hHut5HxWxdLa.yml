@@ -3,5 +3,6 @@ name: Ghost Coin
 decimals: 9
 extensions:
   website: https://www.ghostkitchenbrands.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7MirouXpJ1J9wYT3jB9xSp8GKwjx9fJ2hHut5HxWxdLa/logo.png
 tags:
   - utility-token

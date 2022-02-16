@@ -3,5 +3,6 @@ name: Bonfida Governance Token
 decimals: 6
 extensions:
   website: https://bonfida.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5vUBtmmHjSfpY1h24XhzEjRKjDyK5jNL9gT2BfM3wcnb/logo.svg
 tags:
   - governance-token

@@ -3,6 +3,7 @@ name: Stake pool SOL
 decimals: 9
 extensions:
   website: https://www.solana.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS/logo.png
 tags:
   - stake-pool
 clusters:

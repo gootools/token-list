@@ -3,5 +3,6 @@ name: KAKI Token
 decimals: 9
 extensions:
   website: https://shunkakinoki.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BZrca9YNDtnshtsiD9GTvbMAXzZrSE6drxqNfxp5mpdc/logo.svg
 tags:
   - dev-token

@@ -3,6 +3,7 @@ name: Lord of the rings (ANqj)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/4fHZRvZ3U672GZH2dQz7wsGxTHdAZ6H2Rx52pxNtYxab?src=token-list
+img: https://devbeta.human.ag/api/profile/4fHZRvZ3U672GZH2dQz7wsGxTHdAZ6H2Rx52pxNtYxab/picture?src=token-list
 tags:
   - human
   - social-token

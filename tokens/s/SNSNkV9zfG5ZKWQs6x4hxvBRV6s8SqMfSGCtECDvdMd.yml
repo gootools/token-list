@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   twitter: https://twitter.com/synesis_one
   website: https://www.synesis.one/
+img: https://raw.githubusercontent.com/Synesis-One/spl-token/main/icon.png
 tags:
   - utility-token

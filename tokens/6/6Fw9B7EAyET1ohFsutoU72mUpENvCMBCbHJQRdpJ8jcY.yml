@@ -3,5 +3,6 @@ name: GaplaCoin
 decimals: 9
 extensions:
   website: https://my.gaplagov.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Fw9B7EAyET1ohFsutoU72mUpENvCMBCbHJQRdpJ8jcY/logo.png
 tags:
   - utility-token

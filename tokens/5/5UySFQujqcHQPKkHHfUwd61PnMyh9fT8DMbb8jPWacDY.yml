@@ -1,5 +1,6 @@
 symbol: ENEAS
 name: EneasToken
 decimals: 0
+img: https://raw.githubusercontent.com/NotEneas/eneastoken/main/Eneas.png
 tags:
   - cool-token

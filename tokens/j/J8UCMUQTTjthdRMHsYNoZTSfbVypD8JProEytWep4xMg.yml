@@ -1,5 +1,6 @@
 symbol: XXY
 name: XXY Token
 decimals: 8
+img: https://raw.githubusercontent.com/bubiblomer/solana-xxy-token/master/logo.png
 tags:
   - utility-token

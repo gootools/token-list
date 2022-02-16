@@ -3,6 +3,7 @@ name: My New Token
 decimals: 9
 extensions:
   website: https://google.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tcc6Xcjuru2jtGMB6bTg7EPMGJrZFXbmKiKHRmEgq9j/logo.png
 tags:
   - social-my-new-token
 clusters:

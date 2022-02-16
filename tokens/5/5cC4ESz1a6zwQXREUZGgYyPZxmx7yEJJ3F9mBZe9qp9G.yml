@@ -1,6 +1,7 @@
 symbol: COMN
 name: CommonCoin
 decimals: 0
+img: https://raw.githubusercontent.com/cjwolff/comncoin/main/logo.png
 tags:
   - community-token
   - financial-token

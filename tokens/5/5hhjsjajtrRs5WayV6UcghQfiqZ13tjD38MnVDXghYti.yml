@@ -3,6 +3,7 @@ name: SweetTalk
 decimals: 0
 extensions:
   website: https://thomasjsweet.com
+img: https://raw.githubusercontent.com/thomasjsweet/SweetTalkCoin/main/logo.png
 tags:
   - meme-token
   - social-token

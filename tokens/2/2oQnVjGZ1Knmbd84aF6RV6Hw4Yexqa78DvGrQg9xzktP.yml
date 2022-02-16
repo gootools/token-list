@@ -3,6 +3,7 @@ name: Catch
 decimals: 7
 extensions:
   website: https://www.catchcoin.me/
+img: https://raw.githubusercontent.com/rhinogroup/catch_logos/main/catch_logo.png
 tags:
   - social-token
   - utility-token

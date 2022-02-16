@@ -1,6 +1,7 @@
 symbol: ABEET
 name: ABE Enterprise Token
 decimals: 9
+img: https://raw.githubusercontent.com/albertamoyaw/crypto/main/abe_ent_logo.png
 tags:
   - auction
   - gaming-token

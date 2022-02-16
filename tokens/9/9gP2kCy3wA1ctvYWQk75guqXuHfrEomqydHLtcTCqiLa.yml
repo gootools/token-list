@@ -8,6 +8,7 @@ extensions:
   coingeckoId: binance-coin
   serumV3Usdc: 4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f
   serumV3Usdt: FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png
 tags:
   - wrapped
   - wormhole

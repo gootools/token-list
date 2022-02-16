@@ -9,6 +9,7 @@ extensions:
   github: https://github.com/shapeshift
   twitter: https://twitter.com/ShapeShift_io
   website: https://shapeshift.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y/logo.png
 tags:
   - wrapped
   - wormhole

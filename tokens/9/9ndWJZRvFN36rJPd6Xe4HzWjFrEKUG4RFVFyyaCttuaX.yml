@@ -3,6 +3,7 @@ name: Dashsnipe WL Token
 decimals: 0
 extensions:
   website: https://twitter.com/DashsnipeSOL
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ndWJZRvFN36rJPd6Xe4HzWjFrEKUG4RFVFyyaCttuaX/logo.jpg
 tags:
   - community-token
   - governance-token

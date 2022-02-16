@@ -3,5 +3,6 @@ name: Behzat Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/Tunay32718753
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6G7X1B2f9F7KWcHxS66mn3ax6VPE2UMZud44RX3BzfVo/logo.png
 tags:
   - Token

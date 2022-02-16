@@ -3,5 +3,6 @@ name: Saber USDT-USDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/usdc_usdt
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png
 tags:
   - saber-stableswap-lp

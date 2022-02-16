@@ -1,6 +1,7 @@
 symbol: GOPU
 name: Gopals Coin
 decimals: 4
+img: https://raw.githubusercontent.com/gmallapp/gopal-coin/main/gopu-logo.png
 tags:
   - GOPU
   - social-token

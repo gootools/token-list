@@ -1,6 +1,7 @@
 symbol: VVC
 name: ViaViaCoin
 decimals: 0
+img: https://raw.githubusercontent.com/Aiviator/viaviacoin/main/logo.png
 tags:
   - matching
   - social-token

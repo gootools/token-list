@@ -3,6 +3,7 @@ name: BlockBoy 'n Friends
 decimals: 0
 extensions:
   description: BlockBoy 'n Friends Universe
+img: https://raw.githubusercontent.com/WeAreMetaverse/BBNF/main/logo.png
 tags:
   - community-token
   - social-token

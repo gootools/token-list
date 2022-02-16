@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolsWinter
   website: https://solswinter.io/
+img: https://cdn.jsdelivr.net/gh/Samodoge/solwinterlogo@master/solwinter.png
 tags:
   - community-token

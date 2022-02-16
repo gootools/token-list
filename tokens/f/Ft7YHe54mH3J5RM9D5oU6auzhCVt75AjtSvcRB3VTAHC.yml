@@ -1,5 +1,6 @@
 symbol: JRCN
 name: JR Coin
 decimals: 0
+img: https://raw.githubusercontent.com/jrcrayne/jrcoin/main/logo.png
 tags:
   - social-token

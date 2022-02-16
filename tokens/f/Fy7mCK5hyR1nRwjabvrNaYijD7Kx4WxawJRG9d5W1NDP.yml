@@ -1,5 +1,6 @@
 symbol: CAT
 name: PufferCoin
 decimals: 9
+img: https://raw.githubusercontent.com/KZacharski/puffercoin/main/logo.png
 tags:
   - social-token

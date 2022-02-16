@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/metamounts
   website: https://metamounts.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6yHNeyd7a14VD2PBedaXqFacoVAJfD5mAAYbvwBnvC7t/logo.png
 tags:
   - NFT
   - Utility-token

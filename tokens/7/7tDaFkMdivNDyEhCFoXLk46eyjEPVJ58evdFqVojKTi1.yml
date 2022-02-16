@@ -1,6 +1,7 @@
 symbol: UBER
 name: TRANSPORT
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7tDaFkMdivNDyEhCFoXLk46eyjEPVJ58evdFqVojKTi1/logo.svg
 tags:
   - delivery-token
   - transport-token

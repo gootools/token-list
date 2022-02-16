@@ -3,6 +3,7 @@ name: San Diego Padres Token
 decimals: 2
 extensions:
   twitter: https://twitter.com/SDP_Token
+img: https://raw.githubusercontent.com/SanDiegoPadresToken/SDP_Token/main/SDPadre.png
 tags:
   - social-token
   - sports-token

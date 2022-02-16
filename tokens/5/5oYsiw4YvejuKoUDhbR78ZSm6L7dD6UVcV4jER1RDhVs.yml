@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Decentralized Tacos from space; In Tacos We Trust.
   website: https://withoutink.com
+img: https://raw.githubusercontent.com/withoutink/crypto-spacetacos/main/logo.png
 tags:
   - community-token
   - meme-token

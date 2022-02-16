@@ -3,6 +3,7 @@ name: Lotus Petal
 decimals: 9
 extensions:
   description: Lotus Petal Coin is a token for the MTG Community.
+img: https://raw.githubusercontent.com/ThiagoMeneghin/LotusPetal/main/LotusPetal.png
 tags:
   - community-token
   - utility-token

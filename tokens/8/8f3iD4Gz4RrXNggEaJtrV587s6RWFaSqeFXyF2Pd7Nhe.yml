@@ -3,5 +3,6 @@ name: Kristi Coin
 decimals: 0
 extensions:
   website: https://kristij.com
+img: https://raw.githubusercontent.com/LePedant/crypto/main/logo.png
 tags:
   - social-token

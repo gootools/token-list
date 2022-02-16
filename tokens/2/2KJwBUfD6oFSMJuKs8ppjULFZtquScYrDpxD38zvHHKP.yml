@@ -3,5 +3,6 @@ name: Poseidon Token
 decimals: 9
 extensions:
   twitter: https://twitter.com/token_poseidon
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KJwBUfD6oFSMJuKs8ppjULFZtquScYrDpxD38zvHHKP/logo.png
 tags:
   - utility-token

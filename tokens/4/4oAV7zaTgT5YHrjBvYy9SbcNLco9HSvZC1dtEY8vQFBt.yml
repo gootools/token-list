@@ -1,6 +1,7 @@
 symbol: PFRUSD
 name: Puffercat USD
 decimals: 2
+img: https://raw.githubusercontent.com/KZacharski/crypto/main/pfrusd.png
 tags:
   - social-token
   - stablecoin

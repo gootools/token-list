@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/joinchat/RSi9ys6xK1M4N2Zh
   website: https://dividex.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CYbXZ7U1AeV8kjtJG3YqKMLaWtdMLa24JojrikZZdXAG/logo.png
 tags:
   - utility-token

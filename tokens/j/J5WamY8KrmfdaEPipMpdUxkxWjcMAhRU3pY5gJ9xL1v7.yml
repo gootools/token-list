@@ -3,6 +3,7 @@ name: Code Giant
 decimals: 6
 extensions:
   website: https://www.thecodegiant.ca
+img: https://raw.githubusercontent.com/The-code-giant/crypto-logo/main/thecodegiantlogo.png
 tags:
   - Blockchain
   - LearnToCode

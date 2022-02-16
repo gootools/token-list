@@ -3,6 +3,7 @@ name: CalCoin
 decimals: 0
 extensions:
   twitter: https://twitter.com/CalCoins
+img: https://raw.githubusercontent.com/waltercallesen/CalCoin/main/logo.png
 tags:
   - meme-token
   - networking-token

@@ -3,6 +3,7 @@ name: CornPop Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/dopetweetsbrah
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CPR34yNtEecfCNU86DhmAGMcTo2KNMuEpCDJL81hcPgr/logo.png
 tags:
   - meme-token
   - social-token

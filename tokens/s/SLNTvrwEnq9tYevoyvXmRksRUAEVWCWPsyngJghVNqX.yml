@@ -4,5 +4,6 @@ decimals: 18
 extensions:
   description: Solantasy Token
   website: https://solantasy.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNTvrwEnq9tYevoyvXmRksRUAEVWCWPsyngJghVNqX/logo.png
 tags:
   - utility-token

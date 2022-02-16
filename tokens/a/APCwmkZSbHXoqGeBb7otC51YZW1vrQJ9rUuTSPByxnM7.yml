@@ -1,5 +1,6 @@
 symbol: DGBX
 name: DGemBox
 decimals: 0
+img: https://raw.githubusercontent.com/petebdeblois/crypto_dgembox/master/logo.png
 tags:
   - social-token

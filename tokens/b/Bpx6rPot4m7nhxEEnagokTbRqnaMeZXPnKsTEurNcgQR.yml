@@ -1,6 +1,7 @@
 symbol: DOOX
 name: DOOX Coin
 decimals: 0
+img: https://raw.githubusercontent.com/rce171/crypto/main/doox_coin_logo.png
 tags:
   - social-token
   - tech-token

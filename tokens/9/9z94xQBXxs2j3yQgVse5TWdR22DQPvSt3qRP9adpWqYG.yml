@@ -5,6 +5,7 @@ extensions:
   description: An incentive economic system.
   telegram: https://t.me/cmetacoin
   twitter: https://twitter.com/cmetacoin
+img: https://raw.githubusercontent.com/criptyan/logo/main/logo.png
 tags:
   - learning-token
   - meet-to-earn

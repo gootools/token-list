@@ -3,6 +3,7 @@ name: BBQ Coin
 decimals: 0
 extensions:
   website: https://www.americanbbq.org
+img: https://raw.githubusercontent.com/gzparker/BBQCoin/main/logo.png
 tags:
   - community-token
   - social-token

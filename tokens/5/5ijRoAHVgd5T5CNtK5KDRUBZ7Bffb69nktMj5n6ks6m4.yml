@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (SOL-mSOL)
 decimals: 9
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5ijRoAHVgd5T5CNtK5KDRUBZ7Bffb69nktMj5n6ks6m4/logo.png
 tags:
   - lp-token

@@ -4,5 +4,6 @@ decimals: 0
 extensions:
   description: Welcome Our Amazing House!
   website: https://www.astralapes.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CVsL7JFa2BHfckDcc4PTxX7ARCUGuFYav5zRDVK2JFRe/logo.png
 tags:
   - whitelist-token

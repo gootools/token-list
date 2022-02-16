@@ -1,6 +1,7 @@
 symbol: FPV
 name: FPV Pilot Coin
 decimals: 0
+img: https://raw.githubusercontent.com/gadominas/fpvcoin/main/fpv-token.png
 tags:
   - community
   - drone

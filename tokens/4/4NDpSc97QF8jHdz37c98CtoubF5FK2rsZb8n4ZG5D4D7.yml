@@ -1,5 +1,6 @@
 symbol: ALX
 name: Alex Coin
 decimals: 0
+img: https://raw.githubusercontent.com/florin-liviu/alx/main/alx.png
 tags:
   - social-token

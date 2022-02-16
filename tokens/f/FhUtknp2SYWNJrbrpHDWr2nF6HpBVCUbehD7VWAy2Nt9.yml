@@ -3,5 +3,6 @@ name: Lovely DanDy Coin
 decimals: 9
 extensions:
   website: http://lovelydandy.ch
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FhUtknp2SYWNJrbrpHDWr2nF6HpBVCUbehD7VWAy2Nt9/logo.png
 tags:
   - social-token

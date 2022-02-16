@@ -3,6 +3,7 @@ name: Saber wibBTC-renBTC LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/wibbtc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

@@ -3,5 +3,6 @@ name: MicroStrategy Incorporated
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?MSTR
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASwYCbLedk85mRdPnkzrUXbbYbwe26m71af9rzrhC2Qz/logo.svg
 tags:
   - tokenized-stock

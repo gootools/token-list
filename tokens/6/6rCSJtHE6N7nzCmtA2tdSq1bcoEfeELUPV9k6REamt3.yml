@@ -3,5 +3,6 @@ name: ILoveU Platform
 decimals: 9
 extensions:
   website: https://ilov.eu/
+img: https://raw.githubusercontent.com/ilov-eu/assets/main/qr-400.png
 tags:
   - social-token

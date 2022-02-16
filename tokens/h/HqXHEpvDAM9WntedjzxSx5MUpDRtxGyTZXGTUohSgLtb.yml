@@ -3,6 +3,7 @@ name: BugCoin
 decimals: 0
 extensions:
   youtube: https://www.youtube.com/channel/UCi5K-ZcuNbBW6svtT1gvlwA/
+img: https://raw.githubusercontent.com/BugzumDevAlt/CoinLogo/main/logo.png
 tags:
   - community-token
   - crypto

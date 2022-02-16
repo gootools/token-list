@@ -5,6 +5,7 @@ extensions:
   telegram: https://t.me/altarfin
   twitter: https://twitter.com/AltarFin
   website: https://altar.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJQ1iDoPWWo7pXeNKhC9BLD3FHL2tgFEVGMHYGEfQZT/logo.png
 tags:
   - DApp
   - Exchange

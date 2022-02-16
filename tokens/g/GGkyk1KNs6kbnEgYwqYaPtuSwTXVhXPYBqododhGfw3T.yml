@@ -1,6 +1,7 @@
 symbol: UNITOK
 name: Bugsy Token
 decimals: 6
+img: https://bugsy.world/logo.png
 tags:
   - DeFi
   - Gaming

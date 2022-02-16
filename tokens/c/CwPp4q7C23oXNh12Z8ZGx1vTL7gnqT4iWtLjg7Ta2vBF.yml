@@ -3,5 +3,6 @@ name: Peppy Platypus Posse Whitelist Token
 decimals: 0
 extensions:
   website: https://peppyplatypus.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CwPp4q7C23oXNh12Z8ZGx1vTL7gnqT4iWtLjg7Ta2vBF/logo.png
 tags:
   - utility-token

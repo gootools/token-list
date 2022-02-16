@@ -3,6 +3,7 @@ name: Saber whETH-aeWETH LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/aeeth
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

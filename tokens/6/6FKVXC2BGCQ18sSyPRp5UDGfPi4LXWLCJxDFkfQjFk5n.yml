@@ -3,6 +3,7 @@ name: Grand Ape Club
 decimals: 9
 extensions:
   discord: https://discord.gg/zZedFkuybR
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6FKVXC2BGCQ18sSyPRp5UDGfPi4LXWLCJxDFkfQjFk5n/GAC.png
 tags:
   - NFTs
   - social-token

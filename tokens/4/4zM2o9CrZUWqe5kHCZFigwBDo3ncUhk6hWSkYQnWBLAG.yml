@@ -3,5 +3,6 @@ name: House of Communication Brussels Coin
 decimals: 5
 extensions:
   website: https://houseofcommunication.brussels/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4zM2o9CrZUWqe5kHCZFigwBDo3ncUhk6hWSkYQnWBLAG/logo.png
 tags:
   - coin

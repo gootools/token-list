@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Ella Coin was minted to honor those that are fabulous.
   website: https://withoutink.com
+img: https://raw.githubusercontent.com/withoutink/crypto-ellacoin/main/logo.png
 tags:
   - community-token
   - meme-token

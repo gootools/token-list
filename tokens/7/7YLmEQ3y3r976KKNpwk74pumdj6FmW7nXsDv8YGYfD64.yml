@@ -1,5 +1,6 @@
 symbol: PI
 name: Pi Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Nekardms/crypto/main/PiLogo2.png
 tags:
   - social-token

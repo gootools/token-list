@@ -3,6 +3,7 @@ name: Based Coin
 decimals: 0
 extensions:
   website: https://thebasedcoin.com
+img: https://raw.githubusercontent.com/Scrump/basedcoin/main/logo.png
 tags:
   - community-token
   - social-token

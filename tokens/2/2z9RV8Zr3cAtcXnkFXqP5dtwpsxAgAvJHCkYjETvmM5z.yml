@@ -1,5 +1,6 @@
 symbol: MEEP
 name: MeepleCoin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2z9RV8Zr3cAtcXnkFXqP5dtwpsxAgAvJHCkYjETvmM5z/logo.png
 tags:
   - social-token

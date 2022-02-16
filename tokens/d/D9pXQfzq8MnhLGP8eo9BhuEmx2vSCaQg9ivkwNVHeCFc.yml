@@ -3,5 +3,6 @@ name: Jon Little NFTs
 decimals: 6
 extensions:
   website: https://jonlittle.myportfolio.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D9pXQfzq8MnhLGP8eo9BhuEmx2vSCaQg9ivkwNVHeCFc/littlenfts4.png
 tags:
   - nft

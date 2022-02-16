@@ -4,6 +4,7 @@ decimals: 2
 extensions:
   description: LXCD is utility token used by members of Lex Cloud Data at
     www.homenetlink.com. This is still a work in progress
+img: https://raw.githubusercontent.com/lexthoms411/Lex-cloud-Data/main/logo.png
 tags:
   - community-token
   - social-token

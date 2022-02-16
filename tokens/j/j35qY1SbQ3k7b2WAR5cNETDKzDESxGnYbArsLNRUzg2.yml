@@ -3,5 +3,6 @@ name: Bitwise 10 Crypto Index Fund
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BITW
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/j35qY1SbQ3k7b2WAR5cNETDKzDESxGnYbArsLNRUzg2/logo.png
 tags:
   - tokenized-stock

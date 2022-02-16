@@ -1,5 +1,6 @@
 symbol: AFTT
 name: After Token
 decimals: 8
+img: https://raw.githubusercontent.com/DrakeArcan/LOGO/main/AfterTokenLogo.png
 tags:
   - Dex-token

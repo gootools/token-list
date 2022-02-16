@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/inkresearch
   website: https://www.inkresearch.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EssczqGURZtsSuzEoH471KCRNDWfS4aQpEJVXWL3DvdK/logo.png
 tags:
   - utility-token

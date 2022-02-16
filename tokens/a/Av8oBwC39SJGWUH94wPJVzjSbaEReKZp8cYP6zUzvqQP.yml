@@ -1,6 +1,7 @@
 symbol: NLC
 name: NewLifeCoin
 decimals: 9
+img: https://raw.githubusercontent.com/designerbjk/newlife/main/logo.png
 tags:
   - social-token
 clusters:

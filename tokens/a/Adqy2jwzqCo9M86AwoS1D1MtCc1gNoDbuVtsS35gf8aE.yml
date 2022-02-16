@@ -1,6 +1,7 @@
 symbol: CLB
 name: Columbus
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Adqy2jwzqCo9M86AwoS1D1MtCc1gNoDbuVtsS35gf8aE/logo.png
 tags:
   - Columbus-inc
   - utility-token

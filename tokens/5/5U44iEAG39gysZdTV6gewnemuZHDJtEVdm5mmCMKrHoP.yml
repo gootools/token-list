@@ -1,6 +1,7 @@
 symbol: NTC
 name: NetworkTrina
 decimals: 0
+img: https://raw.githubusercontent.com/kantrealb4/NetworkTrina/main/TN.png
 tags:
   - family-token
   - social-token

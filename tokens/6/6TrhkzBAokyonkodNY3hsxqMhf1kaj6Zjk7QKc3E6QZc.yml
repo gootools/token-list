@@ -3,5 +3,6 @@ name: Trush
 decimals: 9
 extensions:
   website: https://www.trush.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TrhkzBAokyonkodNY3hsxqMhf1kaj6Zjk7QKc3E6QZc/logo.png
 tags:
   - defi

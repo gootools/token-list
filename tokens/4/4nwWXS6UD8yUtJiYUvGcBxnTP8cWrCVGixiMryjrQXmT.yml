@@ -3,6 +3,7 @@ name: IT SOL Coin
 decimals: 9
 extensions:
   website: https://blocksto.ne/itcoin/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nwWXS6UD8yUtJiYUvGcBxnTP8cWrCVGixiMryjrQXmT/Coinlogo.png
 tags:
   - guarantee-payments
   - software-developers

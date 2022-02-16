@@ -3,6 +3,7 @@ name: MEKKA FROGGO TOKEN
 decimals: 9
 extensions:
   website: https://mekkafroggo.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7z1eQmEhhM9e1AVCBQc6BzMZWmCZRqHCLJtkDgHxzYnQ/logo.png
 tags:
   - community-token
   - Meme-coin

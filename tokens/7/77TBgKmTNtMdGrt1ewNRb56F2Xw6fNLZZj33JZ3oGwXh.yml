@@ -3,6 +3,7 @@ name: Port Finance Serum
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/77TBgKmTNtMdGrt1ewNRb56F2Xw6fNLZZj33JZ3oGwXh/SRM.svg
 tags:
   - collateral-tokens
   - lending

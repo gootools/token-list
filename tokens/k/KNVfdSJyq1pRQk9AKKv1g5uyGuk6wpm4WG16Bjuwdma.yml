@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   coingeckoId: ethereum
   website: https://app.saber.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma/icon.png
 tags:
   - saber-market-eth
   - saber-dec-wrapped

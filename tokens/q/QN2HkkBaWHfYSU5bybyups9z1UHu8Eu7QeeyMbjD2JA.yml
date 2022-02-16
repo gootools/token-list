@@ -3,6 +3,7 @@ name: Port Finance BTC
 decimals: 6
 extensions:
   website: https://port.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/QN2HkkBaWHfYSU5bybyups9z1UHu8Eu7QeeyMbjD2JA/BTC.svg
 tags:
   - collateral-tokens
   - lending

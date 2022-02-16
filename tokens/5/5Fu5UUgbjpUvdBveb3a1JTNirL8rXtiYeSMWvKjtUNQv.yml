@@ -6,6 +6,7 @@ extensions:
   coingeckoId: cream-2
   serumV3Usdc: 7nZP6feE94eAz9jmfakNJWPwEKaeezuKKC5D1vrnqyo2
   serumV3Usdt: 4ztJEvQyryoYagj2uieep3dyPwG2pyEwb2dKXTwmXe82
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv/logo.png
 tags:
   - ethereum
   - wrapped-sollet

@@ -8,6 +8,7 @@ extensions:
   coingeckoId: sushi
   serumV3Usdc: 3uWVMWu7cwMnYMAAdtsZNwaaqeeeZHARGZwcExnQiFay
   serumV3Usdt: T3aC6qcPAJtX1gqkckfSxBPdPWziz5fLYRt5Dz3Nafq
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj/logo.png
 tags:
   - wrapped
   - wormhole

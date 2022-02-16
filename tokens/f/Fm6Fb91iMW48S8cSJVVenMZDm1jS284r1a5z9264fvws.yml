@@ -3,5 +3,6 @@ name: Frisco
 decimals: 0
 extensions:
   website: https://milkywayfiasco.com/
+img: https://raw.githubusercontent.com/andyfife/crypto/main/frisco.png
 tags:
   - social-token

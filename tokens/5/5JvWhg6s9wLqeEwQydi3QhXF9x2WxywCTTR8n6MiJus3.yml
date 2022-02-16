@@ -3,6 +3,7 @@ name: Ernst Stelter Coin
 decimals: 9
 extensions:
   website: https://peerstudios.net/
+img: https://raw.githubusercontent.com/PeerStudios/crypto/main/ste.png
 tags:
   - community-token
   - social-token

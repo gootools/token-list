@@ -3,6 +3,7 @@ name: SolJordan
 decimals: 9
 extensions:
   twitter: https://twitter.com/SolJordanLabs
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GCPHeGhYawX3hUEx2Zxezp3QyLvDCXuC1RuQJYtjh2bp/logo.png
 tags:
   - NFT
   - utility-token

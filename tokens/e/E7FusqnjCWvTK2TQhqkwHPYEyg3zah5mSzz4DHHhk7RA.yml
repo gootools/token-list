@@ -1,5 +1,6 @@
 symbol: SWL
 name: Solitarian WL Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E7FusqnjCWvTK2TQhqkwHPYEyg3zah5mSzz4DHHhk7RA/logo.png
 tags:
   - utility-token

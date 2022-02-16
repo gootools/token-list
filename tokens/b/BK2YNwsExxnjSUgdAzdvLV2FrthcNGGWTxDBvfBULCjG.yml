@@ -3,5 +3,6 @@ name: Raydium LP Token (AUSS-USDC)
 decimals: 9
 extensions:
   website: https://raydium.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BK2YNwsExxnjSUgdAzdvLV2FrthcNGGWTxDBvfBULCjG/logo.svg
 tags:
   - lp-token

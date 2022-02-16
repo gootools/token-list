@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   github: https://github.com/ErosaCoin
   website: https://erosa.io/
+img: https://raw.githubusercontent.com/ErosaCoin/crypto/main/ErosaCoin.png
 tags:
   - company-token
   - meta-token

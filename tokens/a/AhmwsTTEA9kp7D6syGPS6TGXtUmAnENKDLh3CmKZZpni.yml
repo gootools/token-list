@@ -1,6 +1,7 @@
 symbol: FRC
 name: FriesCoin
 decimals: 0
+img: https://raw.githubusercontent.com/FriesCoin/Crypto/main/logo.png
 tags:
   - meme-coin
   - social-token

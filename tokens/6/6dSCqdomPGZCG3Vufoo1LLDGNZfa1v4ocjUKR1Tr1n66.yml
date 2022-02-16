@@ -1,5 +1,6 @@
 symbol: BLCK
 name: BLOCK SIGN
 decimals: 9
+img: https://raw.githubusercontent.com/testsystemca/blcksgn/main/Logo.png
 tags:
   - social-token

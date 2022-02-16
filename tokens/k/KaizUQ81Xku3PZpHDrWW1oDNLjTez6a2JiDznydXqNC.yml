@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/KaizenFinance
   twitter: https://twitter.com/kaizen_finance
   website: https://kaizen.finance
+img: https://kaizen.finance/assets/images/kaizen-assets/logo-kaizen-symbol.png
 tags:
   - bridge
   - DEX

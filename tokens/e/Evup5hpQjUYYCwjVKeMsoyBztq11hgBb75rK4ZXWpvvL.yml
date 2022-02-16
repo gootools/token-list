@@ -1,6 +1,7 @@
 symbol: SRP
 name: StarPunk
 decimals: 0
+img: https://raw.githubusercontent.com/hqphuoc129/SRP_logo/master/logo.svg
 clusters:
   - devnet
   - mainnet-beta

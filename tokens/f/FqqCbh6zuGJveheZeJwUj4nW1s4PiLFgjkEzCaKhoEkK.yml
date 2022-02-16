@@ -1,5 +1,6 @@
 symbol: JRSY
 name: JerseyCoin
 decimals: 0
+img: https://raw.githubusercontent.com/mjsantos00/sol-project/main/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: LMS Stars
 decimals: 9
 extensions:
   website: https://www.letmespeak.pro/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/assets/DxWXDwbqNyXs4ABCRWAJU2Xi4xpYJLp3UxRhsu1jU6gs/logo.png
 tags:
   - LMS

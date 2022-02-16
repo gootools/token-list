@@ -1,5 +1,6 @@
 symbol: SOCO
 name: SoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/bsepsey/socoin/main/logo.png
 tags:
   - social-token

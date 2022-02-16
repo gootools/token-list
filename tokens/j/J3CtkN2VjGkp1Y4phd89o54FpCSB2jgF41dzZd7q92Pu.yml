@@ -3,6 +3,7 @@ name: Hronos
 decimals: 9
 extensions:
   website: https://www.hronos.io/
+img: https://raw.githubusercontent.com/bsn999/crypto/main/logo.png
 tags:
   - social-token
   - trading-token

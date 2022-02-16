@@ -3,5 +3,6 @@ name: Raydium LP Token (KLB-USDC)
 decimals: 0
 extensions:
   website: https://raydium.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BTszujAA5kJJT7YCWVsAXwk4eJeuycithuTeAksQC1RC/logo.svg
 tags:
   - lp-token

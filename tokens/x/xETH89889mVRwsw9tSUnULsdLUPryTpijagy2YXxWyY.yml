@@ -3,6 +3,7 @@ name: Saber xETH-whETH LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/xeth
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-synthetify

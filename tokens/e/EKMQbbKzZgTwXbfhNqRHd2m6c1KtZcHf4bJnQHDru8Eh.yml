@@ -1,5 +1,6 @@
 symbol: EQXT
 name: eqx Token
 decimals: 6
+img: https://raw.githubusercontent.com/ass77/buildspace-nft-client/main/public/eqx.png
 tags:
   - social-token

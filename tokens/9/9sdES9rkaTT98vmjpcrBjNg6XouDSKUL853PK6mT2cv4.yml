@@ -3,6 +3,7 @@ name: Dikkenek Coin
 decimals: 8
 extensions:
   twitter: https://twitter.com/DikkenekCoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9sdES9rkaTT98vmjpcrBjNg6XouDSKUL853PK6mT2cv4/logo.png
 tags:
   - community-token
   - meme-token

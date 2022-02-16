@@ -1,6 +1,7 @@
 symbol: PENG
 name: Penguin Token
 decimals: 0
+img: https://github.com/Andrekreta/Solana_Token/blob/main/Penguin-Token.png
 tags:
   - community-token
   - NFT

@@ -1,6 +1,7 @@
 symbol: ALC
 name: Alice Coin
 decimals: 0
+img: https://raw.githubusercontent.com/KyleF0X/crypto/main/AliceCoinNew.png
 tags:
   - campaign-token
   - future-primeminister

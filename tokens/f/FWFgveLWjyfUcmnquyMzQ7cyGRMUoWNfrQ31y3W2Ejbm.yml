@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/vesta_official
   twitter: https://twitter.com/vesta_sol
   website: https://vesta-dex.net
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FWFgveLWjyfUcmnquyMzQ7cyGRMUoWNfrQ31y3W2Ejbm/logo.png
 tags:
   - dex
   - utility-token

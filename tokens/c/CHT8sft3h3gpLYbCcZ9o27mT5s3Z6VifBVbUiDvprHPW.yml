@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (KIN-RAY)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHT8sft3h3gpLYbCcZ9o27mT5s3Z6VifBVbUiDvprHPW/logo.png
 tags:
   - lp-token

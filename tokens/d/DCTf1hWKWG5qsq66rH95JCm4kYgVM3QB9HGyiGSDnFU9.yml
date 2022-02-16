@@ -3,5 +3,6 @@ name: Official TSRB Coin
 decimals: 0
 extensions:
   website: https://tsrb.shop
+img: https://raw.githubusercontent.com/JakovGlavac/TSRB-Coin/main/logo.png
 tags:
   - social-token

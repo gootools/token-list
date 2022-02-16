@@ -1,6 +1,7 @@
 symbol: POSTER
 name: POSTER
 decimals: 9
+img: https://raw.githubusercontent.com/scotchegg/poster-coin/main/icon-CIRCLE.png
 tags:
   - currency-token
   - community-token

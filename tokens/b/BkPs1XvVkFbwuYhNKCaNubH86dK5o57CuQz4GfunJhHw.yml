@@ -3,5 +3,6 @@ name: Wrapped USDT
 decimals: 9
 extensions:
   website: https://wrappedtether.to
+img: https://raw.githubusercontent.com/andbandu/wrapped-usdt/main/logo.png
 tags:
   - Payment-token

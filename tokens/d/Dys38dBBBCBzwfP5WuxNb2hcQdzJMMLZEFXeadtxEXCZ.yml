@@ -1,5 +1,6 @@
 symbol: MCCN
 name: mccoin
 decimals: 0
+img: https://raw.githubusercontent.com/drx36/mccoin/main/mccoin.png
 tags:
   - mcdonalds

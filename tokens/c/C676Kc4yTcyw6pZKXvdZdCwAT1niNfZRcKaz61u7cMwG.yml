@@ -3,5 +3,6 @@ name: PlexComet
 decimals: 6
 extensions:
   twitter: https://twitter.com/plex_comet
+img: https://raw.githubusercontent.com/plexcomet/assets/main/only-p-logo.png
 tags:
   - community-token

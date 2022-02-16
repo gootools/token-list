@@ -1,5 +1,6 @@
 symbol: BEER
 name: Beer Run
 decimals: 0
+img: https://raw.githubusercontent.com/tkemet/beerme/main/logo.png
 tags:
   - social-token

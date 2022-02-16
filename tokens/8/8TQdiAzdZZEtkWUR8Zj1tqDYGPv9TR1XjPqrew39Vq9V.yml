@@ -8,5 +8,6 @@ extensions:
   telegram: https://t.me/hypeproxy_org
   twitter: https://twitter.com/hypeproxyio
   website: http://hypeproxy.org
+img: https://raw.githubusercontent.com/hypeproxy/hypeproxy/main/logo.png
 tags:
   - utility-token

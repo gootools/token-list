@@ -1,6 +1,7 @@
 symbol: SHEEP
 name: SheepCoin
 decimals: 0
+img: https://raw.githubusercontent.com/Andreas711/crypto/main/sheeptoken.png
 tags:
   - meme-token
   - private-token

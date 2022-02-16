@@ -1,5 +1,6 @@
 symbol: CAROL
 name: CarolCoin
 decimals: 0
+img: https://raw.githubusercontent.com/reihtw/carolcoin/main/carolcoin_logo.png
 tags:
   - social-token

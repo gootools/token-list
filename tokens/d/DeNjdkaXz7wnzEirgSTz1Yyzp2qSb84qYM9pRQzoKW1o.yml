@@ -3,6 +3,7 @@ name: Dauswap
 decimals: 9
 extensions:
   website: https://dauswap.com/
+img: https://dauswap.com/dauswap.png
 tags:
   - decentralized
   - exchange

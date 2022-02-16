@@ -1,5 +1,6 @@
 symbol: PTC
 name: PatronumCoin
 decimals: 8
+img: https://raw.githubusercontent.com/Cryptomaker1212/PatronumCoin/main/patronumlogo.png
 tags:
   - social-token

@@ -3,6 +3,7 @@ name: wtUST-USDT LP
 decimals: 9
 extensions:
   website: https://dev.ratio.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6rJSjCEVxovip8GBUw6P7tsQprzFPET3uTohCXXQqkBh/logo.png
 tags:
   - ratio-token
 clusters:

@@ -8,6 +8,7 @@ extensions:
   coingeckoId: hxro
   serumV3Usdc: CBb5zXwNRB73WVjs2m21P5prcEZa6SWmej74Vzxh8dRm
   serumV3Usdt: 3BScwNxtMrEcQ5VTHyXHYQR98dTaxfyXGaLkuSjBY1dW
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png
 tags:
   - wrapped
   - wormhole

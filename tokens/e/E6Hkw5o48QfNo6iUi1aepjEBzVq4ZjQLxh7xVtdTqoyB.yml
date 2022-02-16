@@ -3,5 +3,6 @@ name: Dickcoin
 decimals: 9
 extensions:
   twitter: https://twitter.com/dickcoinmoon
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E6Hkw5o48QfNo6iUi1aepjEBzVq4ZjQLxh7xVtdTqoyB/logo.png
 tags:
   - utility-token

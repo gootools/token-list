@@ -1,5 +1,6 @@
 symbol: OFCN
 name: Objectif Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Ybraver/vue/c3a1c798c1ed37fc37fb36c471161c2656890372/logo.png
 tags:
   - social-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/jigx_official
   website: https://jigx.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FKXJBtzCM2CE8MumEzzCKV5EPQ8uvFHTGtZg2ePtVAH/logo.png
 tags:
   - nft
   - utility-token

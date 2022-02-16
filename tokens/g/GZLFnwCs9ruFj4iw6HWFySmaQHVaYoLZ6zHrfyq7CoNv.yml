@@ -3,5 +3,6 @@ name: TRADEN
 decimals: 9
 extensions:
   website: https://traden.pro/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GZLFnwCs9ruFj4iw6HWFySmaQHVaYoLZ6zHrfyq7CoNv/logo.png
 tags:
   - social-token

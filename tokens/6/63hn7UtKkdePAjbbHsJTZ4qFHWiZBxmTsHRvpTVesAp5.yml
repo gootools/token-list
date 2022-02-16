@@ -1,6 +1,7 @@
 symbol: PiTZ
 name: PTZCoin
 decimals: 0
+img: https://raw.githubusercontent.com/PTZCOIN/crypto/main/logo.png
 tags:
   - meme-coin
   - social-token

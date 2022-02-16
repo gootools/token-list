@@ -3,6 +3,7 @@ name: Random Color Cubes
 decimals: 9
 extensions:
   website: http://randomcolorcubes.xyz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DbiLGsmv5FbgzipdpvEMFS1Zv7cHpVFZj7QEYvzRVAyq/logo.png
 tags:
   - one-of-a-kind
   - random-color-cubes

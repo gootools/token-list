@@ -8,6 +8,7 @@ extensions:
   coingeckoId: uniswap
   serumV3Usdc: B7b5rjQuqQCuGqmUBWmcCTqaL3Z1462mo4NArqty6QFR
   serumV3Usdt: FrKM6kJtAjXknHPEpkrQtJSXZwUxV5dq26wDpc4YjQST
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36/logo.png
 tags:
   - wrapped
   - wormhole

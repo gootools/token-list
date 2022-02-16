@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/dcbatman
   website: https://www.thebatman.com
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Batman-Coin/main/logo.png
 tags:
   - batman-token
   - community-token

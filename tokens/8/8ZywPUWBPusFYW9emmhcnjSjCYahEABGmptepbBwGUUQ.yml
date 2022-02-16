@@ -3,5 +3,6 @@ name: SIM CRYPTO
 decimals: 0
 extensions:
   github: https://github.com/SIMCrypto
+img: https://raw.githubusercontent.com/SIMCrypto/crypto/main/Asset%201.png
 tags:
   - social-token

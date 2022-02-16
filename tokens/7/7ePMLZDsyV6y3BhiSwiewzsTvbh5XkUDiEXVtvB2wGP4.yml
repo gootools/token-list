@@ -3,6 +3,7 @@ name: Versus Mode
 decimals: 9
 extensions:
   website: https://www.versusmode.net/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ePMLZDsyV6y3BhiSwiewzsTvbh5XkUDiEXVtvB2wGP4/logo.png
 tags:
   - card-game
   - nft-token

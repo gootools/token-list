@@ -3,6 +3,7 @@ name: Instagram NFT WWY
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/7WWYJ6xZLDDU8aVw5e8F3Xvp3QxRYJWMFhKLBUsMMx1z
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7WWYJ6xZLDDU8aVw5e8F3Xvp3QxRYJWMFhKLBUsMMx1z/logo.jpg
 tags:
   - instagram
   - nft

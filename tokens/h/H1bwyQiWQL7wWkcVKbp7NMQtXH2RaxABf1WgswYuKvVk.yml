@@ -1,5 +1,6 @@
 symbol: DTT
 name: Dust Token
 decimals: 9
+img: https://raw.githubusercontent.com/TheReaperQc/crypto/main/Logo.png
 tags:
   - social-token

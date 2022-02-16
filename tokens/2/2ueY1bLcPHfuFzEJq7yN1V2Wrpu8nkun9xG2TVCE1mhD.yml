@@ -8,6 +8,7 @@ extensions:
   coingeckoId: hedget
   serumV3Usdc: 27e1mB6UoPohbc3MmwMXu5QM7b2E3k5Mbhwv6JguwyXg
   serumV3Usdt: BdRzTEKb7Qdu4tWts5zXjwcpQErZxEzvShKZ5QcthMag
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD/logo.png
 tags:
   - ethereum
   - wrapped

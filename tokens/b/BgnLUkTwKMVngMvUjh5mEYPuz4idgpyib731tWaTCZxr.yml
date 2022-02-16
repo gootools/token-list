@@ -1,6 +1,7 @@
 symbol: BNF
 name: Beetle and Frog Coin
 decimals: 0
+img: https://raw.githubusercontent.com/as3k/crypto/main/images/bnf-coin-logo.jpg
 tags:
   - social-token
   - utility-token

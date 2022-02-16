@@ -3,6 +3,7 @@ name: BARK
 decimals: 6
 extensions:
   twitter: https://twitter.com/solbark
+img: https://cdn.jsdelivr.net/gh/solanabark/solbark/logobark.png
 tags:
   - bark
   - doge

@@ -3,5 +3,6 @@ name: Penn National Gaming
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?PENN
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRCop5kHBDLTYJyG7z3u6yiVQi4FQHbyHdtb18Qh2Ta9/logo.svg
 tags:
   - tokenized-stock

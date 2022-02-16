@@ -3,5 +3,6 @@ name: Raydium Permissionless LP Token (SHBL-USDC)
 decimals: 9
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GnaFnTihwQFjrLeJNeVdBfEZATMdaUwZZ1RPxLwjbVwb/logo.png
 tags:
   - lp-token

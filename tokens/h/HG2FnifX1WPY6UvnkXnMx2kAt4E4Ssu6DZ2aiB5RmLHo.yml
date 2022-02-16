@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/islamicoin1
   twitter: https://twitter.com/islamicoin
   website: https://islamicoin.finance/
+img: https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMICOIN/main/logo.png
 tags:
   - community-token
   - social-token

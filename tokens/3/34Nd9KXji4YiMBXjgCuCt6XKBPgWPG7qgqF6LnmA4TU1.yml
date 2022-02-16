@@ -1,5 +1,6 @@
 symbol: SHMY
 name: ShinyMoney
 decimals: 0
+img: https://raw.githubusercontent.com/edwardlamar/shinymoney/main/shinymoney.png
 tags:
   - social-token

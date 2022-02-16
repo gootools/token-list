@@ -1,6 +1,7 @@
 symbol: LFX2M
 name: lfx2m
 decimals: 0
+img: https://raw.githubusercontent.com/lfx2m/crypto/main/lfx2m.png
 tags:
   - family-token
   - social-token

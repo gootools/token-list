@@ -3,6 +3,7 @@ name: RRAM
 decimals: 9
 extensions:
   twitter: https://twitter.com/rowdyramsnft
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BS9HQKdgY6DUq6HCgNz8xpDyoERJD4GnwGRHebFasjZS/logo.png
 tags:
   - community-token
   - social-token

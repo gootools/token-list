@@ -3,6 +3,7 @@ name: Sunflowers seeds
 decimals: 0
 extensions:
   website: https://anasnejb.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H18JF1LhJmNqqRCxc3JaWx4KZ4ACUYeARrr1XbGyzFiD/logo.png
 tags:
   - community
   - CATE

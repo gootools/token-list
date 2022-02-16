@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (SNY-USDC)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G8qcfeFqxwbCqpxv5LpLWxUCd1PyMB5nWb5e5YyxLMKg/logo.png
 tags:
   - lp-token

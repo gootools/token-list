@@ -3,6 +3,7 @@ name: JUUJUU
 decimals: 9
 extensions:
   website: https://www.coolbabykaiju.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zmFoYNC3CuGY1VmgAcxXzfLMnSMVZpJF6RGJU5vDxvT/logo.png
 tags:
   - community-token
   - social-token

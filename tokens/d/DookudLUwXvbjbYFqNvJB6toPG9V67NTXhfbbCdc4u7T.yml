@@ -3,5 +3,6 @@ name: Dooku Society Token
 decimals: 9
 extensions:
   website: https://dookusociety.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DookudLUwXvbjbYFqNvJB6toPG9V67NTXhfbbCdc4u7T/logo.png
 tags:
   - social-token

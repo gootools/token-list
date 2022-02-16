@@ -1,6 +1,7 @@
 symbol: AIMW
 name: AIM Wealth Coin
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23KNWdtDRhaX14qnzwk3AXiHzuxvwvs9BrQfL3GfKsUh/logo.jpg
 tags:
   - social-token
   - utility-token

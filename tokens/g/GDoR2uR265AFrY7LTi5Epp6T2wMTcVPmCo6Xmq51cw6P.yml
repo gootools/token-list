@@ -3,6 +3,7 @@ name: Penguin
 decimals: 0
 extensions:
   discord: https://discord.gg/CQQSSSgTDb
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDoR2uR265AFrY7LTi5Epp6T2wMTcVPmCo6Xmq51cw6P/penguLogo.png
 tags:
   - nft-token
   - utility-token

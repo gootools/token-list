@@ -1,5 +1,6 @@
 symbol: VOID
 name: VoidCoin
 decimals: 9
+img: https://raw.githubusercontent.com/fpetruololo/void/main/logo.png
 tags:
   - social-token

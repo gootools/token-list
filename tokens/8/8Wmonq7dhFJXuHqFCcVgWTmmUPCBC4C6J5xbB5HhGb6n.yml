@@ -3,6 +3,7 @@ name: "42"
 decimals: 9
 extensions:
   twitter: https://twitter.com/solana_42
+img: https://cdn.jsdelivr.net/gh/fortytwotoken/42token/forty-two.png
 tags:
   - forty-two
   - the-answer

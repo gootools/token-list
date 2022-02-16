@@ -3,6 +3,7 @@ name: PAYCHECK
 decimals: 0
 extensions:
   twitter: https://twitter.com/MarkSackerberg
+img: https://github.com/MarkSackerberg/token-list/blob/main/assets/mainnet/GraTisEXuByrh5GyBckbuC1xgz1FSXBF5pTbyMKK8xfp/logo.png
 tags:
   - community-token
   - meme-token

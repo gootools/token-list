@@ -1,5 +1,6 @@
 symbol: CM
 name: CashMoney
 decimals: 0
+img: https://raw.githubusercontent.com/hhannis/digitalassets/main/cashmoney.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: Grayscale Ethereum Trust
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?ETHE
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5YMFoVuoQzdivpm6W97UGKkHxq6aEhipuNkA8imPDoa1/logo.png
 tags:
   - tokenized-stock

@@ -3,6 +3,7 @@ name: Guano
 decimals: 9
 extensions:
   website: https://newbat.city/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H69DNtbZZtk92hLLbMrHYqL8HiSHFVGcf6USHU39oRMW/logo.png
 tags:
   - community-token
   - governance-token

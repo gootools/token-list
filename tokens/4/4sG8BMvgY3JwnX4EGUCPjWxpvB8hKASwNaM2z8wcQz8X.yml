@@ -3,6 +3,7 @@ name: Icona
 decimals: 6
 extensions:
   website: https://icona.eth.link
+img: https://raw.githubusercontent.com/CryptoKnight360/Icona/main/icona_token.png
 tags:
   - icona
   - social-token

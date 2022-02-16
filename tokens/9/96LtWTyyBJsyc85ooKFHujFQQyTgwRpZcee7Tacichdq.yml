@@ -1,6 +1,7 @@
 symbol: SELL
 name: Real Estate
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/RealEstate.png
 tags:
   - community
   - nft-token

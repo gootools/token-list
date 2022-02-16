@@ -3,6 +3,7 @@ name: CryptoPotes Token
 decimals: 9
 extensions:
   telegram: https://t.me/+EWjQtq9l3GBjYzc0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H8Z1JgxqUpyHrerDVbXQ2HdjKuSTAWEZSeLTo4smWdF2/logo.svg
 tags:
   - community-token
   - social-token

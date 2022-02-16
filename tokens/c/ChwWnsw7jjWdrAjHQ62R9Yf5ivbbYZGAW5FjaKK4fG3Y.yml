@@ -1,5 +1,6 @@
 symbol: COPPER
 name: Copper Coin
 decimals: 0
+img: https://raw.githubusercontent.com/Deterix/copper/main/penny.jpg
 tags:
   - social-token

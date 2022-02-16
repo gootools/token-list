@@ -1,5 +1,6 @@
 symbol: OCA
 name: CluckCoin
 decimals: 0
+img: https://raw.githubusercontent.com/12inchT/Crypto/main/PunkyLogo.png
 tags:
   - social-token

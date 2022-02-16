@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Incognitfigure Unipessoal Lda investment token.
   website: https://ifu.pt
+img: https://raw.githubusercontent.com/incognitfigure/ifu/main/ifutoken.png
 tags:
   - social-token
   - utility-token

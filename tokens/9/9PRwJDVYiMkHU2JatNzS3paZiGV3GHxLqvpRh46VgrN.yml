@@ -1,5 +1,6 @@
 symbol: STK
 name: StatusKoin
 decimals: 0
+img: https://raw.githubusercontent.com/StathisKap/StatusKoin/main/SK.png
 tags:
   - social-token

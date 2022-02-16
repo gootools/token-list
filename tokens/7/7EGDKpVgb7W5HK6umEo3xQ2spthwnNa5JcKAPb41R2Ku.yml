@@ -3,5 +3,6 @@ name: The Brain Trust
 decimals: 9
 extensions:
   website: https://thebraintrustdao.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7EGDKpVgb7W5HK6umEo3xQ2spthwnNa5JcKAPb41R2Ku/logo.png
 tags:
   - dao-token

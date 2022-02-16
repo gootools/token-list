@@ -1,5 +1,6 @@
 symbol: RCT
 name: Real-Gold-Token
 decimals: 5
+img: https://raw.githubusercontent.com/hhhogannwo/Real-Gold-Coin/main/money.png
 tags:
   - social-token

@@ -1,5 +1,6 @@
 symbol: WUBI
 name: Wubicoin
 decimals: 0
+img: https://raw.githubusercontent.com/porcul/Wubicoins/main/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: Renta
 decimals: 6
 extensions:
   website: https://renta.world/
+img: https://raw.githubusercontent.com/admin8855/crypto/main/logo.png
 tags:
   - Utility-token

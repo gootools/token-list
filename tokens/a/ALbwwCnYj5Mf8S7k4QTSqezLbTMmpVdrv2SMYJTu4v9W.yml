@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/identicert
   website: https://identicert.com/
+img: https://raw.githubusercontent.com/identicert/cryptoverse/main/img/tokens/iden.png
 tags:
   - security-token
   - utility-token

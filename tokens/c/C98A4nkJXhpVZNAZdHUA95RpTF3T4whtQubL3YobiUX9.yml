@@ -8,5 +8,6 @@ extensions:
   twitter: https://twitter.com/coin98_finance
   waterfallbot: https://bit.ly/C98waterfall
   website: https://coin98.com
+img: https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/c98-512.svg
 tags:
   - social-token

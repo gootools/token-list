@@ -6,6 +6,7 @@ extensions:
   coingeckoId: akropolis
   serumV3Usdc: 5CZXTTgVZKSzgSA3AFMN5a2f3hmwmmJ6hU8BHTEJ3PX8
   serumV3Usdt: HLvRdctRB48F9yLnu9E24LUTRt89D48Z35yi1HcxayDf
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF/logo.png
 tags:
   - ethereum
   - wrapped-sollet

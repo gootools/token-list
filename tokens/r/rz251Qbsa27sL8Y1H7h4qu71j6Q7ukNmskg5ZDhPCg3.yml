@@ -4,5 +4,6 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/HiroLaunchdao
   website: https://hiro-finance.github.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rz251Qbsa27sL8Y1H7h4qu71j6Q7ukNmskg5ZDhPCg3/logo.png
 clusters:
   - testnet

@@ -4,6 +4,7 @@ decimals: 4
 extensions:
   description: Questland metaverse token
   website: https://questcoin.org
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png
 tags:
   - DeFi
   - GameFi

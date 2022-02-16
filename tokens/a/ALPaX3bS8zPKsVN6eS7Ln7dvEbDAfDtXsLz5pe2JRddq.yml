@@ -3,6 +3,7 @@ name: Saber aeFEI-CASH LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/fei_cash
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

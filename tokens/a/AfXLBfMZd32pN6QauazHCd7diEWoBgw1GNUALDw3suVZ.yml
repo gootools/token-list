@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   telegram: https://t.me/solfirefinance
   website: https://solfire.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AfXLBfMZd32pN6QauazHCd7diEWoBgw1GNUALDw3suVZ/logo.png
 tags:
   - community-token

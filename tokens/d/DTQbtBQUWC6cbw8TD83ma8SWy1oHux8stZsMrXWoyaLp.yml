@@ -3,5 +3,6 @@ name: KEPLER PAY
 decimals: 9
 extensions:
   website: https://wtmakers.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DTQbtBQUWC6cbw8TD83ma8SWy1oHux8stZsMrXWoyaLp/logo.png
 tags:
   - coin

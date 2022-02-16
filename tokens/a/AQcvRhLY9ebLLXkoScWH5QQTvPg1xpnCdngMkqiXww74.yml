@@ -3,5 +3,6 @@ name: Aardvark Coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/OrycteropusA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQcvRhLY9ebLLXkoScWH5QQTvPg1xpnCdngMkqiXww74/logo.png
 tags:
   - meme-token

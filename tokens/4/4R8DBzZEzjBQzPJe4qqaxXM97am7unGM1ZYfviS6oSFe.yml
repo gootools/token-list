@@ -3,5 +3,6 @@ name: ANUBEAST
 decimals: 9
 extensions:
   website: https://github.com/ANUBEAST
+img: https://raw.githubusercontent.com/ANUBEAST/ANUBEAST/master/assets/logo.png
 tags:
   - stake

@@ -3,6 +3,7 @@ name: Solend SOL
 decimals: 9
 extensions:
   website: https://solend.fi
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV/logo.png
 tags:
   - collateral-tokens
   - lending

@@ -3,5 +3,6 @@ name: SPLUNK Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/SplunkMeta
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GRsn8fzybTYaiC8N4ZuYHZzcw5T6rN9FK1bpr6MQkKN7/logo.png
 tags:
   - SPLUNKToken

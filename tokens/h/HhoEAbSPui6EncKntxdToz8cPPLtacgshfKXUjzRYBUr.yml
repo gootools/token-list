@@ -3,5 +3,6 @@ name: Arx Coin
 decimals: 9
 extensions:
   twitter: https://twitter.com/ARxolotl
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HhoEAbSPui6EncKntxdToz8cPPLtacgshfKXUjzRYBUr/logo.png
 tags:
   - Arxolotl

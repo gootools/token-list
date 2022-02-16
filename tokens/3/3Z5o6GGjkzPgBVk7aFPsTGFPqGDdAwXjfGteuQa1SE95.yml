@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/solaghosts
   website: https://www.solaghosts.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Z5o6GGjkzPgBVk7aFPsTGFPqGDdAwXjfGteuQa1SE95/logo.png
 tags:
   - nft
   - utility-token

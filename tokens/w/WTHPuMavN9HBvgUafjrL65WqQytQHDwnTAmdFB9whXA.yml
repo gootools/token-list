@@ -3,6 +3,7 @@ name: Saber ETH-whETH LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/wheth
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

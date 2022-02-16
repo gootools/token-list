@@ -1,6 +1,7 @@
 symbol: Subt
 name: Subtrack
 decimals: 6
+img: https://v-meter.com/images/sub.png
 tags:
   - anchor-token
   - BlockExchange

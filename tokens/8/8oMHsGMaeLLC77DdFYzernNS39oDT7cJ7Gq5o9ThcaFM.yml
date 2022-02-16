@@ -3,5 +3,6 @@ name: PlusPlus
 decimals: 9
 extensions:
   website: https://plusplus.is/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8oMHsGMaeLLC77DdFYzernNS39oDT7cJ7Gq5o9ThcaFM/logo.png
 tags:
   - utility-token

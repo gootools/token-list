@@ -1,5 +1,6 @@
 symbol: ALL
 name: Allowance Token
 decimals: 9
+img: https://raw.githubusercontent.com/jamroszk/crypto/main/All_Logo.png
 tags:
   - social-token

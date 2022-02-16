@@ -1,5 +1,6 @@
 symbol: CCY
 name: Cryptic Currency
 decimals: 0
+img: https://raw.githubusercontent.com/CrypticToken/Crypto/main/Coin.png
 tags:
   - social-token

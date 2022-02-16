@@ -1,6 +1,7 @@
 symbol: QUEEN
 name: Qoin
 decimals: 9
+img: https://raw.githubusercontent.com/QueendomDAO/media/main/logo.svg
 tags:
   - community-token
   - metaverse

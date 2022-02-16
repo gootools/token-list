@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/necro_is_god
   website: https://www.necrohiphop.com/
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Necro-Coin/main/logo.png
 tags:
   - community-token
   - necro-token

@@ -3,5 +3,6 @@ name: Raydium Legacy LP Token V3 (RAY-SRM)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSX5E21RE9FB9hM8Nh8xcXQfPK6SzRaJiywemHBSsfup/logo.png
 tags:
   - lp-token

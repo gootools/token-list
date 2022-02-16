@@ -1,6 +1,7 @@
 symbol: SMN
 name: Solmon
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75MxtZ7E6N4mapt2x5cYNHKpri6L6cb63e3YFfZBAAtd/logo.png
 tags:
   - DeFi
   - utility-token

@@ -3,5 +3,6 @@ name: dNb Coin
 decimals: 0
 extensions:
   website: https://bigbrothers.ro
+img: https://raw.githubusercontent.com/Dani-Brasoveanu/crypto/main/logo.png
 tags:
   - social-token

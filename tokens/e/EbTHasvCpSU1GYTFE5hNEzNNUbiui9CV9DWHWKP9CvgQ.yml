@@ -3,5 +3,6 @@ name: Fish Token
 decimals: 0
 extensions:
   twitter: https://twitter.com/MoanaWhalesNFT
+img: https://media.discordapp.net/attachments/926535226820276264/934150203496337428/fish_token.png?width=675&height=675
 tags:
   - utility-token

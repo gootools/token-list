@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/projectshares
   website: https://www.projectshares.org
+img: https://raw.githubusercontent.com/col000r/Tokens/main/ProjectShards.png
 tags:
   - general-token

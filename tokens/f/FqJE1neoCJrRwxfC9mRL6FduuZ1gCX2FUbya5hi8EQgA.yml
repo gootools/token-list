@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   github: https://github.com/viloidcoin
   website: https://viloidcoin.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FqJE1neoCJrRwxfC9mRL6FduuZ1gCX2FUbya5hi8EQgA/logo.png
 tags:
   - social-token

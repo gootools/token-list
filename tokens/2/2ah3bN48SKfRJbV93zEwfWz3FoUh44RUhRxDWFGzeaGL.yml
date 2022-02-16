@@ -13,5 +13,6 @@ extensions:
   telegram: https://t.me/SafeCoinEN
   twitter: https://twitter.com/safecoins
   website: https://safecoin.org
+img: https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/256.png
 tags:
   - wrapped-wormhole2

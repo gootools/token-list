@@ -3,5 +3,6 @@ name: Raydium Legacy LP Token V2 (ETH-WUSDT)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KY4XvwHy7JPzbWYAbk23jQvEb4qWJ8aCqYWREmk1Q7K/logo.png
 tags:
   - lp-token

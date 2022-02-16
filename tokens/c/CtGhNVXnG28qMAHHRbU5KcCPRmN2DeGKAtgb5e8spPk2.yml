@@ -1,6 +1,7 @@
 symbol: FOCK
 name: Fockn Coin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CtGhNVXnG28qMAHHRbU5KcCPRmN2DeGKAtgb5e8spPk2/logo.png
 tags:
   - FOCK
   - social-token

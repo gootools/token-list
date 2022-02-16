@@ -3,5 +3,6 @@ name: Togepi
 decimals: 4
 extensions:
   website: https://www.youtube.com/watch?v=ur26D817lpM
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/98kWFBQPLsUYAXTwkuvDfSrWgqdHL9LeP4K7BHDGowot/logo.png
 tags:
   - social-token

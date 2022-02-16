@@ -3,6 +3,7 @@ name: DOPE
 decimals: 9
 extensions:
   twitter: https://twitter.com/DopeApes
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPuGqV7jq9PEbcRU7bWzuaJx5bGiaVj4cNWhWjTdWAKi/logo.png
 tags:
   - community-token
   - social-token

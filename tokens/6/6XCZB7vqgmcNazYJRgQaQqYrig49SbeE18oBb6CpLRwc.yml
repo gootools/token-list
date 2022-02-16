@@ -1,6 +1,7 @@
 symbol: DRUNK
 name: CryptoDistillation
 decimals: 0
+img: https://github.com/rynoroot/crypto/blob/main/DrunkPug.png
 tags:
   - community-token
   - social-token

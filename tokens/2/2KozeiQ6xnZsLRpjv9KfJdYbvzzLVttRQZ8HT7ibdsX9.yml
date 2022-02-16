@@ -1,6 +1,7 @@
 symbol: "107"
 name: 107 Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KozeiQ6xnZsLRpjv9KfJdYbvzzLVttRQZ8HT7ibdsX9/logo.png
 tags:
   - community-token
   - utility-token

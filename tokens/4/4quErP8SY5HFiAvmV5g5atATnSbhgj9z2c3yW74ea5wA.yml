@@ -1,5 +1,6 @@
 symbol: FAT
 name: Fatura Coin
 decimals: 0
+img: https://raw.githubusercontent.com/faturame/crypto/main/Fatura_LOGO.png
 tags:
   - social-token

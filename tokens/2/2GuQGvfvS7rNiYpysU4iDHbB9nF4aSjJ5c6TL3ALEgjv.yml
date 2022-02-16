@@ -1,6 +1,7 @@
 symbol: MAP
 name: Thirdmap
 decimals: 0
+img: https://raw.githubusercontent.com/solanadevv/token-list/157bf21ad4a5ecdc6103f139c21490060225fd1a/assets/mainnet/2GuQGvfvS7rNiYpysU4iDHbB9nF4aSjJ5c6TL3ALEgjv/logo.svg
 tags:
   - nft
   - utility-token

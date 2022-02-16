@@ -6,6 +6,7 @@ extensions:
   coingeckoId: jpyc
   twitter: https://twitter.com/jpy_coin
   website: https://jpyc.jp/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png
 tags:
   - ethereum
   - stablecoin

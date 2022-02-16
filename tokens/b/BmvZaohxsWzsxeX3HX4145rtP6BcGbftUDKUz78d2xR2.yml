@@ -3,5 +3,6 @@ name: Spider Beta
 decimals: 9
 extensions:
   website: https://www.spider.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BmvZaohxsWzsxeX3HX4145rtP6BcGbftUDKUz78d2xR2/logo.png
 tags:
   - meme-token

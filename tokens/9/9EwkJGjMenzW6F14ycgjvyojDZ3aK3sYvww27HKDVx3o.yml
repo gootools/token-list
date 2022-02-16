@@ -3,6 +3,7 @@ name: CHURU
 decimals: 8
 extensions:
   website: https://www.themeowcapital.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9EwkJGjMenzW6F14ycgjvyojDZ3aK3sYvww27HKDVx3o/logo.png
 tags:
   - NFTs
   - P2E

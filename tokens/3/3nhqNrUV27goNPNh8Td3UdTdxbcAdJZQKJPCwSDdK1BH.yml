@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   twitter: https://twitter.com/solanatrollcamp
   website: https://solanatrollcamp.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3nhqNrUV27goNPNh8Td3UdTdxbcAdJZQKJPCwSDdK1BH/logo.png
 tags:
   - utility-token

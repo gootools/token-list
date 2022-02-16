@@ -1,5 +1,6 @@
 symbol: CFROG
 name: Crypto Frog
 decimals: 0
+img: https://raw.githubusercontent.com/BartKmiecik/CryptoFrog/main/Logo.png
 tags:
   - social-token

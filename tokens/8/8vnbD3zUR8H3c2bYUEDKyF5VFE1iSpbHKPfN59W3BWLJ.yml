@@ -1,5 +1,6 @@
 symbol: BURGER
 name: BurgerCoin
 decimals: 0
+img: https://raw.githubusercontent.com/MangoCoder360/burgercoin-image/master/logo.png
 tags:
   - social-token

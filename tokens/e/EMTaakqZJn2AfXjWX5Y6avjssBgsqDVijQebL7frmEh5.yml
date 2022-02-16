@@ -1,5 +1,6 @@
 symbol: RUNI
 name: Runi Coin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EMTaakqZJn2AfXjWX5Y6avjssBgsqDVijQebL7frmEh5/logo.png
 clusters:
   - devnet

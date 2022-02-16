@@ -1,6 +1,7 @@
 symbol: CPS
 name: CryptoPsychoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/T7vteNxbPBQnnPyz2qqnbSWsfQMk9yQcmCPLRshwhgR/CPS.png
 tags:
   - community-token
   - social-token

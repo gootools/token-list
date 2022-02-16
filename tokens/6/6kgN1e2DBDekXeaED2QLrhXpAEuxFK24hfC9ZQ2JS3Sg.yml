@@ -1,5 +1,6 @@
 symbol: ABI
 name: AbiCoin
 decimals: 9
+img: https://raw.githubusercontent.com/gere-lajos/AbiCoin/main/abicoin.png
 tags:
   - social-token

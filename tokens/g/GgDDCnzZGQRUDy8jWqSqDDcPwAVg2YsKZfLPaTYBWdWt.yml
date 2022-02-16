@@ -3,5 +3,6 @@ name: Alibaba
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BABA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GgDDCnzZGQRUDy8jWqSqDDcPwAVg2YsKZfLPaTYBWdWt/logo.svg
 tags:
   - tokenized-stock

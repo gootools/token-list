@@ -3,5 +3,6 @@ name: Neon Rocket Coin
 decimals: 3
 extensions:
   twitter: https://twitter.com/NeonRocketCoin
+img: https://raw.githubusercontent.com/neontechanoah/neon_rocket_coin/main/asset/NRC_Logo_100px.png
 tags:
   - social-token

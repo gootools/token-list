@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/sosol_app
   website: https://sosol.app/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz/logo.svg
 tags:
   - utility-token

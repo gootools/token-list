@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   github: https://github.com/AngelzTokenTeam
   website: http://angelztoken.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3qtvTtcoAXaoTd8f1dmF8wzw17A1XPphuaDuGiBeVuTA/logo.png
 tags:
   - angelz
   - socialtoken

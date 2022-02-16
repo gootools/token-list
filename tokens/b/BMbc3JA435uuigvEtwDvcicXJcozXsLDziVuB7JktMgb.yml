@@ -3,6 +3,7 @@ name: Test listing
 decimals: 0
 extensions:
   website: https://aiko.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMbc3JA435uuigvEtwDvcicXJcozXsLDziVuB7JktMgb/logo.png
 tags:
   - utility-token
 clusters:

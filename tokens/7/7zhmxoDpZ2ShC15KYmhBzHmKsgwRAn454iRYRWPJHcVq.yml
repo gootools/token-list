@@ -1,5 +1,6 @@
 symbol: FIZZ
 name: FizzCoin
 decimals: 9
+img: https://raw.githubusercontent.com/FizzyWater9/fizzcoin/main/canvas.png
 tags:
   - social-token

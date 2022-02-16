@@ -1,6 +1,7 @@
 symbol: PHAR
 name: Pharawin
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F3vTNbfYz6paDDTNn3suyK2wWBejED8PVY6uAP9jqCFh/logo.png
 tags:
   - gamefi
   - game-token

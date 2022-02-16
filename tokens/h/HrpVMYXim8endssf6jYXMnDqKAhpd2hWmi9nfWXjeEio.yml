@@ -1,6 +1,7 @@
 symbol: CYBC
 name: Cybster Coin
 decimals: 0
+img: https://raw.githubusercontent.com/cybster/crypto-cybc/main/logo.png
 tags:
   - altcoin
   - community-token

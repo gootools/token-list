@@ -3,5 +3,6 @@ name: Pantie
 decimals: 9
 extensions:
   website: https://pantie.app/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ap1gFH91RpuGQAm1y3AJU3GWbjXqTcUQ9b6gFZg5su3Z/logo.png
 tags:
   - social-token

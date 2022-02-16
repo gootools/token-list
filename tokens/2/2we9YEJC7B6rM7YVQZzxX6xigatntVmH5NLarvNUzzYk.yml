@@ -1,5 +1,6 @@
 symbol: NIC
 name: NiCoin
 decimals: 0
+img: https://raw.githubusercontent.com/techhotspot/NiCoin/main/logo.png
 tags:
   - social-token

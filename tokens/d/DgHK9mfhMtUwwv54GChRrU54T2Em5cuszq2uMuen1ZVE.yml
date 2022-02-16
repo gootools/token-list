@@ -5,6 +5,7 @@ extensions:
   bridgeContract: https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a
   coingeckoId: celsius-degree-token
   serumV3Usdt: cgani53cMZgYfRMgSrNekJTMaLmccRfspsfTbXWRg7u
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE/logo.png
 tags:
   - ethereum
   - wrapped-sollet

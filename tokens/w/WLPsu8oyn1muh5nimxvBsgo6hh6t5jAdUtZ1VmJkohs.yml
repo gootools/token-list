@@ -3,6 +3,7 @@ name: Saber wbUSDC-USDC LP
 decimals: 8
 extensions:
   website: https://app.saber.so/#/pools/wbusdc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v2

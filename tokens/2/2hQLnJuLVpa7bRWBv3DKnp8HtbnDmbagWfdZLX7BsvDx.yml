@@ -3,5 +3,6 @@ name: Swiss Health Coin
 decimals: 2
 extensions:
   website: http://healthyswiss.ch
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2hQLnJuLVpa7bRWBv3DKnp8HtbnDmbagWfdZLX7BsvDx/logo.png
 tags:
   - Health

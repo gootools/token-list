@@ -3,6 +3,7 @@ name: Zeeland Homes shares
 decimals: 0
 extensions:
   website: https://explorer.solana.com/address/WNhMkZGcWM9WbzkLqWGJb6DdfCcCW2JwEHbPRPjTHfq
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wyM6zDsEjuNrKmLHQtxfXADgwwDxbyxUKG2zd3ch7GN/blockstonePNG.png
 tags:
   - shares
   - Zeeland-Homes-BV

@@ -1,6 +1,7 @@
 symbol: SHIBZWL
 name: Shibaz NFT MINT PASS
 decimals: 0
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2zsvXn4BJykA6zrmDr8LCnEmF7oC4uGxvYMbE47wct85/logo.png
 tags:
   - community-token
   - utility-token

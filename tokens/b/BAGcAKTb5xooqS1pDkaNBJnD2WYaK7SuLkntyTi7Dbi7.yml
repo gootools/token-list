@@ -3,6 +3,7 @@ name: Brainy Ape Gang
 decimals: 0
 extensions:
   twitter: https://twitter.com/brainyapegang
+img: https://raw.githubusercontent.com/brainyapegang/token-logo/30e21db93a7a14a8fc0ecb1cf5a7c6c2b51c3b26/brainyapegang/logo.png
 tags:
   - social-token
   - utility-token

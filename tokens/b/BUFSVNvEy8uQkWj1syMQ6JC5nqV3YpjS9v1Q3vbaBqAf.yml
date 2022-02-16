@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/irvansnid
   website: https://coin.erpn.us
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUFSVNvEy8uQkWj1syMQ6JC5nqV3YpjS9v1Q3vbaBqAf/logo.png
 tags:
   - social-token

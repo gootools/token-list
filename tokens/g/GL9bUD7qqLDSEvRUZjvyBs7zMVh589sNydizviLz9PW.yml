@@ -1,6 +1,7 @@
 symbol: EHSC
 name: EHS Coin
 decimals: 0
+img: https://raw.githubusercontent.com/evanset/EHSC/main/EHSC.png
 tags:
   - community-token
   - social-token

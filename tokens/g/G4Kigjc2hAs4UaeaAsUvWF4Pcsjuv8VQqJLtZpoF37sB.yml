@@ -3,5 +3,6 @@ name: Merlin Coin
 decimals: 9
 extensions:
   website: https://github.com/lewixlabs/merlin-solana-token
+img: https://raw.githubusercontent.com/lewixlabs/merlin-solana-token/main/logo.png
 tags:
   - social-token

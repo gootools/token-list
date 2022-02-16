@@ -3,5 +3,6 @@ name: OKKAMI Dev Token
 decimals: 0
 extensions:
   website: https://www.okkami.com/
+img: https://raw.githubusercontent.com/ant-dev-panda/OKKAMI_dev_crypto/main/logo.png
 tags:
   - social-token

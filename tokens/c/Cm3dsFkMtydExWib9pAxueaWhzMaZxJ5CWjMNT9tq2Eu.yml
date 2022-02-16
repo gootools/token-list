@@ -3,5 +3,6 @@ name: Super Cat Sol
 decimals: 9
 extensions:
   twitter: https://twitter.com/SuperCatSol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cm3dsFkMtydExWib9pAxueaWhzMaZxJ5CWjMNT9tq2Eu/logo.png
 tags:
   - community-token

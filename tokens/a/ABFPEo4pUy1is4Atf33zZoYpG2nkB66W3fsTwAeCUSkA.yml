@@ -3,5 +3,6 @@ name: Swiss and Makeup
 decimals: 9
 extensions:
   instagram: https://www.instagram.com/swissandmakeup/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA/logo.png
 tags:
   - fan-token

@@ -1,5 +1,6 @@
 symbol: TXBY
 name: TxByte Coin
 decimals: 0
+img: https://raw.githubusercontent.com/txbytecoin/crypto/main/logo.png
 tags:
   - social-token

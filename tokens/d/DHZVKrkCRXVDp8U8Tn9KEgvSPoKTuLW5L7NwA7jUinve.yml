@@ -3,6 +3,7 @@ name: StepInsight Coin
 decimals: 0
 extensions:
   website: https://stepinsight.com.au
+img: https://raw.githubusercontent.com/thomasstas/sis-token/main/sis-round-icon.png
 tags:
   - community-token
   - social-token

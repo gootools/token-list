@@ -3,3 +3,4 @@ name: ZeroFees Exchange
 decimals: 6
 extensions:
   website: https://zerofees.exchange/
+img: https://raw.githubusercontent.com/admin8808/zfe/main/logo.png

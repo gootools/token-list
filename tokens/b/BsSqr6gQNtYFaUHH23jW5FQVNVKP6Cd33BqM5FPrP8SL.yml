@@ -3,5 +3,6 @@ name: Klinq
 decimals: 18
 extensions:
   website: https://klinq.io
+img: https://raw.githubusercontent.com/geraldon1997/klinq/main/solana-klinq.png
 tags:
   - social-token

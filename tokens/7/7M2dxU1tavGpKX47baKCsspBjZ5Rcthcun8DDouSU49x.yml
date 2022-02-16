@@ -3,6 +3,7 @@ name: Raydium LP Token (USDC-USDr)
 decimals: 9
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7M2dxU1tavGpKX47baKCsspBjZ5Rcthcun8DDouSU49x/logo.png
 tags:
   - lp-token
 clusters:

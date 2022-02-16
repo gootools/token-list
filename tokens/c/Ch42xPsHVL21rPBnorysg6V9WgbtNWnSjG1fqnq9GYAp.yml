@@ -1,6 +1,7 @@
 symbol: NST
 name: NFTStudioToken
 decimals: 1
+img: https://raw.githubusercontent.com/Zlee12/NFTStudioHu/main/logo.png
 tags:
   - community-token
   - NFT

@@ -1,5 +1,6 @@
 symbol: BassC
 name: BassCoin
 decimals: 0
+img: https://raw.githubusercontent.com/noeljbass/basscoin/main/basscoin.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: GreenGuy
 decimals: 0
 extensions:
   website: http://MyMetaHedge.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXDAzbZVi6USE3GLcTqc5d78vbU7T6KeDJwKgBzPNF5r/test1.png
 tags:
   - NFT

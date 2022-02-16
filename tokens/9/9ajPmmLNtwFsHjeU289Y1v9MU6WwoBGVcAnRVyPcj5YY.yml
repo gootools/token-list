@@ -3,5 +3,6 @@ name: Dragon War
 decimals: 6
 extensions:
   telegram: https://t.me/dragonwarann
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ajPmmLNtwFsHjeU289Y1v9MU6WwoBGVcAnRVyPcj5YY/logo.png
 tags:
   - utility-token

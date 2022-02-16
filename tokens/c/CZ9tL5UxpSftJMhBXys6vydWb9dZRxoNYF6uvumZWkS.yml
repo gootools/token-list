@@ -3,6 +3,7 @@ name: Hyperium
 decimals: 3
 extensions:
   twitter: https://twitter.com/frontiergame_io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZ9tL5UxpSftJMhBXys6vydWb9dZRxoNYF6uvumZWkS/logo.png
 tags:
   - game-token
   - GameFi

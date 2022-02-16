@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/sneakyslamberts
   website: https://www.sneakyslamberts.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/s1ams7bwzHCG2qQf2yMF5CWASV37YotDQsjRppVkX9n/logo.png
 tags:
   - community-token
   - utility-token

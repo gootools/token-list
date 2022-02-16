@@ -1,6 +1,7 @@
 symbol: GBLE
 name: G-able Coin
 decimals: 9
+img: https://raw.githubusercontent.com/Chiewchi/crypto/main/gable.png
 tags:
   - community-token
   - social-token

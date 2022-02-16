@@ -3,6 +3,7 @@ name: Saber aeUSDT-USDT LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/aeusdt
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

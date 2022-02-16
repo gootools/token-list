@@ -1,5 +1,6 @@
 symbol: KFC
 name: Kentucky Fried Coin
 decimals: 0
+img: https://raw.githubusercontent.com/borisgrigorov/kfc/master/kfc.png
 tags:
   - social-token

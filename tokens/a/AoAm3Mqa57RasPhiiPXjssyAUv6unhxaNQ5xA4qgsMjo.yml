@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   discord: https://discord.gg/kJ2YYyrnHP
   telegram: https://t.me/MooToken
+img: https://raw.githubusercontent.com/NicolaeO/crypto/main/logo.png
 tags:
   - cow
   - moo

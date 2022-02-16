@@ -3,6 +3,7 @@ name: DTMcoin
 decimals: 9
 extensions:
   discord: https://discord.com/invite/YmMtHNm
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2bLBrov57Y78uZp9dcUBLRVZ49eSU843Bx3tccjrfSEN/logo.png
 tags:
   - meme-token
   - utility-token

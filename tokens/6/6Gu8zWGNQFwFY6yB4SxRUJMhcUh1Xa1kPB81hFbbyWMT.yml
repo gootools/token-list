@@ -1,6 +1,7 @@
 symbol: BOULE
 name: The Bake Shop Boule
 decimals: 1
+img: https://raw.githubusercontent.com/joelshu1/frenchclass/main/logo-boule.png
 tags:
   - bakery-token
   - utility-token

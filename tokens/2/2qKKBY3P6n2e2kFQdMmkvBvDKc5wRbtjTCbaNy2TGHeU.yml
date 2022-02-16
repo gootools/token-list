@@ -3,5 +3,6 @@ name: ZigiCoin
 decimals: 0
 extensions:
   twitter: https://twitter.com/DavidZigiJones
+img: https://raw.githubusercontent.com/DaviZigiJones/ZigiCoin/main/ZigiCoin.png
 tags:
   - social-token

@@ -1,5 +1,6 @@
 symbol: JJC
 name: JJC
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E2KVvQKqnymv6dpbML59TDQEuy7GbDKCagpGQuCDYNoJ/logo.png
 clusters:
   - devnet

@@ -1,6 +1,7 @@
 symbol: MMMM
 name: Mobile Money
 decimals: 0
+img: https://raw.githubusercontent.com/peteshouse/logo/main/Logo.png
 tags:
   - fan-token
   - Game

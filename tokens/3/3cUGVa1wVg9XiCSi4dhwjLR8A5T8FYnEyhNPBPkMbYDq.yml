@@ -3,5 +3,6 @@ name: Otaku Origins WL Token
 decimals: 0
 extensions:
   website: https://otakuorigins.io/
+img: https://raw.githubusercontent.com/matlirman/token-list/main/assets/mainnet/3CXVYitUaSMxifZKyiBRDT1TMcGrL1nJ2WfwdgnnvrKS/logo.png
 tags:
   - mint-token

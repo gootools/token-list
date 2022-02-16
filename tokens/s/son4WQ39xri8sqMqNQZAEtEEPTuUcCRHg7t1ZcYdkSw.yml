@@ -3,5 +3,6 @@ name: Saber JSOL-SOL LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/jsol
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png
 tags:
   - saber-stableswap-lp

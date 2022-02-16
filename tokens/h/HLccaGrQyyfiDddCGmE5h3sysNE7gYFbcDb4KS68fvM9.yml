@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   description: The most F!@#'d up beyond all recognition crypto
   website: https://coin.fubar.icu/
+img: https://raw.githubusercontent.com/gruntlabs/fubar-coin/main/assets/FUBAR_icon.png
 tags:
   - community-token
   - social-token

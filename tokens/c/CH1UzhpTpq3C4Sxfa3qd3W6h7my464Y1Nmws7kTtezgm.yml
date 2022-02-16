@@ -5,5 +5,6 @@ extensions:
   description: A virtual economic system for my community.
   discord: https://discord.gg/N49Gxsu
   twitter: https://twitter.com/WarriorsArmyOff
+img: https://raw.githubusercontent.com/Warriors-Army/WACoin/main/wac-coin.png
 tags:
   - social-token

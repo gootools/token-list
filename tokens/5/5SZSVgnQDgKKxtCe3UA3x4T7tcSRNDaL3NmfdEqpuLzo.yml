@@ -3,6 +3,7 @@ name: BabylonDAO
 decimals: 9
 extensions:
   twitter: https://twitter.com/babylondao
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg
 tags:
   - BabylonDAO
   - Defi

@@ -1,5 +1,6 @@
 symbol: BRC
 name: BrexCoin
 decimals: 0
+img: https://raw.githubusercontent.com/DavidPackard/crypto/main/logo.png
 tags:
   - social-token

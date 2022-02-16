@@ -1,5 +1,6 @@
 symbol: OSIP
 name: OSIP Coin
 decimals: 9
+img: https://raw.githubusercontent.com/batangilog/osip/main/image.png
 tags:
   - social-token

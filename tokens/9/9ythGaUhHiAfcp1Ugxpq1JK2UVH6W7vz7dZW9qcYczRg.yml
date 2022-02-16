@@ -1,5 +1,6 @@
 symbol: VATO
 name: VatoCoin
 decimals: 0
+img: https://raw.githubusercontent.com/anthony0723/vatocoin/main/VCoin.png
 tags:
   - social-token

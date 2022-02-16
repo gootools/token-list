@@ -3,6 +3,7 @@ name: ByteHype
 decimals: 4
 extensions:
   website: https://ByteHype.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FA49FHHB1DUCL9WPykw9yf58voRk92WwYNDjMa5Gq7tc/logo.png
 tags:
   - community-token
   - social-token

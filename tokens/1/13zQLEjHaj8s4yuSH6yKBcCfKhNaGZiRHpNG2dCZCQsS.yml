@@ -3,6 +3,7 @@ name: Penguins
 decimals: 0
 extensions:
   twitter: https://twitter.com/p1otek
+img: https://raw.githubusercontent.com/p1otek/pinguin/main/pingwin_solana.jpg
 tags:
   - community
   - nft-token

@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/spiderman
   website: https://www.marvel.com/characters/spider-man-peter-parker
+img: https://raw.githubusercontent.com/SolanaTokenMerger/SpiderMan-Coin/main/logo.png
 tags:
   - community-token
   - social-token

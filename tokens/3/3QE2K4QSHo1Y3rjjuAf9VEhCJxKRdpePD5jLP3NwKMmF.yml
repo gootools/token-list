@@ -1,6 +1,7 @@
 symbol: $DOPE
 name: HellaDope
 decimals: 18
+img: https://raw.githubusercontent.com/Texaglo/helladope/main/logo.jpg
 tags:
   - community-token
   - social-token

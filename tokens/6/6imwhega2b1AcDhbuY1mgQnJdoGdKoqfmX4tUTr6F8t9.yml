@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/nike
   website: https://nike.com
+img: https://raw.githubusercontent.com/SolanaTokenMerger/Nike-Coin/main/logo.png
 tags:
   - community-token
   - meme-token

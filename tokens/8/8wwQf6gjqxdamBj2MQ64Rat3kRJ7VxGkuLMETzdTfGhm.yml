@@ -1,6 +1,7 @@
 symbol: CHIP
 name: Poker
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Poker.png
 tags:
   - community
   - Gamble

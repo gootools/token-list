@@ -8,6 +8,7 @@ extensions:
   coingeckoId: reserve-rights-token
   serumV3Usdc: GqgkxEswUwHBntmzb5GpUhKrVpJhzreSruZycuJwdNwB
   serumV3Usdt: 2j2or38X2FUbpkK4gkgvjDtqN3ibkKw3v5yn7o2gHqPc
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr/logo.png
 tags:
   - wrapped
   - wormhole

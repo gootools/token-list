@@ -3,6 +3,7 @@ name: Gezondheid Adviseur
 decimals: 0
 extensions:
   website: https://blocksto.ne/gezondheid-adviseur/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6WP1cizTmefsGBhKu2Fyb2XLS7G29h1ktNp6NWD628FB/gezond.png
 tags:
   - Blockstone
   - gezondheid-adviseur

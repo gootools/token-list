@@ -3,6 +3,7 @@ name: Bark o Finance
 decimals: 1
 extensions:
   twitter: https://twitter.com/Bark_Solana
+img: https://i.imgur.com/X90vi6d.png
 tags:
   - meme-token
   - utility-token

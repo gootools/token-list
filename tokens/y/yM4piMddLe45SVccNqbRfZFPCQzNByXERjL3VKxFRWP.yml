@@ -3,5 +3,6 @@ name: Yield Mercurial LP Token (wbBUSD-4Pool)
 decimals: 8
 extensions:
   website: https://bunnyducky.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yM4piMddLe45SVccNqbRfZFPCQzNByXERjL3VKxFRWP/logo.svg
 tags:
   - yield-token

@@ -1,5 +1,6 @@
 symbol: HGEN
 name: HGEN
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97MxeDbRgc6vYP1Sty2XdPXks3QhMD97EVYJ9pP4XcR3/logo.png
 clusters:
   - devnet

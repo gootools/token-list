@@ -3,3 +3,4 @@ name: Wrapped BTC (Allbridge from BSC)
 decimals: 9
 extensions:
   coingeckoId: wrapped-bitcoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png

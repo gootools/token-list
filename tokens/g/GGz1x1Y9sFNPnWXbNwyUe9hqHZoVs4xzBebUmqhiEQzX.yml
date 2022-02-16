@@ -3,6 +3,7 @@ name: CROC
 decimals: 9
 extensions:
   twitter: https://twitter.com/SolanaCBS
+img: https://raw.githubusercontent.com/neversl33p/logo/main/Logo%20coin.png
 tags:
   - community-token
   - social-token

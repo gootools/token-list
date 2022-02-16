@@ -3,5 +3,6 @@ name: BROCCOLI
 decimals: 4
 extensions:
   twitter: https://twitter.com/cybervillainz
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Z21GPCZSyrieTN3tYtPHUmuLWBffW9L86wqyZBj84Fv/logo.png
 tags:
   - utility-token

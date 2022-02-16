@@ -20,5 +20,6 @@ extensions:
   imageUrl: https://storage.googleapis.com/nft-assets/ReBirth/poster-15/armstrong-forever.jpg
   serumV3Usdc: 8yQzsbraXJFoPG5PdX73B8EVYFuPR9aC2axAqWearGKu
   website: https://www.staratlas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vi6PTKBFHR2hXgyjoTZx6h7WXNkFAA5dCsZRSi4higK/logo.png
 tags:
   - nft

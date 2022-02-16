@@ -3,5 +3,6 @@ name: Dojo coin
 decimals: 6
 extensions:
   website: https://storage.googleapis.com/dojo-coin/index.html
+img: https://storage.googleapis.com/dojo-coin/logo.png
 tags:
   - utility-token

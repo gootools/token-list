@@ -8,6 +8,7 @@ extensions:
   telegram: https://t.me/cointumi
   twitter: https://twitter.com/tumicommunity
   website: https://cointumi.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/p9tNnBf4PDA7WSSFj5EVZddai6WoEiNk5B5FMyeQLtu/logo.png
 tags:
   - wrapped
   - wormhole

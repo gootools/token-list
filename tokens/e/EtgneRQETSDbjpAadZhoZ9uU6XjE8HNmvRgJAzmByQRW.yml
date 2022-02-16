@@ -6,6 +6,7 @@ extensions:
   telegram: https://t.me/SocialCoinNews
   twitter: https://twitter.com/SocialCoin3
   website: https://oursocialcoin.org/
+img: https://raw.githubusercontent.com/OurSocialCoin/SocialCoin/main/logo-socialcoin-256x256.png
 tags:
   - Community-token
   - DeFi

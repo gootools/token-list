@@ -8,6 +8,7 @@ extensions:
   coingeckoId: perpetual-protocol
   serumV3Usdc: Ao8HgYFCT2BJHxSusZbpJCPhvFMFXZApqN2uy2trbQRa
   serumV3Usdt: 5EoZqJZrmKmq1yeRkYAerbJhcs92DZbCtW86EhPYCio2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn/logo.png
 tags:
   - wrapped
   - wormhole

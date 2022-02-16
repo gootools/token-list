@@ -3,6 +3,7 @@ name: APT3 Coin
 decimals: 0
 extensions:
   website: https://www.apt3.com
+img: https://raw.githubusercontent.com/stsomeware/apt3/main/logo.png
 tags:
   - community-token
   - social-token

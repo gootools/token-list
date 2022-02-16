@@ -3,5 +3,6 @@ name: Doodle Bunny Whitelist
 decimals: 0
 extensions:
   website: https://doodlebunny.io/
+img: https://nova-host.nyc3.cdn.digitaloceanspaces.com/doodlebunny/doodlebunny-icon.png
 tags:
   - community-token

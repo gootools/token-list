@@ -1,5 +1,6 @@
 symbol: STRK
 name: StrikeForce
 decimals: 9
+img: https://raw.githubusercontent.com/spacepriest/StrikeForce/main/logo.png
 tags:
   - social-token

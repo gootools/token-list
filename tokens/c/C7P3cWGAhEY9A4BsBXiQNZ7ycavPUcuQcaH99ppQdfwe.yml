@@ -3,5 +3,6 @@ name: Honey Coin
 decimals: 6
 extensions:
   telegram: https://t.me/+a5XKRkBSz3xkOTQ9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7P3cWGAhEY9A4BsBXiQNZ7ycavPUcuQcaH99ppQdfwe/logo.png
 tags:
   - community-token

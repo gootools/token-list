@@ -1,6 +1,7 @@
 symbol: MARTAN
 name: Martan Coin
 decimals: 0
+img: https://raw.githubusercontent.com/martanrauber/token/main/logo.png
 tags:
   - community-token
   - meme-token

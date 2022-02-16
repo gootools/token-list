@@ -3,6 +3,7 @@ name: Negatron
 decimals: 9
 extensions:
   description: NET is a governance and utility token for Ubik LoFi metaverse.
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsiP4tPh6tWfgKMjTibhA5H6ge3EnHSyh3iPPDEFSqSu/logo.png
 tags:
   - governance-token
   - social-token

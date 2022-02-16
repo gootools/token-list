@@ -11,5 +11,6 @@ extensions:
   telegram: https://t.me/solbet_official
   twitter: https://twitter.com/solbet_official
   website: https://solbet.org/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UMYcByZNQVHHyyqVfXMKr8XWP64omYBFVvf7bD6wBiA/logo.svg
 tags:
   - utility-token

@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: IMIX is a Solana token that can be used to pay for virtual lands
     and properties as well as in-world goods and services
+img: https://raw.githubusercontent.com/imixtoken/crypto/main/logo.png
 tags:
   - metaverse
   - social

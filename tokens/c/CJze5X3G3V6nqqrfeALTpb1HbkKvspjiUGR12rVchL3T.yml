@@ -1,6 +1,7 @@
 symbol: SOC
 name: Solcrystol
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJze5X3G3V6nqqrfeALTpb1HbkKvspjiUGR12rVchL3T/SOC.png
 tags:
   - community-token
   - game

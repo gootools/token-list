@@ -1,6 +1,7 @@
 symbol: SHAWK
 name: Solana HAWK
 decimals: 9
+img: https://raw.githubusercontent.com/Nasino1/logo-/main/logo.png
 tags:
   - community-token
   - utility-token

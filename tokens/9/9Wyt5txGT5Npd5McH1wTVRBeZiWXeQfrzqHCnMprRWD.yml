@@ -1,5 +1,6 @@
 symbol: SHARKY
 name: SharkyCoin
 decimals: 0
+img: https://raw.githubusercontent.com/SharkyCoin/Sharky/main/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: Berkshire Hathaway Inc
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?BRKA
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dj76V3vdFGGE8444NWFACR5qmtJrrSop5RCBAGbC88nr/logo.png
 tags:
   - tokenized-stock

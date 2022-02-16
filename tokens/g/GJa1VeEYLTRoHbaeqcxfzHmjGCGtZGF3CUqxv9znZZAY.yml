@@ -6,6 +6,7 @@ extensions:
   assetContract: https://etherscan.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498
   bridgeContract: https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585
   coingeckoId: 0x
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY/logo.png
 tags:
   - ethereum
   - wrapped

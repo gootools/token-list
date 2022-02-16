@@ -3,6 +3,7 @@ name: Phantom Phantomovich (BsJ5)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/y3xTFb1EPZqrUp4EKzUuinJn1Fa5ywJAgG5xyiZLqQj?src=token-list
+img: https://devbeta.human.ag/api/profile/y3xTFb1EPZqrUp4EKzUuinJn1Fa5ywJAgG5xyiZLqQj/picture?src=token-list
 tags:
   - human
   - social-token

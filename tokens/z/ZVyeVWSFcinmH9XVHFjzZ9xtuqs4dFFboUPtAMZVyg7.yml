@@ -5,6 +5,7 @@ extensions:
   discord: http://discord.link/SAMODOGE
   twitter: https://twitter.com/samodoge
   website: http://samodoge.com/
+img: https://cdn.jsdelivr.net/gh/Samodoge/samodogelogo@master/samodoge.png
 tags:
   - community-token
   - meme-coin

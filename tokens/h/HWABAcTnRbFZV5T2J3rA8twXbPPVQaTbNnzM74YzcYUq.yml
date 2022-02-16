@@ -1,5 +1,6 @@
 symbol: SPEV
 name: SpeveCoin
 decimals: 0
+img: https://raw.githubusercontent.com/SpeveCoin/crypto/main/Logo.png
 tags:
   - social-token

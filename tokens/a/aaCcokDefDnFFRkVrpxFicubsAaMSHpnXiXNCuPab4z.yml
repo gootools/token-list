@@ -1,5 +1,6 @@
 symbol: GRBL
 name: Greeble Coin
 decimals: 2
+img: https://raw.githubusercontent.com/joshtasman/cSolana/main/grbl_logo.jpg
 tags:
   - social-token

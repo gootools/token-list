@@ -3,5 +3,6 @@ name: MARBLZ Coin
 decimals: 0
 extensions:
   website: https://marblz.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ouSGk4PvjczBVKqXaV5TCuYpZgw8KhcJovvUfyUdsSv/logo.png
 tags:
   - meme-token

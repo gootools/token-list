@@ -5,5 +5,6 @@ extensions:
   coingeckoId: orbs
   twitter: https://twitter.com/orbs_network
   website: https://www.orbs.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp/logo.png
 tags:
   - utility-token

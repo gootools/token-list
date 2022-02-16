@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: Gen0 Laohu Kingdom Mint Token
   website: https://www.laohukingdom.com/
+img: https://raw.githubusercontent.com/GaitanaruAndrei/assets/main/laohu.png
 tags:
   - community-token
   - social-token

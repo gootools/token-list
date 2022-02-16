@@ -1,5 +1,6 @@
 symbol: LUCK
 name: Luck Token
 decimals: 0
+img: https://raw.githubusercontent.com/adriangl98/crypto/main/logo.png
 tags:
   - social-token

@@ -3,6 +3,7 @@ name: Beverweerd Castle
 decimals: 0
 extensions:
   website: https://www.blocksto.ne/castle
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fb1RdmtEdhyYWATEGMrLC27DmYdszpGfzg4aGoduzkb6/castle1PNG.png
 tags:
   - asset-token
   - Beverweerd

@@ -1,5 +1,6 @@
 symbol: CORP
 name: UniMetaCorp
 decimals: 6
+img: https://raw.githubusercontent.com/sergpelayo/UniMetaCorp/main/ISOTIPO.png
 tags:
   - utility-token

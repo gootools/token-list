@@ -4,6 +4,7 @@ decimals: 6
 extensions:
   twitter: https://twitter.com/vcc_finance
   website: https://www.vcc.finance/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZgL5motNWEDEa24xgfSdBDfXkB9Ru9KxfEsey9S58bb/logo.svg
 tags:
   - incubator
   - IDO

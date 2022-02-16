@@ -1,5 +1,6 @@
 symbol: TREE
 name: TreeCoin
 decimals: 6
+img: https://raw.githubusercontent.com/ZettaTree/treecrypto/main/tree.png
 tags:
   - social-token

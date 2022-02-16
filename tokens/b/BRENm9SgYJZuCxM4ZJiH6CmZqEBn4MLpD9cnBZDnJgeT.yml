@@ -3,6 +3,7 @@ name: Saber wibBTC_V1-renBTC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/ibbtc_ren
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-wormhole-v1

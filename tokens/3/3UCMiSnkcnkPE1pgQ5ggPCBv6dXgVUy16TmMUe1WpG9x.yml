@@ -8,6 +8,7 @@ extensions:
   coingeckoId: aleph-im
   serumV3Usdc: Fw4mvuE7KZmTjQPxP2sRpHwPDfRMWnKBupFZGyW9CAQH
   serumV3Usdt: GZeHR8uCTVoHVDZFRVXTgm386DK1EKehy9yMS3BFChcL
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x/logo.png
 tags:
   - ethereum
   - wrapped

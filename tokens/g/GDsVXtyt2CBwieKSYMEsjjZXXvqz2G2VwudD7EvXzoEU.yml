@@ -3,6 +3,7 @@ name: Hiram Coin
 decimals: 3
 extensions:
   website: https://freemason-coin.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU/logo.png
 tags:
   - community-token
   - meme-token

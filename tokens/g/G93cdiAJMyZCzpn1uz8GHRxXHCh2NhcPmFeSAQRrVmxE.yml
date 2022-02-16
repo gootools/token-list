@@ -3,6 +3,7 @@ name: Flint
 decimals: 4
 extensions:
   website: https://caveman.games/
+img: https://raw.githubusercontent.com/jamalalishov/Flinttoken/main/flintlogo.png
 tags:
   - community-token
   - game-token

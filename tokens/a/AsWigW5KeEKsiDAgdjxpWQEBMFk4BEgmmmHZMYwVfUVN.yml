@@ -3,3 +3,4 @@ name: zkrollup cross chain link
 decimals: 9
 extensions:
   website: https://zk.link
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN/logo.png

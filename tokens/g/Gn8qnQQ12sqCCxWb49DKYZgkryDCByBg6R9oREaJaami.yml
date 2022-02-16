@@ -1,5 +1,6 @@
 symbol: DAYZ
 name: Dayz-HK Token
 decimals: 0
+img: https://raw.githubusercontent.com/dayz-hk/crypto/main/logo.png
 tags:
   - social-token

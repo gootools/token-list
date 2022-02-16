@@ -3,3 +3,4 @@ name: Snek Coin
 decimals: 0
 extensions:
   twitter: https://twitter.com/snekcoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7LmGzEgnQZTxxeCThgxsv3xe4JQmiy9hxEGBPCF66KgH/logo.png

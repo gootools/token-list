@@ -6,6 +6,7 @@ extensions:
   assetContract: https://etherscan.io/address/0x2ba592F78dB6436527729929AAf6c908497cB200
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: cream-2
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9iwfHhE7BJKNo4Eb1wX3p4uyJjEN9RoGLt4BvMdzZoiN/logo.png
 tags:
   - wrapped
   - wormhole

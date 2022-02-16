@@ -1,5 +1,6 @@
 symbol: BLCWL
 name: Bluechip Mint
 decimals: 0
+img: https://raw.githubusercontent.com/NFTBrickLayer/assets/main/BLC-logo.png
 tags:
   - whitelist-token

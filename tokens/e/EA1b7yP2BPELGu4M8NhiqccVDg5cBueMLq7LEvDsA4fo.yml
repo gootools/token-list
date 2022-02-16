@@ -1,5 +1,6 @@
 symbol: LITC
 name: LitCoin
 decimals: 0
+img: https://raw.githubusercontent.com/asidscript/LitCoin/main/logo.png
 tags:
   - social-token

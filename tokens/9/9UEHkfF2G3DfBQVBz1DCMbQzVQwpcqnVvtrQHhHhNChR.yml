@@ -5,5 +5,6 @@ extensions:
   description: Solana Meow Meow coin is dedicated to cats around the world!
   twitter: https://twitter.com/solmeowmeow
   website: https://github.com/solmeowmeow/sol-meow-meow-coin
+img: https://raw.githubusercontent.com/solmeowmeow/sol-meow-meow-coin/main/solmeowmeow.png
 tags:
   - meme-token

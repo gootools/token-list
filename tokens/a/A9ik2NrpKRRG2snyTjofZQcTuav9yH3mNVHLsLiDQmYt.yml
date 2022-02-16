@@ -8,6 +8,7 @@ extensions:
   coingeckoId: frontier
   serumV3Usdc: B95oZN5HCLGmFAhbzReWBA9cuSGPFQAXeuhm2FfpdrML
   serumV3Usdt: DZTYyy1L5Pr6DmTtYY5bEuU9g3LQ4XGvuYiN3zS25yG7
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt/logo.png
 tags:
   - ethereum
   - wrapped

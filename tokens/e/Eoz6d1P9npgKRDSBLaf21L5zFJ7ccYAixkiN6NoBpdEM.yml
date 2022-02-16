@@ -1,5 +1,6 @@
 symbol: TPG
 name: TPG Coin
 decimals: 0
+img: https://raw.githubusercontent.com/thomasgregg/soltoken/main/logo.png
 tags:
   - social-token

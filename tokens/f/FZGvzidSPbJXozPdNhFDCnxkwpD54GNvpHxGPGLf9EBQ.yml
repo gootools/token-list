@@ -3,6 +3,7 @@ name: Celestial Light Token
 decimals: 6
 extensions:
   website: https://celestialhoosters.com
+img: https://github.com/kozhi-dreams/Light-token-logo/raw/main/Light-token-logo.png
 tags:
   - community
   - nft-token

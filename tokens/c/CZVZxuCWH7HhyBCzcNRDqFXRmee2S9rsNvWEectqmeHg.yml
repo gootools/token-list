@@ -3,5 +3,6 @@ name: Grapheene Token
 decimals: 9
 extensions:
   website: https://grapheene.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZVZxuCWH7HhyBCzcNRDqFXRmee2S9rsNvWEectqmeHg/logo.png
 tags:
   - utility-token

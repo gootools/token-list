@@ -3,6 +3,7 @@ name: Raydium LP Token (ATLAS-RAY)
 decimals: 9
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4sGmJRR53TLUo6S1ovFChdEuEssjymPNuEaaDQacuKws/logo.png
 tags:
   - lp-token
 clusters:

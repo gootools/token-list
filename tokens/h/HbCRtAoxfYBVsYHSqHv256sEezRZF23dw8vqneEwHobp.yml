@@ -1,6 +1,7 @@
 symbol: CLDY
 name: Cloudie
 decimals: 0
+img: https://raw.githubusercontent.com/Master-Teddy/crypto.logo/main/crypto.logo.png
 tags:
   - capped-supply
   - defatory-token

@@ -3,6 +3,7 @@ name: Instagram NFT AKG
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/Akgos26wxMj1XDoY9uojm4KMsALT87QtgbZEB2GENH8X
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Akgos26wxMj1XDoY9uojm4KMsALT87QtgbZEB2GENH8X/logo.jpg
 tags:
   - instagram
   - nft

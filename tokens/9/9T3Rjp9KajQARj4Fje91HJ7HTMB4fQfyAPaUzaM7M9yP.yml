@@ -3,5 +3,6 @@ name: P
 decimals: 9
 extensions:
   twitter: https://twitter.com/PUSHpresident
+img: https://raw.githubusercontent.com/BrandonClem/Crypto/main/P.png
 tags:
   - social-token

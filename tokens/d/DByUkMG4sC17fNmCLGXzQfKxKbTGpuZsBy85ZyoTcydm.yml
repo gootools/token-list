@@ -3,5 +3,6 @@ name: BrillFoodCoin
 decimals: 0
 extensions:
   website: https://bfc.brilltek.com.tw
+img: https://gitlab.com/brilltek42-oss/bfc-assets/-/raw/master/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: Raydium LP Token V4 (BTC-USDT)
 decimals: 6
 extensions:
   website: https://raydium.io/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DgGuvR9GSHimopo3Gc7gfkbKamLKrdyzWkq5yqA6LqYS/logo.png
 tags:
   - lp-token

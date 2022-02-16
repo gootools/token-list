@@ -3,6 +3,7 @@ name: VMW Hands on Team - Coin of Excellence
 decimals: 1
 extensions:
   website: https://flashdumper.github.io
+img: https://raw.githubusercontent.com/flashdumper/coe/master/logo.png
 tags:
   - meme-token
   - utility-token

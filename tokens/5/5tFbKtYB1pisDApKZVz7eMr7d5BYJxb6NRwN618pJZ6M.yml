@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   discord: https://discord.gg/mZJ8XZFjTs
   twitter: https://twitter.com/LoneStarToken
+img: https://raw.githubusercontent.com/BitRacer/LoneStar/main/LoneStar.png
 tags:
   - commodity-token
   - gaming-token

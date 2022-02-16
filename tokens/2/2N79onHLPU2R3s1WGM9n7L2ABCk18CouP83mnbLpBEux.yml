@@ -1,5 +1,6 @@
 symbol: WINC
 name: Wubba Inc Coin
 decimals: 8
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2N79onHLPU2R3s1WGM9n7L2ABCk18CouP83mnbLpBEux/logo.png
 tags:
   - social-token

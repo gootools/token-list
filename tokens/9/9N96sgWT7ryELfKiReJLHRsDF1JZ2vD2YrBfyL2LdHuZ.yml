@@ -3,5 +3,6 @@ name: Huz
 decimals: 9
 extensions:
   website: https://baliarena.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9N96sgWT7ryELfKiReJLHRsDF1JZ2vD2YrBfyL2LdHuZ/logo.png
 tags:
   - utility-token

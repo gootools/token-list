@@ -3,5 +3,6 @@ name: Dean
 decimals: 9
 extensions:
   website: https://itsthelabel.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DWnBMN8ec2Nk4koNGzWCAYee7gpWSXp3yTmwBsvRaxud/logo.png
 tags:
   - social-token

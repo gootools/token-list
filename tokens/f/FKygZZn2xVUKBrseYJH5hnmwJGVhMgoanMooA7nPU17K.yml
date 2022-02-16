@@ -1,6 +1,7 @@
 symbol: NGCT
 name: NairaCoin Token
 decimals: 9
+img: https://raw.githubusercontent.com/samwarlock/nairatoken/main/icon.PNG
 tags:
   - social-token
   - utility-token

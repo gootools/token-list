@@ -3,6 +3,7 @@ name: Fu Coin
 decimals: 9
 extensions:
   website: https://fucoin.me
+img: https://raw.githubusercontent.com/skunk-fu/sol-fu-coin/main/logo.png
 tags:
   - community-token
   - meme-token

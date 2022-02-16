@@ -3,5 +3,6 @@ name: NFT COIN
 decimals: 6
 extensions:
   website: https://twitter.com/btcnftcoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACejrU5GujUeasmQfdJ51zVjZtntyXLpohihut6eHHWT/logo.png
 tags:
   - solmergeaicom

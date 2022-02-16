@@ -3,6 +3,7 @@ name: Saber pUSDT-pUSDC LP
 decimals: 6
 extensions:
   website: https://app.saber.so/#/pools/port_2pool
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-port

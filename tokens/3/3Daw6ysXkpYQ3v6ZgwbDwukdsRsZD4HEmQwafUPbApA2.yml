@@ -3,6 +3,7 @@ name: New Media Coin
 decimals: 0
 extensions:
   website: https://newmediacoin.com
+img: https://raw.githubusercontent.com/Scrump/newmediacoin/main/logo.png
 tags:
   - community-token
   - social-token

@@ -1,5 +1,6 @@
 symbol: BAY
 name: BayCoin
 decimals: 0
+img: https://raw.githubusercontent.com/UnlimitedKnowledge/BayCoin/main/logo.png
 tags:
   - social-token

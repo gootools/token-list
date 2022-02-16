@@ -4,6 +4,7 @@ decimals: 12
 extensions:
   blog: https://acomdir.com
   website: https://jenka-nauta.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C3TJTA1NPMK1JsWzs7afYTTFnybVCXzwA6ZSe5ksx4Xw/logo.png
 tags:
   - air-drop-token
   - community-token

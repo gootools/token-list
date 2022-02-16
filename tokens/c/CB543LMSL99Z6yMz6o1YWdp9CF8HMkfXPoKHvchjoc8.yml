@@ -3,5 +3,6 @@ name: webeMutt
 decimals: 0
 extensions:
   website: https://webeteer.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CB543LMSL99Z6yMz6o1YWdp9CF8HMkfXPoKHvchjoc8/logo.png
 tags:
   - social-token

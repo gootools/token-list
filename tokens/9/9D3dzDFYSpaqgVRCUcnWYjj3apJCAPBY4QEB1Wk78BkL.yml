@@ -1,6 +1,7 @@
 symbol: AMT
 name: Amethyst
 decimals: 0
+img: https://raw.githubusercontent.com/Hariienesh1901/Amethyst/main/logo.png
 tags:
   - social-token
 clusters:

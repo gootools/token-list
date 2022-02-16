@@ -1,6 +1,7 @@
 symbol: BND
 name: Bender
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/a4373694e907dc8749bdd7a07731257db8f5a39b/assets/mainnet/Bender.JPG
 tags:
   - community-token
   - game-token

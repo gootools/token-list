@@ -1,5 +1,6 @@
 symbol: BOKT
 name: bookcointoken
 decimals: 0
+img: https://raw.githubusercontent.com/bookcointoken/crypto/main/BookLOGO.png
 tags:
   - social-token

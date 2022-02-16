@@ -3,6 +3,7 @@ name: Saber aaDAI-USDC LP
 decimals: 9
 extensions:
   website: https://app.saber.so/#/pools/aadai
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC/icon.png
 tags:
   - saber-stableswap-lp
   - saber-lp-allbridge

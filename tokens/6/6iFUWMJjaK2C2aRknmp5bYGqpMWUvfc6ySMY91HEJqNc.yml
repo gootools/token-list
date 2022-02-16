@@ -3,6 +3,7 @@ name: Thimp Coin
 decimals: 0
 extensions:
   github: https://github.com/Thimp-com
+img: https://raw.githubusercontent.com/Thimp-com/uploads/main/logo.png
 tags:
   - social-token
   - util-token

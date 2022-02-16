@@ -1,5 +1,6 @@
 symbol: ENUM
 name: Enum Coin
 decimals: 0
+img: https://github.com/chrismengle/crypto/blob/main/logo.png
 tags:
   - social-token

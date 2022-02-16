@@ -3,5 +3,6 @@ name: Mint Discount Team Tuskers
 decimals: 0
 extensions:
   website: https://www.teamtuskers.com/
+img: https://www.teamtuskers.com/wp-content/uploads/2021/12/tuskers-logo-circle-01.png
 tags:
   - discount-token

@@ -1,6 +1,7 @@
 symbol: kiwik
 name: Kiwik Coin
 decimals: 0
+img: https://raw.githubusercontent.com/yassix91/habandagaCoin/main/landing-kiwik.png
 tags:
   - platform
   - payment

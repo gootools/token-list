@@ -3,6 +3,7 @@ name: Genial4 Educational Token
 decimals: 9
 extensions:
   website: https://www.genial4.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3TaJVXPNLujB1ZCbLCxHJkwjTj8DfGc35GXtgmHpybs2/logo.png
 tags:
   - genial4
   - utility-token

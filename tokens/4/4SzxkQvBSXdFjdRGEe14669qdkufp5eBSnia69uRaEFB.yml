@@ -3,6 +3,7 @@ name: PopCoin
 decimals: 9
 extensions:
   twitter: https://twitter.com/OfficialPopCoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SzxkQvBSXdFjdRGEe14669qdkufp5eBSnia69uRaEFB/logo.png
 tags:
   - MetaVerse
   - nft-token

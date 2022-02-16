@@ -8,6 +8,7 @@ extensions:
     token, every update will be voted on and decided by the community.
   reddit: https://www.reddit.com/r/RebootToken/
   twitter: https://twitter.com/RebootToken
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DwZaJ7y9uJJESB3vtbPo6nkTPwCkxNu2WXNnVCBwCxcp/RebootLogo.png
 tags:
   - community-token
   - meme-token

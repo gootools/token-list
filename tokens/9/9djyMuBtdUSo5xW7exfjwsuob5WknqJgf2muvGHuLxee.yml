@@ -1,5 +1,6 @@
 symbol: PTN-USDC
 name: PTN-USDC LP
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9djyMuBtdUSo5xW7exfjwsuob5WknqJgf2muvGHuLxee/logo.png
 tags:
   - lp-token

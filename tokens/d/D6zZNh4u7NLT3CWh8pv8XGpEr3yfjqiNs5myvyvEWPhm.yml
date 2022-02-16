@@ -3,6 +3,7 @@ name: Wallet 6 (D6zZ)
 decimals: 4
 extensions:
   website: https://devbeta.human.ag/address/2kZYqyAGZ8c9Ud1cdhoEqPipnmd8BS6pBZ8oEem3oPae?src=token-list
+img: https://devbeta.human.ag/api/profile/2kZYqyAGZ8c9Ud1cdhoEqPipnmd8BS6pBZ8oEem3oPae/picture?src=token-list
 tags:
   - human
   - social-token

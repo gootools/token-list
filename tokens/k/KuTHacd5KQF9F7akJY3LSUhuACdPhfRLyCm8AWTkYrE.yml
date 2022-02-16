@@ -4,6 +4,7 @@ decimals: 0
 extensions:
   description: KWT is a whitelist token for preminting the Kuroda genisys collection
   website: https://kurodaclub.com/
+img: https://raw.githubusercontent.com/tessareskuroda/kurodatoken/master/logo.png
 tags:
   - kuroda-tokens
   - whitelist

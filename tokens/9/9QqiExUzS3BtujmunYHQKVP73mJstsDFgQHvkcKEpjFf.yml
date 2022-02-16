@@ -1,5 +1,6 @@
 symbol: KUBE
 name: Kube Coin
 decimals: 0
+img: https://raw.githubusercontent.com/jankube-de/coin/main/logo.png
 tags:
   - social-token

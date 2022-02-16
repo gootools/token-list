@@ -3,5 +3,6 @@ name: Atlantis Universe
 decimals: 9
 extensions:
   twitter: https://twitter.com/atlantisvers
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ew2xovnfCPoUwPeqtRJrk3ST8o6txNFPL2QxrcZrbspv/logo.png
 tags:
   - games-token

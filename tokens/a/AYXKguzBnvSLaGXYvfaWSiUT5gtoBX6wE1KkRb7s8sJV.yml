@@ -1,6 +1,7 @@
 symbol: MADZ
 name: MADZ social token
 decimals: 9
+img: https://cdn.jsdelivr.net/gh/bwoodr01/cdn@main/src/wine.png
 tags:
   - community-token
   - social-token

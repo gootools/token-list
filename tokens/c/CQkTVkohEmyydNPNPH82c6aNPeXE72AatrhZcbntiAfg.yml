@@ -3,6 +3,7 @@ name: The WAGMI VIP Club
 decimals: 4
 extensions:
   website: https://twitter.com/WAGMI_VIP_Club
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CQkTVkohEmyydNPNPH82c6aNPeXE72AatrhZcbntiAfg/logo.png
 tags:
   - Defi-Token
   - utility-token

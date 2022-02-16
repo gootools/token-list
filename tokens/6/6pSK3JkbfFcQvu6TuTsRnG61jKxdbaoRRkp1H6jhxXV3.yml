@@ -5,6 +5,7 @@ extensions:
   description: Cryptor let people invest in crypto throught Twitch.
   twitch: https://twitch.tv/bt0r
   twitter: https://twitter.com/biiitor
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6pSK3JkbfFcQvu6TuTsRnG61jKxdbaoRRkp1H6jhxXV3/logo_light.png
 tags:
   - earnings
   - streaming

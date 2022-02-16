@@ -3,5 +3,6 @@ name: Wrapped USDT (Allbridge from HECO)
 decimals: 9
 extensions:
   coingeckoId: tether
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png
 tags:
   - stablecoin

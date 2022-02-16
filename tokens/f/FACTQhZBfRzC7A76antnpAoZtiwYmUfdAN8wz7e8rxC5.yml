@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   coingeckoId: renbtc
   website: https://app.saber.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5/icon.png
 tags:
   - saber-market-btc
   - saber-dec-wrapped

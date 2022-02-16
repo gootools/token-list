@@ -3,6 +3,7 @@ name: RockDeFi Stablecoin
 decimals: 6
 extensions:
   website: https://rockdefi.app/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/usdrQqxAGgWsBRzzcckAi9ZAzHp19rFCNn87p4Q8Eir/logo.png
 tags:
   - asset
   - stablecoin

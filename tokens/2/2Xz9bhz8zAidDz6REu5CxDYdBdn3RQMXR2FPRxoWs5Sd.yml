@@ -3,6 +3,7 @@ name: LeoMac
 decimals: 0
 extensions:
   discord: https://discord.gg/feM342Y5
+img: https://raw.githubusercontent.com/smacdonald23/crypto/main/logo.png
 tags:
   - community-token
   - social-token

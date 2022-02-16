@@ -1,5 +1,6 @@
 symbol: ARS
 name: ARS Coin
 decimals: 0
+img: https://raw.githubusercontent.com/EuNetwork/Crypto/main/ARS_Logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: SPDR S&P 500 ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?SPY
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CS4tNS523VCLiTsGnYEAd6GqfrZNLtA14C98DC6gE47g/logo.svg
 tags:
   - tokenized-stock

@@ -3,6 +3,7 @@ name: Coffee
 decimals: 0
 extensions:
   twitter: https://twitter.com/HaydenDevs
+img: https://raw.githubusercontent.com/haydenzeller/CoffeeProtocol/main/img/Coffee.png
 tags:
   - payment-protocol
   - social-token

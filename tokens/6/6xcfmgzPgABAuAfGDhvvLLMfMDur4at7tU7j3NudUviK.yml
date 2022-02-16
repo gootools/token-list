@@ -4,5 +4,6 @@ decimals: 3
 extensions:
   twitter: https://twitter.com/ShukutaiDinos
   website: https://shukutaidinos.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6xcfmgzPgABAuAfGDhvvLLMfMDur4at7tU7j3NudUviK/logo.png
 tags:
   - utility-token

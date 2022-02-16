@@ -1,6 +1,7 @@
 symbol: LOOP
 name: LC Andy Social Token
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxCvbCVAtNUEKSiKoF6xt2pWPfpXuYFWYbuQySaRnV5R/logo.png
 tags:
   - loop
   - social-token

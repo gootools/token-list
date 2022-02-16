@@ -3,3 +3,4 @@ name: CELO (Allbridge from Celo)
 decimals: 9
 extensions:
   coingeckoId: celo
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GNCjk3FmPPgZTkbQRSxr6nCvLtYMbXKMnRxg8BgJs62e/logo.png

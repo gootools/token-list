@@ -4,5 +4,6 @@ decimals: 9
 extensions:
   twitter: https://twitter.com/SolanaSail
   website: https://www.solanasail.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GSaiLQxREzaxUcE3v28HxBacoUQPZNtXx1eQsCFsX9Bg/logo.png
 tags:
   - utility-token

@@ -3,5 +3,6 @@ name: Turf
 decimals: 0
 extensions:
   website: https://www.infamous-thugbirdz.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kti1UbBFcCZbfccmGE57W9f6Byy5EY9YLLdsecs3UHa/logo.jpg
 tags:
   - utility-token

@@ -1,5 +1,6 @@
 symbol: SHRTB
 name: Schrute Bucks
 decimals: 0
+img: https://raw.githubusercontent.com/haircutfish/crypto/main/schrutebucks.png
 tags:
   - social-token

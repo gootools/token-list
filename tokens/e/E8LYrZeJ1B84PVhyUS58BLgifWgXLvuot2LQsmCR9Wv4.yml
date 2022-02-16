@@ -3,5 +3,6 @@ name: Leaf Token
 decimals: 6
 extensions:
   website: https://perkypikas.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E8LYrZeJ1B84PVhyUS58BLgifWgXLvuot2LQsmCR9Wv4/logo.png
 tags:
   - utility-token

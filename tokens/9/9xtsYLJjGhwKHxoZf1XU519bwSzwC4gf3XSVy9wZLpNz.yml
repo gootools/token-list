@@ -3,5 +3,6 @@ name: StarSnuppy
 decimals: 9
 extensions:
   website: https://starsnuppy.wordpress.com/
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9xtsYLJjGhwKHxoZf1XU519bwSzwC4gf3XSVy9wZLpNz/logo.png
 tags:
   - coin

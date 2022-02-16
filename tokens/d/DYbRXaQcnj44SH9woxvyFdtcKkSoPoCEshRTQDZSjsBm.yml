@@ -1,6 +1,7 @@
 symbol: MARIJUANA
 name: Marijuana Joint
 decimals: 9
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYbRXaQcnj44SH9woxvyFdtcKkSoPoCEshRTQDZSjsBm/logo.png
 tags:
   - Meme
   - Social

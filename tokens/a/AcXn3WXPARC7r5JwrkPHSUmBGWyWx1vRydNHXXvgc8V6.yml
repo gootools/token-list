@@ -3,5 +3,6 @@ name: iShares MSCI Japan ETF
 decimals: 8
 extensions:
   website: https://www.digitalassets.ag/UnderlyingDetails?EWJ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AcXn3WXPARC7r5JwrkPHSUmBGWyWx1vRydNHXXvgc8V6/logo.svg
 tags:
   - tokenized-stock

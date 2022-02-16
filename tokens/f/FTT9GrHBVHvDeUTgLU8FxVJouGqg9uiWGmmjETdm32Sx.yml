@@ -4,6 +4,7 @@ decimals: 9
 extensions:
   coingeckoId: ftx-token
   website: https://app.saber.so
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx/icon.png
 tags:
   - saber-market-ftt
   - saber-dec-wrapped

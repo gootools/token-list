@@ -3,6 +3,7 @@ name: MEDSAF TOKEN
 decimals: 8
 extensions:
   website: https://medsaf.com
+img: https://dl.dropboxusercontent.com/s/gf6ici5n15krscy/medsaf.png?dl=0
 tags:
   - medsaf-token
   - medical-token

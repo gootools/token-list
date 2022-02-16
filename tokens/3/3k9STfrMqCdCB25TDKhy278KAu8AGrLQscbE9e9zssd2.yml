@@ -3,6 +3,7 @@ name: STRIKES
 decimals: 9
 extensions:
   website: https://monketoken.xyz/
+img: https://raw.githubusercontent.com/LazaBre/strikes/main/logo.png
 tags:
   - community-token
   - meme-token

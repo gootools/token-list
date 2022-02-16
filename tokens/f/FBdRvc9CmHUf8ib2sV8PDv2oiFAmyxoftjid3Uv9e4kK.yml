@@ -3,5 +3,6 @@ name: XIN Dragon Token
 decimals: 6
 extensions:
   website: https://xindragons.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FBdRvc9CmHUf8ib2sV8PDv2oiFAmyxoftjid3Uv9e4kK/logo.png
 tags:
   - utility-token

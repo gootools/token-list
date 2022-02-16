@@ -3,5 +3,6 @@ name: Smargasy Coin
 decimals: 4
 extensions:
   twitter: https://twitter.com/smargasy
+img: https://raw.githubusercontent.com/smargasy/crypto/main/logo.png
 tags:
   - social-token

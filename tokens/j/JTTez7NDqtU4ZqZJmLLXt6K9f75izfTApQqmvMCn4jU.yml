@@ -3,5 +3,6 @@ name: Japan Travel Token
 decimals: 0
 extensions:
   website: https://www.japantravel.me
+img: http://www.japantravel.me/jtticon.png
 tags:
   - utility-token

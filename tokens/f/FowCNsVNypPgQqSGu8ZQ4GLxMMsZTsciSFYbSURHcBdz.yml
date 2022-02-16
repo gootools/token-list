@@ -1,5 +1,6 @@
 symbol: ATOS
 name: Atom Solana Token
 decimals: 6
+img: https://raw.githubusercontent.com/Mickyfly/assets/f54a2c841882bce3cb4839166d47ef087bae8f22/logo.jpg
 tags:
   - social-token

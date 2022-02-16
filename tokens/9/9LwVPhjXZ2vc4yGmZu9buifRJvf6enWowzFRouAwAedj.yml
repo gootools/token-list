@@ -4,6 +4,7 @@ decimals: 4
 extensions:
   twitter: https://twitter.com/LibreAqua
   website: https://www.aqualibreproject.com
+img: https://raw.githubusercontent.com/Aqualibre/AQLAlogo/main/AQLA.png
 tags:
   - offset-token
   - utility-token

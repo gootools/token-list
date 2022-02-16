@@ -3,6 +3,7 @@ name: CoaseCoin
 decimals: 9
 extensions:
   website: http://exp.trading/coase
+img: https://raw.githubusercontent.com/MarkovExp/CoaseCoin/main/coaselogo.png
 tags:
   - community-token
   - meta-verse

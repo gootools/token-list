@@ -3,6 +3,7 @@ name: Vera
 decimals: 8
 extensions:
   website: http://veracurrency.com
+img: https://dl.dropboxusercontent.com/s/1h1kbyfwhf9m8t3/vera-logo.png?dl=0
 tags:
   - vera-token
 clusters:

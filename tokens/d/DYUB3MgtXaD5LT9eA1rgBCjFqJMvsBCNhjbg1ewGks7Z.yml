@@ -3,5 +3,6 @@ name: REVIVE Token
 decimals: 9
 extensions:
   description: REVIVE token associated with OneChurch in Sanford, MI.
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYUB3MgtXaD5LT9eA1rgBCjFqJMvsBCNhjbg1ewGks7Z/logo.png
 tags:
   - utility-token

@@ -1,6 +1,7 @@
 symbol: PETS
 name: Pets
 decimals: 9
+img: https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Pets.png
 tags:
   - community
   - cat

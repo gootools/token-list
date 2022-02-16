@@ -5,6 +5,7 @@ extensions:
   description: DevRaeph Coin is a special Token for Twitch viewers.
   twitch: https://twitch.tv/devraeph
   website: https://devraeph.com
+img: https://raw.githubusercontent.com/DevRaeph/crypto/main/logo.png
 tags:
   - earnings
   - streaming

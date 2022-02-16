@@ -1,5 +1,6 @@
 symbol: TTKN
 name: TonyToken
 decimals: 0
+img: https://raw.githubusercontent.com/bone-meal/tonytokens/main/tony.png
 tags:
   - social-token

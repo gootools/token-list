@@ -5,5 +5,6 @@ extensions:
   telegram: https://t.me/bitsolfinance
   twitter: https://twitter.com/bitsol_finance
   website: https://bitsol.finance
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5/logo.png
 tags:
   - DEX

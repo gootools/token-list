@@ -8,6 +8,7 @@ extensions:
   coingeckoId: aave
   serumV3Usdc: 8WZrmdpLckptiVKd2fPHPjewRVYQGQkjxi9vzRYG1sfs
   serumV3Usdt: LghsMERQWQFK3zWMTrUkoyAJARQw2wSmcYZjexeN3zy
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg/logo.png
 tags:
   - wrapped
   - wormhole

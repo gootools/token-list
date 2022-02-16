@@ -1,6 +1,7 @@
 symbol: MTDF
 name: Matilda Ferragni Coin
 decimals: 9
+img: https://raw.githubusercontent.com/SolanaTokenMerger/MatildaFerragni-Coin/main/logo.png
 tags:
   - community-token
   - meme-token

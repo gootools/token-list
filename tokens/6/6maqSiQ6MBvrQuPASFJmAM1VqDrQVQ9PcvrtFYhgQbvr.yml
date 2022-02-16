@@ -1,5 +1,6 @@
 symbol: ASKME
 name: ASK ME TOKEN
 decimals: 0
+img: https://raw.githubusercontent.com/sravannerella/askMeCrypto/main/ASKMe.png
 tags:
   - social-token

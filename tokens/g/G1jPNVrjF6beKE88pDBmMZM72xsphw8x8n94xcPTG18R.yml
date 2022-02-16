@@ -1,6 +1,7 @@
 symbol: CBETS
 name: CSEBets
 decimals: 0
+img: https://raw.githubusercontent.com/CSEBets/crypto/main/csebetslogo.jpg
 tags:
   - community-token
   - social-token

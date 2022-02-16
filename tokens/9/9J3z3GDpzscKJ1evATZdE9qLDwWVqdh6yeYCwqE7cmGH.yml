@@ -1,5 +1,6 @@
 symbol: BASEC
 name: Base Coin
 decimals: 0
+img: https://raw.githubusercontent.com/marcelbpcloud/basecoin/main/logo.png
 tags:
   - social-token

@@ -3,5 +3,6 @@ name: LDT Limited Drop Mint Pass
 decimals: 0
 extensions:
   website: https://livingdeadteds.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/42oYDbvU7wogVhaGjL2FgEyCJpoVvooeMpPb9RtAXWkM/logo.png
 tags:
   - utility-token

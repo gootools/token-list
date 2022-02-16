@@ -3,6 +3,7 @@ name: GamerGains
 decimals: 9
 extensions:
   website: https://gamergains.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9mxv3qiMZdcaBeFBrNqiP7WFZLJMFZDeQEnNpDzcWpa9/logo.png
 tags:
   - gaming
   - utility-token

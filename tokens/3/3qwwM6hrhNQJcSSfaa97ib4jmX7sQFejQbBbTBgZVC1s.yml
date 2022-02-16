@@ -3,5 +3,6 @@ name: FinalCoin
 decimals: 0
 extensions:
   website: https://finalb.xyz
+img: https://raw.githubusercontent.com/Finalb-Studios/FinalCoinLogo/main/CoinThumb.png
 tags:
   - finalcoin

@@ -3,5 +3,6 @@ name: VooVoo
 decimals: 9
 extensions:
   website: https://www.voovoo.io
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/55t1PfJngPgMS4c4HeSHPy54VWfkMEk7XBQhSkdz6Cm6/logo.png
 tags:
   - VOO-token

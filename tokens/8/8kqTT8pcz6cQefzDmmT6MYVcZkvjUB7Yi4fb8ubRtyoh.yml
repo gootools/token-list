@@ -1,5 +1,6 @@
 symbol: DOTS
 name: BLUEDOTS
 decimals: 0
+img: https://raw.githubusercontent.com/gratsal/cryptobluedots/main/logo.png
 tags:
   - social-token

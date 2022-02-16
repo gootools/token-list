@@ -3,6 +3,7 @@ name: Instagram NFT IPK
 decimals: 6
 extensions:
   website: https://rocketsola.com/nft/instagram/4iPKfHxmYX29fr5nnXdNifA52GJKokWeRmQ67hApGySJ
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4iPKfHxmYX29fr5nnXdNifA52GJKokWeRmQ67hApGySJ/logo.jpg
 tags:
   - instagram
   - nft

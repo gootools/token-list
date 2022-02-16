@@ -7,6 +7,7 @@ extensions:
   bridgeContract: https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678
   coingeckoId: sushi
   website: https://sushi.com
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7STJWT74tAZzhbNNPRH8WuGDy9GZg27968EwALWuezrH/logo.png
 tags:
   - wrapped
   - wormhole

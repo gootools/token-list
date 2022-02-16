@@ -3,5 +3,6 @@ name: EcoPoo
 decimals: 0
 extensions:
   twitter: https://twitter.com/EcoPoo_Official
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRbqQnbuLoMbUG4gtQMeULgCDHyY6YWF9NRUuLa98qmq/logo.png
 tags:
   - meme

@@ -3,6 +3,7 @@ name: M-Coin
 decimals: 9
 extensions:
   website: https://318music.com/mcoin
+img: https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Yuv3BqAUsUeqYfrMRYL6LJZgf3HMKTkDrZM6mEf9R2j/logo.png
 tags:
   - community-token
   - utility-token
