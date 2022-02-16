@@ -46,7 +46,7 @@
     "solana",
     "spl"
   ],
-  "timestamp": "2022-02-16T22:44:42.362Z",
+  "timestamp": "2022-02-16T22:49:03.851Z",
   "tokens": {
     "2NzAWwLj8GcW3wT9LHSdsyeMTMPCdNp23EAg2YwrLjCz": {
       "symbol": "STONE",
@@ -56,6 +56,7 @@
         "twitter": "https://twitter.com/metaversiumgame",
         "website": "https://metaversium.io/"
       },
+      "img": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/2NzAWwLj8GcW3wT9LHSdsyeMTMPCdNp23EAg2YwrLjCz/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -72,6 +73,7 @@
       "symbol": "HGEN",
       "name": "HGEN",
       "decimals": 8,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VkCNsok1V8Y65utG7LchxURHh7nAhFR7ScVyTLLG1jJ/logo.png",
       "tags": [
         "community-token",
         "governance-token",
@@ -86,6 +88,7 @@
         "twitter": "https://twitter.com/metaversiumgame",
         "website": "https://metaversium.io/"
       },
+      "img": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/5Ns2m2oBWyj7Kz4VgGgenHZA5dUTJ224AbtjUjaDB651/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -97,6 +100,7 @@
       "extensions": {
         "website": "https://pinclub.io/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CYxiyUo2pgMHkCWpWf4TU47f3Q1rMUWP1R4WtFmVLLA/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -116,6 +120,7 @@
         "website": "https://fyfy.io",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FzVSAJVxpgC7WkXdypLfdAhBfc1ZmkEoW49cxpAaw8T/logo.png",
       "tags": [
         "airdrop-token",
         "reward-token"
@@ -124,12 +129,14 @@
     "7KFASybd48bRqcBEUXoAWHwwbwJqYoyLMSjZwMkUigiR": {
       "symbol": "APEs",
       "name": "APEs",
-      "decimals": 9
+      "decimals": 9,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7KFASybd48bRqcBEUXoAWHwwbwJqYoyLMSjZwMkUigiR/logo.png"
     },
     "7d3U17g4WEZkVGjRVVQchrgEaoFAuuui2xmEGCzmtUGt": {
       "symbol": "GENS",
       "name": "GENS",
       "decimals": 8,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7d3U17g4WEZkVGjRVVQchrgEaoFAuuui2xmEGCzmtUGt/logo.png",
       "tags": [
         "stablecoin"
       ]
@@ -149,6 +156,7 @@
         "website": "https://fyfy.io",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rdCoFnW6kvzr3fEinFUw51CJKQBsuLQSQ2boBiqqPkC/logo.png",
       "tags": [
         "governance-token",
         "liguidity-pool-token",
@@ -159,6 +167,7 @@
       "symbol": "BCAT",
       "name": "Bouncing Cat Token",
       "decimals": 0,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8C96hGmwzfHznPPiviPxExuKc3MkZ3sNNZcKB9qXUDLg/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -169,7 +178,8 @@
       "decimals": 6,
       "extensions": {
         "website": "https://daios.io/"
-      }
+      },
+      "img": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02242929-14bc-4204-ac71-56d855a07078/512_daia.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211104T051518Z&X-Amz-Expires=86400&X-Amz-Signature=df1424dcb1be408faa45ef6af1f7769edf977da365822e00c34a2150167bfe58&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22512_daia.png%22"
     },
     "93ubxUgXyzk4U245MEJrVv6fM5S25o72TUSUpmbg6e97": {
       "symbol": "SINGULARITY",
@@ -182,6 +192,7 @@
         "website": "https://singularityonline.app",
         "whitepaper": "https://whitepaper.singularityonline.app"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3sJWs1uNphtHMVrqqP6foFxNTi1XLa6BZiyftq41y6kQ/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -195,6 +206,7 @@
         "assetContract": "https://etherscan.io/address/0x43b29D1b0941cB5a5bbe0ABd958eF03616437A49",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9HAmU9sW1dVTZWd84qa5U83YdJLhemL21SheySznXJNM/logo.png",
       "tags": [
         "wrapped"
       ]
@@ -211,6 +223,7 @@
       "symbol": "LTO",
       "name": "LOTO",
       "decimals": 9,
+      "img": "https://github.com/sergmai/tempo-jagger/raw/main/loto.png",
       "tags": [
         "utility-token"
       ]
@@ -218,7 +231,8 @@
     "CmGD1rbJoEDE2vtGfeJx9Uje8ijYJSiSQV76WwmxHpXy": {
       "symbol": "WORKS",
       "name": "WORKS",
-      "decimals": 9
+      "decimals": 9,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CmGD1rbJoEDE2vtGfeJx9Uje8ijYJSiSQV76WwmxHpXy/logo.png"
     },
     "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp": {
       "symbol": "USDC",
@@ -228,6 +242,7 @@
         "coingeckoId": "usd-coin",
         "website": "https://www.centre.io/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp/logo.png",
       "tags": [
         "stablecoin"
       ]
@@ -247,6 +262,7 @@
         "twitter": "https://twitter.com/thebigdeal_play",
         "website": "https://thebig.deals/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DotdtxnoYiTELUjGnjXorv5Xy2kngLRiaydYrBzUxHNL/logo.png",
       "tags": [
         "stablecoin"
       ]
@@ -254,7 +270,8 @@
     "Evup5hpQjUYYCwjVKeMsoyBztq11hgBb75rK4ZXWpvvL": {
       "symbol": "SRP",
       "name": "StarPunk",
-      "decimals": 0
+      "decimals": 0,
+      "img": "https://raw.githubusercontent.com/hqphuoc129/SRP_logo/master/logo.svg"
     },
     "ExKEMV2Z9dSHdRg6AkcFMXLPUqzta7zcyK2UQk3a4soy": {
       "symbol": "IRON",
@@ -264,6 +281,7 @@
         "twitter": "https://twitter.com/metaversiumgame",
         "website": "https://metaversium.io/"
       },
+      "img": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/ExKEMV2Z9dSHdRg6AkcFMXLPUqzta7zcyK2UQk3a4soy/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -276,6 +294,7 @@
         "telegram": "https://t.me/aiLikeSpider",
         "website": "https://metamalls.io"
       },
+      "img": "https://raw.githubusercontent.com/c-spider/Solana-TestToken/main/icon.png",
       "tags": [
         "social-token"
       ]
@@ -287,6 +306,7 @@
       "extensions": {
         "website": "https://www.solana.com/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gmk71cM7j2RMorRsQrsyysM4HsByQx5PuDGtDdqGLWCS/logo.png",
       "tags": [
         "stake-pool"
       ]
@@ -305,6 +325,7 @@
         "twitter": "https://twitter.com/thebigdeal_play",
         "website": "https://thebig.deals/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GtpmHimJ3oyVPyZg7iZ4edxEE9ejTEikUAQLhoRPw1fR/logo.png",
       "tags": [
         "Community-token"
       ]
@@ -312,7 +333,8 @@
     "HEixDWPG1cTMdCDimN67oGc5SjbbVMMSDGJSX3G2Fyez": {
       "symbol": "WORKS",
       "name": "WorksToken",
-      "decimals": 9
+      "decimals": 9,
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEixDWPG1cTMdCDimN67oGc5SjbbVMMSDGJSX3G2Fyez/logo.png"
     },
     "J6epRUJv4ZL5Zp8J9EDM2XGTCqZ2FEknBwwerMG6TuPY": {
       "symbol": "VELORUM",
@@ -325,6 +347,7 @@
         "website": "https://singularityonline.app",
         "whitepaper": "https://whitepaper.singularityonline.app"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3485gPZHaNvhXC15HqfSUojefN2xPfg5mJCrnY6BNU6T/logo.png",
       "tags": [
         "utility-token"
       ]
@@ -337,7 +360,8 @@
         "github": "https://github.com/metaplex-foundation/metaplex",
         "twitter": "https://twitter.com/metaplex",
         "website": "https://metaplex.com"
-      }
+      },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m/logo.png"
     },
     "rz251Qbsa27sL8Y1H7h4qu71j6Q7ukNmskg5ZDhPCg3": {
       "symbol": "HIRO",
@@ -346,7 +370,8 @@
       "extensions": {
         "twitter": "https://twitter.com/HiroLaunchdao",
         "website": "https://hiro-finance.github.io/"
-      }
+      },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/rz251Qbsa27sL8Y1H7h4qu71j6Q7ukNmskg5ZDhPCg3/logo.png"
     },
     "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1": {
       "symbol": "SBR",
@@ -359,7 +384,8 @@
         "medium": "https://blog.saber.so",
         "twitter": "https://twitter.com/saber_hq",
         "website": "https://saber.so"
-      }
+      },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg"
     },
     "So11111111111111111111111111111111111111112": {
       "symbol": "SOL",
@@ -367,7 +393,8 @@
       "decimals": 9,
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
     },
     "vkG3Qrz6vCWjzDt5yCLEKYMYZ8hFZ27dmKe92btaZE3": {
       "symbol": "FYFY",
@@ -384,6 +411,7 @@
         "website": "https://fyfy.io",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       },
+      "img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/vkG3Qrz6vCWjzDt5yCLEKYMYZ8hFZ27dmKe92btaZE3/logo.png",
       "tags": [
         "utility-token"
       ]
